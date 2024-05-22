@@ -1,0 +1,29 @@
+dataset: human-body2
+template: template2.ply
+model_name: vae_coma
+batch_size: 32
+ds_factor:
+- 4
+- 4
+- 4
+- 4
+model:
+  latent_channels: 8
+  in_channels: 3
+  out_channels:
+  - 16
+  - 16
+  - 16
+  - 32
+  K: 6
+lr: 0.0001
+weight_decay: 0.001
+betas: (0.9, 0.999)
+trainer: trainer13
+epochs: 1000
+reduce: mean
+alpha: 500
+beta_start: 0.01
+beta_end: 1
+beta_anneal_epochs: 100
+out_dir: /home/wuliwuli/Desktop/predictor-net-measure/out/vae_coma/trainer13/20240119-003904

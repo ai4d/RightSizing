@@ -1,0 +1,30 @@
+remark: This is a config file for training TC-VAE model.
+dataset: human-body2
+template: template2.ply
+model_name: vae_coma
+batch_size: 64
+ds_factor:
+- 4
+- 4
+- 4
+- 4
+model:
+  latent_channels: 8
+  in_channels: 3
+  out_channels:
+  - 16
+  - 16
+  - 16
+  - 32
+  K: 6
+lr: 0.0001
+weight_decay: 0
+betas: (0.9, 0.999)
+trainer: tc_vae
+epochs: 300
+steps_anneal: 1000
+alpha: 1
+beta: 10
+gamma: 1
+is_mss: true
+out_dir: /home/yuhao/Desktop/VAE/out/tc_vae/20230829-114943

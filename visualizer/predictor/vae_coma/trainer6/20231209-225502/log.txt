@@ -1,0 +1,1202 @@
+Epoch: 0/300, Loss: 943746.40279, Time: 14.5
+Recon Loss: 1892825.20801. KL Loss: 19.73698. Height Loss: 0.00169. Waist Loss: 0.00106. Laplacian Loss: 1.28443. 
+The test reconstruction loss is 0.7640
+
+Epoch: 1/300, Loss: 761583.50958, Time: 13.6
+Recon Loss: 1535308.58677. KL Loss: 685.92324. Height Loss: 0.01206. Waist Loss: 0.00176. Laplacian Loss: 6.10950. 
+The test reconstruction loss is 0.6415
+
+Epoch: 2/300, Loss: 658278.24094, Time: 13.9
+Recon Loss: 1333374.13029. KL Loss: 1129.03468. Height Loss: 0.01423. Waist Loss: 0.00196. Laplacian Loss: 8.21039. 
+The test reconstruction loss is 0.6312
+
+Epoch: 3/300, Loss: 644104.59091, Time: 13.6
+Recon Loss: 1310730.39685. KL Loss: 1538.52209. Height Loss: 0.01256. Waist Loss: 0.00218. Laplacian Loss: 8.35276. 
+The test reconstruction loss is 0.6321
+
+Epoch: 4/300, Loss: 626401.94804, Time: 13.6
+Recon Loss: 1280818.56633. KL Loss: 1829.04664. Height Loss: 0.01160. Waist Loss: 0.00262. Laplacian Loss: 8.47843. 
+The test reconstruction loss is 0.6153
+
+Epoch: 5/300, Loss: 576905.63681, Time: 14.1
+Recon Loss: 1184811.07831. KL Loss: 2346.85386. Height Loss: 0.01244. Waist Loss: 0.00339. Laplacian Loss: 8.89480. 
+The test reconstruction loss is 0.5943
+
+Epoch: 6/300, Loss: 540004.24795, Time: 14.9
+Recon Loss: 1113894.71085. KL Loss: 2636.54143. Height Loss: 0.01409. Waist Loss: 0.00373. Laplacian Loss: 9.12908. 
+The test reconstruction loss is 0.5739
+
+Epoch: 7/300, Loss: 515464.75008, Time: 15.3
+Recon Loss: 1067710.13059. KL Loss: 3015.18645. Height Loss: 0.01552. Waist Loss: 0.00372. Laplacian Loss: 9.23737. 
+The test reconstruction loss is 0.5613
+
+Epoch: 8/300, Loss: 493354.28966, Time: 15.4
+Recon Loss: 1026303.06528. KL Loss: 3149.17815. Height Loss: 0.01654. Waist Loss: 0.00389. Laplacian Loss: 9.31982. 
+The test reconstruction loss is 0.5483
+
+Epoch: 9/300, Loss: 477571.18917, Time: 15.2
+Recon Loss: 997815.13949. KL Loss: 3171.75720. Height Loss: 0.01731. Waist Loss: 0.00423. Laplacian Loss: 9.29730. 
+The test reconstruction loss is 0.5386
+
+Epoch: 10/300, Loss: 456076.30696, Time: 15.1
+Recon Loss: 957165.90796. KL Loss: 2977.99529. Height Loss: 0.01822. Waist Loss: 0.00478. Laplacian Loss: 9.31287. 
+The test reconstruction loss is 0.5141
+
+Epoch: 11/300, Loss: 401378.05522, Time: 15.2
+Recon Loss: 845530.15956. KL Loss: 2960.71139. Height Loss: 0.02021. Waist Loss: 0.00574. Laplacian Loss: 9.68679. 
+The test reconstruction loss is 0.4837
+
+Epoch: 12/300, Loss: 381774.71599, Time: 15.1
+Recon Loss: 807191.32329. KL Loss: 3006.67128. Height Loss: 0.02188. Waist Loss: 0.00600. Laplacian Loss: 9.79256. 
+The test reconstruction loss is 0.4771
+
+Epoch: 13/300, Loss: 373341.01644, Time: 15.1
+Recon Loss: 792146.28182. KL Loss: 3183.01369. Height Loss: 0.02190. Waist Loss: 0.00635. Laplacian Loss: 9.79293. 
+The test reconstruction loss is 0.4744
+
+Epoch: 14/300, Loss: 366202.68360, Time: 15.1
+Recon Loss: 779875.02020. KL Loss: 3230.93771. Height Loss: 0.02235. Waist Loss: 0.00675. Laplacian Loss: 9.77916. 
+The test reconstruction loss is 0.4685
+
+Epoch: 15/300, Loss: 360677.08823, Time: 15.1
+Recon Loss: 771016.74143. KL Loss: 3233.23545. Height Loss: 0.02279. Waist Loss: 0.00720. Laplacian Loss: 9.77545. 
+The test reconstruction loss is 0.4658
+
+Epoch: 16/300, Loss: 354390.08084, Time: 15.1
+Recon Loss: 760486.31866. KL Loss: 3195.49894. Height Loss: 0.02327. Waist Loss: 0.00768. Laplacian Loss: 9.77044. 
+The test reconstruction loss is 0.4624
+
+Epoch: 17/300, Loss: 347014.93700, Time: 15.2
+Recon Loss: 747519.62836. KL Loss: 3145.48375. Height Loss: 0.02396. Waist Loss: 0.00828. Laplacian Loss: 9.76589. 
+The test reconstruction loss is 0.4589
+
+Epoch: 18/300, Loss: 336557.47560, Time: 15.2
+Recon Loss: 727727.02013. KL Loss: 3093.40617. Height Loss: 0.02487. Waist Loss: 0.00912. Laplacian Loss: 9.77598. 
+The test reconstruction loss is 0.4513
+
+Epoch: 19/300, Loss: 321351.76200, Time: 15.2
+Recon Loss: 697375.79396. KL Loss: 3033.76768. Height Loss: 0.02614. Waist Loss: 0.01047. Laplacian Loss: 9.76588. 
+The test reconstruction loss is 0.4381
+
+Epoch: 20/300, Loss: 304010.92046, Time: 15.1
+Recon Loss: 661989.81642. KL Loss: 3017.14178. Height Loss: 0.02764. Waist Loss: 0.01256. Laplacian Loss: 9.80244. 
+The test reconstruction loss is 0.4300
+
+Epoch: 21/300, Loss: 289753.45734, Time: 15.2
+Recon Loss: 633017.19775. KL Loss: 3015.65026. Height Loss: 0.02932. Waist Loss: 0.01475. Laplacian Loss: 9.81609. 
+The test reconstruction loss is 0.4228
+
+Epoch: 22/300, Loss: 281592.70132, Time: 15.2
+Recon Loss: 617228.50476. KL Loss: 3000.91386. Height Loss: 0.03113. Waist Loss: 0.01648. Laplacian Loss: 9.84691. 
+The test reconstruction loss is 0.4178
+
+Epoch: 23/300, Loss: 274807.38772, Time: 15.2
+Recon Loss: 604347.78965. KL Loss: 2981.15548. Height Loss: 0.03266. Waist Loss: 0.01821. Laplacian Loss: 9.86248. 
+The test reconstruction loss is 0.4148
+
+Epoch: 24/300, Loss: 269358.93757, Time: 15.2
+Recon Loss: 594332.44368. KL Loss: 2954.81744. Height Loss: 0.03385. Waist Loss: 0.02016. Laplacian Loss: 9.87309. 
+The test reconstruction loss is 0.4108
+
+Epoch: 25/300, Loss: 264499.20221, Time: 15.1
+Recon Loss: 585553.28632. KL Loss: 2920.82252. Height Loss: 0.03499. Waist Loss: 0.02218. Laplacian Loss: 9.87694. 
+The test reconstruction loss is 0.4082
+
+Epoch: 26/300, Loss: 258763.04249, Time: 15.1
+Recon Loss: 574745.88946. KL Loss: 2883.88347. Height Loss: 0.03612. Waist Loss: 0.02417. Laplacian Loss: 9.87959. 
+The test reconstruction loss is 0.4034
+
+Epoch: 27/300, Loss: 252380.95815, Time: 15.2
+Recon Loss: 562395.28008. KL Loss: 2848.87328. Height Loss: 0.03724. Waist Loss: 0.02612. Laplacian Loss: 9.89917. 
+The test reconstruction loss is 0.3986
+
+Epoch: 28/300, Loss: 246757.71751, Time: 15.1
+Recon Loss: 551635.14015. KL Loss: 2826.67625. Height Loss: 0.03843. Waist Loss: 0.02799. Laplacian Loss: 9.89840. 
+The test reconstruction loss is 0.3931
+
+Epoch: 29/300, Loss: 240604.35066, Time: 15.1
+Recon Loss: 539563.56920. KL Loss: 2825.32126. Height Loss: 0.03961. Waist Loss: 0.02988. Laplacian Loss: 9.90320. 
+The test reconstruction loss is 0.3874
+
+Epoch: 30/300, Loss: 235475.51993, Time: 15.2
+Recon Loss: 529705.46885. KL Loss: 2829.98253. Height Loss: 0.04062. Waist Loss: 0.03153. Laplacian Loss: 9.90186. 
+The test reconstruction loss is 0.3841
+
+Epoch: 31/300, Loss: 231857.90887, Time: 15.2
+Recon Loss: 523195.39908. KL Loss: 2838.80418. Height Loss: 0.04167. Waist Loss: 0.03301. Laplacian Loss: 9.90219. 
+The test reconstruction loss is 0.3810
+
+Epoch: 32/300, Loss: 228980.55629, Time: 15.2
+Recon Loss: 518318.16915. KL Loss: 2852.53336. Height Loss: 0.04256. Waist Loss: 0.03442. Laplacian Loss: 9.90067. 
+The test reconstruction loss is 0.3786
+
+Epoch: 33/300, Loss: 226235.11163, Time: 15.2
+Recon Loss: 513706.65558. KL Loss: 2867.14072. Height Loss: 0.04338. Waist Loss: 0.03569. Laplacian Loss: 9.89730. 
+The test reconstruction loss is 0.3773
+
+Epoch: 34/300, Loss: 224236.24821, Time: 15.2
+Recon Loss: 510779.12341. KL Loss: 2878.38514. Height Loss: 0.04407. Waist Loss: 0.03689. Laplacian Loss: 9.88725. 
+The test reconstruction loss is 0.3770
+
+Epoch: 35/300, Loss: 222067.33190, Time: 15.2
+Recon Loss: 507446.26620. KL Loss: 2884.88114. Height Loss: 0.04481. Waist Loss: 0.03812. Laplacian Loss: 9.89230. 
+The test reconstruction loss is 0.3757
+
+Epoch: 36/300, Loss: 220239.32493, Time: 15.3
+Recon Loss: 504884.02794. KL Loss: 2886.60861. Height Loss: 0.04556. Waist Loss: 0.03931. Laplacian Loss: 9.88966. 
+The test reconstruction loss is 0.3753
+
+Epoch: 37/300, Loss: 218588.39863, Time: 15.2
+Recon Loss: 502722.47593. KL Loss: 2882.88420. Height Loss: 0.04626. Waist Loss: 0.04046. Laplacian Loss: 9.87992. 
+The test reconstruction loss is 0.3740
+
+Epoch: 38/300, Loss: 216971.74224, Time: 15.2
+Recon Loss: 500628.65521. KL Loss: 2877.82539. Height Loss: 0.04693. Waist Loss: 0.04156. Laplacian Loss: 9.88413. 
+The test reconstruction loss is 0.3735
+
+Epoch: 39/300, Loss: 215461.78537, Time: 15.2
+Recon Loss: 498771.61167. KL Loss: 2873.10517. Height Loss: 0.04768. Waist Loss: 0.04271. Laplacian Loss: 9.87747. 
+The test reconstruction loss is 0.3729
+
+Epoch: 40/300, Loss: 213925.73070, Time: 15.2
+Recon Loss: 496848.58492. KL Loss: 2862.71995. Height Loss: 0.04839. Waist Loss: 0.04374. Laplacian Loss: 9.87248. 
+The test reconstruction loss is 0.3722
+
+Epoch: 41/300, Loss: 212616.35927, Time: 15.2
+Recon Loss: 495447.92942. KL Loss: 2850.23176. Height Loss: 0.04903. Waist Loss: 0.04478. Laplacian Loss: 9.86990. 
+The test reconstruction loss is 0.3718
+
+Epoch: 42/300, Loss: 211315.39688, Time: 15.1
+Recon Loss: 494054.47382. KL Loss: 2843.04894. Height Loss: 0.04973. Waist Loss: 0.04584. Laplacian Loss: 9.86665. 
+The test reconstruction loss is 0.3713
+
+Epoch: 43/300, Loss: 209964.46969, Time: 15.2
+Recon Loss: 492536.17318. KL Loss: 2835.22454. Height Loss: 0.05044. Waist Loss: 0.04682. Laplacian Loss: 9.86142. 
+The test reconstruction loss is 0.3707
+
+Epoch: 44/300, Loss: 208624.81591, Time: 15.2
+Recon Loss: 491035.05200. KL Loss: 2826.96801. Height Loss: 0.05111. Waist Loss: 0.04782. Laplacian Loss: 9.85760. 
+The test reconstruction loss is 0.3701
+
+Epoch: 45/300, Loss: 207506.65318, Time: 15.3
+Recon Loss: 490053.56191. KL Loss: 2816.56638. Height Loss: 0.05182. Waist Loss: 0.04874. Laplacian Loss: 9.85386. 
+The test reconstruction loss is 0.3700
+
+Epoch: 46/300, Loss: 206261.23744, Time: 15.2
+Recon Loss: 488761.09369. KL Loss: 2808.04573. Height Loss: 0.05249. Waist Loss: 0.04963. Laplacian Loss: 9.84986. 
+The test reconstruction loss is 0.3696
+
+Epoch: 47/300, Loss: 205111.25875, Time: 15.2
+Recon Loss: 487692.72047. KL Loss: 2795.94215. Height Loss: 0.05310. Waist Loss: 0.05046. Laplacian Loss: 9.84433. 
+The test reconstruction loss is 0.3692
+
+Epoch: 48/300, Loss: 204080.19421, Time: 15.2
+Recon Loss: 486901.09604. KL Loss: 2786.18671. Height Loss: 0.05367. Waist Loss: 0.05133. Laplacian Loss: 9.83666. 
+The test reconstruction loss is 0.3690
+
+Epoch: 49/300, Loss: 202938.53121, Time: 15.2
+Recon Loss: 485834.83570. KL Loss: 2779.48478. Height Loss: 0.05420. Waist Loss: 0.05209. Laplacian Loss: 9.83180. 
+The test reconstruction loss is 0.3686
+
+Epoch: 50/300, Loss: 201900.62035, Time: 15.2
+Recon Loss: 485013.04918. KL Loss: 2771.64458. Height Loss: 0.05474. Waist Loss: 0.05280. Laplacian Loss: 9.83114. 
+The test reconstruction loss is 0.3684
+
+Epoch: 51/300, Loss: 200857.21841, Time: 15.2
+Recon Loss: 484170.65385. KL Loss: 2765.79863. Height Loss: 0.05520. Waist Loss: 0.05346. Laplacian Loss: 9.82563. 
+The test reconstruction loss is 0.3682
+
+Epoch: 52/300, Loss: 199862.58120, Time: 15.2
+Recon Loss: 483441.16223. KL Loss: 2760.01971. Height Loss: 0.05572. Waist Loss: 0.05415. Laplacian Loss: 9.81853. 
+The test reconstruction loss is 0.3679
+
+Epoch: 53/300, Loss: 198752.01834, Time: 15.2
+Recon Loss: 482421.88507. KL Loss: 2755.12599. Height Loss: 0.05622. Waist Loss: 0.05476. Laplacian Loss: 9.81225. 
+The test reconstruction loss is 0.3675
+
+Epoch: 54/300, Loss: 197770.82157, Time: 15.2
+Recon Loss: 481712.67064. KL Loss: 2748.72367. Height Loss: 0.05667. Waist Loss: 0.05530. Laplacian Loss: 9.81177. 
+The test reconstruction loss is 0.3671
+
+Epoch: 55/300, Loss: 196763.87668, Time: 15.2
+Recon Loss: 480937.24024. KL Loss: 2739.55999. Height Loss: 0.05714. Waist Loss: 0.05588. Laplacian Loss: 9.81010. 
+The test reconstruction loss is 0.3673
+
+Epoch: 56/300, Loss: 195811.03415, Time: 15.1
+Recon Loss: 480284.99682. KL Loss: 2734.62934. Height Loss: 0.05755. Waist Loss: 0.05640. Laplacian Loss: 9.80184. 
+The test reconstruction loss is 0.3668
+
+Epoch: 57/300, Loss: 194846.85901, Time: 15.2
+Recon Loss: 479599.40354. KL Loss: 2728.59345. Height Loss: 0.05795. Waist Loss: 0.05696. Laplacian Loss: 9.80048. 
+The test reconstruction loss is 0.3664
+
+Epoch: 58/300, Loss: 193855.15073, Time: 15.2
+Recon Loss: 478838.26240. KL Loss: 2723.89919. Height Loss: 0.05834. Waist Loss: 0.05741. Laplacian Loss: 9.79295. 
+The test reconstruction loss is 0.3662
+
+Epoch: 59/300, Loss: 192918.00915, Time: 15.2
+Recon Loss: 478204.32614. KL Loss: 2720.26330. Height Loss: 0.05876. Waist Loss: 0.05793. Laplacian Loss: 9.79303. 
+The test reconstruction loss is 0.3659
+
+Epoch: 60/300, Loss: 191940.49819, Time: 15.2
+Recon Loss: 477467.06379. KL Loss: 2712.72135. Height Loss: 0.05913. Waist Loss: 0.05834. Laplacian Loss: 9.78740. 
+The test reconstruction loss is 0.3655
+
+Epoch: 61/300, Loss: 190936.21621, Time: 15.2
+Recon Loss: 476652.39954. KL Loss: 2706.94944. Height Loss: 0.05948. Waist Loss: 0.05874. Laplacian Loss: 9.78791. 
+The test reconstruction loss is 0.3654
+
+Epoch: 62/300, Loss: 189971.40345, Time: 15.2
+Recon Loss: 475928.55022. KL Loss: 2701.65268. Height Loss: 0.05989. Waist Loss: 0.05918. Laplacian Loss: 9.78273. 
+The test reconstruction loss is 0.3649
+
+Epoch: 63/300, Loss: 189010.87205, Time: 15.2
+Recon Loss: 475205.34939. KL Loss: 2698.42359. Height Loss: 0.06032. Waist Loss: 0.05962. Laplacian Loss: 9.77689. 
+The test reconstruction loss is 0.3649
+
+Epoch: 64/300, Loss: 187993.36552, Time: 15.2
+Recon Loss: 474329.04312. KL Loss: 2694.73789. Height Loss: 0.06073. Waist Loss: 0.06009. Laplacian Loss: 9.77489. 
+The test reconstruction loss is 0.3644
+
+Epoch: 65/300, Loss: 186911.69647, Time: 15.3
+Recon Loss: 473281.64031. KL Loss: 2688.26807. Height Loss: 0.06120. Waist Loss: 0.06053. Laplacian Loss: 9.77480. 
+The test reconstruction loss is 0.3642
+
+Epoch: 66/300, Loss: 185889.86950, Time: 15.2
+Recon Loss: 472374.38808. KL Loss: 2682.85483. Height Loss: 0.06158. Waist Loss: 0.06096. Laplacian Loss: 9.77237. 
+The test reconstruction loss is 0.3641
+
+Epoch: 67/300, Loss: 184790.86838, Time: 15.3
+Recon Loss: 471256.24495. KL Loss: 2679.41948. Height Loss: 0.06199. Waist Loss: 0.06142. Laplacian Loss: 9.76667. 
+The test reconstruction loss is 0.3637
+
+Epoch: 68/300, Loss: 183630.32971, Time: 15.2
+Recon Loss: 469966.68645. KL Loss: 2675.08301. Height Loss: 0.06245. Waist Loss: 0.06185. Laplacian Loss: 9.76695. 
+The test reconstruction loss is 0.3627
+
+Epoch: 69/300, Loss: 182412.64312, Time: 15.1
+Recon Loss: 468512.40699. KL Loss: 2672.13372. Height Loss: 0.06293. Waist Loss: 0.06230. Laplacian Loss: 9.76720. 
+The test reconstruction loss is 0.3622
+
+Epoch: 70/300, Loss: 180953.31844, Time: 15.1
+Recon Loss: 466412.26884. KL Loss: 2670.60861. Height Loss: 0.06346. Waist Loss: 0.06284. Laplacian Loss: 9.75882. 
+The test reconstruction loss is 0.3619
+
+Epoch: 71/300, Loss: 179554.52289, Time: 15.3
+Recon Loss: 464451.16470. KL Loss: 2663.38583. Height Loss: 0.06396. Waist Loss: 0.06336. Laplacian Loss: 9.76216. 
+The test reconstruction loss is 0.3607
+
+Epoch: 72/300, Loss: 177900.21720, Time: 15.6
+Recon Loss: 461789.99115. KL Loss: 2665.25952. Height Loss: 0.06448. Waist Loss: 0.06395. Laplacian Loss: 9.75913. 
+The test reconstruction loss is 0.3600
+
+Epoch: 73/300, Loss: 175933.75365, Time: 15.1
+Recon Loss: 458278.65360. KL Loss: 2668.10593. Height Loss: 0.06497. Waist Loss: 0.06457. Laplacian Loss: 9.75762. 
+The test reconstruction loss is 0.3583
+
+Epoch: 74/300, Loss: 173573.65813, Time: 15.3
+Recon Loss: 453691.09867. KL Loss: 2671.29446. Height Loss: 0.06551. Waist Loss: 0.06529. Laplacian Loss: 9.76061. 
+The test reconstruction loss is 0.3566
+
+Epoch: 75/300, Loss: 170675.80828, Time: 14.1
+Recon Loss: 447629.00359. KL Loss: 2677.71994. Height Loss: 0.06600. Waist Loss: 0.06613. Laplacian Loss: 9.76574. 
+The test reconstruction loss is 0.3545
+
+Epoch: 76/300, Loss: 167612.08908, Time: 13.6
+Recon Loss: 441064.31739. KL Loss: 2682.62639. Height Loss: 0.06649. Waist Loss: 0.06698. Laplacian Loss: 9.77299. 
+The test reconstruction loss is 0.3526
+
+Epoch: 77/300, Loss: 164610.16676, Time: 13.6
+Recon Loss: 434584.64224. KL Loss: 2698.92282. Height Loss: 0.06690. Waist Loss: 0.06769. Laplacian Loss: 9.77695. 
+The test reconstruction loss is 0.3506
+
+Epoch: 78/300, Loss: 162570.42138, Time: 13.6
+Recon Loss: 430607.69385. KL Loss: 2716.68412. Height Loss: 0.06712. Waist Loss: 0.06797. Laplacian Loss: 9.77854. 
+The test reconstruction loss is 0.3497
+
+Epoch: 79/300, Loss: 161312.48347, Time: 13.7
+Recon Loss: 428689.12714. KL Loss: 2731.22860. Height Loss: 0.06729. Waist Loss: 0.06792. Laplacian Loss: 9.76949. 
+The test reconstruction loss is 0.3493
+
+Epoch: 80/300, Loss: 160337.23547, Time: 13.7
+Recon Loss: 427510.31556. KL Loss: 2746.05071. Height Loss: 0.06746. Waist Loss: 0.06788. Laplacian Loss: 9.76533. 
+The test reconstruction loss is 0.3486
+
+Epoch: 81/300, Loss: 159447.61830, Time: 13.6
+Recon Loss: 426553.78525. KL Loss: 2757.30806. Height Loss: 0.06768. Waist Loss: 0.06793. Laplacian Loss: 9.76558. 
+The test reconstruction loss is 0.3480
+
+Epoch: 82/300, Loss: 158543.19378, Time: 13.6
+Recon Loss: 425551.08166. KL Loss: 2765.41479. Height Loss: 0.06800. Waist Loss: 0.06812. Laplacian Loss: 9.75865. 
+The test reconstruction loss is 0.3472
+
+Epoch: 83/300, Loss: 157747.30560, Time: 13.6
+Recon Loss: 424837.90605. KL Loss: 2768.22984. Height Loss: 0.06837. Waist Loss: 0.06842. Laplacian Loss: 9.75329. 
+The test reconstruction loss is 0.3471
+
+Epoch: 84/300, Loss: 156956.21611, Time: 13.7
+Recon Loss: 424132.96646. KL Loss: 2768.18910. Height Loss: 0.06870. Waist Loss: 0.06870. Laplacian Loss: 9.74734. 
+The test reconstruction loss is 0.3470
+
+Epoch: 85/300, Loss: 156294.46241, Time: 13.7
+Recon Loss: 423776.13025. KL Loss: 2765.82663. Height Loss: 0.06901. Waist Loss: 0.06901. Laplacian Loss: 9.74603. 
+The test reconstruction loss is 0.3467
+
+Epoch: 86/300, Loss: 155526.16154, Time: 13.7
+Recon Loss: 423123.51225. KL Loss: 2762.69179. Height Loss: 0.06930. Waist Loss: 0.06935. Laplacian Loss: 9.74040. 
+The test reconstruction loss is 0.3463
+
+Epoch: 87/300, Loss: 154866.19025, Time: 13.7
+Recon Loss: 422760.56447. KL Loss: 2760.58054. Height Loss: 0.06961. Waist Loss: 0.06973. Laplacian Loss: 9.73718. 
+The test reconstruction loss is 0.3462
+
+Epoch: 88/300, Loss: 154112.56060, Time: 13.8
+Recon Loss: 422136.25903. KL Loss: 2756.41554. Height Loss: 0.06991. Waist Loss: 0.07010. Laplacian Loss: 9.73107. 
+The test reconstruction loss is 0.3457
+
+Epoch: 89/300, Loss: 153499.63176, Time: 13.7
+Recon Loss: 421895.52484. KL Loss: 2751.08738. Height Loss: 0.07027. Waist Loss: 0.07049. Laplacian Loss: 9.72771. 
+The test reconstruction loss is 0.3460
+
+Epoch: 90/300, Loss: 152757.78674, Time: 13.7
+Recon Loss: 421292.79354. KL Loss: 2745.38255. Height Loss: 0.07057. Waist Loss: 0.07089. Laplacian Loss: 9.72311. 
+The test reconstruction loss is 0.3453
+
+Epoch: 91/300, Loss: 152111.34430, Time: 13.7
+Recon Loss: 420949.35815. KL Loss: 2739.54908. Height Loss: 0.07087. Waist Loss: 0.07124. Laplacian Loss: 9.72002. 
+The test reconstruction loss is 0.3452
+
+Epoch: 92/300, Loss: 151411.61838, Time: 13.7
+Recon Loss: 420451.84426. KL Loss: 2733.53737. Height Loss: 0.07118. Waist Loss: 0.07165. Laplacian Loss: 9.71608. 
+The test reconstruction loss is 0.3450
+
+Epoch: 93/300, Loss: 150805.22617, Time: 13.7
+Recon Loss: 420211.52381. KL Loss: 2725.79669. Height Loss: 0.07148. Waist Loss: 0.07202. Laplacian Loss: 9.70906. 
+The test reconstruction loss is 0.3450
+
+Epoch: 94/300, Loss: 150137.52603, Time: 13.6
+Recon Loss: 419791.24797. KL Loss: 2720.62207. Height Loss: 0.07178. Waist Loss: 0.07246. Laplacian Loss: 9.70713. 
+The test reconstruction loss is 0.3450
+
+Epoch: 95/300, Loss: 149524.00810, Time: 13.6
+Recon Loss: 419518.12576. KL Loss: 2715.98817. Height Loss: 0.07204. Waist Loss: 0.07283. Laplacian Loss: 9.70040. 
+The test reconstruction loss is 0.3447
+
+Epoch: 96/300, Loss: 148863.07332, Time: 13.7
+Recon Loss: 419105.38802. KL Loss: 2711.63007. Height Loss: 0.07230. Waist Loss: 0.07321. Laplacian Loss: 9.69659. 
+The test reconstruction loss is 0.3446
+
+Epoch: 97/300, Loss: 148218.77137, Time: 13.7
+Recon Loss: 418736.91998. KL Loss: 2704.04376. Height Loss: 0.07261. Waist Loss: 0.07356. Laplacian Loss: 9.69248. 
+The test reconstruction loss is 0.3445
+
+Epoch: 98/300, Loss: 147620.82168, Time: 13.7
+Recon Loss: 418492.21051. KL Loss: 2699.13162. Height Loss: 0.07284. Waist Loss: 0.07393. Laplacian Loss: 9.68952. 
+The test reconstruction loss is 0.3442
+
+Epoch: 99/300, Loss: 146993.21779, Time: 13.6
+Recon Loss: 418159.57755. KL Loss: 2692.58748. Height Loss: 0.07311. Waist Loss: 0.07433. Laplacian Loss: 9.68294. 
+The test reconstruction loss is 0.3441
+
+Epoch: 100/300, Loss: 146359.62911, Time: 13.6
+Recon Loss: 417802.57445. KL Loss: 2687.30674. Height Loss: 0.07341. Waist Loss: 0.07469. Laplacian Loss: 9.67804. 
+The test reconstruction loss is 0.3440
+
+Epoch: 101/300, Loss: 145707.38748, Time: 13.7
+Recon Loss: 417386.29191. KL Loss: 2681.10242. Height Loss: 0.07368. Waist Loss: 0.07510. Laplacian Loss: 9.67331. 
+The test reconstruction loss is 0.3439
+
+Epoch: 102/300, Loss: 145130.51765, Time: 13.7
+Recon Loss: 417181.67826. KL Loss: 2674.97947. Height Loss: 0.07396. Waist Loss: 0.07546. Laplacian Loss: 9.66811. 
+The test reconstruction loss is 0.3436
+
+Epoch: 103/300, Loss: 144530.00042, Time: 13.7
+Recon Loss: 416901.84285. KL Loss: 2670.50019. Height Loss: 0.07424. Waist Loss: 0.07581. Laplacian Loss: 9.66267. 
+The test reconstruction loss is 0.3434
+
+Epoch: 104/300, Loss: 143898.97146, Time: 13.7
+Recon Loss: 416527.40969. KL Loss: 2666.09027. Height Loss: 0.07455. Waist Loss: 0.07625. Laplacian Loss: 9.65715. 
+The test reconstruction loss is 0.3433
+
+Epoch: 105/300, Loss: 143318.88493, Time: 13.7
+Recon Loss: 416294.74815. KL Loss: 2662.32568. Height Loss: 0.07486. Waist Loss: 0.07658. Laplacian Loss: 9.65234. 
+The test reconstruction loss is 0.3430
+
+Epoch: 106/300, Loss: 142674.67274, Time: 13.8
+Recon Loss: 415868.85775. KL Loss: 2657.98086. Height Loss: 0.07515. Waist Loss: 0.07696. Laplacian Loss: 9.64870. 
+The test reconstruction loss is 0.3429
+
+Epoch: 107/300, Loss: 142111.03676, Time: 13.7
+Recon Loss: 415674.69822. KL Loss: 2652.24326. Height Loss: 0.07552. Waist Loss: 0.07736. Laplacian Loss: 9.64487. 
+The test reconstruction loss is 0.3428
+
+Epoch: 108/300, Loss: 141477.30591, Time: 13.8
+Recon Loss: 415267.85886. KL Loss: 2646.82051. Height Loss: 0.07587. Waist Loss: 0.07774. Laplacian Loss: 9.63711. 
+The test reconstruction loss is 0.3424
+
+Epoch: 109/300, Loss: 140914.11612, Time: 13.8
+Recon Loss: 415062.79759. KL Loss: 2641.49789. Height Loss: 0.07625. Waist Loss: 0.07812. Laplacian Loss: 9.63231. 
+The test reconstruction loss is 0.3424
+
+Epoch: 110/300, Loss: 140337.37922, Time: 13.7
+Recon Loss: 414810.12646. KL Loss: 2638.24625. Height Loss: 0.07653. Waist Loss: 0.07851. Laplacian Loss: 9.62908. 
+The test reconstruction loss is 0.3422
+
+Epoch: 111/300, Loss: 139761.51923, Time: 13.7
+Recon Loss: 414556.61094. KL Loss: 2632.48138. Height Loss: 0.07683. Waist Loss: 0.07884. Laplacian Loss: 9.62342. 
+The test reconstruction loss is 0.3421
+
+Epoch: 112/300, Loss: 139129.09201, Time: 13.8
+Recon Loss: 414125.37597. KL Loss: 2628.67114. Height Loss: 0.07715. Waist Loss: 0.07928. Laplacian Loss: 9.61710. 
+The test reconstruction loss is 0.3419
+
+Epoch: 113/300, Loss: 138608.77127, Time: 13.7
+Recon Loss: 414025.49109. KL Loss: 2623.23984. Height Loss: 0.07747. Waist Loss: 0.07966. Laplacian Loss: 9.61603. 
+The test reconstruction loss is 0.3418
+
+Epoch: 114/300, Loss: 138019.65880, Time: 13.7
+Recon Loss: 413711.72507. KL Loss: 2619.22111. Height Loss: 0.07779. Waist Loss: 0.08007. Laplacian Loss: 9.60874. 
+The test reconstruction loss is 0.3416
+
+Epoch: 115/300, Loss: 137474.67194, Time: 13.7
+Recon Loss: 413523.70417. KL Loss: 2616.37397. Height Loss: 0.07810. Waist Loss: 0.08043. Laplacian Loss: 9.60054. 
+The test reconstruction loss is 0.3416
+
+Epoch: 116/300, Loss: 136936.07010, Time: 13.7
+Recon Loss: 413350.80908. KL Loss: 2612.43456. Height Loss: 0.07840. Waist Loss: 0.08078. Laplacian Loss: 9.59584. 
+The test reconstruction loss is 0.3416
+
+Epoch: 117/300, Loss: 136344.95955, Time: 13.7
+Recon Loss: 413012.58853. KL Loss: 2607.86883. Height Loss: 0.07865. Waist Loss: 0.08116. Laplacian Loss: 9.59037. 
+The test reconstruction loss is 0.3413
+
+Epoch: 118/300, Loss: 135792.02265, Time: 13.7
+Recon Loss: 412783.52966. KL Loss: 2603.83551. Height Loss: 0.07896. Waist Loss: 0.08153. Laplacian Loss: 9.58432. 
+The test reconstruction loss is 0.3413
+
+Epoch: 119/300, Loss: 135293.38311, Time: 13.7
+Recon Loss: 412713.91897. KL Loss: 2601.00004. Height Loss: 0.07917. Waist Loss: 0.08184. Laplacian Loss: 9.58012. 
+The test reconstruction loss is 0.3411
+
+Epoch: 120/300, Loss: 134743.99467, Time: 13.7
+Recon Loss: 412481.43996. KL Loss: 2599.61906. Height Loss: 0.07937. Waist Loss: 0.08211. Laplacian Loss: 9.57685. 
+The test reconstruction loss is 0.3410
+
+Epoch: 121/300, Loss: 134188.87833, Time: 13.6
+Recon Loss: 412225.40829. KL Loss: 2598.00328. Height Loss: 0.07959. Waist Loss: 0.08244. Laplacian Loss: 9.56934. 
+The test reconstruction loss is 0.3409
+
+Epoch: 122/300, Loss: 133630.67818, Time: 13.7
+Recon Loss: 411955.32773. KL Loss: 2593.97905. Height Loss: 0.07979. Waist Loss: 0.08280. Laplacian Loss: 9.56577. 
+The test reconstruction loss is 0.3409
+
+Epoch: 123/300, Loss: 133072.08191, Time: 13.7
+Recon Loss: 411677.28119. KL Loss: 2590.15442. Height Loss: 0.08005. Waist Loss: 0.08314. Laplacian Loss: 9.55494. 
+The test reconstruction loss is 0.3407
+
+Epoch: 124/300, Loss: 132573.25008, Time: 13.7
+Recon Loss: 411579.23817. KL Loss: 2586.05768. Height Loss: 0.08018. Waist Loss: 0.08344. Laplacian Loss: 9.55187. 
+The test reconstruction loss is 0.3407
+
+Epoch: 125/300, Loss: 132036.46425, Time: 13.7
+Recon Loss: 411356.13435. KL Loss: 2582.65795. Height Loss: 0.08034. Waist Loss: 0.08374. Laplacian Loss: 9.54455. 
+The test reconstruction loss is 0.3405
+
+Epoch: 126/300, Loss: 131514.34441, Time: 13.7
+Recon Loss: 411173.44821. KL Loss: 2578.50988. Height Loss: 0.08051. Waist Loss: 0.08409. Laplacian Loss: 9.53953. 
+The test reconstruction loss is 0.3405
+
+Epoch: 127/300, Loss: 131007.12846, Time: 13.7
+Recon Loss: 411029.52016. KL Loss: 2576.39591. Height Loss: 0.08071. Waist Loss: 0.08433. Laplacian Loss: 9.53474. 
+The test reconstruction loss is 0.3405
+
+Epoch: 128/300, Loss: 130504.70072, Time: 13.6
+Recon Loss: 410895.01712. KL Loss: 2574.07098. Height Loss: 0.08079. Waist Loss: 0.08459. Laplacian Loss: 9.52778. 
+The test reconstruction loss is 0.3404
+
+Epoch: 129/300, Loss: 129961.17516, Time: 13.6
+Recon Loss: 410625.07901. KL Loss: 2570.52812. Height Loss: 0.08089. Waist Loss: 0.08483. Laplacian Loss: 9.52255. 
+The test reconstruction loss is 0.3403
+
+Epoch: 130/300, Loss: 129452.01797, Time: 13.7
+Recon Loss: 410456.87400. KL Loss: 2567.73234. Height Loss: 0.08103. Waist Loss: 0.08511. Laplacian Loss: 9.51857. 
+The test reconstruction loss is 0.3404
+
+Epoch: 131/300, Loss: 128954.37841, Time: 13.6
+Recon Loss: 410319.44553. KL Loss: 2565.16538. Height Loss: 0.08113. Waist Loss: 0.08535. Laplacian Loss: 9.51121. 
+The test reconstruction loss is 0.3401
+
+Epoch: 132/300, Loss: 128426.38716, Time: 13.7
+Recon Loss: 410078.46220. KL Loss: 2562.51458. Height Loss: 0.08118. Waist Loss: 0.08558. Laplacian Loss: 9.50282. 
+The test reconstruction loss is 0.3401
+
+Epoch: 133/300, Loss: 127911.00901, Time: 13.6
+Recon Loss: 409872.03386. KL Loss: 2558.81970. Height Loss: 0.08129. Waist Loss: 0.08583. Laplacian Loss: 9.49781. 
+The test reconstruction loss is 0.3399
+
+Epoch: 134/300, Loss: 127392.59962, Time: 13.7
+Recon Loss: 409648.14603. KL Loss: 2555.96172. Height Loss: 0.08140. Waist Loss: 0.08607. Laplacian Loss: 9.49260. 
+The test reconstruction loss is 0.3398
+
+Epoch: 135/300, Loss: 126884.40352, Time: 13.6
+Recon Loss: 409452.76929. KL Loss: 2550.89045. Height Loss: 0.08149. Waist Loss: 0.08634. Laplacian Loss: 9.48443. 
+The test reconstruction loss is 0.3397
+
+Epoch: 136/300, Loss: 126415.46882, Time: 13.6
+Recon Loss: 409377.89696. KL Loss: 2546.70413. Height Loss: 0.08159. Waist Loss: 0.08659. Laplacian Loss: 9.47896. 
+The test reconstruction loss is 0.3396
+
+Epoch: 137/300, Loss: 125921.46907, Time: 13.7
+Recon Loss: 409212.77784. KL Loss: 2545.01119. Height Loss: 0.08165. Waist Loss: 0.08684. Laplacian Loss: 9.47474. 
+The test reconstruction loss is 0.3397
+
+Epoch: 138/300, Loss: 125421.08257, Time: 13.7
+Recon Loss: 409021.15220. KL Loss: 2542.45587. Height Loss: 0.08171. Waist Loss: 0.08703. Laplacian Loss: 9.46869. 
+The test reconstruction loss is 0.3393
+
+Epoch: 139/300, Loss: 124936.84225, Time: 13.7
+Recon Loss: 408875.51296. KL Loss: 2540.54927. Height Loss: 0.08181. Waist Loss: 0.08724. Laplacian Loss: 9.46101. 
+The test reconstruction loss is 0.3395
+
+Epoch: 140/300, Loss: 124427.04095, Time: 13.7
+Recon Loss: 408637.72860. KL Loss: 2539.65299. Height Loss: 0.08184. Waist Loss: 0.08745. Laplacian Loss: 9.45426. 
+The test reconstruction loss is 0.3393
+
+Epoch: 141/300, Loss: 123945.45507, Time: 13.7
+Recon Loss: 408487.32359. KL Loss: 2537.76747. Height Loss: 0.08188. Waist Loss: 0.08764. Laplacian Loss: 9.44709. 
+The test reconstruction loss is 0.3394
+
+Epoch: 142/300, Loss: 123463.22146, Time: 13.7
+Recon Loss: 408330.05406. KL Loss: 2534.04669. Height Loss: 0.08197. Waist Loss: 0.08783. Laplacian Loss: 9.44115. 
+The test reconstruction loss is 0.3391
+
+Epoch: 143/300, Loss: 122991.54971, Time: 13.7
+Recon Loss: 408200.96383. KL Loss: 2530.82326. Height Loss: 0.08198. Waist Loss: 0.08804. Laplacian Loss: 9.43443. 
+The test reconstruction loss is 0.3391
+
+Epoch: 144/300, Loss: 122496.26523, Time: 13.8
+Recon Loss: 407986.30066. KL Loss: 2527.36429. Height Loss: 0.08203. Waist Loss: 0.08820. Laplacian Loss: 9.42950. 
+The test reconstruction loss is 0.3390
+
+Epoch: 145/300, Loss: 122044.35203, Time: 13.7
+Recon Loss: 407909.64279. KL Loss: 2524.94865. Height Loss: 0.08205. Waist Loss: 0.08835. Laplacian Loss: 9.42279. 
+The test reconstruction loss is 0.3389
+
+Epoch: 146/300, Loss: 121604.25504, Time: 13.7
+Recon Loss: 407865.02554. KL Loss: 2524.50645. Height Loss: 0.08205. Waist Loss: 0.08857. Laplacian Loss: 9.41486. 
+The test reconstruction loss is 0.3388
+
+Epoch: 147/300, Loss: 121100.60044, Time: 13.8
+Recon Loss: 407600.05511. KL Loss: 2523.04557. Height Loss: 0.08209. Waist Loss: 0.08866. Laplacian Loss: 9.40765. 
+The test reconstruction loss is 0.3386
+
+Epoch: 148/300, Loss: 120622.93480, Time: 13.7
+Recon Loss: 407416.24625. KL Loss: 2521.34309. Height Loss: 0.08214. Waist Loss: 0.08883. Laplacian Loss: 9.40100. 
+The test reconstruction loss is 0.3388
+
+Epoch: 149/300, Loss: 120152.68278, Time: 13.7
+Recon Loss: 407250.74914. KL Loss: 2519.59563. Height Loss: 0.08217. Waist Loss: 0.08897. Laplacian Loss: 9.39372. 
+The test reconstruction loss is 0.3387
+
+Epoch: 150/300, Loss: 119685.77755, Time: 13.7
+Recon Loss: 407090.70987. KL Loss: 2516.85965. Height Loss: 0.08215. Waist Loss: 0.08910. Laplacian Loss: 9.38910. 
+The test reconstruction loss is 0.3388
+
+Epoch: 151/300, Loss: 119229.18367, Time: 13.7
+Recon Loss: 406959.72832. KL Loss: 2513.78185. Height Loss: 0.08208. Waist Loss: 0.08923. Laplacian Loss: 9.38002. 
+The test reconstruction loss is 0.3386
+
+Epoch: 152/300, Loss: 118767.37767, Time: 13.7
+Recon Loss: 406803.33754. KL Loss: 2511.34846. Height Loss: 0.08207. Waist Loss: 0.08935. Laplacian Loss: 9.37430. 
+The test reconstruction loss is 0.3386
+
+Epoch: 153/300, Loss: 118302.24717, Time: 13.7
+Recon Loss: 406628.23157. KL Loss: 2509.58555. Height Loss: 0.08209. Waist Loss: 0.08950. Laplacian Loss: 9.36570. 
+The test reconstruction loss is 0.3384
+
+Epoch: 154/300, Loss: 117849.61211, Time: 13.7
+Recon Loss: 406488.63814. KL Loss: 2508.67068. Height Loss: 0.08208. Waist Loss: 0.08960. Laplacian Loss: 9.35975. 
+The test reconstruction loss is 0.3383
+
+Epoch: 155/300, Loss: 117398.80737, Time: 13.8
+Recon Loss: 406349.78010. KL Loss: 2506.58746. Height Loss: 0.08201. Waist Loss: 0.08970. Laplacian Loss: 9.35130. 
+The test reconstruction loss is 0.3381
+
+Epoch: 156/300, Loss: 116960.98418, Time: 13.8
+Recon Loss: 406248.89572. KL Loss: 2505.33702. Height Loss: 0.08200. Waist Loss: 0.08982. Laplacian Loss: 9.34185. 
+The test reconstruction loss is 0.3382
+
+Epoch: 157/300, Loss: 116475.78001, Time: 13.8
+Recon Loss: 405976.43418. KL Loss: 2502.74215. Height Loss: 0.08196. Waist Loss: 0.08991. Laplacian Loss: 9.33677. 
+The test reconstruction loss is 0.3381
+
+Epoch: 158/300, Loss: 116037.95454, Time: 13.6
+Recon Loss: 405864.46302. KL Loss: 2498.75893. Height Loss: 0.08193. Waist Loss: 0.09005. Laplacian Loss: 9.32827. 
+The test reconstruction loss is 0.3381
+
+Epoch: 159/300, Loss: 115593.70195, Time: 13.7
+Recon Loss: 405721.80485. KL Loss: 2496.03253. Height Loss: 0.08192. Waist Loss: 0.09013. Laplacian Loss: 9.32125. 
+The test reconstruction loss is 0.3379
+
+Epoch: 160/300, Loss: 115148.59984, Time: 13.7
+Recon Loss: 405568.14031. KL Loss: 2494.50046. Height Loss: 0.08187. Waist Loss: 0.09022. Laplacian Loss: 9.31448. 
+The test reconstruction loss is 0.3379
+
+Epoch: 161/300, Loss: 114698.18447, Time: 13.8
+Recon Loss: 405389.85116. KL Loss: 2491.75217. Height Loss: 0.08185. Waist Loss: 0.09028. Laplacian Loss: 9.30599. 
+The test reconstruction loss is 0.3378
+
+Epoch: 162/300, Loss: 114272.52422, Time: 13.7
+Recon Loss: 405293.76393. KL Loss: 2487.97757. Height Loss: 0.08178. Waist Loss: 0.09035. Laplacian Loss: 9.29761. 
+The test reconstruction loss is 0.3379
+
+Epoch: 163/300, Loss: 113848.71588, Time: 13.7
+Recon Loss: 405193.52773. KL Loss: 2488.45384. Height Loss: 0.08169. Waist Loss: 0.09037. Laplacian Loss: 9.28964. 
+The test reconstruction loss is 0.3380
+
+Epoch: 164/300, Loss: 113397.95417, Time: 13.7
+Recon Loss: 404990.72245. KL Loss: 2488.18076. Height Loss: 0.08161. Waist Loss: 0.09044. Laplacian Loss: 9.28050. 
+The test reconstruction loss is 0.3377
+
+Epoch: 165/300, Loss: 112989.90342, Time: 13.6
+Recon Loss: 404935.96271. KL Loss: 2486.60679. Height Loss: 0.08152. Waist Loss: 0.09048. Laplacian Loss: 9.27499. 
+The test reconstruction loss is 0.3375
+
+Epoch: 166/300, Loss: 112523.11643, Time: 13.7
+Recon Loss: 404660.68099. KL Loss: 2486.77189. Height Loss: 0.08145. Waist Loss: 0.09052. Laplacian Loss: 9.26292. 
+The test reconstruction loss is 0.3376
+
+Epoch: 167/300, Loss: 112096.44274, Time: 14.9
+Recon Loss: 404525.22798. KL Loss: 2484.56390. Height Loss: 0.08137. Waist Loss: 0.09059. Laplacian Loss: 9.25657. 
+The test reconstruction loss is 0.3374
+
+Epoch: 168/300, Loss: 111675.38868, Time: 15.2
+Recon Loss: 404403.83098. KL Loss: 2481.87061. Height Loss: 0.08132. Waist Loss: 0.09058. Laplacian Loss: 9.25035. 
+The test reconstruction loss is 0.3374
+
+Epoch: 169/300, Loss: 111231.01644, Time: 15.2
+Recon Loss: 404188.00105. KL Loss: 2481.68869. Height Loss: 0.08126. Waist Loss: 0.09061. Laplacian Loss: 9.24141. 
+The test reconstruction loss is 0.3374
+
+Epoch: 170/300, Loss: 110797.53013, Time: 15.2
+Recon Loss: 404005.14992. KL Loss: 2480.78966. Height Loss: 0.08118. Waist Loss: 0.09065. Laplacian Loss: 9.23321. 
+The test reconstruction loss is 0.3373
+
+Epoch: 171/300, Loss: 110377.27865, Time: 15.2
+Recon Loss: 403865.07356. KL Loss: 2478.48605. Height Loss: 0.08112. Waist Loss: 0.09070. Laplacian Loss: 9.22539. 
+The test reconstruction loss is 0.3373
+
+Epoch: 172/300, Loss: 109962.11182, Time: 15.2
+Recon Loss: 403735.84981. KL Loss: 2477.23370. Height Loss: 0.08110. Waist Loss: 0.09071. Laplacian Loss: 9.21723. 
+The test reconstruction loss is 0.3374
+
+Epoch: 173/300, Loss: 109530.47894, Time: 15.2
+Recon Loss: 403538.59607. KL Loss: 2476.09072. Height Loss: 0.08098. Waist Loss: 0.09067. Laplacian Loss: 9.20776. 
+The test reconstruction loss is 0.3370
+
+Epoch: 174/300, Loss: 109121.01388, Time: 15.2
+Recon Loss: 403417.22529. KL Loss: 2474.07883. Height Loss: 0.08093. Waist Loss: 0.09069. Laplacian Loss: 9.20090. 
+The test reconstruction loss is 0.3369
+
+Epoch: 175/300, Loss: 108698.05648, Time: 15.2
+Recon Loss: 403237.02535. KL Loss: 2473.81154. Height Loss: 0.08083. Waist Loss: 0.09064. Laplacian Loss: 9.19127. 
+The test reconstruction loss is 0.3369
+
+Epoch: 176/300, Loss: 108274.66364, Time: 15.3
+Recon Loss: 403050.60569. KL Loss: 2470.58621. Height Loss: 0.08078. Waist Loss: 0.09065. Laplacian Loss: 9.18585. 
+The test reconstruction loss is 0.3369
+
+Epoch: 177/300, Loss: 107836.46236, Time: 15.2
+Recon Loss: 402799.31677. KL Loss: 2469.23612. Height Loss: 0.08065. Waist Loss: 0.09066. Laplacian Loss: 9.17694. 
+The test reconstruction loss is 0.3367
+
+Epoch: 178/300, Loss: 107429.33685, Time: 15.2
+Recon Loss: 402659.58847. KL Loss: 2465.70564. Height Loss: 0.08058. Waist Loss: 0.09063. Laplacian Loss: 9.16815. 
+The test reconstruction loss is 0.3366
+
+Epoch: 179/300, Loss: 107017.53086, Time: 15.2
+Recon Loss: 402493.61583. KL Loss: 2463.74193. Height Loss: 0.08054. Waist Loss: 0.09061. Laplacian Loss: 9.16105. 
+The test reconstruction loss is 0.3364
+
+Epoch: 180/300, Loss: 106600.55398, Time: 15.2
+Recon Loss: 402299.24031. KL Loss: 2463.17304. Height Loss: 0.08049. Waist Loss: 0.09055. Laplacian Loss: 9.15229. 
+The test reconstruction loss is 0.3366
+
+Epoch: 181/300, Loss: 106177.86045, Time: 15.2
+Recon Loss: 402077.14258. KL Loss: 2461.13714. Height Loss: 0.08035. Waist Loss: 0.09052. Laplacian Loss: 9.14395. 
+The test reconstruction loss is 0.3366
+
+Epoch: 182/300, Loss: 105758.93613, Time: 15.1
+Recon Loss: 401863.33304. KL Loss: 2457.36296. Height Loss: 0.08022. Waist Loss: 0.09046. Laplacian Loss: 9.13604. 
+The test reconstruction loss is 0.3364
+
+Epoch: 183/300, Loss: 105345.38989, Time: 13.7
+Recon Loss: 401662.46465. KL Loss: 2453.77108. Height Loss: 0.08012. Waist Loss: 0.09042. Laplacian Loss: 9.12772. 
+The test reconstruction loss is 0.3364
+
+Epoch: 184/300, Loss: 104940.45009, Time: 13.7
+Recon Loss: 401485.98218. KL Loss: 2451.24412. Height Loss: 0.08004. Waist Loss: 0.09035. Laplacian Loss: 9.12023. 
+The test reconstruction loss is 0.3363
+
+Epoch: 185/300, Loss: 104521.67944, Time: 13.9
+Recon Loss: 401248.76254. KL Loss: 2448.67398. Height Loss: 0.07996. Waist Loss: 0.09028. Laplacian Loss: 9.11255. 
+The test reconstruction loss is 0.3361
+
+Epoch: 186/300, Loss: 104078.22136, Time: 15.2
+Recon Loss: 400908.86764. KL Loss: 2444.98114. Height Loss: 0.07988. Waist Loss: 0.09019. Laplacian Loss: 9.10344. 
+The test reconstruction loss is 0.3361
+
+Epoch: 187/300, Loss: 103675.59732, Time: 15.1
+Recon Loss: 400719.67135. KL Loss: 2440.75208. Height Loss: 0.07980. Waist Loss: 0.09013. Laplacian Loss: 9.09719. 
+The test reconstruction loss is 0.3359
+
+Epoch: 188/300, Loss: 103267.81815, Time: 15.1
+Recon Loss: 400500.02304. KL Loss: 2439.41951. Height Loss: 0.07976. Waist Loss: 0.09005. Laplacian Loss: 9.08976. 
+The test reconstruction loss is 0.3357
+
+Epoch: 189/300, Loss: 102848.66497, Time: 15.1
+Recon Loss: 400226.43228. KL Loss: 2439.58239. Height Loss: 0.07968. Waist Loss: 0.08998. Laplacian Loss: 9.08220. 
+The test reconstruction loss is 0.3360
+
+Epoch: 190/300, Loss: 102422.00902, Time: 15.2
+Recon Loss: 399917.15662. KL Loss: 2437.88740. Height Loss: 0.07952. Waist Loss: 0.08983. Laplacian Loss: 9.07417. 
+The test reconstruction loss is 0.3358
+
+Epoch: 191/300, Loss: 101992.01908, Time: 15.3
+Recon Loss: 399587.28765. KL Loss: 2435.19211. Height Loss: 0.07936. Waist Loss: 0.08970. Laplacian Loss: 9.06845. 
+The test reconstruction loss is 0.3357
+
+Epoch: 192/300, Loss: 101572.12089, Time: 13.9
+Recon Loss: 399286.03593. KL Loss: 2435.16465. Height Loss: 0.07921. Waist Loss: 0.08957. Laplacian Loss: 9.05903. 
+The test reconstruction loss is 0.3359
+
+Epoch: 193/300, Loss: 101142.66711, Time: 15.1
+Recon Loss: 398938.57399. KL Loss: 2434.41583. Height Loss: 0.07910. Waist Loss: 0.08941. Laplacian Loss: 9.05441. 
+The test reconstruction loss is 0.3356
+
+Epoch: 194/300, Loss: 100698.01217, Time: 15.1
+Recon Loss: 398521.73749. KL Loss: 2433.97618. Height Loss: 0.07901. Waist Loss: 0.08929. Laplacian Loss: 9.04689. 
+The test reconstruction loss is 0.3355
+
+Epoch: 195/300, Loss: 100228.76086, Time: 15.2
+Recon Loss: 397994.47645. KL Loss: 2435.74933. Height Loss: 0.07894. Waist Loss: 0.08921. Laplacian Loss: 9.04304. 
+The test reconstruction loss is 0.3351
+
+Epoch: 196/300, Loss: 99746.10336, Time: 13.9
+Recon Loss: 397404.77234. KL Loss: 2435.67776. Height Loss: 0.07893. Waist Loss: 0.08908. Laplacian Loss: 9.03768. 
+The test reconstruction loss is 0.3349
+
+Epoch: 197/300, Loss: 99281.87620, Time: 13.7
+Recon Loss: 396880.06288. KL Loss: 2433.69333. Height Loss: 0.07889. Waist Loss: 0.08892. Laplacian Loss: 9.03234. 
+The test reconstruction loss is 0.3351
+
+Epoch: 198/300, Loss: 98785.35574, Time: 13.7
+Recon Loss: 396210.69769. KL Loss: 2435.36476. Height Loss: 0.07881. Waist Loss: 0.08876. Laplacian Loss: 9.02660. 
+The test reconstruction loss is 0.3346
+
+Epoch: 199/300, Loss: 98277.76248, Time: 13.8
+Recon Loss: 395485.85544. KL Loss: 2435.76578. Height Loss: 0.07878. Waist Loss: 0.08859. Laplacian Loss: 9.01966. 
+The test reconstruction loss is 0.3340
+
+Epoch: 200/300, Loss: 97734.82571, Time: 13.7
+Recon Loss: 394600.63368. KL Loss: 2440.35953. Height Loss: 0.07879. Waist Loss: 0.08852. Laplacian Loss: 9.01722. 
+The test reconstruction loss is 0.3341
+
+Epoch: 201/300, Loss: 97137.55639, Time: 13.9
+Recon Loss: 393479.74358. KL Loss: 2445.07622. Height Loss: 0.07882. Waist Loss: 0.08838. Laplacian Loss: 9.01242. 
+The test reconstruction loss is 0.3338
+
+Epoch: 202/300, Loss: 96564.48688, Time: 15.2
+Recon Loss: 392445.86096. KL Loss: 2445.90295. Height Loss: 0.07890. Waist Loss: 0.08824. Laplacian Loss: 9.01128. 
+The test reconstruction loss is 0.3332
+
+Epoch: 203/300, Loss: 95898.61002, Time: 15.1
+Recon Loss: 391009.48668. KL Loss: 2452.42073. Height Loss: 0.07893. Waist Loss: 0.08812. Laplacian Loss: 9.01246. 
+The test reconstruction loss is 0.3326
+
+Epoch: 204/300, Loss: 95245.64556, Time: 15.1
+Recon Loss: 389604.50823. KL Loss: 2462.24385. Height Loss: 0.07899. Waist Loss: 0.08801. Laplacian Loss: 9.01124. 
+The test reconstruction loss is 0.3317
+
+Epoch: 205/300, Loss: 94531.12482, Time: 15.2
+Recon Loss: 387924.43576. KL Loss: 2474.51592. Height Loss: 0.07918. Waist Loss: 0.08773. Laplacian Loss: 9.00659. 
+The test reconstruction loss is 0.3311
+
+Epoch: 206/300, Loss: 93765.62366, Time: 15.1
+Recon Loss: 386007.68161. KL Loss: 2490.55233. Height Loss: 0.07926. Waist Loss: 0.08735. Laplacian Loss: 9.01125. 
+The test reconstruction loss is 0.3305
+
+Epoch: 207/300, Loss: 93053.20430, Time: 15.2
+Recon Loss: 384290.16991. KL Loss: 2505.78273. Height Loss: 0.07937. Waist Loss: 0.08695. Laplacian Loss: 9.01162. 
+The test reconstruction loss is 0.3296
+
+Epoch: 208/300, Loss: 92362.77700, Time: 15.1
+Recon Loss: 382639.30962. KL Loss: 2525.62761. Height Loss: 0.07942. Waist Loss: 0.08642. Laplacian Loss: 9.01360. 
+The test reconstruction loss is 0.3286
+
+Epoch: 209/300, Loss: 91650.06727, Time: 15.1
+Recon Loss: 380864.62287. KL Loss: 2556.45434. Height Loss: 0.07949. Waist Loss: 0.08592. Laplacian Loss: 9.01021. 
+The test reconstruction loss is 0.3282
+
+Epoch: 210/300, Loss: 91014.30357, Time: 15.1
+Recon Loss: 379397.62929. KL Loss: 2582.51788. Height Loss: 0.07949. Waist Loss: 0.08537. Laplacian Loss: 9.01271. 
+The test reconstruction loss is 0.3279
+
+Epoch: 211/300, Loss: 90549.58104, Time: 15.2
+Recon Loss: 378637.61735. KL Loss: 2606.52838. Height Loss: 0.07943. Waist Loss: 0.08474. Laplacian Loss: 9.00465. 
+The test reconstruction loss is 0.3272
+
+Epoch: 212/300, Loss: 90023.36787, Time: 15.2
+Recon Loss: 377596.15165. KL Loss: 2640.20100. Height Loss: 0.07923. Waist Loss: 0.08439. Laplacian Loss: 9.00455. 
+The test reconstruction loss is 0.3264
+
+Epoch: 213/300, Loss: 89556.64990, Time: 15.2
+Recon Loss: 376797.53176. KL Loss: 2670.94886. Height Loss: 0.07915. Waist Loss: 0.08389. Laplacian Loss: 9.00114. 
+The test reconstruction loss is 0.3264
+
+Epoch: 214/300, Loss: 89032.01503, Time: 15.1
+Recon Loss: 375746.32709. KL Loss: 2696.58127. Height Loss: 0.07905. Waist Loss: 0.08363. Laplacian Loss: 8.99793. 
+The test reconstruction loss is 0.3263
+
+Epoch: 215/300, Loss: 88623.41018, Time: 15.2
+Recon Loss: 375179.28366. KL Loss: 2720.68431. Height Loss: 0.07901. Waist Loss: 0.08344. Laplacian Loss: 8.99695. 
+The test reconstruction loss is 0.3259
+
+Epoch: 216/300, Loss: 88138.31224, Time: 15.2
+Recon Loss: 374276.60582. KL Loss: 2743.89140. Height Loss: 0.07906. Waist Loss: 0.08333. Laplacian Loss: 8.99110. 
+The test reconstruction loss is 0.3257
+
+Epoch: 217/300, Loss: 87752.29197, Time: 15.2
+Recon Loss: 373793.36776. KL Loss: 2762.62465. Height Loss: 0.07903. Waist Loss: 0.08323. Laplacian Loss: 8.98315. 
+The test reconstruction loss is 0.3254
+
+Epoch: 218/300, Loss: 87316.43800, Time: 15.2
+Recon Loss: 373088.41927. KL Loss: 2779.52092. Height Loss: 0.07904. Waist Loss: 0.08325. Laplacian Loss: 8.98511. 
+The test reconstruction loss is 0.3254
+
+Epoch: 219/300, Loss: 86983.38373, Time: 15.2
+Recon Loss: 372818.42921. KL Loss: 2796.99110. Height Loss: 0.07889. Waist Loss: 0.08317. Laplacian Loss: 8.97821. 
+The test reconstruction loss is 0.3250
+
+Epoch: 220/300, Loss: 86575.00748, Time: 15.2
+Recon Loss: 372211.43076. KL Loss: 2818.51447. Height Loss: 0.07889. Waist Loss: 0.08320. Laplacian Loss: 8.97595. 
+The test reconstruction loss is 0.3251
+
+Epoch: 221/300, Loss: 86151.87271, Time: 15.2
+Recon Loss: 371535.79956. KL Loss: 2835.60977. Height Loss: 0.07889. Waist Loss: 0.08324. Laplacian Loss: 8.96998. 
+The test reconstruction loss is 0.3245
+
+Epoch: 222/300, Loss: 85753.91526, Time: 15.2
+Recon Loss: 370963.83452. KL Loss: 2849.50353. Height Loss: 0.07880. Waist Loss: 0.08334. Laplacian Loss: 8.96288. 
+The test reconstruction loss is 0.3245
+
+Epoch: 223/300, Loss: 85344.39979, Time: 15.1
+Recon Loss: 370330.88074. KL Loss: 2865.04497. Height Loss: 0.07888. Waist Loss: 0.08348. Laplacian Loss: 8.96094. 
+The test reconstruction loss is 0.3238
+
+Epoch: 224/300, Loss: 85004.13410, Time: 15.1
+Recon Loss: 369997.58664. KL Loss: 2876.45058. Height Loss: 0.07877. Waist Loss: 0.08366. Laplacian Loss: 8.95541. 
+The test reconstruction loss is 0.3233
+
+Epoch: 225/300, Loss: 84572.56051, Time: 15.1
+Recon Loss: 369249.95689. KL Loss: 2892.89185. Height Loss: 0.07896. Waist Loss: 0.08395. Laplacian Loss: 8.95355. 
+The test reconstruction loss is 0.3235
+
+Epoch: 226/300, Loss: 84213.01512, Time: 15.2
+Recon Loss: 368816.68940. KL Loss: 2903.81426. Height Loss: 0.07889. Waist Loss: 0.08411. Laplacian Loss: 8.94729. 
+The test reconstruction loss is 0.3235
+
+Epoch: 227/300, Loss: 83877.30238, Time: 15.2
+Recon Loss: 368481.27903. KL Loss: 2915.29882. Height Loss: 0.07870. Waist Loss: 0.08434. Laplacian Loss: 8.94377. 
+The test reconstruction loss is 0.3234
+
+Epoch: 228/300, Loss: 83559.21316, Time: 15.2
+Recon Loss: 368217.45380. KL Loss: 2927.42155. Height Loss: 0.07856. Waist Loss: 0.08455. Laplacian Loss: 8.93447. 
+The test reconstruction loss is 0.3235
+
+Epoch: 229/300, Loss: 83191.47884, Time: 15.1
+Recon Loss: 367723.93469. KL Loss: 2941.74984. Height Loss: 0.07842. Waist Loss: 0.08488. Laplacian Loss: 8.93185. 
+The test reconstruction loss is 0.3232
+
+Epoch: 230/300, Loss: 82780.22808, Time: 15.2
+Recon Loss: 367030.86189. KL Loss: 2952.91781. Height Loss: 0.07835. Waist Loss: 0.08513. Laplacian Loss: 8.93027. 
+The test reconstruction loss is 0.3226
+
+Epoch: 231/300, Loss: 82433.34253, Time: 15.2
+Recon Loss: 366619.97220. KL Loss: 2961.66440. Height Loss: 0.07838. Waist Loss: 0.08534. Laplacian Loss: 8.92529. 
+The test reconstruction loss is 0.3223
+
+Epoch: 232/300, Loss: 82050.65486, Time: 15.4
+Recon Loss: 366040.27338. KL Loss: 2970.33348. Height Loss: 0.07839. Waist Loss: 0.08568. Laplacian Loss: 8.92055. 
+The test reconstruction loss is 0.3226
+
+Epoch: 233/300, Loss: 81678.17682, Time: 15.1
+Recon Loss: 365499.07469. KL Loss: 2976.90626. Height Loss: 0.07832. Waist Loss: 0.08596. Laplacian Loss: 8.91067. 
+The test reconstruction loss is 0.3217
+
+Epoch: 234/300, Loss: 81297.67869, Time: 15.2
+Recon Loss: 364912.69957. KL Loss: 2983.55495. Height Loss: 0.07828. Waist Loss: 0.08632. Laplacian Loss: 8.91140. 
+The test reconstruction loss is 0.3214
+
+Epoch: 235/300, Loss: 80956.23996, Time: 15.2
+Recon Loss: 364498.09071. KL Loss: 2988.12327. Height Loss: 0.07832. Waist Loss: 0.08666. Laplacian Loss: 8.90419. 
+The test reconstruction loss is 0.3210
+
+Epoch: 236/300, Loss: 80619.28490, Time: 15.1
+Recon Loss: 364093.73772. KL Loss: 2995.36213. Height Loss: 0.07846. Waist Loss: 0.08720. Laplacian Loss: 8.90267. 
+The test reconstruction loss is 0.3209
+
+Epoch: 237/300, Loss: 80278.02566, Time: 15.2
+Recon Loss: 363660.60384. KL Loss: 3005.16165. Height Loss: 0.07847. Waist Loss: 0.08757. Laplacian Loss: 8.89615. 
+The test reconstruction loss is 0.3206
+
+Epoch: 238/300, Loss: 79918.97624, Time: 15.1
+Recon Loss: 363139.35598. KL Loss: 3014.17437. Height Loss: 0.07844. Waist Loss: 0.08805. Laplacian Loss: 8.88949. 
+The test reconstruction loss is 0.3206
+
+Epoch: 239/300, Loss: 79584.89392, Time: 15.2
+Recon Loss: 362729.19990. KL Loss: 3019.13690. Height Loss: 0.07848. Waist Loss: 0.08836. Laplacian Loss: 8.88631. 
+The test reconstruction loss is 0.3204
+
+Epoch: 240/300, Loss: 79246.39906, Time: 15.2
+Recon Loss: 362292.81582. KL Loss: 3023.08875. Height Loss: 0.07843. Waist Loss: 0.08873. Laplacian Loss: 8.88124. 
+The test reconstruction loss is 0.3199
+
+Epoch: 241/300, Loss: 78914.12865, Time: 15.1
+Recon Loss: 361869.97907. KL Loss: 3034.83108. Height Loss: 0.07840. Waist Loss: 0.08926. Laplacian Loss: 8.87944. 
+The test reconstruction loss is 0.3200
+
+Epoch: 242/300, Loss: 78566.60195, Time: 15.1
+Recon Loss: 361374.17834. KL Loss: 3041.95508. Height Loss: 0.07853. Waist Loss: 0.08967. Laplacian Loss: 8.87389. 
+The test reconstruction loss is 0.3194
+
+Epoch: 243/300, Loss: 78207.78405, Time: 15.2
+Recon Loss: 360821.93168. KL Loss: 3044.95579. Height Loss: 0.07856. Waist Loss: 0.09014. Laplacian Loss: 8.87220. 
+The test reconstruction loss is 0.3193
+
+Epoch: 244/300, Loss: 77946.41798, Time: 15.2
+Recon Loss: 360716.86248. KL Loss: 3048.47744. Height Loss: 0.07856. Waist Loss: 0.09062. Laplacian Loss: 8.86847. 
+The test reconstruction loss is 0.3190
+
+Epoch: 245/300, Loss: 77617.97025, Time: 15.2
+Recon Loss: 360286.12520. KL Loss: 3058.96442. Height Loss: 0.07855. Waist Loss: 0.09097. Laplacian Loss: 8.86034. 
+The test reconstruction loss is 0.3185
+
+Epoch: 246/300, Loss: 77255.89749, Time: 15.2
+Recon Loss: 359694.29782. KL Loss: 3065.19989. Height Loss: 0.07856. Waist Loss: 0.09138. Laplacian Loss: 8.85516. 
+The test reconstruction loss is 0.3187
+
+Epoch: 247/300, Loss: 76968.69251, Time: 15.2
+Recon Loss: 359444.14746. KL Loss: 3074.65697. Height Loss: 0.07856. Waist Loss: 0.09187. Laplacian Loss: 8.85290. 
+The test reconstruction loss is 0.3183
+
+Epoch: 248/300, Loss: 76626.98358, Time: 15.2
+Recon Loss: 358930.73156. KL Loss: 3084.00134. Height Loss: 0.07872. Waist Loss: 0.09234. Laplacian Loss: 8.84834. 
+The test reconstruction loss is 0.3182
+
+Epoch: 249/300, Loss: 76325.45276, Time: 15.2
+Recon Loss: 358605.52422. KL Loss: 3088.00400. Height Loss: 0.07871. Waist Loss: 0.09272. Laplacian Loss: 8.84468. 
+The test reconstruction loss is 0.3177
+
+Epoch: 250/300, Loss: 75993.89739, Time: 15.2
+Recon Loss: 358132.95264. KL Loss: 3090.54103. Height Loss: 0.07874. Waist Loss: 0.09302. Laplacian Loss: 8.83958. 
+The test reconstruction loss is 0.3176
+
+Epoch: 251/300, Loss: 75705.23713, Time: 15.1
+Recon Loss: 357855.03188. KL Loss: 3095.67792. Height Loss: 0.07883. Waist Loss: 0.09342. Laplacian Loss: 8.83842. 
+The test reconstruction loss is 0.3174
+
+Epoch: 252/300, Loss: 75378.69404, Time: 14.8
+Recon Loss: 357390.40570. KL Loss: 3100.24353. Height Loss: 0.07891. Waist Loss: 0.09380. Laplacian Loss: 8.83338. 
+The test reconstruction loss is 0.3177
+
+Epoch: 253/300, Loss: 75080.13513, Time: 14.6
+Recon Loss: 357055.29150. KL Loss: 3102.59521. Height Loss: 0.07889. Waist Loss: 0.09412. Laplacian Loss: 8.82823. 
+The test reconstruction loss is 0.3177
+
+Epoch: 254/300, Loss: 74832.76988, Time: 14.7
+Recon Loss: 356961.04155. KL Loss: 3104.73404. Height Loss: 0.07883. Waist Loss: 0.09451. Laplacian Loss: 8.82375. 
+The test reconstruction loss is 0.3172
+
+Epoch: 255/300, Loss: 74511.29712, Time: 15.1
+Recon Loss: 356498.20485. KL Loss: 3112.68611. Height Loss: 0.07891. Waist Loss: 0.09492. Laplacian Loss: 8.82029. 
+The test reconstruction loss is 0.3170
+
+Epoch: 256/300, Loss: 74198.74011, Time: 15.2
+Recon Loss: 356077.18577. KL Loss: 3115.03867. Height Loss: 0.07888. Waist Loss: 0.09522. Laplacian Loss: 8.81645. 
+The test reconstruction loss is 0.3165
+
+Epoch: 257/300, Loss: 73921.75626, Time: 15.1
+Recon Loss: 355823.39119. KL Loss: 3116.26321. Height Loss: 0.07898. Waist Loss: 0.09553. Laplacian Loss: 8.80988. 
+The test reconstruction loss is 0.3164
+
+Epoch: 258/300, Loss: 73641.48412, Time: 15.3
+Recon Loss: 355545.40598. KL Loss: 3120.27254. Height Loss: 0.07904. Waist Loss: 0.09589. Laplacian Loss: 8.80426. 
+The test reconstruction loss is 0.3166
+
+Epoch: 259/300, Loss: 73371.08755, Time: 15.3
+Recon Loss: 355309.91769. KL Loss: 3124.24183. Height Loss: 0.07902. Waist Loss: 0.09623. Laplacian Loss: 8.79924. 
+The test reconstruction loss is 0.3170
+
+Epoch: 260/300, Loss: 73110.99436, Time: 15.2
+Recon Loss: 355123.26940. KL Loss: 3124.82190. Height Loss: 0.07889. Waist Loss: 0.09637. Laplacian Loss: 8.79299. 
+The test reconstruction loss is 0.3162
+
+Epoch: 261/300, Loss: 72827.30127, Time: 15.2
+Recon Loss: 354813.29726. KL Loss: 3127.35277. Height Loss: 0.07903. Waist Loss: 0.09664. Laplacian Loss: 8.79000. 
+The test reconstruction loss is 0.3161
+
+Epoch: 262/300, Loss: 72551.43706, Time: 14.2
+Recon Loss: 354537.37763. KL Loss: 3128.74505. Height Loss: 0.07904. Waist Loss: 0.09685. Laplacian Loss: 8.78362. 
+The test reconstruction loss is 0.3157
+
+Epoch: 263/300, Loss: 72255.14132, Time: 13.7
+Recon Loss: 354155.46395. KL Loss: 3129.09623. Height Loss: 0.07908. Waist Loss: 0.09705. Laplacian Loss: 8.78104. 
+The test reconstruction loss is 0.3157
+
+Epoch: 264/300, Loss: 71973.71344, Time: 13.7
+Recon Loss: 353844.86070. KL Loss: 3125.34228. Height Loss: 0.07907. Waist Loss: 0.09723. Laplacian Loss: 8.77710. 
+The test reconstruction loss is 0.3153
+
+Epoch: 265/300, Loss: 71736.77258, Time: 13.7
+Recon Loss: 353748.21502. KL Loss: 3123.27672. Height Loss: 0.07911. Waist Loss: 0.09742. Laplacian Loss: 8.77457. 
+The test reconstruction loss is 0.3157
+
+Epoch: 266/300, Loss: 71481.00954, Time: 13.7
+Recon Loss: 353545.13521. KL Loss: 3129.41625. Height Loss: 0.07902. Waist Loss: 0.09773. Laplacian Loss: 8.76708. 
+The test reconstruction loss is 0.3154
+
+Epoch: 267/300, Loss: 71221.61645, Time: 13.7
+Recon Loss: 353324.35736. KL Loss: 3130.24629. Height Loss: 0.07908. Waist Loss: 0.09788. Laplacian Loss: 8.75989. 
+The test reconstruction loss is 0.3151
+
+Epoch: 268/300, Loss: 70969.66551, Time: 13.7
+Recon Loss: 353135.01048. KL Loss: 3131.70945. Height Loss: 0.07903. Waist Loss: 0.09805. Laplacian Loss: 8.75503. 
+The test reconstruction loss is 0.3158
+
+Epoch: 269/300, Loss: 70703.26818, Time: 13.7
+Recon Loss: 352865.90862. KL Loss: 3134.80719. Height Loss: 0.07919. Waist Loss: 0.09831. Laplacian Loss: 8.75147. 
+The test reconstruction loss is 0.3150
+
+Epoch: 270/300, Loss: 70468.36230, Time: 13.7
+Recon Loss: 352751.31430. KL Loss: 3137.36995. Height Loss: 0.07921. Waist Loss: 0.09861. Laplacian Loss: 8.74642. 
+The test reconstruction loss is 0.3153
+
+Epoch: 271/300, Loss: 70219.79465, Time: 13.6
+Recon Loss: 352562.67347. KL Loss: 3140.14805. Height Loss: 0.07926. Waist Loss: 0.09879. Laplacian Loss: 8.74288. 
+The test reconstruction loss is 0.3148
+
+Epoch: 272/300, Loss: 69922.55734, Time: 13.6
+Recon Loss: 352126.45008. KL Loss: 3137.70890. Height Loss: 0.07937. Waist Loss: 0.09887. Laplacian Loss: 8.73954. 
+The test reconstruction loss is 0.3147
+
+Epoch: 273/300, Loss: 69697.00833, Time: 13.6
+Recon Loss: 352048.87739. KL Loss: 3135.78326. Height Loss: 0.07932. Waist Loss: 0.09901. Laplacian Loss: 8.73256. 
+The test reconstruction loss is 0.3147
+
+Epoch: 274/300, Loss: 69464.51442, Time: 13.6
+Recon Loss: 351928.18902. KL Loss: 3136.96911. Height Loss: 0.07940. Waist Loss: 0.09922. Laplacian Loss: 8.72952. 
+The test reconstruction loss is 0.3149
+
+Epoch: 275/300, Loss: 69215.22759, Time: 13.7
+Recon Loss: 351718.22833. KL Loss: 3136.95664. Height Loss: 0.07924. Waist Loss: 0.09926. Laplacian Loss: 8.72166. 
+The test reconstruction loss is 0.3148
+
+Epoch: 276/300, Loss: 68976.12354, Time: 13.6
+Recon Loss: 351558.39312. KL Loss: 3133.99520. Height Loss: 0.07932. Waist Loss: 0.09936. Laplacian Loss: 8.72040. 
+The test reconstruction loss is 0.3146
+
+Epoch: 277/300, Loss: 68795.18385, Time: 13.7
+Recon Loss: 351690.20049. KL Loss: 3135.42906. Height Loss: 0.07931. Waist Loss: 0.09955. Laplacian Loss: 8.71330. 
+The test reconstruction loss is 0.3146
+
+Epoch: 278/300, Loss: 68503.38151, Time: 13.8
+Recon Loss: 351239.15354. KL Loss: 3142.51812. Height Loss: 0.07949. Waist Loss: 0.09980. Laplacian Loss: 8.70913. 
+The test reconstruction loss is 0.3142
+
+Epoch: 279/300, Loss: 68285.75283, Time: 14.7
+Recon Loss: 351176.14415. KL Loss: 3140.04087. Height Loss: 0.07945. Waist Loss: 0.09981. Laplacian Loss: 8.70505. 
+The test reconstruction loss is 0.3146
+
+Epoch: 280/300, Loss: 68055.66811, Time: 15.3
+Recon Loss: 351040.87811. KL Loss: 3140.90200. Height Loss: 0.07930. Waist Loss: 0.09991. Laplacian Loss: 8.69716. 
+The test reconstruction loss is 0.3141
+
+Epoch: 281/300, Loss: 67807.72402, Time: 15.3
+Recon Loss: 350810.74234. KL Loss: 3138.52919. Height Loss: 0.07933. Waist Loss: 0.09998. Laplacian Loss: 8.69701. 
+The test reconstruction loss is 0.3145
+
+Epoch: 282/300, Loss: 67586.24740, Time: 15.3
+Recon Loss: 350712.18311. KL Loss: 3138.02063. Height Loss: 0.07938. Waist Loss: 0.10001. Laplacian Loss: 8.69174. 
+The test reconstruction loss is 0.3140
+
+Epoch: 283/300, Loss: 67353.45895, Time: 15.2
+Recon Loss: 350551.32629. KL Loss: 3136.28579. Height Loss: 0.07936. Waist Loss: 0.10007. Laplacian Loss: 8.68592. 
+The test reconstruction loss is 0.3143
+
+Epoch: 284/300, Loss: 67112.59037, Time: 15.2
+Recon Loss: 350342.64260. KL Loss: 3134.55608. Height Loss: 0.07935. Waist Loss: 0.10014. Laplacian Loss: 8.68234. 
+The test reconstruction loss is 0.3140
+
+Epoch: 285/300, Loss: 66872.19172, Time: 15.2
+Recon Loss: 350133.81882. KL Loss: 3130.40857. Height Loss: 0.07937. Waist Loss: 0.10020. Laplacian Loss: 8.67723. 
+The test reconstruction loss is 0.3139
+
+Epoch: 286/300, Loss: 66682.26892, Time: 15.3
+Recon Loss: 350184.87462. KL Loss: 3128.85701. Height Loss: 0.07939. Waist Loss: 0.10030. Laplacian Loss: 8.67320. 
+The test reconstruction loss is 0.3137
+
+Epoch: 287/300, Loss: 66440.58901, Time: 15.2
+Recon Loss: 349956.29362. KL Loss: 3128.33189. Height Loss: 0.07945. Waist Loss: 0.10043. Laplacian Loss: 8.66867. 
+The test reconstruction loss is 0.3139
+
+Epoch: 288/300, Loss: 66233.74121, Time: 15.3
+Recon Loss: 349908.36530. KL Loss: 3127.84826. Height Loss: 0.07958. Waist Loss: 0.10044. Laplacian Loss: 8.66358. 
+The test reconstruction loss is 0.3136
+
+Epoch: 289/300, Loss: 66015.37452, Time: 15.3
+Recon Loss: 349791.77721. KL Loss: 3130.19407. Height Loss: 0.07961. Waist Loss: 0.10059. Laplacian Loss: 8.66043. 
+The test reconstruction loss is 0.3140
+
+Epoch: 290/300, Loss: 65782.82893, Time: 15.3
+Recon Loss: 349597.46821. KL Loss: 3129.89429. Height Loss: 0.07969. Waist Loss: 0.10064. Laplacian Loss: 8.65517. 
+The test reconstruction loss is 0.3136
+
+Epoch: 291/300, Loss: 65569.07234, Time: 15.2
+Recon Loss: 349502.51768. KL Loss: 3126.25576. Height Loss: 0.07975. Waist Loss: 0.10062. Laplacian Loss: 8.64932. 
+The test reconstruction loss is 0.3142
+
+Epoch: 292/300, Loss: 65353.84884, Time: 15.2
+Recon Loss: 349393.99352. KL Loss: 3123.84498. Height Loss: 0.07967. Waist Loss: 0.10064. Laplacian Loss: 8.64414. 
+The test reconstruction loss is 0.3137
+
+Epoch: 293/300, Loss: 65144.67530, Time: 15.1
+Recon Loss: 349313.75519. KL Loss: 3121.39934. Height Loss: 0.07959. Waist Loss: 0.10066. Laplacian Loss: 8.64020. 
+The test reconstruction loss is 0.3136
+
+Epoch: 294/300, Loss: 64929.06070, Time: 15.2
+Recon Loss: 349195.54253. KL Loss: 3117.82375. Height Loss: 0.07951. Waist Loss: 0.10067. Laplacian Loss: 8.63461. 
+The test reconstruction loss is 0.3136
+
+Epoch: 295/300, Loss: 64746.49081, Time: 15.2
+Recon Loss: 349248.54767. KL Loss: 3118.54276. Height Loss: 0.07959. Waist Loss: 0.10064. Laplacian Loss: 8.63171. 
+The test reconstruction loss is 0.3132
+
+Epoch: 296/300, Loss: 64536.60468, Time: 15.2
+Recon Loss: 349142.89574. KL Loss: 3125.31272. Height Loss: 0.07959. Waist Loss: 0.10077. Laplacian Loss: 8.62799. 
+The test reconstruction loss is 0.3137
+
+Epoch: 297/300, Loss: 64312.07204, Time: 15.2
+Recon Loss: 348955.48303. KL Loss: 3129.10989. Height Loss: 0.07977. Waist Loss: 0.10077. Laplacian Loss: 8.62387. 
+The test reconstruction loss is 0.3132
+
+Epoch: 298/300, Loss: 64091.18542, Time: 15.2
+Recon Loss: 348788.16776. KL Loss: 3128.04394. Height Loss: 0.07971. Waist Loss: 0.10085. Laplacian Loss: 8.61610. 
+The test reconstruction loss is 0.3133
+
+Epoch: 299/300, Loss: 63881.08019, Time: 15.1
+Recon Loss: 348676.66039. KL Loss: 3125.27215. Height Loss: 0.07967. Waist Loss: 0.10081. Laplacian Loss: 8.61440. 
+The test reconstruction loss is 0.3137
+
+The following is the eval result:
+Mean: 18.606 + std: 10.359 | Median 16.696

@@ -1,0 +1,21 @@
+The explained variance ratio for 8 principal components are:
+[0.6863347  0.08321805 0.05149478 0.0366285  0.02376733 0.01868883
+ 0.01814731 0.01277655]
+The sum of explained variance is 93.106
+
+The mean distance for Training data is 16.729
+The median distance for Training data is 15.299
+The std for Training data is 8.802
+For a 10 mm accuracy on Training, PCA model captures 22.49% vertices
+For a 15 mm accuracy on Training, PCA model captures 48.48% vertices
+For a 20 mm accuracy on Training, PCA model captures 70.66% vertices
+
+
+The mean distance for Testing data is 16.818
+The median distance for Testing data is 15.232
+The std for Testing data is 8.983
+For a 10 mm accuracy on Testing, PCA model captures 22.78% vertices
+For a 15 mm accuracy on Testing, PCA model captures 48.84% vertices
+For a 20 mm accuracy on Testing, PCA model captures 70.39% vertices
+
+

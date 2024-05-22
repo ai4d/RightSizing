@@ -1,0 +1,602 @@
+Epoch: 1/300, Loss: 29689.30708, Recon Loss: 29688.88949, KL Loss: 0.41753, Time: 5.8
+The test reconstruction loss is 0.7615
+Epoch: 2/300, Loss: 23570.28784, Recon Loss: 23557.99057, KL Loss: 12.29739, Time: 5.3
+The test reconstruction loss is 0.6272
+Epoch: 3/300, Loss: 20926.60098, Recon Loss: 20907.75369, KL Loss: 18.84718, Time: 5.2
+The test reconstruction loss is 0.6229
+Epoch: 4/300, Loss: 20656.73442, Recon Loss: 20632.34591, KL Loss: 24.38861, Time: 5.4
+The test reconstruction loss is 0.6207
+Epoch: 5/300, Loss: 20313.95937, Recon Loss: 20283.76767, KL Loss: 30.19164, Time: 5.2
+The test reconstruction loss is 0.6057
+Epoch: 6/300, Loss: 17840.74086, Recon Loss: 17801.92838, KL Loss: 38.81249, Time: 5.2
+The test reconstruction loss is 0.5391
+Epoch: 7/300, Loss: 16264.47808, Recon Loss: 16218.37394, KL Loss: 46.10420, Time: 5.2
+The test reconstruction loss is 0.5301
+Epoch: 8/300, Loss: 15840.28462, Recon Loss: 15785.30561, KL Loss: 54.97898, Time: 5.2
+The test reconstruction loss is 0.5248
+Epoch: 9/300, Loss: 15622.12142, Recon Loss: 15561.29879, KL Loss: 60.82262, Time: 5.2
+The test reconstruction loss is 0.5200
+Epoch: 10/300, Loss: 15415.19072, Recon Loss: 15350.04243, KL Loss: 65.14819, Time: 5.2
+The test reconstruction loss is 0.5156
+Epoch: 11/300, Loss: 15215.41574, Recon Loss: 15146.91111, KL Loss: 68.50463, Time: 5.2
+The test reconstruction loss is 0.5112
+Epoch: 12/300, Loss: 15006.23865, Recon Loss: 14934.96197, KL Loss: 71.27663, Time: 5.2
+The test reconstruction loss is 0.5071
+Epoch: 13/300, Loss: 14846.73249, Recon Loss: 14771.32485, KL Loss: 75.40764, Time: 5.2
+The test reconstruction loss is 0.5025
+Epoch: 14/300, Loss: 14567.82379, Recon Loss: 14489.35334, KL Loss: 78.47039, Time: 5.2
+The test reconstruction loss is 0.4974
+Epoch: 15/300, Loss: 14291.67822, Recon Loss: 14210.98308, KL Loss: 80.69505, Time: 5.2
+The test reconstruction loss is 0.4925
+Epoch: 16/300, Loss: 14050.99785, Recon Loss: 13967.38263, KL Loss: 83.61523, Time: 5.2
+The test reconstruction loss is 0.4876
+Epoch: 17/300, Loss: 13768.45604, Recon Loss: 13681.72398, KL Loss: 86.73208, Time: 5.2
+The test reconstruction loss is 0.4846
+Epoch: 18/300, Loss: 13617.49984, Recon Loss: 13528.30650, KL Loss: 89.19339, Time: 5.2
+The test reconstruction loss is 0.4814
+Epoch: 19/300, Loss: 13411.99118, Recon Loss: 13322.05315, KL Loss: 89.93804, Time: 5.2
+The test reconstruction loss is 0.4778
+Epoch: 20/300, Loss: 13090.56776, Recon Loss: 12999.70781, KL Loss: 90.85994, Time: 5.2
+The test reconstruction loss is 0.4696
+Epoch: 21/300, Loss: 12526.76284, Recon Loss: 12437.35804, KL Loss: 89.40482, Time: 5.2
+The test reconstruction loss is 0.4485
+Epoch: 22/300, Loss: 11571.67469, Recon Loss: 11479.95207, KL Loss: 91.72272, Time: 5.2
+The test reconstruction loss is 0.4368
+Epoch: 23/300, Loss: 11141.87354, Recon Loss: 11045.79961, KL Loss: 96.07402, Time: 5.2
+The test reconstruction loss is 0.4313
+Epoch: 24/300, Loss: 10851.96144, Recon Loss: 10750.77266, KL Loss: 101.18878, Time: 5.2
+The test reconstruction loss is 0.4266
+Epoch: 25/300, Loss: 10609.57217, Recon Loss: 10503.60186, KL Loss: 105.97036, Time: 5.2
+The test reconstruction loss is 0.4233
+Epoch: 26/300, Loss: 10413.70814, Recon Loss: 10304.00882, KL Loss: 109.69933, Time: 5.2
+The test reconstruction loss is 0.4198
+Epoch: 27/300, Loss: 10208.58370, Recon Loss: 10095.67150, KL Loss: 112.91226, Time: 5.2
+The test reconstruction loss is 0.4171
+Epoch: 28/300, Loss: 10094.60901, Recon Loss: 9978.99128, KL Loss: 115.61768, Time: 5.2
+The test reconstruction loss is 0.4149
+Epoch: 29/300, Loss: 9969.83426, Recon Loss: 9852.52767, KL Loss: 117.30662, Time: 5.2
+The test reconstruction loss is 0.4128
+Epoch: 30/300, Loss: 9826.33243, Recon Loss: 9708.19098, KL Loss: 118.14140, Time: 5.2
+The test reconstruction loss is 0.4117
+Epoch: 31/300, Loss: 9742.93017, Recon Loss: 9623.57190, KL Loss: 119.35831, Time: 5.2
+The test reconstruction loss is 0.4095
+Epoch: 32/300, Loss: 9638.50798, Recon Loss: 9517.68348, KL Loss: 120.82451, Time: 5.2
+The test reconstruction loss is 0.4082
+Epoch: 33/300, Loss: 9549.73365, Recon Loss: 9427.79107, KL Loss: 121.94252, Time: 5.2
+The test reconstruction loss is 0.4071
+Epoch: 34/300, Loss: 9484.71911, Recon Loss: 9361.79846, KL Loss: 122.92059, Time: 5.2
+The test reconstruction loss is 0.4058
+Epoch: 35/300, Loss: 9395.70765, Recon Loss: 9272.78236, KL Loss: 122.92530, Time: 5.2
+The test reconstruction loss is 0.4044
+Epoch: 36/300, Loss: 9329.69522, Recon Loss: 9206.04061, KL Loss: 123.65460, Time: 5.2
+The test reconstruction loss is 0.4026
+Epoch: 37/300, Loss: 9226.80770, Recon Loss: 9104.03297, KL Loss: 122.77475, Time: 5.2
+The test reconstruction loss is 0.4019
+Epoch: 38/300, Loss: 9161.85912, Recon Loss: 9039.69364, KL Loss: 122.16545, Time: 5.2
+The test reconstruction loss is 0.4002
+Epoch: 39/300, Loss: 9081.32093, Recon Loss: 8960.48017, KL Loss: 120.84073, Time: 5.2
+The test reconstruction loss is 0.3984
+Epoch: 40/300, Loss: 8964.63832, Recon Loss: 8842.39669, KL Loss: 122.24161, Time: 5.2
+The test reconstruction loss is 0.3963
+Epoch: 41/300, Loss: 8854.03634, Recon Loss: 8731.77042, KL Loss: 122.26592, Time: 5.2
+The test reconstruction loss is 0.3935
+Epoch: 42/300, Loss: 8749.75079, Recon Loss: 8624.89993, KL Loss: 124.85088, Time: 5.2
+The test reconstruction loss is 0.3899
+Epoch: 43/300, Loss: 8636.65011, Recon Loss: 8510.08325, KL Loss: 126.56687, Time: 5.2
+The test reconstruction loss is 0.3877
+Epoch: 44/300, Loss: 8493.85679, Recon Loss: 8365.81146, KL Loss: 128.04530, Time: 5.2
+The test reconstruction loss is 0.3851
+Epoch: 45/300, Loss: 8450.34862, Recon Loss: 8319.81358, KL Loss: 130.53502, Time: 5.2
+The test reconstruction loss is 0.3828
+Epoch: 46/300, Loss: 8307.64066, Recon Loss: 8176.75802, KL Loss: 130.88263, Time: 5.2
+The test reconstruction loss is 0.3823
+Epoch: 47/300, Loss: 8242.36280, Recon Loss: 8109.81460, KL Loss: 132.54818, Time: 5.2
+The test reconstruction loss is 0.3805
+Epoch: 48/300, Loss: 8191.28974, Recon Loss: 8058.71214, KL Loss: 132.57760, Time: 5.2
+The test reconstruction loss is 0.3795
+Epoch: 49/300, Loss: 8130.25522, Recon Loss: 7997.25311, KL Loss: 133.00210, Time: 5.2
+The test reconstruction loss is 0.3788
+Epoch: 50/300, Loss: 8063.00895, Recon Loss: 7930.32711, KL Loss: 132.68189, Time: 5.2
+The test reconstruction loss is 0.3781
+Epoch: 51/300, Loss: 8025.11051, Recon Loss: 7894.31792, KL Loss: 130.79256, Time: 5.2
+The test reconstruction loss is 0.3776
+Epoch: 52/300, Loss: 7978.94827, Recon Loss: 7849.45951, KL Loss: 129.48875, Time: 5.2
+The test reconstruction loss is 0.3775
+Epoch: 53/300, Loss: 7941.43979, Recon Loss: 7812.81444, KL Loss: 128.62538, Time: 5.2
+The test reconstruction loss is 0.3765
+Epoch: 54/300, Loss: 7907.51192, Recon Loss: 7780.58517, KL Loss: 126.92671, Time: 5.2
+The test reconstruction loss is 0.3761
+Epoch: 55/300, Loss: 7871.15638, Recon Loss: 7745.76903, KL Loss: 125.38740, Time: 5.2
+The test reconstruction loss is 0.3755
+Epoch: 56/300, Loss: 7830.78423, Recon Loss: 7706.80609, KL Loss: 123.97820, Time: 5.2
+The test reconstruction loss is 0.3753
+Epoch: 57/300, Loss: 7811.75277, Recon Loss: 7690.39679, KL Loss: 121.35596, Time: 5.2
+The test reconstruction loss is 0.3745
+Epoch: 58/300, Loss: 7777.79542, Recon Loss: 7658.33941, KL Loss: 119.45601, Time: 5.2
+The test reconstruction loss is 0.3746
+Epoch: 59/300, Loss: 7754.81669, Recon Loss: 7637.51281, KL Loss: 117.30381, Time: 5.2
+The test reconstruction loss is 0.3742
+Epoch: 60/300, Loss: 7727.35262, Recon Loss: 7611.97085, KL Loss: 115.38179, Time: 5.2
+The test reconstruction loss is 0.3737
+Epoch: 61/300, Loss: 7714.64486, Recon Loss: 7600.52434, KL Loss: 114.12052, Time: 5.2
+The test reconstruction loss is 0.3736
+Epoch: 62/300, Loss: 7700.16527, Recon Loss: 7587.09413, KL Loss: 113.07121, Time: 5.2
+The test reconstruction loss is 0.3733
+Epoch: 63/300, Loss: 7671.77301, Recon Loss: 7560.39927, KL Loss: 111.37368, Time: 5.2
+The test reconstruction loss is 0.3730
+Epoch: 64/300, Loss: 7649.55860, Recon Loss: 7540.18901, KL Loss: 109.36960, Time: 5.2
+The test reconstruction loss is 0.3730
+Epoch: 65/300, Loss: 7635.08184, Recon Loss: 7527.54921, KL Loss: 107.53262, Time: 5.2
+The test reconstruction loss is 0.3724
+Epoch: 66/300, Loss: 7617.25552, Recon Loss: 7511.12955, KL Loss: 106.12593, Time: 5.2
+The test reconstruction loss is 0.3720
+Epoch: 67/300, Loss: 7613.19321, Recon Loss: 7508.36111, KL Loss: 104.83206, Time: 5.2
+The test reconstruction loss is 0.3720
+Epoch: 68/300, Loss: 7588.71879, Recon Loss: 7484.80043, KL Loss: 103.91839, Time: 5.2
+The test reconstruction loss is 0.3716
+Epoch: 69/300, Loss: 7581.43225, Recon Loss: 7478.66183, KL Loss: 102.77038, Time: 5.2
+The test reconstruction loss is 0.3716
+Epoch: 70/300, Loss: 7560.69987, Recon Loss: 7459.00936, KL Loss: 101.69047, Time: 5.2
+The test reconstruction loss is 0.3710
+Epoch: 71/300, Loss: 7541.96624, Recon Loss: 7441.02565, KL Loss: 100.94061, Time: 5.2
+The test reconstruction loss is 0.3709
+Epoch: 72/300, Loss: 7527.53918, Recon Loss: 7428.29462, KL Loss: 99.24450, Time: 5.2
+The test reconstruction loss is 0.3706
+Epoch: 73/300, Loss: 7519.74153, Recon Loss: 7421.95330, KL Loss: 97.78822, Time: 5.2
+The test reconstruction loss is 0.3704
+Epoch: 74/300, Loss: 7511.43663, Recon Loss: 7414.56749, KL Loss: 96.86916, Time: 5.2
+The test reconstruction loss is 0.3702
+Epoch: 75/300, Loss: 7497.18190, Recon Loss: 7401.41444, KL Loss: 95.76744, Time: 5.2
+The test reconstruction loss is 0.3701
+Epoch: 76/300, Loss: 7484.35325, Recon Loss: 7389.43402, KL Loss: 94.91923, Time: 5.2
+The test reconstruction loss is 0.3695
+Epoch: 77/300, Loss: 7473.45565, Recon Loss: 7379.52025, KL Loss: 93.93539, Time: 5.2
+The test reconstruction loss is 0.3695
+Epoch: 78/300, Loss: 7462.31182, Recon Loss: 7369.22638, KL Loss: 93.08544, Time: 5.2
+The test reconstruction loss is 0.3693
+Epoch: 79/300, Loss: 7450.49614, Recon Loss: 7358.35670, KL Loss: 92.13940, Time: 5.2
+The test reconstruction loss is 0.3692
+Epoch: 80/300, Loss: 7442.22855, Recon Loss: 7350.70466, KL Loss: 91.52387, Time: 5.2
+The test reconstruction loss is 0.3686
+Epoch: 81/300, Loss: 7431.47292, Recon Loss: 7340.86147, KL Loss: 90.61150, Time: 5.2
+The test reconstruction loss is 0.3684
+Epoch: 82/300, Loss: 7420.92274, Recon Loss: 7331.09158, KL Loss: 89.83114, Time: 5.2
+The test reconstruction loss is 0.3683
+Epoch: 83/300, Loss: 7418.05884, Recon Loss: 7328.73433, KL Loss: 89.32447, Time: 5.2
+The test reconstruction loss is 0.3679
+Epoch: 84/300, Loss: 7396.44590, Recon Loss: 7307.55015, KL Loss: 88.89574, Time: 5.2
+The test reconstruction loss is 0.3676
+Epoch: 85/300, Loss: 7388.98139, Recon Loss: 7300.76267, KL Loss: 88.21874, Time: 5.2
+The test reconstruction loss is 0.3676
+Epoch: 86/300, Loss: 7385.51449, Recon Loss: 7297.86916, KL Loss: 87.64532, Time: 5.2
+The test reconstruction loss is 0.3674
+Epoch: 87/300, Loss: 7367.64461, Recon Loss: 7280.41263, KL Loss: 87.23201, Time: 5.2
+The test reconstruction loss is 0.3670
+Epoch: 88/300, Loss: 7356.07437, Recon Loss: 7269.58564, KL Loss: 86.48874, Time: 5.2
+The test reconstruction loss is 0.3669
+Epoch: 89/300, Loss: 7339.03898, Recon Loss: 7252.94588, KL Loss: 86.09311, Time: 5.2
+The test reconstruction loss is 0.3668
+Epoch: 90/300, Loss: 7324.94091, Recon Loss: 7239.44530, KL Loss: 85.49561, Time: 5.2
+The test reconstruction loss is 0.3662
+Epoch: 91/300, Loss: 7315.29602, Recon Loss: 7230.19454, KL Loss: 85.10147, Time: 5.2
+The test reconstruction loss is 0.3659
+Epoch: 92/300, Loss: 7306.17660, Recon Loss: 7221.38980, KL Loss: 84.78679, Time: 5.2
+The test reconstruction loss is 0.3655
+Epoch: 93/300, Loss: 7287.07891, Recon Loss: 7202.58861, KL Loss: 84.49029, Time: 5.2
+The test reconstruction loss is 0.3650
+Epoch: 94/300, Loss: 7262.89635, Recon Loss: 7178.73714, KL Loss: 84.15916, Time: 5.2
+The test reconstruction loss is 0.3644
+Epoch: 95/300, Loss: 7245.47431, Recon Loss: 7161.31792, KL Loss: 84.15641, Time: 5.2
+The test reconstruction loss is 0.3636
+Epoch: 96/300, Loss: 7233.29953, Recon Loss: 7148.70785, KL Loss: 84.59170, Time: 5.2
+The test reconstruction loss is 0.3633
+Epoch: 97/300, Loss: 7199.12555, Recon Loss: 7114.14418, KL Loss: 84.98134, Time: 5.2
+The test reconstruction loss is 0.3621
+Epoch: 98/300, Loss: 7172.84171, Recon Loss: 7087.31859, KL Loss: 85.52315, Time: 5.2
+The test reconstruction loss is 0.3611
+Epoch: 99/300, Loss: 7132.53062, Recon Loss: 7046.44111, KL Loss: 86.08948, Time: 5.2
+The test reconstruction loss is 0.3600
+Epoch: 100/300, Loss: 7095.78454, Recon Loss: 7008.96890, KL Loss: 86.81560, Time: 5.2
+The test reconstruction loss is 0.3586
+Epoch: 101/300, Loss: 7049.82582, Recon Loss: 6962.20235, KL Loss: 87.62341, Time: 5.2
+The test reconstruction loss is 0.3572
+Epoch: 102/300, Loss: 6975.05351, Recon Loss: 6886.39848, KL Loss: 88.65507, Time: 5.2
+The test reconstruction loss is 0.3553
+Epoch: 103/300, Loss: 6912.67506, Recon Loss: 6823.72193, KL Loss: 88.95312, Time: 5.2
+The test reconstruction loss is 0.3537
+Epoch: 104/300, Loss: 6886.97939, Recon Loss: 6797.49944, KL Loss: 89.47996, Time: 5.2
+The test reconstruction loss is 0.3524
+Epoch: 105/300, Loss: 6832.44193, Recon Loss: 6741.32914, KL Loss: 91.11279, Time: 5.2
+The test reconstruction loss is 0.3510
+Epoch: 106/300, Loss: 6793.71841, Recon Loss: 6701.58217, KL Loss: 92.13626, Time: 5.2
+The test reconstruction loss is 0.3506
+Epoch: 107/300, Loss: 6759.87577, Recon Loss: 6666.92123, KL Loss: 92.95452, Time: 5.2
+The test reconstruction loss is 0.3500
+Epoch: 108/300, Loss: 6732.94550, Recon Loss: 6639.92086, KL Loss: 93.02466, Time: 5.2
+The test reconstruction loss is 0.3496
+Epoch: 109/300, Loss: 6711.27914, Recon Loss: 6618.36793, KL Loss: 92.91121, Time: 5.2
+The test reconstruction loss is 0.3493
+Epoch: 110/300, Loss: 6702.12840, Recon Loss: 6609.23763, KL Loss: 92.89078, Time: 5.2
+The test reconstruction loss is 0.3495
+Epoch: 111/300, Loss: 6678.70676, Recon Loss: 6585.78949, KL Loss: 92.91729, Time: 5.2
+The test reconstruction loss is 0.3486
+Epoch: 112/300, Loss: 6660.84834, Recon Loss: 6568.42932, KL Loss: 92.41900, Time: 5.2
+The test reconstruction loss is 0.3487
+Epoch: 113/300, Loss: 6650.70962, Recon Loss: 6559.02072, KL Loss: 91.68888, Time: 5.2
+The test reconstruction loss is 0.3483
+Epoch: 114/300, Loss: 6635.86477, Recon Loss: 6544.66905, KL Loss: 91.19573, Time: 5.2
+The test reconstruction loss is 0.3482
+Epoch: 115/300, Loss: 6621.11888, Recon Loss: 6530.17153, KL Loss: 90.94738, Time: 5.2
+The test reconstruction loss is 0.3483
+Epoch: 116/300, Loss: 6617.07806, Recon Loss: 6526.65696, KL Loss: 90.42104, Time: 5.2
+The test reconstruction loss is 0.3477
+Epoch: 117/300, Loss: 6598.48789, Recon Loss: 6508.57316, KL Loss: 89.91469, Time: 5.2
+The test reconstruction loss is 0.3475
+Epoch: 118/300, Loss: 6588.43392, Recon Loss: 6498.96202, KL Loss: 89.47186, Time: 5.2
+The test reconstruction loss is 0.3476
+Epoch: 119/300, Loss: 6575.03616, Recon Loss: 6485.98451, KL Loss: 89.05166, Time: 5.2
+The test reconstruction loss is 0.3471
+Epoch: 120/300, Loss: 6556.97736, Recon Loss: 6468.63980, KL Loss: 88.33758, Time: 5.2
+The test reconstruction loss is 0.3469
+Epoch: 121/300, Loss: 6549.12812, Recon Loss: 6461.44015, KL Loss: 87.68791, Time: 5.2
+The test reconstruction loss is 0.3468
+Epoch: 122/300, Loss: 6536.87292, Recon Loss: 6449.74332, KL Loss: 87.12960, Time: 5.2
+The test reconstruction loss is 0.3465
+Epoch: 123/300, Loss: 6524.73013, Recon Loss: 6438.07310, KL Loss: 86.65699, Time: 5.2
+The test reconstruction loss is 0.3462
+Epoch: 124/300, Loss: 6510.66789, Recon Loss: 6424.39966, KL Loss: 86.26824, Time: 5.2
+The test reconstruction loss is 0.3457
+Epoch: 125/300, Loss: 6489.88457, Recon Loss: 6404.10437, KL Loss: 85.78022, Time: 5.2
+The test reconstruction loss is 0.3454
+Epoch: 126/300, Loss: 6472.78826, Recon Loss: 6387.59236, KL Loss: 85.19595, Time: 5.2
+The test reconstruction loss is 0.3448
+Epoch: 127/300, Loss: 6451.52718, Recon Loss: 6366.98528, KL Loss: 84.54192, Time: 5.2
+The test reconstruction loss is 0.3441
+Epoch: 128/300, Loss: 6423.04927, Recon Loss: 6339.02282, KL Loss: 84.02646, Time: 5.2
+The test reconstruction loss is 0.3431
+Epoch: 129/300, Loss: 6397.90764, Recon Loss: 6314.02386, KL Loss: 83.88376, Time: 5.2
+The test reconstruction loss is 0.3420
+Epoch: 130/300, Loss: 6351.21250, Recon Loss: 6267.15560, KL Loss: 84.05691, Time: 5.2
+The test reconstruction loss is 0.3403
+Epoch: 131/300, Loss: 6290.36957, Recon Loss: 6206.64857, KL Loss: 83.72099, Time: 5.2
+The test reconstruction loss is 0.3381
+Epoch: 132/300, Loss: 6218.85216, Recon Loss: 6135.31672, KL Loss: 83.53545, Time: 5.2
+The test reconstruction loss is 0.3355
+Epoch: 133/300, Loss: 6143.60513, Recon Loss: 6059.85361, KL Loss: 83.75149, Time: 5.2
+The test reconstruction loss is 0.3320
+Epoch: 134/300, Loss: 6055.26285, Recon Loss: 5971.02378, KL Loss: 84.23904, Time: 5.2
+The test reconstruction loss is 0.3284
+Epoch: 135/300, Loss: 5979.37275, Recon Loss: 5894.44397, KL Loss: 84.92881, Time: 5.2
+The test reconstruction loss is 0.3263
+Epoch: 136/300, Loss: 5925.28144, Recon Loss: 5839.63092, KL Loss: 85.65049, Time: 5.2
+The test reconstruction loss is 0.3243
+Epoch: 137/300, Loss: 5885.92406, Recon Loss: 5799.88644, KL Loss: 86.03765, Time: 5.2
+The test reconstruction loss is 0.3238
+Epoch: 138/300, Loss: 5862.92566, Recon Loss: 5776.50372, KL Loss: 86.42198, Time: 5.2
+The test reconstruction loss is 0.3228
+Epoch: 139/300, Loss: 5846.73148, Recon Loss: 5760.09535, KL Loss: 86.63613, Time: 5.2
+The test reconstruction loss is 0.3224
+Epoch: 140/300, Loss: 5829.42584, Recon Loss: 5742.76913, KL Loss: 86.65676, Time: 5.2
+The test reconstruction loss is 0.3217
+Epoch: 141/300, Loss: 5815.47116, Recon Loss: 5729.03401, KL Loss: 86.43714, Time: 5.2
+The test reconstruction loss is 0.3212
+Epoch: 142/300, Loss: 5803.41457, Recon Loss: 5717.26130, KL Loss: 86.15323, Time: 5.2
+The test reconstruction loss is 0.3210
+Epoch: 143/300, Loss: 5793.54795, Recon Loss: 5707.71595, KL Loss: 85.83195, Time: 5.2
+The test reconstruction loss is 0.3206
+Epoch: 144/300, Loss: 5781.06469, Recon Loss: 5695.66525, KL Loss: 85.39943, Time: 5.2
+The test reconstruction loss is 0.3205
+Epoch: 145/300, Loss: 5776.91197, Recon Loss: 5691.99565, KL Loss: 84.91629, Time: 5.2
+The test reconstruction loss is 0.3201
+Epoch: 146/300, Loss: 5768.83711, Recon Loss: 5684.24758, KL Loss: 84.58950, Time: 5.2
+The test reconstruction loss is 0.3201
+Epoch: 147/300, Loss: 5761.37781, Recon Loss: 5677.17450, KL Loss: 84.20334, Time: 5.2
+The test reconstruction loss is 0.3198
+Epoch: 148/300, Loss: 5752.00922, Recon Loss: 5668.39557, KL Loss: 83.61365, Time: 5.2
+The test reconstruction loss is 0.3195
+Epoch: 149/300, Loss: 5746.28294, Recon Loss: 5663.26930, KL Loss: 83.01366, Time: 5.2
+The test reconstruction loss is 0.3194
+Epoch: 150/300, Loss: 5741.17140, Recon Loss: 5658.67681, KL Loss: 82.49463, Time: 5.2
+The test reconstruction loss is 0.3195
+Epoch: 151/300, Loss: 5736.61463, Recon Loss: 5654.33440, KL Loss: 82.28020, Time: 5.2
+The test reconstruction loss is 0.3191
+Epoch: 152/300, Loss: 5727.21469, Recon Loss: 5645.24835, KL Loss: 81.96634, Time: 5.2
+The test reconstruction loss is 0.3193
+Epoch: 153/300, Loss: 5719.17331, Recon Loss: 5637.80849, KL Loss: 81.36486, Time: 5.2
+The test reconstruction loss is 0.3188
+Epoch: 154/300, Loss: 5714.45807, Recon Loss: 5633.73214, KL Loss: 80.72597, Time: 5.2
+The test reconstruction loss is 0.3188
+Epoch: 155/300, Loss: 5710.61999, Recon Loss: 5630.45924, KL Loss: 80.16076, Time: 5.2
+The test reconstruction loss is 0.3186
+Epoch: 156/300, Loss: 5701.14108, Recon Loss: 5621.52638, KL Loss: 79.61474, Time: 5.2
+The test reconstruction loss is 0.3184
+Epoch: 157/300, Loss: 5698.13970, Recon Loss: 5619.16650, KL Loss: 78.97318, Time: 5.2
+The test reconstruction loss is 0.3183
+Epoch: 158/300, Loss: 5694.57226, Recon Loss: 5616.09251, KL Loss: 78.47970, Time: 5.2
+The test reconstruction loss is 0.3185
+Epoch: 159/300, Loss: 5688.29827, Recon Loss: 5610.29240, KL Loss: 78.00587, Time: 5.2
+The test reconstruction loss is 0.3183
+Epoch: 160/300, Loss: 5686.43256, Recon Loss: 5608.85069, KL Loss: 77.58180, Time: 5.2
+The test reconstruction loss is 0.3180
+Epoch: 161/300, Loss: 5679.78428, Recon Loss: 5602.47376, KL Loss: 77.31048, Time: 5.2
+The test reconstruction loss is 0.3181
+Epoch: 162/300, Loss: 5677.43848, Recon Loss: 5600.63473, KL Loss: 76.80369, Time: 5.2
+The test reconstruction loss is 0.3179
+Epoch: 163/300, Loss: 5671.86001, Recon Loss: 5595.35384, KL Loss: 76.50616, Time: 5.2
+The test reconstruction loss is 0.3178
+Epoch: 164/300, Loss: 5668.59801, Recon Loss: 5592.56441, KL Loss: 76.03362, Time: 5.2
+The test reconstruction loss is 0.3178
+Epoch: 165/300, Loss: 5663.93474, Recon Loss: 5588.27389, KL Loss: 75.66080, Time: 5.2
+The test reconstruction loss is 0.3177
+Epoch: 166/300, Loss: 5661.01581, Recon Loss: 5585.71909, KL Loss: 75.29673, Time: 5.2
+The test reconstruction loss is 0.3176
+Epoch: 167/300, Loss: 5653.69884, Recon Loss: 5578.84983, KL Loss: 74.84902, Time: 5.2
+The test reconstruction loss is 0.3175
+Epoch: 168/300, Loss: 5652.85582, Recon Loss: 5578.49173, KL Loss: 74.36407, Time: 5.2
+The test reconstruction loss is 0.3174
+Epoch: 169/300, Loss: 5649.46930, Recon Loss: 5575.55283, KL Loss: 73.91646, Time: 5.2
+The test reconstruction loss is 0.3174
+Epoch: 170/300, Loss: 5645.29374, Recon Loss: 5571.80533, KL Loss: 73.48844, Time: 5.2
+The test reconstruction loss is 0.3172
+Epoch: 171/300, Loss: 5642.65077, Recon Loss: 5569.44377, KL Loss: 73.20703, Time: 5.2
+The test reconstruction loss is 0.3171
+Epoch: 172/300, Loss: 5639.15220, Recon Loss: 5566.20694, KL Loss: 72.94532, Time: 5.2
+The test reconstruction loss is 0.3171
+Epoch: 173/300, Loss: 5637.04284, Recon Loss: 5564.39709, KL Loss: 72.64573, Time: 5.2
+The test reconstruction loss is 0.3172
+Epoch: 174/300, Loss: 5633.70074, Recon Loss: 5561.29161, KL Loss: 72.40912, Time: 5.2
+The test reconstruction loss is 0.3170
+Epoch: 175/300, Loss: 5631.26118, Recon Loss: 5559.16387, KL Loss: 72.09729, Time: 5.2
+The test reconstruction loss is 0.3169
+Epoch: 176/300, Loss: 5627.52907, Recon Loss: 5555.71003, KL Loss: 71.81900, Time: 5.2
+The test reconstruction loss is 0.3168
+Epoch: 177/300, Loss: 5623.62708, Recon Loss: 5552.18947, KL Loss: 71.43760, Time: 5.2
+The test reconstruction loss is 0.3167
+Epoch: 178/300, Loss: 5619.32944, Recon Loss: 5548.27357, KL Loss: 71.05588, Time: 5.2
+The test reconstruction loss is 0.3169
+Epoch: 179/300, Loss: 5616.91029, Recon Loss: 5546.29215, KL Loss: 70.61817, Time: 5.2
+The test reconstruction loss is 0.3168
+Epoch: 180/300, Loss: 5618.23963, Recon Loss: 5547.94218, KL Loss: 70.29744, Time: 5.2
+The test reconstruction loss is 0.3166
+Epoch: 181/300, Loss: 5613.72364, Recon Loss: 5543.52291, KL Loss: 70.20079, Time: 5.2
+The test reconstruction loss is 0.3165
+Epoch: 182/300, Loss: 5609.54188, Recon Loss: 5539.55554, KL Loss: 69.98636, Time: 5.2
+The test reconstruction loss is 0.3165
+Epoch: 183/300, Loss: 5608.52524, Recon Loss: 5538.83955, KL Loss: 69.68567, Time: 5.2
+The test reconstruction loss is 0.3165
+Epoch: 184/300, Loss: 5604.47464, Recon Loss: 5535.16581, KL Loss: 69.30884, Time: 5.2
+The test reconstruction loss is 0.3166
+Epoch: 185/300, Loss: 5604.03101, Recon Loss: 5534.98118, KL Loss: 69.04979, Time: 5.2
+The test reconstruction loss is 0.3164
+Epoch: 186/300, Loss: 5601.48208, Recon Loss: 5532.62403, KL Loss: 68.85806, Time: 5.2
+The test reconstruction loss is 0.3164
+Epoch: 187/300, Loss: 5598.74059, Recon Loss: 5530.05362, KL Loss: 68.68697, Time: 5.2
+The test reconstruction loss is 0.3163
+Epoch: 188/300, Loss: 5595.75722, Recon Loss: 5527.32994, KL Loss: 68.42727, Time: 5.2
+The test reconstruction loss is 0.3162
+Epoch: 189/300, Loss: 5593.41411, Recon Loss: 5525.20924, KL Loss: 68.20485, Time: 5.2
+The test reconstruction loss is 0.3162
+Epoch: 190/300, Loss: 5591.99755, Recon Loss: 5524.03614, KL Loss: 67.96142, Time: 5.2
+The test reconstruction loss is 0.3161
+Epoch: 191/300, Loss: 5587.96679, Recon Loss: 5520.27201, KL Loss: 67.69476, Time: 5.2
+The test reconstruction loss is 0.3160
+Epoch: 192/300, Loss: 5586.89390, Recon Loss: 5519.42698, KL Loss: 67.46693, Time: 5.2
+The test reconstruction loss is 0.3159
+Epoch: 193/300, Loss: 5588.05288, Recon Loss: 5520.65053, KL Loss: 67.40234, Time: 5.2
+The test reconstruction loss is 0.3160
+Epoch: 194/300, Loss: 5580.72393, Recon Loss: 5513.42082, KL Loss: 67.30312, Time: 5.2
+The test reconstruction loss is 0.3159
+Epoch: 195/300, Loss: 5581.22091, Recon Loss: 5514.13935, KL Loss: 67.08155, Time: 5.2
+The test reconstruction loss is 0.3158
+Epoch: 196/300, Loss: 5578.85529, Recon Loss: 5511.89759, KL Loss: 66.95767, Time: 5.2
+The test reconstruction loss is 0.3157
+Epoch: 197/300, Loss: 5578.23447, Recon Loss: 5511.46093, KL Loss: 66.77352, Time: 5.2
+The test reconstruction loss is 0.3157
+Epoch: 198/300, Loss: 5575.04089, Recon Loss: 5508.49517, KL Loss: 66.54570, Time: 5.2
+The test reconstruction loss is 0.3158
+Epoch: 199/300, Loss: 5570.86381, Recon Loss: 5504.57106, KL Loss: 66.29276, Time: 5.2
+The test reconstruction loss is 0.3157
+Epoch: 200/300, Loss: 5569.17663, Recon Loss: 5503.19452, KL Loss: 65.98214, Time: 5.2
+The test reconstruction loss is 0.3157
+Epoch: 201/300, Loss: 5567.12631, Recon Loss: 5501.39046, KL Loss: 65.73588, Time: 5.2
+The test reconstruction loss is 0.3156
+Epoch: 202/300, Loss: 5566.17398, Recon Loss: 5500.62883, KL Loss: 65.54513, Time: 5.2
+The test reconstruction loss is 0.3155
+Epoch: 203/300, Loss: 5564.22749, Recon Loss: 5498.87392, KL Loss: 65.35362, Time: 5.2
+The test reconstruction loss is 0.3157
+Epoch: 204/300, Loss: 5564.06484, Recon Loss: 5498.79823, KL Loss: 65.26665, Time: 5.2
+The test reconstruction loss is 0.3155
+Epoch: 205/300, Loss: 5560.77633, Recon Loss: 5495.66579, KL Loss: 65.11056, Time: 5.2
+The test reconstruction loss is 0.3154
+Epoch: 206/300, Loss: 5560.62118, Recon Loss: 5495.72504, KL Loss: 64.89614, Time: 5.2
+The test reconstruction loss is 0.3154
+Epoch: 207/300, Loss: 5557.28509, Recon Loss: 5492.52022, KL Loss: 64.76488, Time: 5.2
+The test reconstruction loss is 0.3154
+Epoch: 208/300, Loss: 5554.23022, Recon Loss: 5489.66448, KL Loss: 64.56571, Time: 5.2
+The test reconstruction loss is 0.3153
+Epoch: 209/300, Loss: 5553.54501, Recon Loss: 5489.19557, KL Loss: 64.34942, Time: 5.2
+The test reconstruction loss is 0.3153
+Epoch: 210/300, Loss: 5551.10845, Recon Loss: 5486.92323, KL Loss: 64.18518, Time: 5.2
+The test reconstruction loss is 0.3153
+Epoch: 211/300, Loss: 5549.59255, Recon Loss: 5485.61235, KL Loss: 63.98020, Time: 5.2
+The test reconstruction loss is 0.3154
+Epoch: 212/300, Loss: 5547.82071, Recon Loss: 5484.07495, KL Loss: 63.74578, Time: 5.2
+The test reconstruction loss is 0.3152
+Epoch: 213/300, Loss: 5545.76081, Recon Loss: 5482.22397, KL Loss: 63.53684, Time: 5.2
+The test reconstruction loss is 0.3151
+Epoch: 214/300, Loss: 5544.43309, Recon Loss: 5481.03659, KL Loss: 63.39651, Time: 5.2
+The test reconstruction loss is 0.3151
+Epoch: 215/300, Loss: 5542.86908, Recon Loss: 5479.57134, KL Loss: 63.29777, Time: 5.2
+The test reconstruction loss is 0.3150
+Epoch: 216/300, Loss: 5539.82993, Recon Loss: 5476.66686, KL Loss: 63.16303, Time: 5.2
+The test reconstruction loss is 0.3150
+Epoch: 217/300, Loss: 5539.88446, Recon Loss: 5476.92126, KL Loss: 62.96318, Time: 5.2
+The test reconstruction loss is 0.3150
+Epoch: 218/300, Loss: 5538.55822, Recon Loss: 5475.69090, KL Loss: 62.86730, Time: 5.2
+The test reconstruction loss is 0.3149
+Epoch: 219/300, Loss: 5536.20986, Recon Loss: 5473.52205, KL Loss: 62.68784, Time: 5.2
+The test reconstruction loss is 0.3149
+Epoch: 220/300, Loss: 5537.50928, Recon Loss: 5474.98411, KL Loss: 62.52519, Time: 5.2
+The test reconstruction loss is 0.3148
+Epoch: 221/300, Loss: 5532.64924, Recon Loss: 5470.05424, KL Loss: 62.59499, Time: 5.2
+The test reconstruction loss is 0.3148
+Epoch: 222/300, Loss: 5530.94241, Recon Loss: 5468.47606, KL Loss: 62.46636, Time: 5.2
+The test reconstruction loss is 0.3150
+Epoch: 223/300, Loss: 5532.76949, Recon Loss: 5470.48284, KL Loss: 62.28668, Time: 5.2
+The test reconstruction loss is 0.3148
+Epoch: 224/300, Loss: 5527.55714, Recon Loss: 5465.42325, KL Loss: 62.13388, Time: 5.2
+The test reconstruction loss is 0.3147
+Epoch: 225/300, Loss: 5526.56773, Recon Loss: 5464.61200, KL Loss: 61.95572, Time: 5.2
+The test reconstruction loss is 0.3147
+Epoch: 226/300, Loss: 5525.65372, Recon Loss: 5463.88488, KL Loss: 61.76886, Time: 5.2
+The test reconstruction loss is 0.3147
+Epoch: 227/300, Loss: 5524.29824, Recon Loss: 5462.61710, KL Loss: 61.68115, Time: 5.2
+The test reconstruction loss is 0.3147
+Epoch: 228/300, Loss: 5523.32237, Recon Loss: 5461.80147, KL Loss: 61.52092, Time: 5.2
+The test reconstruction loss is 0.3146
+Epoch: 229/300, Loss: 5521.68910, Recon Loss: 5460.24179, KL Loss: 61.44733, Time: 5.2
+The test reconstruction loss is 0.3145
+Epoch: 230/300, Loss: 5518.98526, Recon Loss: 5457.65518, KL Loss: 61.33012, Time: 5.2
+The test reconstruction loss is 0.3145
+Epoch: 231/300, Loss: 5518.82296, Recon Loss: 5457.66152, KL Loss: 61.16139, Time: 5.2
+The test reconstruction loss is 0.3144
+Epoch: 232/300, Loss: 5515.37385, Recon Loss: 5454.28835, KL Loss: 61.08551, Time: 5.2
+The test reconstruction loss is 0.3145
+Epoch: 233/300, Loss: 5516.02855, Recon Loss: 5455.07532, KL Loss: 60.95322, Time: 5.2
+The test reconstruction loss is 0.3145
+Epoch: 234/300, Loss: 5513.82017, Recon Loss: 5452.97708, KL Loss: 60.84309, Time: 5.2
+The test reconstruction loss is 0.3144
+Epoch: 235/300, Loss: 5512.29019, Recon Loss: 5451.55341, KL Loss: 60.73679, Time: 5.2
+The test reconstruction loss is 0.3143
+Epoch: 236/300, Loss: 5511.20850, Recon Loss: 5450.56385, KL Loss: 60.64464, Time: 5.2
+The test reconstruction loss is 0.3142
+Epoch: 237/300, Loss: 5512.25742, Recon Loss: 5451.66356, KL Loss: 60.59383, Time: 5.2
+The test reconstruction loss is 0.3144
+Epoch: 238/300, Loss: 5508.74664, Recon Loss: 5448.13658, KL Loss: 60.61003, Time: 5.2
+The test reconstruction loss is 0.3142
+Epoch: 239/300, Loss: 5507.26036, Recon Loss: 5446.77541, KL Loss: 60.48492, Time: 5.2
+The test reconstruction loss is 0.3142
+Epoch: 240/300, Loss: 5506.85948, Recon Loss: 5446.46795, KL Loss: 60.39154, Time: 5.2
+The test reconstruction loss is 0.3143
+Epoch: 241/300, Loss: 5505.50821, Recon Loss: 5445.21810, KL Loss: 60.29007, Time: 5.2
+The test reconstruction loss is 0.3141
+Epoch: 242/300, Loss: 5501.81258, Recon Loss: 5441.63069, KL Loss: 60.18185, Time: 5.2
+The test reconstruction loss is 0.3141
+Epoch: 243/300, Loss: 5502.25454, Recon Loss: 5442.18532, KL Loss: 60.06922, Time: 5.2
+The test reconstruction loss is 0.3141
+Epoch: 244/300, Loss: 5502.90278, Recon Loss: 5442.91362, KL Loss: 59.98921, Time: 5.2
+The test reconstruction loss is 0.3141
+Epoch: 245/300, Loss: 5498.31886, Recon Loss: 5438.41479, KL Loss: 59.90409, Time: 5.2
+The test reconstruction loss is 0.3140
+Epoch: 246/300, Loss: 5497.45633, Recon Loss: 5437.67652, KL Loss: 59.77984, Time: 5.2
+The test reconstruction loss is 0.3139
+Epoch: 247/300, Loss: 5496.55175, Recon Loss: 5436.91868, KL Loss: 59.63306, Time: 5.2
+The test reconstruction loss is 0.3140
+Epoch: 248/300, Loss: 5495.28531, Recon Loss: 5435.68148, KL Loss: 59.60380, Time: 5.2
+The test reconstruction loss is 0.3139
+Epoch: 249/300, Loss: 5492.86249, Recon Loss: 5433.36277, KL Loss: 59.49969, Time: 5.2
+The test reconstruction loss is 0.3139
+Epoch: 250/300, Loss: 5492.03108, Recon Loss: 5432.62556, KL Loss: 59.40551, Time: 5.2
+The test reconstruction loss is 0.3138
+Epoch: 251/300, Loss: 5493.08914, Recon Loss: 5433.73501, KL Loss: 59.35413, Time: 5.2
+The test reconstruction loss is 0.3139
+Epoch: 252/300, Loss: 5489.98053, Recon Loss: 5430.69640, KL Loss: 59.28414, Time: 5.2
+The test reconstruction loss is 0.3138
+Epoch: 253/300, Loss: 5488.83363, Recon Loss: 5429.68043, KL Loss: 59.15321, Time: 5.2
+The test reconstruction loss is 0.3137
+Epoch: 254/300, Loss: 5486.82765, Recon Loss: 5427.77067, KL Loss: 59.05702, Time: 5.2
+The test reconstruction loss is 0.3137
+Epoch: 255/300, Loss: 5486.49046, Recon Loss: 5427.55714, KL Loss: 58.93331, Time: 5.2
+The test reconstruction loss is 0.3137
+Epoch: 256/300, Loss: 5486.57257, Recon Loss: 5427.73207, KL Loss: 58.84048, Time: 5.2
+The test reconstruction loss is 0.3137
+Epoch: 257/300, Loss: 5483.14527, Recon Loss: 5424.37871, KL Loss: 58.76657, Time: 5.2
+The test reconstruction loss is 0.3136
+Epoch: 258/300, Loss: 5482.79348, Recon Loss: 5424.09101, KL Loss: 58.70247, Time: 5.2
+The test reconstruction loss is 0.3136
+Epoch: 259/300, Loss: 5481.54855, Recon Loss: 5422.95076, KL Loss: 58.59782, Time: 5.2
+The test reconstruction loss is 0.3136
+Epoch: 260/300, Loss: 5480.67434, Recon Loss: 5422.14795, KL Loss: 58.52639, Time: 5.2
+The test reconstruction loss is 0.3135
+Epoch: 261/300, Loss: 5480.06174, Recon Loss: 5421.56635, KL Loss: 58.49538, Time: 5.2
+The test reconstruction loss is 0.3136
+Epoch: 262/300, Loss: 5479.67794, Recon Loss: 5421.20522, KL Loss: 58.47269, Time: 5.2
+The test reconstruction loss is 0.3136
+Epoch: 263/300, Loss: 5478.59191, Recon Loss: 5420.13473, KL Loss: 58.45719, Time: 5.2
+The test reconstruction loss is 0.3136
+Epoch: 264/300, Loss: 5476.98033, Recon Loss: 5418.54201, KL Loss: 58.43835, Time: 5.2
+The test reconstruction loss is 0.3134
+Epoch: 265/300, Loss: 5473.91241, Recon Loss: 5415.56937, KL Loss: 58.34305, Time: 5.2
+The test reconstruction loss is 0.3135
+Epoch: 266/300, Loss: 5474.11545, Recon Loss: 5415.84704, KL Loss: 58.26841, Time: 5.2
+The test reconstruction loss is 0.3135
+Epoch: 267/300, Loss: 5474.12210, Recon Loss: 5415.90731, KL Loss: 58.21476, Time: 5.2
+The test reconstruction loss is 0.3134
+Epoch: 268/300, Loss: 5470.48567, Recon Loss: 5412.34826, KL Loss: 58.13739, Time: 5.2
+The test reconstruction loss is 0.3133
+Epoch: 269/300, Loss: 5469.65311, Recon Loss: 5411.65071, KL Loss: 58.00241, Time: 5.2
+The test reconstruction loss is 0.3133
+Epoch: 270/300, Loss: 5468.54401, Recon Loss: 5410.64514, KL Loss: 57.89887, Time: 5.2
+The test reconstruction loss is 0.3134
+Epoch: 271/300, Loss: 5468.59688, Recon Loss: 5410.77259, KL Loss: 57.82431, Time: 5.2
+The test reconstruction loss is 0.3132
+Epoch: 272/300, Loss: 5468.52671, Recon Loss: 5410.79415, KL Loss: 57.73255, Time: 5.2
+The test reconstruction loss is 0.3132
+Epoch: 273/300, Loss: 5466.20722, Recon Loss: 5408.49729, KL Loss: 57.70995, Time: 5.2
+The test reconstruction loss is 0.3132
+Epoch: 274/300, Loss: 5464.66553, Recon Loss: 5406.93710, KL Loss: 57.72842, Time: 5.2
+The test reconstruction loss is 0.3133
+Epoch: 275/300, Loss: 5465.78763, Recon Loss: 5408.15596, KL Loss: 57.63172, Time: 5.2
+The test reconstruction loss is 0.3133
+Epoch: 276/300, Loss: 5465.53057, Recon Loss: 5407.90057, KL Loss: 57.62994, Time: 5.2
+The test reconstruction loss is 0.3132
+Epoch: 277/300, Loss: 5461.81563, Recon Loss: 5404.16542, KL Loss: 57.65022, Time: 5.2
+The test reconstruction loss is 0.3131
+Epoch: 278/300, Loss: 5460.22285, Recon Loss: 5402.68449, KL Loss: 57.53839, Time: 5.2
+The test reconstruction loss is 0.3132
+Epoch: 279/300, Loss: 5460.46030, Recon Loss: 5403.03454, KL Loss: 57.42575, Time: 5.2
+The test reconstruction loss is 0.3131
+Epoch: 280/300, Loss: 5458.48187, Recon Loss: 5401.09331, KL Loss: 57.38853, Time: 5.2
+The test reconstruction loss is 0.3131
+Epoch: 281/300, Loss: 5458.82156, Recon Loss: 5401.55607, KL Loss: 57.26549, Time: 5.2
+The test reconstruction loss is 0.3130
+Epoch: 282/300, Loss: 5456.31931, Recon Loss: 5399.10507, KL Loss: 57.21426, Time: 5.2
+The test reconstruction loss is 0.3130
+Epoch: 283/300, Loss: 5455.26341, Recon Loss: 5398.08835, KL Loss: 57.17500, Time: 5.2
+The test reconstruction loss is 0.3129
+Epoch: 284/300, Loss: 5454.64507, Recon Loss: 5397.55111, KL Loss: 57.09399, Time: 5.2
+The test reconstruction loss is 0.3130
+Epoch: 285/300, Loss: 5453.70924, Recon Loss: 5396.65407, KL Loss: 57.05517, Time: 5.2
+The test reconstruction loss is 0.3129
+Epoch: 286/300, Loss: 5453.06078, Recon Loss: 5396.03973, KL Loss: 57.02101, Time: 5.2
+The test reconstruction loss is 0.3129
+Epoch: 287/300, Loss: 5453.06381, Recon Loss: 5396.11216, KL Loss: 56.95166, Time: 5.2
+The test reconstruction loss is 0.3129
+Epoch: 288/300, Loss: 5450.86656, Recon Loss: 5393.99147, KL Loss: 56.87507, Time: 5.2
+The test reconstruction loss is 0.3128
+Epoch: 289/300, Loss: 5450.19773, Recon Loss: 5393.33924, KL Loss: 56.85849, Time: 5.2
+The test reconstruction loss is 0.3128
+Epoch: 290/300, Loss: 5448.45413, Recon Loss: 5391.60348, KL Loss: 56.85067, Time: 5.2
+The test reconstruction loss is 0.3128
+Epoch: 291/300, Loss: 5447.08168, Recon Loss: 5390.32837, KL Loss: 56.75330, Time: 5.2
+The test reconstruction loss is 0.3129
+Epoch: 292/300, Loss: 5446.44203, Recon Loss: 5389.76936, KL Loss: 56.67268, Time: 5.2
+The test reconstruction loss is 0.3128
+Epoch: 293/300, Loss: 5445.16819, Recon Loss: 5388.60834, KL Loss: 56.55983, Time: 5.2
+The test reconstruction loss is 0.3127
+Epoch: 294/300, Loss: 5444.25877, Recon Loss: 5387.74517, KL Loss: 56.51367, Time: 5.2
+The test reconstruction loss is 0.3129
+Epoch: 295/300, Loss: 5445.03409, Recon Loss: 5388.55312, KL Loss: 56.48099, Time: 5.2
+The test reconstruction loss is 0.3127
+Epoch: 296/300, Loss: 5443.53651, Recon Loss: 5387.07209, KL Loss: 56.46445, Time: 5.2
+The test reconstruction loss is 0.3126
+Epoch: 297/300, Loss: 5441.45455, Recon Loss: 5385.03194, KL Loss: 56.42265, Time: 5.2
+The test reconstruction loss is 0.3127
+Epoch: 298/300, Loss: 5439.95354, Recon Loss: 5383.57105, KL Loss: 56.38249, Time: 5.2
+The test reconstruction loss is 0.3127
+Epoch: 299/300, Loss: 5441.62995, Recon Loss: 5385.27186, KL Loss: 56.35810, Time: 5.2
+The test reconstruction loss is 0.3127
+Epoch: 300/300, Loss: 5439.88844, Recon Loss: 5383.50716, KL Loss: 56.38127, Time: 5.2
+The test reconstruction loss is 0.3125
+The following is the eval result:
+Mean: 18.430 + std: 10.233 | Median 16.552

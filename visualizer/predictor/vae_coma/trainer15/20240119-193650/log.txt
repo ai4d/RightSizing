@@ -1,0 +1,4002 @@
+Epoch: 0/1000, Loss: 43322.09350, Time: 8.0
+Recon Loss: 86891.80712. KL Loss: 17.75963. Laplacian Loss: 6.53343. 
+The test reconstruction loss is 0.6480
+
+Epoch: 1/1000, Loss: 32918.78909, Time: 7.2
+Recon Loss: 66331.53753. KL Loss: 73.23690. Laplacian Loss: 16.13984. 
+The test reconstruction loss is 0.6335
+
+Epoch: 2/1000, Loss: 31531.11100, Time: 7.1
+Recon Loss: 64120.87908. KL Loss: 97.91760. Laplacian Loss: 16.39253. 
+The test reconstruction loss is 0.6077
+
+Epoch: 3/1000, Loss: 27927.55704, Time: 7.2
+Recon Loss: 57220.58366. KL Loss: 131.71292. Laplacian Loss: 17.54486. 
+The test reconstruction loss is 0.5791
+
+Epoch: 4/1000, Loss: 25659.25827, Time: 7.1
+Recon Loss: 52988.01329. KL Loss: 149.37054. Laplacian Loss: 17.86912. 
+The test reconstruction loss is 0.5566
+
+Epoch: 5/1000, Loss: 24236.73261, Time: 7.2
+Recon Loss: 50453.95924. KL Loss: 162.83867. Laplacian Loss: 18.00802. 
+The test reconstruction loss is 0.5458
+
+Epoch: 6/1000, Loss: 23385.34458, Time: 7.2
+Recon Loss: 49103.10652. KL Loss: 159.61353. Laplacian Loss: 17.96325. 
+The test reconstruction loss is 0.5353
+
+Epoch: 7/1000, Loss: 22132.29172, Time: 7.2
+Recon Loss: 46865.64548. KL Loss: 145.38426. Laplacian Loss: 17.93196. 
+The test reconstruction loss is 0.5025
+
+Epoch: 8/1000, Loss: 18741.28259, Time: 7.1
+Recon Loss: 39881.19461. KL Loss: 146.56838. Laplacian Loss: 18.94055. 
+The test reconstruction loss is 0.4671
+
+Epoch: 9/1000, Loss: 16985.11422, Time: 7.1
+Recon Loss: 36339.11706. KL Loss: 151.01231. Laplacian Loss: 19.22179. 
+The test reconstruction loss is 0.4484
+
+Epoch: 10/1000, Loss: 16034.79059, Time: 7.1
+Recon Loss: 34515.27738. KL Loss: 152.05654. Laplacian Loss: 19.16116. 
+The test reconstruction loss is 0.4395
+
+Epoch: 11/1000, Loss: 15365.70767, Time: 7.3
+Recon Loss: 33282.75084. KL Loss: 149.91448. Laplacian Loss: 19.16558. 
+The test reconstruction loss is 0.4334
+
+Epoch: 12/1000, Loss: 14826.90266, Time: 7.2
+Recon Loss: 32318.48081. KL Loss: 148.25508. Laplacian Loss: 19.19797. 
+The test reconstruction loss is 0.4282
+
+Epoch: 13/1000, Loss: 14390.10671, Time: 7.1
+Recon Loss: 31568.73577. KL Loss: 145.42489. Laplacian Loss: 19.22246. 
+The test reconstruction loss is 0.4219
+
+Epoch: 14/1000, Loss: 13992.17084, Time: 7.1
+Recon Loss: 30895.18486. KL Loss: 141.69373. Laplacian Loss: 19.24788. 
+The test reconstruction loss is 0.4181
+
+Epoch: 15/1000, Loss: 13598.13889, Time: 7.2
+Recon Loss: 30218.10760. KL Loss: 138.80209. Laplacian Loss: 19.28795. 
+The test reconstruction loss is 0.4107
+
+Epoch: 16/1000, Loss: 13139.38270, Time: 7.3
+Recon Loss: 29380.02965. KL Loss: 136.62987. Laplacian Loss: 19.33154. 
+The test reconstruction loss is 0.4060
+
+Epoch: 17/1000, Loss: 12601.69004, Time: 7.3
+Recon Loss: 28343.80006. KL Loss: 135.17648. Laplacian Loss: 19.38383. 
+The test reconstruction loss is 0.3962
+
+Epoch: 18/1000, Loss: 11997.13529, Time: 7.2
+Recon Loss: 27131.01388. KL Loss: 136.36786. Laplacian Loss: 19.43145. 
+The test reconstruction loss is 0.3855
+
+Epoch: 19/1000, Loss: 11585.63294, Time: 7.2
+Recon Loss: 26346.77790. KL Loss: 139.70131. Laplacian Loss: 19.46656. 
+The test reconstruction loss is 0.3813
+
+Epoch: 20/1000, Loss: 11326.83976, Time: 7.2
+Recon Loss: 25909.86545. KL Loss: 143.21305. Laplacian Loss: 19.46358. 
+The test reconstruction loss is 0.3789
+
+Epoch: 21/1000, Loss: 11134.77856, Time: 7.2
+Recon Loss: 25626.47038. KL Loss: 144.58574. Laplacian Loss: 19.45380. 
+The test reconstruction loss is 0.3766
+
+Epoch: 22/1000, Loss: 10971.57224, Time: 7.2
+Recon Loss: 25407.78600. KL Loss: 145.92694. Laplacian Loss: 19.44494. 
+The test reconstruction loss is 0.3751
+
+Epoch: 23/1000, Loss: 10822.98694, Time: 7.2
+Recon Loss: 25222.10461. KL Loss: 146.34840. Laplacian Loss: 19.43414. 
+The test reconstruction loss is 0.3743
+
+Epoch: 24/1000, Loss: 10683.35292, Time: 7.2
+Recon Loss: 25055.65118. KL Loss: 146.39019. Laplacian Loss: 19.42912. 
+The test reconstruction loss is 0.3733
+
+Epoch: 25/1000, Loss: 10556.84802, Time: 7.2
+Recon Loss: 24919.23283. KL Loss: 146.23297. Laplacian Loss: 19.41489. 
+The test reconstruction loss is 0.3723
+
+Epoch: 26/1000, Loss: 10428.49164, Time: 7.4
+Recon Loss: 24776.97721. KL Loss: 145.49765. Laplacian Loss: 19.39652. 
+The test reconstruction loss is 0.3713
+
+Epoch: 27/1000, Loss: 10319.40346, Time: 7.2
+Recon Loss: 24680.02997. KL Loss: 144.81913. Laplacian Loss: 19.37733. 
+The test reconstruction loss is 0.3705
+
+Epoch: 28/1000, Loss: 10205.45094, Time: 7.2
+Recon Loss: 24569.28648. KL Loss: 144.55093. Laplacian Loss: 19.35524. 
+The test reconstruction loss is 0.3701
+
+Epoch: 29/1000, Loss: 10098.13629, Time: 7.2
+Recon Loss: 24473.77186. KL Loss: 143.73900. Laplacian Loss: 19.33469. 
+The test reconstruction loss is 0.3692
+
+Epoch: 30/1000, Loss: 10001.76673, Time: 7.2
+Recon Loss: 24403.75193. KL Loss: 143.26412. Laplacian Loss: 19.31633. 
+The test reconstruction loss is 0.3685
+
+Epoch: 31/1000, Loss: 9901.95549, Time: 7.2
+Recon Loss: 24324.38601. KL Loss: 142.61794. Laplacian Loss: 19.28284. 
+The test reconstruction loss is 0.3684
+
+Epoch: 32/1000, Loss: 9810.77061, Time: 7.2
+Recon Loss: 24264.85984. KL Loss: 142.09458. Laplacian Loss: 19.26722. 
+The test reconstruction loss is 0.3676
+
+Epoch: 33/1000, Loss: 9718.17510, Time: 7.2
+Recon Loss: 24200.79918. KL Loss: 141.65280. Laplacian Loss: 19.23818. 
+The test reconstruction loss is 0.3671
+
+Epoch: 34/1000, Loss: 9629.04766, Time: 7.2
+Recon Loss: 24143.96100. KL Loss: 141.25047. Laplacian Loss: 19.22103. 
+The test reconstruction loss is 0.3668
+
+Epoch: 35/1000, Loss: 9542.63712, Time: 7.3
+Recon Loss: 24093.25053. KL Loss: 140.84695. Laplacian Loss: 19.19072. 
+The test reconstruction loss is 0.3665
+
+Epoch: 36/1000, Loss: 9457.89032, Time: 7.3
+Recon Loss: 24045.43379. KL Loss: 140.37864. Laplacian Loss: 19.16918. 
+The test reconstruction loss is 0.3661
+
+Epoch: 37/1000, Loss: 9376.03201, Time: 7.3
+Recon Loss: 24004.18275. KL Loss: 139.84192. Laplacian Loss: 19.14051. 
+The test reconstruction loss is 0.3655
+
+Epoch: 38/1000, Loss: 9294.12156, Time: 7.3
+Recon Loss: 23961.05897. KL Loss: 139.59283. Laplacian Loss: 19.12046. 
+The test reconstruction loss is 0.3654
+
+Epoch: 39/1000, Loss: 9212.57254, Time: 7.3
+Recon Loss: 23917.60614. KL Loss: 139.36892. Laplacian Loss: 19.09839. 
+The test reconstruction loss is 0.3652
+
+Epoch: 40/1000, Loss: 9132.96060, Time: 7.3
+Recon Loss: 23878.38954. KL Loss: 138.92627. Laplacian Loss: 19.06803. 
+The test reconstruction loss is 0.3648
+
+Epoch: 41/1000, Loss: 9054.48766, Time: 7.3
+Recon Loss: 23840.71079. KL Loss: 138.47092. Laplacian Loss: 19.04349. 
+The test reconstruction loss is 0.3647
+
+Epoch: 42/1000, Loss: 8976.71194, Time: 7.4
+Recon Loss: 23803.81524. KL Loss: 138.00527. Laplacian Loss: 19.00861. 
+The test reconstruction loss is 0.3645
+
+Epoch: 43/1000, Loss: 8902.02820, Time: 7.4
+Recon Loss: 23773.54700. KL Loss: 137.45790. Laplacian Loss: 18.99270. 
+The test reconstruction loss is 0.3641
+
+Epoch: 44/1000, Loss: 8828.11922, Time: 7.3
+Recon Loss: 23744.52016. KL Loss: 136.95959. Laplacian Loss: 18.95908. 
+The test reconstruction loss is 0.3638
+
+Epoch: 45/1000, Loss: 8754.19405, Time: 7.1
+Recon Loss: 23713.60996. KL Loss: 136.49555. Laplacian Loss: 18.93985. 
+The test reconstruction loss is 0.3636
+
+Epoch: 46/1000, Loss: 8680.95471, Time: 7.2
+Recon Loss: 23683.11956. KL Loss: 136.14131. Laplacian Loss: 18.91889. 
+The test reconstruction loss is 0.3634
+
+Epoch: 47/1000, Loss: 8607.49379, Time: 7.3
+Recon Loss: 23650.71077. KL Loss: 135.87198. Laplacian Loss: 18.88789. 
+The test reconstruction loss is 0.3635
+
+Epoch: 48/1000, Loss: 8539.77837, Time: 7.2
+Recon Loss: 23632.89743. KL Loss: 135.46601. Laplacian Loss: 18.86853. 
+The test reconstruction loss is 0.3630
+
+Epoch: 49/1000, Loss: 8467.52416, Time: 7.3
+Recon Loss: 23600.80156. KL Loss: 135.13720. Laplacian Loss: 18.84459. 
+The test reconstruction loss is 0.3628
+
+Epoch: 50/1000, Loss: 8396.89739, Time: 7.2
+Recon Loss: 23571.86615. KL Loss: 134.82787. Laplacian Loss: 18.81647. 
+The test reconstruction loss is 0.3624
+
+Epoch: 51/1000, Loss: 8327.57273, Time: 7.2
+Recon Loss: 23545.27984. KL Loss: 134.50570. Laplacian Loss: 18.78325. 
+The test reconstruction loss is 0.3624
+
+Epoch: 52/1000, Loss: 8260.62557, Time: 7.4
+Recon Loss: 23524.34669. KL Loss: 134.20061. Laplacian Loss: 18.73806. 
+The test reconstruction loss is 0.3622
+
+Epoch: 53/1000, Loss: 8192.58568, Time: 7.4
+Recon Loss: 23499.17758. KL Loss: 134.00457. Laplacian Loss: 18.67054. 
+The test reconstruction loss is 0.3620
+
+Epoch: 54/1000, Loss: 8125.14630, Time: 7.4
+Recon Loss: 23474.69400. KL Loss: 133.84600. Laplacian Loss: 18.58316. 
+The test reconstruction loss is 0.3620
+
+Epoch: 55/1000, Loss: 8058.18115, Time: 7.3
+Recon Loss: 23449.89394. KL Loss: 133.50961. Laplacian Loss: 18.50410. 
+The test reconstruction loss is 0.3618
+
+Epoch: 56/1000, Loss: 7992.32062, Time: 7.2
+Recon Loss: 23426.42489. KL Loss: 133.27997. Laplacian Loss: 18.43310. 
+The test reconstruction loss is 0.3614
+
+Epoch: 57/1000, Loss: 7927.16057, Time: 7.2
+Recon Loss: 23403.63129. KL Loss: 132.98152. Laplacian Loss: 18.35719. 
+The test reconstruction loss is 0.3613
+
+Epoch: 58/1000, Loss: 7865.22273, Time: 7.1
+Recon Loss: 23388.55336. KL Loss: 132.79452. Laplacian Loss: 18.29422. 
+The test reconstruction loss is 0.3613
+
+Epoch: 59/1000, Loss: 7800.31048, Time: 7.2
+Recon Loss: 23362.67345. KL Loss: 132.58541. Laplacian Loss: 18.23586. 
+The test reconstruction loss is 0.3611
+
+Epoch: 60/1000, Loss: 7739.01538, Time: 7.2
+Recon Loss: 23346.11842. KL Loss: 132.39985. Laplacian Loss: 18.18141. 
+The test reconstruction loss is 0.3608
+
+Epoch: 61/1000, Loss: 7675.64751, Time: 7.1
+Recon Loss: 23321.41740. KL Loss: 132.26467. Laplacian Loss: 18.12821. 
+The test reconstruction loss is 0.3607
+
+Epoch: 62/1000, Loss: 7615.06775, Time: 7.1
+Recon Loss: 23303.82660. KL Loss: 132.02384. Laplacian Loss: 18.07468. 
+The test reconstruction loss is 0.3604
+
+Epoch: 63/1000, Loss: 7554.05459, Time: 7.2
+Recon Loss: 23283.25744. KL Loss: 131.68114. Laplacian Loss: 18.02326. 
+The test reconstruction loss is 0.3604
+
+Epoch: 64/1000, Loss: 7493.34893, Time: 7.2
+Recon Loss: 23261.90808. KL Loss: 131.34632. Laplacian Loss: 17.97336. 
+The test reconstruction loss is 0.3602
+
+Epoch: 65/1000, Loss: 7434.06416, Time: 7.2
+Recon Loss: 23243.25223. KL Loss: 131.05893. Laplacian Loss: 17.92668. 
+The test reconstruction loss is 0.3601
+
+Epoch: 66/1000, Loss: 7375.77424, Time: 7.2
+Recon Loss: 23225.80741. KL Loss: 130.81716. Laplacian Loss: 17.89049. 
+The test reconstruction loss is 0.3600
+
+Epoch: 67/1000, Loss: 7317.32677, Time: 7.2
+Recon Loss: 23206.64972. KL Loss: 130.69691. Laplacian Loss: 17.83311. 
+The test reconstruction loss is 0.3598
+
+Epoch: 68/1000, Loss: 7257.94360, Time: 7.2
+Recon Loss: 23182.30431. KL Loss: 130.42980. Laplacian Loss: 17.79429. 
+The test reconstruction loss is 0.3598
+
+Epoch: 69/1000, Loss: 7201.59672, Time: 7.1
+Recon Loss: 23166.37525. KL Loss: 130.08574. Laplacian Loss: 17.75125. 
+The test reconstruction loss is 0.3596
+
+Epoch: 70/1000, Loss: 7145.30127, Time: 7.3
+Recon Loss: 23148.72561. KL Loss: 129.94697. Laplacian Loss: 17.70978. 
+The test reconstruction loss is 0.3595
+
+Epoch: 71/1000, Loss: 7086.96554, Time: 7.2
+Recon Loss: 23122.70743. KL Loss: 129.80914. Laplacian Loss: 17.66132. 
+The test reconstruction loss is 0.3593
+
+Epoch: 72/1000, Loss: 7031.09718, Time: 7.4
+Recon Loss: 23102.93750. KL Loss: 129.63035. Laplacian Loss: 17.62287. 
+The test reconstruction loss is 0.3591
+
+Epoch: 73/1000, Loss: 6974.51316, Time: 7.2
+Recon Loss: 23079.05260. KL Loss: 129.52025. Laplacian Loss: 17.57869. 
+The test reconstruction loss is 0.3588
+
+Epoch: 74/1000, Loss: 6918.60487, Time: 7.3
+Recon Loss: 23055.59647. KL Loss: 129.49600. Laplacian Loss: 17.53383. 
+The test reconstruction loss is 0.3587
+
+Epoch: 75/1000, Loss: 6859.85420, Time: 7.3
+Recon Loss: 23020.45060. KL Loss: 129.46352. Laplacian Loss: 17.49082. 
+The test reconstruction loss is 0.3583
+
+Epoch: 76/1000, Loss: 6804.57054, Time: 7.3
+Recon Loss: 22995.38598. KL Loss: 129.46078. Laplacian Loss: 17.44393. 
+The test reconstruction loss is 0.3581
+
+Epoch: 77/1000, Loss: 6747.60294, Time: 7.2
+Recon Loss: 22962.39859. KL Loss: 129.50897. Laplacian Loss: 17.40144. 
+The test reconstruction loss is 0.3579
+
+Epoch: 78/1000, Loss: 6687.09886, Time: 7.2
+Recon Loss: 22914.89692. KL Loss: 129.60536. Laplacian Loss: 17.35801. 
+The test reconstruction loss is 0.3576
+
+Epoch: 79/1000, Loss: 6626.90931, Time: 7.3
+Recon Loss: 22866.55095. KL Loss: 129.57395. Laplacian Loss: 17.30650. 
+The test reconstruction loss is 0.3570
+
+Epoch: 80/1000, Loss: 6562.30586, Time: 7.3
+Recon Loss: 22799.70478. KL Loss: 129.89489. Laplacian Loss: 17.25778. 
+The test reconstruction loss is 0.3567
+
+Epoch: 81/1000, Loss: 6492.33051, Time: 7.4
+Recon Loss: 22711.18817. KL Loss: 130.12318. Laplacian Loss: 17.20084. 
+The test reconstruction loss is 0.3558
+
+Epoch: 82/1000, Loss: 6415.39571, Time: 7.3
+Recon Loss: 22594.34548. KL Loss: 130.55128. Laplacian Loss: 17.13785. 
+The test reconstruction loss is 0.3550
+
+Epoch: 83/1000, Loss: 6324.74424, Time: 7.3
+Recon Loss: 22423.46690. KL Loss: 131.29047. Laplacian Loss: 17.07772. 
+The test reconstruction loss is 0.3533
+
+Epoch: 84/1000, Loss: 6210.11851, Time: 7.2
+Recon Loss: 22159.22149. KL Loss: 132.46542. Laplacian Loss: 17.02729. 
+The test reconstruction loss is 0.3509
+
+Epoch: 85/1000, Loss: 6067.63394, Time: 7.2
+Recon Loss: 21784.90905. KL Loss: 133.86389. Laplacian Loss: 16.99400. 
+The test reconstruction loss is 0.3484
+
+Epoch: 86/1000, Loss: 5915.57727, Time: 7.2
+Recon Loss: 21365.51488. KL Loss: 136.02616. Laplacian Loss: 16.97744. 
+The test reconstruction loss is 0.3456
+
+Epoch: 87/1000, Loss: 5805.07287, Time: 7.2
+Recon Loss: 21093.14717. KL Loss: 138.56487. Laplacian Loss: 16.93944. 
+The test reconstruction loss is 0.3446
+
+Epoch: 88/1000, Loss: 5726.48742, Time: 7.2
+Recon Loss: 20936.86103. KL Loss: 140.38239. Laplacian Loss: 16.86395. 
+The test reconstruction loss is 0.3432
+
+Epoch: 89/1000, Loss: 5663.64256, Time: 7.2
+Recon Loss: 20837.76402. KL Loss: 141.32474. Laplacian Loss: 16.77713. 
+The test reconstruction loss is 0.3427
+
+Epoch: 90/1000, Loss: 5606.95168, Time: 7.1
+Recon Loss: 20759.82778. KL Loss: 141.79409. Laplacian Loss: 16.69789. 
+The test reconstruction loss is 0.3422
+
+Epoch: 91/1000, Loss: 5553.43954, Time: 7.1
+Recon Loss: 20692.17357. KL Loss: 142.17367. Laplacian Loss: 16.61453. 
+The test reconstruction loss is 0.3414
+
+Epoch: 92/1000, Loss: 5502.80092, Time: 7.2
+Recon Loss: 20633.87021. KL Loss: 142.14488. Laplacian Loss: 16.53876. 
+The test reconstruction loss is 0.3410
+
+Epoch: 93/1000, Loss: 5454.27637, Time: 7.2
+Recon Loss: 20581.69656. KL Loss: 142.05050. Laplacian Loss: 16.47596. 
+The test reconstruction loss is 0.3404
+
+Epoch: 94/1000, Loss: 5406.87693, Time: 7.2
+Recon Loss: 20532.73680. KL Loss: 141.84723. Laplacian Loss: 16.40105. 
+The test reconstruction loss is 0.3399
+
+Epoch: 95/1000, Loss: 5361.24175, Time: 7.2
+Recon Loss: 20488.85504. KL Loss: 141.54177. Laplacian Loss: 16.34019. 
+The test reconstruction loss is 0.3394
+
+Epoch: 96/1000, Loss: 5316.55332, Time: 7.2
+Recon Loss: 20447.21562. KL Loss: 141.23666. Laplacian Loss: 16.27894. 
+The test reconstruction loss is 0.3390
+
+Epoch: 97/1000, Loss: 5272.60598, Time: 7.3
+Recon Loss: 20407.18718. KL Loss: 140.84794. Laplacian Loss: 16.21582. 
+The test reconstruction loss is 0.3387
+
+Epoch: 98/1000, Loss: 5231.11524, Time: 7.1
+Recon Loss: 20375.62480. KL Loss: 140.20665. Laplacian Loss: 16.15998. 
+The test reconstruction loss is 0.3386
+
+Epoch: 99/1000, Loss: 5190.42796, Time: 7.2
+Recon Loss: 20345.59501. KL Loss: 139.93909. Laplacian Loss: 16.10720. 
+The test reconstruction loss is 0.3380
+
+Epoch: 100/1000, Loss: 5148.52570, Time: 7.4
+Recon Loss: 20309.32722. KL Loss: 139.90918. Laplacian Loss: 16.04726. 
+The test reconstruction loss is 0.3377
+
+Epoch: 101/1000, Loss: 5107.14388, Time: 7.2
+Recon Loss: 20273.92592. KL Loss: 139.40690. Laplacian Loss: 15.99710. 
+The test reconstruction loss is 0.3372
+
+Epoch: 102/1000, Loss: 5067.31305, Time: 7.2
+Recon Loss: 20243.43751. KL Loss: 139.10514. Laplacian Loss: 15.94471. 
+The test reconstruction loss is 0.3368
+
+Epoch: 103/1000, Loss: 5028.13766, Time: 7.2
+Recon Loss: 20214.39383. KL Loss: 138.73980. Laplacian Loss: 15.89169. 
+The test reconstruction loss is 0.3368
+
+Epoch: 104/1000, Loss: 4988.78217, Time: 7.2
+Recon Loss: 20183.21153. KL Loss: 138.52086. Laplacian Loss: 15.83856. 
+The test reconstruction loss is 0.3364
+
+Epoch: 105/1000, Loss: 4951.79748, Time: 7.2
+Recon Loss: 20160.19242. KL Loss: 138.35698. Laplacian Loss: 15.80020. 
+The test reconstruction loss is 0.3360
+
+Epoch: 106/1000, Loss: 4911.94949, Time: 7.2
+Recon Loss: 20124.17934. KL Loss: 138.19595. Laplacian Loss: 15.75093. 
+The test reconstruction loss is 0.3358
+
+Epoch: 107/1000, Loss: 4873.48569, Time: 7.2
+Recon Loss: 20092.46086. KL Loss: 138.02745. Laplacian Loss: 15.70864. 
+The test reconstruction loss is 0.3355
+
+Epoch: 108/1000, Loss: 4835.55319, Time: 7.2
+Recon Loss: 20061.55729. KL Loss: 137.84808. Laplacian Loss: 15.66993. 
+The test reconstruction loss is 0.3353
+
+Epoch: 109/1000, Loss: 4797.70963, Time: 7.3
+Recon Loss: 20029.84645. KL Loss: 137.49067. Laplacian Loss: 15.63161. 
+The test reconstruction loss is 0.3351
+
+Epoch: 110/1000, Loss: 4759.86610, Time: 7.2
+Recon Loss: 19996.37545. KL Loss: 137.54962. Laplacian Loss: 15.59368. 
+The test reconstruction loss is 0.3348
+
+Epoch: 111/1000, Loss: 4721.86560, Time: 7.2
+Recon Loss: 19961.10252. KL Loss: 137.28242. Laplacian Loss: 15.55554. 
+The test reconstruction loss is 0.3341
+
+Epoch: 112/1000, Loss: 4684.70238, Time: 7.3
+Recon Loss: 19928.06707. KL Loss: 136.65866. Laplacian Loss: 15.52819. 
+The test reconstruction loss is 0.3344
+
+Epoch: 113/1000, Loss: 4646.90848, Time: 7.3
+Recon Loss: 19890.12449. KL Loss: 136.73115. Laplacian Loss: 15.50622. 
+The test reconstruction loss is 0.3337
+
+Epoch: 114/1000, Loss: 4608.38584, Time: 7.4
+Recon Loss: 19847.84668. KL Loss: 136.56757. Laplacian Loss: 15.47704. 
+The test reconstruction loss is 0.3332
+
+Epoch: 115/1000, Loss: 4571.45949, Time: 7.3
+Recon Loss: 19810.76829. KL Loss: 136.64643. Laplacian Loss: 15.45325. 
+The test reconstruction loss is 0.3331
+
+Epoch: 116/1000, Loss: 4529.58574, Time: 7.3
+Recon Loss: 19749.96603. KL Loss: 136.60601. Laplacian Loss: 15.43492. 
+The test reconstruction loss is 0.3327
+
+Epoch: 117/1000, Loss: 4490.70551, Time: 7.2
+Recon Loss: 19700.94425. KL Loss: 136.34365. Laplacian Loss: 15.41466. 
+The test reconstruction loss is 0.3320
+
+Epoch: 118/1000, Loss: 4449.07233, Time: 7.3
+Recon Loss: 19637.21861. KL Loss: 136.49192. Laplacian Loss: 15.39706. 
+The test reconstruction loss is 0.3318
+
+Epoch: 119/1000, Loss: 4404.08515, Time: 7.4
+Recon Loss: 19556.33394. KL Loss: 136.21060. Laplacian Loss: 15.38881. 
+The test reconstruction loss is 0.3316
+
+Epoch: 120/1000, Loss: 4358.82139, Time: 7.3
+Recon Loss: 19471.67469. KL Loss: 136.09125. Laplacian Loss: 15.38486. 
+The test reconstruction loss is 0.3306
+
+Epoch: 121/1000, Loss: 4314.59243, Time: 7.2
+Recon Loss: 19390.38215. KL Loss: 135.47268. Laplacian Loss: 15.36639. 
+The test reconstruction loss is 0.3299
+
+Epoch: 122/1000, Loss: 4266.55092, Time: 7.2
+Recon Loss: 19288.20740. KL Loss: 135.48579. Laplacian Loss: 15.36194. 
+The test reconstruction loss is 0.3287
+
+Epoch: 123/1000, Loss: 4212.80180, Time: 7.2
+Recon Loss: 19156.69176. KL Loss: 135.41904. Laplacian Loss: 15.36121. 
+The test reconstruction loss is 0.3277
+
+Epoch: 124/1000, Loss: 4163.35349, Time: 7.3
+Recon Loss: 19042.42391. KL Loss: 134.65233. Laplacian Loss: 15.38240. 
+The test reconstruction loss is 0.3272
+
+Epoch: 125/1000, Loss: 4103.16136, Time: 7.4
+Recon Loss: 18874.76510. KL Loss: 133.86619. Laplacian Loss: 15.39470. 
+The test reconstruction loss is 0.3257
+
+Epoch: 126/1000, Loss: 4055.09604, Time: 7.3
+Recon Loss: 18760.69921. KL Loss: 133.61913. Laplacian Loss: 15.41681. 
+The test reconstruction loss is 0.3267
+
+Epoch: 127/1000, Loss: 4006.91470, Time: 7.3
+Recon Loss: 18643.34371. KL Loss: 134.09884. Laplacian Loss: 15.42291. 
+The test reconstruction loss is 0.3242
+
+Epoch: 128/1000, Loss: 3958.81309, Time: 7.3
+Recon Loss: 18522.88334. KL Loss: 134.52694. Laplacian Loss: 15.46208. 
+The test reconstruction loss is 0.3236
+
+Epoch: 129/1000, Loss: 3916.32661, Time: 7.3
+Recon Loss: 18427.88125. KL Loss: 134.21989. Laplacian Loss: 15.49736. 
+The test reconstruction loss is 0.3221
+
+Epoch: 130/1000, Loss: 3876.68843, Time: 7.3
+Recon Loss: 18344.06881. KL Loss: 134.85020. Laplacian Loss: 15.52176. 
+The test reconstruction loss is 0.3222
+
+Epoch: 131/1000, Loss: 3840.03359, Time: 7.3
+Recon Loss: 18273.73067. KL Loss: 135.18150. Laplacian Loss: 15.53213. 
+The test reconstruction loss is 0.3207
+
+Epoch: 132/1000, Loss: 3806.90267, Time: 7.2
+Recon Loss: 18218.87933. KL Loss: 135.75226. Laplacian Loss: 15.54620. 
+The test reconstruction loss is 0.3201
+
+Epoch: 133/1000, Loss: 3774.09129, Time: 7.3
+Recon Loss: 18164.59243. KL Loss: 136.30822. Laplacian Loss: 15.54384. 
+The test reconstruction loss is 0.3202
+
+Epoch: 134/1000, Loss: 3746.32996, Time: 7.2
+Recon Loss: 18134.32721. KL Loss: 136.82169. Laplacian Loss: 15.53874. 
+The test reconstruction loss is 0.3199
+
+Epoch: 135/1000, Loss: 3715.14815, Time: 7.1
+Recon Loss: 18085.56724. KL Loss: 137.45165. Laplacian Loss: 15.53953. 
+The test reconstruction loss is 0.3188
+
+Epoch: 136/1000, Loss: 3685.22423, Time: 7.3
+Recon Loss: 18042.22732. KL Loss: 137.85851. Laplacian Loss: 15.53337. 
+The test reconstruction loss is 0.3189
+
+Epoch: 137/1000, Loss: 3659.14863, Time: 7.3
+Recon Loss: 18016.87342. KL Loss: 138.65770. Laplacian Loss: 15.52794. 
+The test reconstruction loss is 0.3186
+
+Epoch: 138/1000, Loss: 3631.84113, Time: 7.1
+Recon Loss: 17984.58961. KL Loss: 139.14290. Laplacian Loss: 15.52326. 
+The test reconstruction loss is 0.3182
+
+Epoch: 139/1000, Loss: 3604.76691, Time: 7.3
+Recon Loss: 17952.42553. KL Loss: 139.63156. Laplacian Loss: 15.51741. 
+The test reconstruction loss is 0.3178
+
+Epoch: 140/1000, Loss: 3580.90949, Time: 7.3
+Recon Loss: 17936.12061. KL Loss: 139.98448. Laplacian Loss: 15.50700. 
+The test reconstruction loss is 0.3177
+
+Epoch: 141/1000, Loss: 3555.78357, Time: 7.1
+Recon Loss: 17912.58649. KL Loss: 140.06814. Laplacian Loss: 15.49873. 
+The test reconstruction loss is 0.3176
+
+Epoch: 142/1000, Loss: 3530.17507, Time: 7.2
+Recon Loss: 17885.48512. KL Loss: 140.35246. Laplacian Loss: 15.48959. 
+The test reconstruction loss is 0.3171
+
+Epoch: 143/1000, Loss: 3506.77446, Time: 7.2
+Recon Loss: 17868.94393. KL Loss: 140.47823. Laplacian Loss: 15.48575. 
+The test reconstruction loss is 0.3169
+
+Epoch: 144/1000, Loss: 3483.00181, Time: 7.2
+Recon Loss: 17849.36216. KL Loss: 141.05433. Laplacian Loss: 15.47704. 
+The test reconstruction loss is 0.3166
+
+Epoch: 145/1000, Loss: 3460.62727, Time: 7.2
+Recon Loss: 17836.49200. KL Loss: 141.44251. Laplacian Loss: 15.46970. 
+The test reconstruction loss is 0.3168
+
+Epoch: 146/1000, Loss: 3435.47851, Time: 7.2
+Recon Loss: 17808.51746. KL Loss: 141.37242. Laplacian Loss: 15.45547. 
+The test reconstruction loss is 0.3175
+
+Epoch: 147/1000, Loss: 3412.18357, Time: 7.2
+Recon Loss: 17789.17587. KL Loss: 141.56061. Laplacian Loss: 15.44651. 
+The test reconstruction loss is 0.3167
+
+Epoch: 148/1000, Loss: 3390.98230, Time: 7.2
+Recon Loss: 17780.88298. KL Loss: 141.39561. Laplacian Loss: 15.42602. 
+The test reconstruction loss is 0.3167
+
+Epoch: 149/1000, Loss: 3369.37995, Time: 7.3
+Recon Loss: 17768.98682. KL Loss: 141.68107. Laplacian Loss: 15.41480. 
+The test reconstruction loss is 0.3163
+
+Epoch: 150/1000, Loss: 3346.63775, Time: 7.2
+Recon Loss: 17750.34887. KL Loss: 141.76092. Laplacian Loss: 15.40007. 
+The test reconstruction loss is 0.3163
+
+Epoch: 151/1000, Loss: 3324.67948, Time: 7.3
+Recon Loss: 17735.32041. KL Loss: 141.86051. Laplacian Loss: 15.37624. 
+The test reconstruction loss is 0.3158
+
+Epoch: 152/1000, Loss: 3304.30714, Time: 7.3
+Recon Loss: 17727.98846. KL Loss: 142.26843. Laplacian Loss: 15.35155. 
+The test reconstruction loss is 0.3160
+
+Epoch: 153/1000, Loss: 3282.15007, Time: 7.3
+Recon Loss: 17709.96830. KL Loss: 142.59070. Laplacian Loss: 15.33020. 
+The test reconstruction loss is 0.3156
+
+Epoch: 154/1000, Loss: 3259.56936, Time: 7.3
+Recon Loss: 17689.29687. KL Loss: 142.32173. Laplacian Loss: 15.30309. 
+The test reconstruction loss is 0.3153
+
+Epoch: 155/1000, Loss: 3239.61356, Time: 7.4
+Recon Loss: 17682.15638. KL Loss: 142.30843. Laplacian Loss: 15.27781. 
+The test reconstruction loss is 0.3156
+
+Epoch: 156/1000, Loss: 3218.72675, Time: 7.4
+Recon Loss: 17668.94895. KL Loss: 142.46402. Laplacian Loss: 15.24855. 
+The test reconstruction loss is 0.3156
+
+Epoch: 157/1000, Loss: 3199.40367, Time: 7.4
+Recon Loss: 17663.87507. KL Loss: 142.65109. Laplacian Loss: 15.21630. 
+The test reconstruction loss is 0.3152
+
+Epoch: 158/1000, Loss: 3178.00514, Time: 7.2
+Recon Loss: 17646.36539. KL Loss: 142.49043. Laplacian Loss: 15.18613. 
+The test reconstruction loss is 0.3150
+
+Epoch: 159/1000, Loss: 3157.51820, Time: 7.2
+Recon Loss: 17633.15706. KL Loss: 142.59761. Laplacian Loss: 15.14874. 
+The test reconstruction loss is 0.3148
+
+Epoch: 160/1000, Loss: 3138.84480, Time: 7.2
+Recon Loss: 17629.52614. KL Loss: 142.75848. Laplacian Loss: 15.11237. 
+The test reconstruction loss is 0.3149
+
+Epoch: 161/1000, Loss: 3117.96509, Time: 7.4
+Recon Loss: 17612.22877. KL Loss: 142.95428. Laplacian Loss: 15.07618. 
+The test reconstruction loss is 0.3145
+
+Epoch: 162/1000, Loss: 3098.19191, Time: 7.3
+Recon Loss: 17600.80429. KL Loss: 142.96030. Laplacian Loss: 15.03462. 
+The test reconstruction loss is 0.3142
+
+Epoch: 163/1000, Loss: 3079.27538, Time: 7.3
+Recon Loss: 17593.86818. KL Loss: 142.67600. Laplacian Loss: 14.99201. 
+The test reconstruction loss is 0.3141
+
+Epoch: 164/1000, Loss: 3058.63436, Time: 7.4
+Recon Loss: 17575.60106. KL Loss: 142.83829. Laplacian Loss: 14.94494. 
+The test reconstruction loss is 0.3144
+
+Epoch: 165/1000, Loss: 3040.07507, Time: 7.4
+Recon Loss: 17568.98439. KL Loss: 142.78238. Laplacian Loss: 14.89765. 
+The test reconstruction loss is 0.3146
+
+Epoch: 166/1000, Loss: 3021.07831, Time: 7.2
+Recon Loss: 17558.76147. KL Loss: 142.86493. Laplacian Loss: 14.85317. 
+The test reconstruction loss is 0.3141
+
+Epoch: 167/1000, Loss: 3002.60236, Time: 7.2
+Recon Loss: 17550.62971. KL Loss: 142.89559. Laplacian Loss: 14.81660. 
+The test reconstruction loss is 0.3143
+
+Epoch: 168/1000, Loss: 2983.91123, Time: 7.1
+Recon Loss: 17540.92713. KL Loss: 142.72623. Laplacian Loss: 14.76662. 
+The test reconstruction loss is 0.3141
+
+Epoch: 169/1000, Loss: 2964.68853, Time: 7.2
+Recon Loss: 17526.93430. KL Loss: 142.71177. Laplacian Loss: 14.71936. 
+The test reconstruction loss is 0.3140
+
+Epoch: 170/1000, Loss: 2948.07450, Time: 7.2
+Recon Loss: 17527.75813. KL Loss: 143.04080. Laplacian Loss: 14.67147. 
+The test reconstruction loss is 0.3139
+
+Epoch: 171/1000, Loss: 2928.03783, Time: 7.1
+Recon Loss: 17506.78128. KL Loss: 143.22211. Laplacian Loss: 14.62673. 
+The test reconstruction loss is 0.3135
+
+Epoch: 172/1000, Loss: 2910.57016, Time: 7.2
+Recon Loss: 17501.12176. KL Loss: 143.06248. Laplacian Loss: 14.57892. 
+The test reconstruction loss is 0.3136
+
+Epoch: 173/1000, Loss: 2893.04654, Time: 7.3
+Recon Loss: 17494.47623. KL Loss: 142.84143. Laplacian Loss: 14.52718. 
+The test reconstruction loss is 0.3136
+
+Epoch: 174/1000, Loss: 2875.12889, Time: 7.3
+Recon Loss: 17484.29698. KL Loss: 142.90756. Laplacian Loss: 14.47648. 
+The test reconstruction loss is 0.3134
+
+Epoch: 175/1000, Loss: 2857.25424, Time: 7.3
+Recon Loss: 17473.49205. KL Loss: 142.85806. Laplacian Loss: 14.42923. 
+The test reconstruction loss is 0.3135
+
+Epoch: 176/1000, Loss: 2841.39399, Time: 7.3
+Recon Loss: 17474.56612. KL Loss: 143.14681. Laplacian Loss: 14.37405. 
+The test reconstruction loss is 0.3131
+
+Epoch: 177/1000, Loss: 2823.31166, Time: 7.3
+Recon Loss: 17460.70708. KL Loss: 143.36528. Laplacian Loss: 14.32267. 
+The test reconstruction loss is 0.3134
+
+Epoch: 178/1000, Loss: 2806.95434, Time: 7.2
+Recon Loss: 17456.98693. KL Loss: 143.37995. Laplacian Loss: 14.27797. 
+The test reconstruction loss is 0.3135
+
+Epoch: 179/1000, Loss: 2790.46871, Time: 7.3
+Recon Loss: 17451.32636. KL Loss: 144.05019. Laplacian Loss: 14.22609. 
+The test reconstruction loss is 0.3130
+
+Epoch: 180/1000, Loss: 2772.81793, Time: 7.3
+Recon Loss: 17437.52468. KL Loss: 144.13885. Laplacian Loss: 14.18436. 
+The test reconstruction loss is 0.3133
+
+Epoch: 181/1000, Loss: 2757.38430, Time: 7.3
+Recon Loss: 17437.59478. KL Loss: 144.28919. Laplacian Loss: 14.12986. 
+The test reconstruction loss is 0.3129
+
+Epoch: 182/1000, Loss: 2739.30843, Time: 7.2
+Recon Loss: 17419.94620. KL Loss: 144.14420. Laplacian Loss: 14.07198. 
+The test reconstruction loss is 0.3130
+
+Epoch: 183/1000, Loss: 2723.44373, Time: 7.2
+Recon Loss: 17415.85791. KL Loss: 143.97753. Laplacian Loss: 14.01719. 
+The test reconstruction loss is 0.3131
+
+Epoch: 184/1000, Loss: 2708.12584, Time: 7.3
+Recon Loss: 17414.07790. KL Loss: 144.37239. Laplacian Loss: 13.96520. 
+The test reconstruction loss is 0.3131
+
+Epoch: 185/1000, Loss: 2691.15582, Time: 7.3
+Recon Loss: 17400.62139. KL Loss: 144.63652. Laplacian Loss: 13.91381. 
+The test reconstruction loss is 0.3127
+
+Epoch: 186/1000, Loss: 2675.23200, Time: 7.3
+Recon Loss: 17393.86636. KL Loss: 144.43086. Laplacian Loss: 13.85544. 
+The test reconstruction loss is 0.3127
+
+Epoch: 187/1000, Loss: 2659.06001, Time: 7.2
+Recon Loss: 17384.59418. KL Loss: 144.32763. Laplacian Loss: 13.79555. 
+The test reconstruction loss is 0.3128
+
+Epoch: 188/1000, Loss: 2643.70730, Time: 7.3
+Recon Loss: 17379.78302. KL Loss: 144.33791. Laplacian Loss: 13.74076. 
+The test reconstruction loss is 0.3126
+
+Epoch: 189/1000, Loss: 2627.70472, Time: 7.2
+Recon Loss: 17369.89301. KL Loss: 144.24285. Laplacian Loss: 13.68487. 
+The test reconstruction loss is 0.3127
+
+Epoch: 190/1000, Loss: 2612.80361, Time: 7.3
+Recon Loss: 17366.59298. KL Loss: 144.26401. Laplacian Loss: 13.62993. 
+The test reconstruction loss is 0.3128
+
+Epoch: 191/1000, Loss: 2597.54689, Time: 7.2
+Recon Loss: 17359.85397. KL Loss: 144.59206. Laplacian Loss: 13.57325. 
+The test reconstruction loss is 0.3126
+
+Epoch: 192/1000, Loss: 2582.85348, Time: 7.1
+Recon Loss: 17356.49823. KL Loss: 144.64833. Laplacian Loss: 13.51577. 
+The test reconstruction loss is 0.3125
+
+Epoch: 193/1000, Loss: 2566.94736, Time: 7.2
+Recon Loss: 17343.68277. KL Loss: 144.72017. Laplacian Loss: 13.46601. 
+The test reconstruction loss is 0.3124
+
+Epoch: 194/1000, Loss: 2552.77049, Time: 7.2
+Recon Loss: 17342.14044. KL Loss: 144.87828. Laplacian Loss: 13.41281. 
+The test reconstruction loss is 0.3123
+
+Epoch: 195/1000, Loss: 2538.12339, Time: 7.1
+Recon Loss: 17336.91319. KL Loss: 144.75871. Laplacian Loss: 13.35586. 
+The test reconstruction loss is 0.3125
+
+Epoch: 196/1000, Loss: 2522.94238, Time: 7.2
+Recon Loss: 17326.74333. KL Loss: 144.84578. Laplacian Loss: 13.30617. 
+The test reconstruction loss is 0.3121
+
+Epoch: 197/1000, Loss: 2508.38092, Time: 7.3
+Recon Loss: 17320.93467. KL Loss: 144.48865. Laplacian Loss: 13.24245. 
+The test reconstruction loss is 0.3122
+
+Epoch: 198/1000, Loss: 2494.20798, Time: 7.1
+Recon Loss: 17315.89109. KL Loss: 145.08128. Laplacian Loss: 13.19277. 
+The test reconstruction loss is 0.3121
+
+Epoch: 199/1000, Loss: 2480.95513, Time: 7.2
+Recon Loss: 17317.18437. KL Loss: 145.11398. Laplacian Loss: 13.14407. 
+The test reconstruction loss is 0.3122
+
+Epoch: 200/1000, Loss: 2466.39693, Time: 7.2
+Recon Loss: 17308.11963. KL Loss: 145.43645. Laplacian Loss: 13.09470. 
+The test reconstruction loss is 0.3119
+
+Epoch: 201/1000, Loss: 2451.47173, Time: 7.3
+Recon Loss: 17296.42664. KL Loss: 145.21683. Laplacian Loss: 13.03193. 
+The test reconstruction loss is 0.3120
+
+Epoch: 202/1000, Loss: 2437.74443, Time: 7.3
+Recon Loss: 17291.88319. KL Loss: 145.32264. Laplacian Loss: 12.98620. 
+The test reconstruction loss is 0.3117
+
+Epoch: 203/1000, Loss: 2424.78648, Time: 7.3
+Recon Loss: 17292.23848. KL Loss: 145.57685. Laplacian Loss: 12.93585. 
+The test reconstruction loss is 0.3120
+
+Epoch: 204/1000, Loss: 2410.05229, Time: 7.2
+Recon Loss: 17278.64290. KL Loss: 145.80667. Laplacian Loss: 12.89119. 
+The test reconstruction loss is 0.3116
+
+Epoch: 205/1000, Loss: 2397.02063, Time: 7.2
+Recon Loss: 17277.40800. KL Loss: 145.58915. Laplacian Loss: 12.84060. 
+The test reconstruction loss is 0.3120
+
+Epoch: 206/1000, Loss: 2384.09665, Time: 7.2
+Recon Loss: 17275.92069. KL Loss: 145.68006. Laplacian Loss: 12.79331. 
+The test reconstruction loss is 0.3119
+
+Epoch: 207/1000, Loss: 2369.50812, Time: 7.2
+Recon Loss: 17261.37167. KL Loss: 145.65334. Laplacian Loss: 12.74485. 
+The test reconstruction loss is 0.3118
+
+Epoch: 208/1000, Loss: 2356.61725, Time: 7.2
+Recon Loss: 17258.43433. KL Loss: 145.81817. Laplacian Loss: 12.70187. 
+The test reconstruction loss is 0.3115
+
+Epoch: 209/1000, Loss: 2343.21299, Time: 7.3
+Recon Loss: 17251.21962. KL Loss: 145.66870. Laplacian Loss: 12.65667. 
+The test reconstruction loss is 0.3117
+
+Epoch: 210/1000, Loss: 2330.07171, Time: 7.3
+Recon Loss: 17245.21090. KL Loss: 145.51017. Laplacian Loss: 12.61313. 
+The test reconstruction loss is 0.3113
+
+Epoch: 211/1000, Loss: 2316.88117, Time: 7.1
+Recon Loss: 17238.09214. KL Loss: 145.33069. Laplacian Loss: 12.56983. 
+The test reconstruction loss is 0.3113
+
+Epoch: 212/1000, Loss: 2304.53626, Time: 7.1
+Recon Loss: 17236.28949. KL Loss: 145.59836. Laplacian Loss: 12.52730. 
+The test reconstruction loss is 0.3112
+
+Epoch: 213/1000, Loss: 2291.52428, Time: 7.2
+Recon Loss: 17228.59972. KL Loss: 145.70726. Laplacian Loss: 12.49189. 
+The test reconstruction loss is 0.3112
+
+Epoch: 214/1000, Loss: 2279.31772, Time: 7.2
+Recon Loss: 17226.38192. KL Loss: 145.81373. Laplacian Loss: 12.45766. 
+The test reconstruction loss is 0.3112
+
+Epoch: 215/1000, Loss: 2266.31358, Time: 7.2
+Recon Loss: 17217.50281. KL Loss: 145.73016. Laplacian Loss: 12.42037. 
+The test reconstruction loss is 0.3110
+
+Epoch: 216/1000, Loss: 2253.31915, Time: 7.2
+Recon Loss: 17207.94111. KL Loss: 145.56750. Laplacian Loss: 12.38376. 
+The test reconstruction loss is 0.3110
+
+Epoch: 217/1000, Loss: 2241.34856, Time: 7.2
+Recon Loss: 17205.43213. KL Loss: 145.69707. Laplacian Loss: 12.34794. 
+The test reconstruction loss is 0.3111
+
+Epoch: 218/1000, Loss: 2229.15545, Time: 7.1
+Recon Loss: 17200.45841. KL Loss: 145.62467. Laplacian Loss: 12.31910. 
+The test reconstruction loss is 0.3109
+
+Epoch: 219/1000, Loss: 2216.68768, Time: 7.2
+Recon Loss: 17192.94263. KL Loss: 145.20108. Laplacian Loss: 12.28798. 
+The test reconstruction loss is 0.3108
+
+Epoch: 220/1000, Loss: 2205.54196, Time: 7.2
+Recon Loss: 17194.66830. KL Loss: 145.47629. Laplacian Loss: 12.25817. 
+The test reconstruction loss is 0.3107
+
+Epoch: 221/1000, Loss: 2192.69687, Time: 7.3
+Recon Loss: 17182.12424. KL Loss: 145.51352. Laplacian Loss: 12.23251. 
+The test reconstruction loss is 0.3109
+
+Epoch: 222/1000, Loss: 2180.90881, Time: 7.2
+Recon Loss: 17177.61723. KL Loss: 145.30341. Laplacian Loss: 12.20527. 
+The test reconstruction loss is 0.3109
+
+Epoch: 223/1000, Loss: 2169.41242, Time: 7.3
+Recon Loss: 17174.67950. KL Loss: 145.35403. Laplacian Loss: 12.17428. 
+The test reconstruction loss is 0.3110
+
+Epoch: 224/1000, Loss: 2158.12551, Time: 7.2
+Recon Loss: 17172.63161. KL Loss: 145.40296. Laplacian Loss: 12.14962. 
+The test reconstruction loss is 0.3108
+
+Epoch: 225/1000, Loss: 2146.55829, Time: 7.2
+Recon Loss: 17167.65628. KL Loss: 145.56722. Laplacian Loss: 12.11987. 
+The test reconstruction loss is 0.3110
+
+Epoch: 226/1000, Loss: 2134.47749, Time: 7.2
+Recon Loss: 17157.68767. KL Loss: 145.64272. Laplacian Loss: 12.09419. 
+The test reconstruction loss is 0.3105
+
+Epoch: 227/1000, Loss: 2122.28837, Time: 7.3
+Recon Loss: 17146.32996. KL Loss: 145.39044. Laplacian Loss: 12.06898. 
+The test reconstruction loss is 0.3104
+
+Epoch: 228/1000, Loss: 2112.42774, Time: 7.3
+Recon Loss: 17153.63234. KL Loss: 145.40468. Laplacian Loss: 12.03783. 
+The test reconstruction loss is 0.3106
+
+Epoch: 229/1000, Loss: 2100.87927, Time: 7.3
+Recon Loss: 17145.89553. KL Loss: 145.63477. Laplacian Loss: 12.01101. 
+The test reconstruction loss is 0.3105
+
+Epoch: 230/1000, Loss: 2089.44845, Time: 7.3
+Recon Loss: 17138.36782. KL Loss: 145.94529. Laplacian Loss: 11.98495. 
+The test reconstruction loss is 0.3102
+
+Epoch: 231/1000, Loss: 2079.04093, Time: 7.3
+Recon Loss: 17138.81347. KL Loss: 146.15693. Laplacian Loss: 11.96179. 
+The test reconstruction loss is 0.3103
+
+Epoch: 232/1000, Loss: 2067.73292, Time: 7.2
+Recon Loss: 17131.32910. KL Loss: 146.37316. Laplacian Loss: 11.92541. 
+The test reconstruction loss is 0.3103
+
+Epoch: 233/1000, Loss: 2056.38387, Time: 7.2
+Recon Loss: 17122.84461. KL Loss: 146.38184. Laplacian Loss: 11.89309. 
+The test reconstruction loss is 0.3101
+
+Epoch: 234/1000, Loss: 2046.33444, Time: 7.2
+Recon Loss: 17124.52312. KL Loss: 146.68922. Laplacian Loss: 11.86329. 
+The test reconstruction loss is 0.3101
+
+Epoch: 235/1000, Loss: 2035.05580, Time: 7.3
+Recon Loss: 17114.93389. KL Loss: 146.96536. Laplacian Loss: 11.83479. 
+The test reconstruction loss is 0.3100
+
+Epoch: 236/1000, Loss: 2024.98983, Time: 7.3
+Recon Loss: 17115.69432. KL Loss: 146.73805. Laplacian Loss: 11.80442. 
+The test reconstruction loss is 0.3100
+
+Epoch: 237/1000, Loss: 2015.11621, Time: 7.3
+Recon Loss: 17117.50063. KL Loss: 146.58002. Laplacian Loss: 11.77368. 
+The test reconstruction loss is 0.3100
+
+Epoch: 238/1000, Loss: 2004.42580, Time: 7.2
+Recon Loss: 17110.77157. KL Loss: 146.86454. Laplacian Loss: 11.75531. 
+The test reconstruction loss is 0.3101
+
+Epoch: 239/1000, Loss: 1993.24991, Time: 7.2
+Recon Loss: 17099.49509. KL Loss: 146.78263. Laplacian Loss: 11.73360. 
+The test reconstruction loss is 0.3098
+
+Epoch: 240/1000, Loss: 1982.88289, Time: 7.3
+Recon Loss: 17094.91993. KL Loss: 146.47662. Laplacian Loss: 11.70972. 
+The test reconstruction loss is 0.3101
+
+Epoch: 241/1000, Loss: 1972.11799, Time: 7.3
+Recon Loss: 17085.99854. KL Loss: 146.28284. Laplacian Loss: 11.68712. 
+The test reconstruction loss is 0.3099
+
+Epoch: 242/1000, Loss: 1962.42093, Time: 7.2
+Recon Loss: 17085.89004. KL Loss: 146.10394. Laplacian Loss: 11.66669. 
+The test reconstruction loss is 0.3098
+
+Epoch: 243/1000, Loss: 1952.03288, Time: 7.1
+Recon Loss: 17078.78814. KL Loss: 146.07881. Laplacian Loss: 11.64665. 
+The test reconstruction loss is 0.3098
+
+Epoch: 244/1000, Loss: 1943.17994, Time: 7.1
+Recon Loss: 17084.90227. KL Loss: 146.07275. Laplacian Loss: 11.62795. 
+The test reconstruction loss is 0.3099
+
+Epoch: 245/1000, Loss: 1932.03467, Time: 7.3
+Recon Loss: 17069.25755. KL Loss: 146.26321. Laplacian Loss: 11.61539. 
+The test reconstruction loss is 0.3096
+
+Epoch: 246/1000, Loss: 1923.18550, Time: 7.3
+Recon Loss: 17074.62596. KL Loss: 145.89684. Laplacian Loss: 11.59326. 
+The test reconstruction loss is 0.3096
+
+Epoch: 247/1000, Loss: 1912.83177, Time: 7.4
+Recon Loss: 17065.07810. KL Loss: 146.11048. Laplacian Loss: 11.57288. 
+The test reconstruction loss is 0.3096
+
+Epoch: 248/1000, Loss: 1903.07539, Time: 7.2
+Recon Loss: 17060.73388. KL Loss: 145.96879. Laplacian Loss: 11.55045. 
+The test reconstruction loss is 0.3095
+
+Epoch: 249/1000, Loss: 1894.34186, Time: 7.3
+Recon Loss: 17064.95545. KL Loss: 145.95183. Laplacian Loss: 11.53525. 
+The test reconstruction loss is 0.3097
+
+Epoch: 250/1000, Loss: 1884.47518, Time: 7.2
+Recon Loss: 17058.17900. KL Loss: 145.98384. Laplacian Loss: 11.51476. 
+The test reconstruction loss is 0.3097
+
+Epoch: 251/1000, Loss: 1874.91642, Time: 7.2
+Recon Loss: 17053.20718. KL Loss: 146.30813. Laplacian Loss: 11.49980. 
+The test reconstruction loss is 0.3095
+
+Epoch: 252/1000, Loss: 1865.78899, Time: 7.2
+Recon Loss: 17052.22701. KL Loss: 146.31594. Laplacian Loss: 11.47537. 
+The test reconstruction loss is 0.3093
+
+Epoch: 253/1000, Loss: 1856.17228, Time: 7.2
+Recon Loss: 17045.65611. KL Loss: 146.47910. Laplacian Loss: 11.45935. 
+The test reconstruction loss is 0.3094
+
+Epoch: 254/1000, Loss: 1847.39878, Time: 7.3
+Recon Loss: 17046.28317. KL Loss: 146.88552. Laplacian Loss: 11.44208. 
+The test reconstruction loss is 0.3098
+
+Epoch: 255/1000, Loss: 1838.44544, Time: 7.1
+Recon Loss: 17044.43524. KL Loss: 147.45291. Laplacian Loss: 11.42796. 
+The test reconstruction loss is 0.3093
+
+Epoch: 256/1000, Loss: 1828.47404, Time: 7.3
+Recon Loss: 17032.96327. KL Loss: 147.19573. Laplacian Loss: 11.41333. 
+The test reconstruction loss is 0.3092
+
+Epoch: 257/1000, Loss: 1819.30076, Time: 7.3
+Recon Loss: 17028.50016. KL Loss: 147.07994. Laplacian Loss: 11.39301. 
+The test reconstruction loss is 0.3095
+
+Epoch: 258/1000, Loss: 1810.04313, Time: 7.3
+Recon Loss: 17022.66168. KL Loss: 146.90895. Laplacian Loss: 11.37325. 
+The test reconstruction loss is 0.3095
+
+Epoch: 259/1000, Loss: 1801.07865, Time: 7.3
+Recon Loss: 17019.14662. KL Loss: 146.67993. Laplacian Loss: 11.35104. 
+The test reconstruction loss is 0.3095
+
+Epoch: 260/1000, Loss: 1792.06785, Time: 7.3
+Recon Loss: 17014.52512. KL Loss: 146.37541. Laplacian Loss: 11.33313. 
+The test reconstruction loss is 0.3092
+
+Epoch: 261/1000, Loss: 1783.62041, Time: 7.3
+Recon Loss: 17014.66840. KL Loss: 146.34854. Laplacian Loss: 11.31318. 
+The test reconstruction loss is 0.3092
+
+Epoch: 262/1000, Loss: 1775.13219, Time: 7.2
+Recon Loss: 17013.70431. KL Loss: 146.34337. Laplacian Loss: 11.29774. 
+The test reconstruction loss is 0.3091
+
+Epoch: 263/1000, Loss: 1766.42372, Time: 7.1
+Recon Loss: 17010.29838. KL Loss: 146.30845. Laplacian Loss: 11.27308. 
+The test reconstruction loss is 0.3091
+
+Epoch: 264/1000, Loss: 1757.17256, Time: 7.2
+Recon Loss: 17000.61063. KL Loss: 146.26932. Laplacian Loss: 11.25789. 
+The test reconstruction loss is 0.3090
+
+Epoch: 265/1000, Loss: 1748.49690, Time: 7.3
+Recon Loss: 16996.55616. KL Loss: 145.88461. Laplacian Loss: 11.23516. 
+The test reconstruction loss is 0.3090
+
+Epoch: 266/1000, Loss: 1740.86353, Time: 7.3
+Recon Loss: 17001.64817. KL Loss: 146.08133. Laplacian Loss: 11.22044. 
+The test reconstruction loss is 0.3090
+
+Epoch: 267/1000, Loss: 1732.82550, Time: 7.3
+Recon Loss: 17001.82804. KL Loss: 146.64929. Laplacian Loss: 11.20730. 
+The test reconstruction loss is 0.3090
+
+Epoch: 268/1000, Loss: 1723.55672, Time: 7.3
+Recon Loss: 16989.63444. KL Loss: 146.63868. Laplacian Loss: 11.18855. 
+The test reconstruction loss is 0.3090
+
+Epoch: 269/1000, Loss: 1714.97099, Time: 7.2
+Recon Loss: 16983.80028. KL Loss: 146.42606. Laplacian Loss: 11.17369. 
+The test reconstruction loss is 0.3089
+
+Epoch: 270/1000, Loss: 1706.67840, Time: 7.2
+Recon Loss: 16980.56367. KL Loss: 146.08386. Laplacian Loss: 11.15568. 
+The test reconstruction loss is 0.3088
+
+Epoch: 271/1000, Loss: 1698.81866, Time: 7.2
+Recon Loss: 16981.32173. KL Loss: 145.71839. Laplacian Loss: 11.13535. 
+The test reconstruction loss is 0.3089
+
+Epoch: 272/1000, Loss: 1690.95911, Time: 7.3
+Recon Loss: 16980.89983. KL Loss: 145.97576. Laplacian Loss: 11.11907. 
+The test reconstruction loss is 0.3089
+
+Epoch: 273/1000, Loss: 1684.04103, Time: 7.2
+Recon Loss: 16989.51168. KL Loss: 146.32625. Laplacian Loss: 11.10735. 
+The test reconstruction loss is 0.3087
+
+Epoch: 274/1000, Loss: 1675.53587, Time: 7.2
+Recon Loss: 16980.94185. KL Loss: 146.81011. Laplacian Loss: 11.09811. 
+The test reconstruction loss is 0.3088
+
+Epoch: 275/1000, Loss: 1667.10195, Time: 7.1
+Recon Loss: 16973.43479. KL Loss: 146.57659. Laplacian Loss: 11.07851. 
+The test reconstruction loss is 0.3088
+
+Epoch: 276/1000, Loss: 1658.24684, Time: 7.1
+Recon Loss: 16960.79675. KL Loss: 146.39086. Laplacian Loss: 11.06005. 
+The test reconstruction loss is 0.3088
+
+Epoch: 277/1000, Loss: 1651.01793, Time: 7.1
+Recon Loss: 16964.26964. KL Loss: 146.53220. Laplacian Loss: 11.04676. 
+The test reconstruction loss is 0.3089
+
+Epoch: 278/1000, Loss: 1643.14327, Time: 7.1
+Recon Loss: 16960.59724. KL Loss: 146.33563. Laplacian Loss: 11.03680. 
+The test reconstruction loss is 0.3088
+
+Epoch: 279/1000, Loss: 1635.38719, Time: 7.2
+Recon Loss: 16957.62220. KL Loss: 146.48789. Laplacian Loss: 11.01735. 
+The test reconstruction loss is 0.3087
+
+Epoch: 280/1000, Loss: 1627.50856, Time: 7.2
+Recon Loss: 16952.56486. KL Loss: 146.47383. Laplacian Loss: 11.00953. 
+The test reconstruction loss is 0.3086
+
+Epoch: 281/1000, Loss: 1619.84914, Time: 7.2
+Recon Loss: 16949.65157. KL Loss: 146.45274. Laplacian Loss: 10.99001. 
+The test reconstruction loss is 0.3088
+
+Epoch: 282/1000, Loss: 1612.23970, Time: 7.3
+Recon Loss: 16946.65390. KL Loss: 146.34280. Laplacian Loss: 10.97655. 
+The test reconstruction loss is 0.3086
+
+Epoch: 283/1000, Loss: 1605.22764, Time: 7.3
+Recon Loss: 16949.35256. KL Loss: 146.45541. Laplacian Loss: 10.96546. 
+The test reconstruction loss is 0.3085
+
+Epoch: 284/1000, Loss: 1597.65535, Time: 7.3
+Recon Loss: 16945.67570. KL Loss: 146.30283. Laplacian Loss: 10.95470. 
+The test reconstruction loss is 0.3086
+
+Epoch: 285/1000, Loss: 1589.78636, Time: 7.3
+Recon Loss: 16938.15602. KL Loss: 146.32352. Laplacian Loss: 10.94090. 
+The test reconstruction loss is 0.3086
+
+Epoch: 286/1000, Loss: 1582.80490, Time: 7.4
+Recon Loss: 16939.75488. KL Loss: 146.31760. Laplacian Loss: 10.93022. 
+The test reconstruction loss is 0.3086
+
+Epoch: 287/1000, Loss: 1575.04124, Time: 7.2
+Recon Loss: 16932.26240. KL Loss: 146.36232. Laplacian Loss: 10.91567. 
+The test reconstruction loss is 0.3085
+
+Epoch: 288/1000, Loss: 1568.14005, Time: 7.2
+Recon Loss: 16933.85769. KL Loss: 146.28517. Laplacian Loss: 10.90276. 
+The test reconstruction loss is 0.3086
+
+Epoch: 289/1000, Loss: 1561.21046, Time: 7.2
+Recon Loss: 16934.17207. KL Loss: 146.59187. Laplacian Loss: 10.89449. 
+The test reconstruction loss is 0.3084
+
+Epoch: 290/1000, Loss: 1553.67703, Time: 7.1
+Recon Loss: 16927.48345. KL Loss: 146.65780. Laplacian Loss: 10.88454. 
+The test reconstruction loss is 0.3084
+
+Epoch: 291/1000, Loss: 1546.03529, Time: 7.2
+Recon Loss: 16919.60625. KL Loss: 146.32221. Laplacian Loss: 10.86677. 
+The test reconstruction loss is 0.3084
+
+Epoch: 292/1000, Loss: 1539.81876, Time: 7.3
+Recon Loss: 16926.77862. KL Loss: 146.36743. Laplacian Loss: 10.85458. 
+The test reconstruction loss is 0.3085
+
+Epoch: 293/1000, Loss: 1531.90245, Time: 7.2
+Recon Loss: 16914.45592. KL Loss: 146.02391. Laplacian Loss: 10.84627. 
+The test reconstruction loss is 0.3085
+
+Epoch: 294/1000, Loss: 1525.22001, Time: 7.2
+Recon Loss: 16915.61775. KL Loss: 145.90697. Laplacian Loss: 10.83032. 
+The test reconstruction loss is 0.3083
+
+Epoch: 295/1000, Loss: 1517.56971, Time: 7.3
+Recon Loss: 16904.89406. KL Loss: 145.95873. Laplacian Loss: 10.81864. 
+The test reconstruction loss is 0.3084
+
+Epoch: 296/1000, Loss: 1511.69843, Time: 7.3
+Recon Loss: 16914.56726. KL Loss: 145.64517. Laplacian Loss: 10.80291. 
+The test reconstruction loss is 0.3084
+
+Epoch: 297/1000, Loss: 1504.58692, Time: 7.2
+Recon Loss: 16908.63783. KL Loss: 146.00297. Laplacian Loss: 10.79564. 
+The test reconstruction loss is 0.3086
+
+Epoch: 298/1000, Loss: 1498.04133, Time: 7.3
+Recon Loss: 16909.20874. KL Loss: 145.90003. Laplacian Loss: 10.78739. 
+The test reconstruction loss is 0.3083
+
+Epoch: 299/1000, Loss: 1491.10065, Time: 7.3
+Recon Loss: 16904.59712. KL Loss: 146.08445. Laplacian Loss: 10.77307. 
+The test reconstruction loss is 0.3083
+
+Epoch: 300/1000, Loss: 1485.98714, Time: 7.3
+Recon Loss: 16920.75656. KL Loss: 146.36825. Laplacian Loss: 10.76195. 
+The test reconstruction loss is 0.3082
+
+Epoch: 301/1000, Loss: 1477.42033, Time: 7.2
+Recon Loss: 16895.72720. KL Loss: 146.57197. Laplacian Loss: 10.75864. 
+The test reconstruction loss is 0.3083
+
+Epoch: 302/1000, Loss: 1470.82480, Time: 7.1
+Recon Loss: 16894.00120. KL Loss: 146.15071. Laplacian Loss: 10.74993. 
+The test reconstruction loss is 0.3083
+
+Epoch: 303/1000, Loss: 1464.39525, Time: 7.3
+Recon Loss: 16893.67508. KL Loss: 146.04552. Laplacian Loss: 10.73456. 
+The test reconstruction loss is 0.3080
+
+Epoch: 304/1000, Loss: 1457.98292, Time: 7.2
+Recon Loss: 16892.76350. KL Loss: 145.98293. Laplacian Loss: 10.72883. 
+The test reconstruction loss is 0.3083
+
+Epoch: 305/1000, Loss: 1451.55995, Time: 7.1
+Recon Loss: 16891.44013. KL Loss: 145.92063. Laplacian Loss: 10.71654. 
+The test reconstruction loss is 0.3082
+
+Epoch: 306/1000, Loss: 1444.65480, Time: 7.2
+Recon Loss: 16883.48839. KL Loss: 146.16553. Laplacian Loss: 10.70579. 
+The test reconstruction loss is 0.3083
+
+Epoch: 307/1000, Loss: 1438.38781, Time: 7.2
+Recon Loss: 16883.25821. KL Loss: 145.89270. Laplacian Loss: 10.69267. 
+The test reconstruction loss is 0.3083
+
+Epoch: 308/1000, Loss: 1432.50785, Time: 7.2
+Recon Loss: 16886.88701. KL Loss: 145.86108. Laplacian Loss: 10.68480. 
+The test reconstruction loss is 0.3082
+
+Epoch: 309/1000, Loss: 1425.93745, Time: 7.3
+Recon Loss: 16881.79495. KL Loss: 145.77383. Laplacian Loss: 10.67477. 
+The test reconstruction loss is 0.3083
+
+Epoch: 310/1000, Loss: 1419.81857, Time: 7.3
+Recon Loss: 16881.82272. KL Loss: 145.63592. Laplacian Loss: 10.66358. 
+The test reconstruction loss is 0.3084
+
+Epoch: 311/1000, Loss: 1413.32667, Time: 7.2
+Recon Loss: 16876.15679. KL Loss: 145.86057. Laplacian Loss: 10.66248. 
+The test reconstruction loss is 0.3083
+
+Epoch: 312/1000, Loss: 1406.91147, Time: 7.1
+Recon Loss: 16871.83779. KL Loss: 145.59877. Laplacian Loss: 10.64516. 
+The test reconstruction loss is 0.3080
+
+Epoch: 313/1000, Loss: 1400.80243, Time: 7.1
+Recon Loss: 16870.75838. KL Loss: 145.20256. Laplacian Loss: 10.63400. 
+The test reconstruction loss is 0.3082
+
+Epoch: 314/1000, Loss: 1394.31647, Time: 7.2
+Recon Loss: 16864.04384. KL Loss: 145.33879. Laplacian Loss: 10.62242. 
+The test reconstruction loss is 0.3082
+
+Epoch: 315/1000, Loss: 1388.34225, Time: 7.1
+Recon Loss: 16863.44477. KL Loss: 145.08658. Laplacian Loss: 10.61493. 
+The test reconstruction loss is 0.3080
+
+Epoch: 316/1000, Loss: 1382.89377, Time: 7.2
+Recon Loss: 16868.64758. KL Loss: 145.29500. Laplacian Loss: 10.60582. 
+The test reconstruction loss is 0.3079
+
+Epoch: 317/1000, Loss: 1375.88484, Time: 7.2
+Recon Loss: 16853.92015. KL Loss: 145.36061. Laplacian Loss: 10.59487. 
+The test reconstruction loss is 0.3080
+
+Epoch: 318/1000, Loss: 1370.78150, Time: 7.2
+Recon Loss: 16862.49283. KL Loss: 145.37307. Laplacian Loss: 10.59485. 
+The test reconstruction loss is 0.3083
+
+Epoch: 319/1000, Loss: 1364.20584, Time: 7.3
+Recon Loss: 16852.35923. KL Loss: 145.26595. Laplacian Loss: 10.58477. 
+The test reconstruction loss is 0.3080
+
+Epoch: 320/1000, Loss: 1358.63950, Time: 7.3
+Recon Loss: 16854.66180. KL Loss: 145.20133. Laplacian Loss: 10.57103. 
+The test reconstruction loss is 0.3084
+
+Epoch: 321/1000, Loss: 1352.91350, Time: 7.4
+Recon Loss: 16854.19621. KL Loss: 145.17192. Laplacian Loss: 10.56670. 
+The test reconstruction loss is 0.3083
+
+Epoch: 322/1000, Loss: 1346.58949, Time: 7.2
+Recon Loss: 16845.70872. KL Loss: 145.24578. Laplacian Loss: 10.55485. 
+The test reconstruction loss is 0.3079
+
+Epoch: 323/1000, Loss: 1341.04532, Time: 7.2
+Recon Loss: 16846.93281. KL Loss: 145.03104. Laplacian Loss: 10.54648. 
+The test reconstruction loss is 0.3080
+
+Epoch: 324/1000, Loss: 1335.28635, Time: 7.2
+Recon Loss: 16844.62886. KL Loss: 145.16456. Laplacian Loss: 10.53831. 
+The test reconstruction loss is 0.3080
+
+Epoch: 325/1000, Loss: 1329.50126, Time: 7.2
+Recon Loss: 16841.57348. KL Loss: 145.24696. Laplacian Loss: 10.52995. 
+The test reconstruction loss is 0.3080
+
+Epoch: 326/1000, Loss: 1323.83817, Time: 7.0
+Recon Loss: 16839.94541. KL Loss: 145.05705. Laplacian Loss: 10.52092. 
+The test reconstruction loss is 0.3079
+
+Epoch: 327/1000, Loss: 1318.35662, Time: 7.4
+Recon Loss: 16840.23225. KL Loss: 144.85469. Laplacian Loss: 10.51253. 
+The test reconstruction loss is 0.3079
+
+Epoch: 328/1000, Loss: 1312.34195, Time: 7.4
+Recon Loss: 16832.95017. KL Loss: 144.74133. Laplacian Loss: 10.50411. 
+The test reconstruction loss is 0.3079
+
+Epoch: 329/1000, Loss: 1307.54943, Time: 7.1
+Recon Loss: 16841.18028. KL Loss: 144.91506. Laplacian Loss: 10.49504. 
+The test reconstruction loss is 0.3079
+
+Epoch: 330/1000, Loss: 1301.65325, Time: 7.1
+Recon Loss: 16834.24798. KL Loss: 145.05340. Laplacian Loss: 10.49041. 
+The test reconstruction loss is 0.3081
+
+Epoch: 331/1000, Loss: 1296.51957, Time: 7.1
+Recon Loss: 16837.11322. KL Loss: 145.19770. Laplacian Loss: 10.48367. 
+The test reconstruction loss is 0.3079
+
+Epoch: 332/1000, Loss: 1291.09412, Time: 7.1
+Recon Loss: 16835.73152. KL Loss: 145.26303. Laplacian Loss: 10.47604. 
+The test reconstruction loss is 0.3081
+
+Epoch: 333/1000, Loss: 1285.14930, Time: 7.1
+Recon Loss: 16826.75290. KL Loss: 145.53842. Laplacian Loss: 10.46681. 
+The test reconstruction loss is 0.3081
+
+Epoch: 334/1000, Loss: 1279.96244, Time: 7.2
+Recon Loss: 16827.67678. KL Loss: 145.67001. Laplacian Loss: 10.45818. 
+The test reconstruction loss is 0.3079
+
+Epoch: 335/1000, Loss: 1274.39670, Time: 7.4
+Recon Loss: 16823.18281. KL Loss: 145.57733. Laplacian Loss: 10.45091. 
+The test reconstruction loss is 0.3081
+
+Epoch: 336/1000, Loss: 1269.33458, Time: 7.3
+Recon Loss: 16825.07800. KL Loss: 145.39514. Laplacian Loss: 10.44772. 
+The test reconstruction loss is 0.3083
+
+Epoch: 337/1000, Loss: 1264.03548, Time: 7.3
+Recon Loss: 16823.42149. KL Loss: 145.40928. Laplacian Loss: 10.43478. 
+The test reconstruction loss is 0.3080
+
+Epoch: 338/1000, Loss: 1258.88951, Time: 7.2
+Recon Loss: 16823.40553. KL Loss: 145.22554. Laplacian Loss: 10.42970. 
+The test reconstruction loss is 0.3081
+
+Epoch: 339/1000, Loss: 1253.35341, Time: 7.3
+Recon Loss: 16817.44949. KL Loss: 145.26624. Laplacian Loss: 10.42121. 
+The test reconstruction loss is 0.3078
+
+Epoch: 340/1000, Loss: 1248.94736, Time: 7.9
+Recon Loss: 16826.67007. KL Loss: 145.35461. Laplacian Loss: 10.41451. 
+The test reconstruction loss is 0.3079
+
+Epoch: 341/1000, Loss: 1243.06775, Time: 7.6
+Recon Loss: 16815.09041. KL Loss: 145.37802. Laplacian Loss: 10.40611. 
+The test reconstruction loss is 0.3080
+
+Epoch: 342/1000, Loss: 1237.89619, Time: 7.7
+Recon Loss: 16812.86568. KL Loss: 145.40512. Laplacian Loss: 10.39883. 
+The test reconstruction loss is 0.3078
+
+Epoch: 343/1000, Loss: 1232.76428, Time: 7.7
+Recon Loss: 16810.33289. KL Loss: 145.69578. Laplacian Loss: 10.39851. 
+The test reconstruction loss is 0.3077
+
+Epoch: 344/1000, Loss: 1227.17042, Time: 7.6
+Recon Loss: 16801.68644. KL Loss: 145.41849. Laplacian Loss: 10.38707. 
+The test reconstruction loss is 0.3077
+
+Epoch: 345/1000, Loss: 1222.32423, Time: 8.0
+Recon Loss: 16802.78331. KL Loss: 145.52258. Laplacian Loss: 10.37570. 
+The test reconstruction loss is 0.3080
+
+Epoch: 346/1000, Loss: 1217.07351, Time: 7.7
+Recon Loss: 16797.74755. KL Loss: 145.43203. Laplacian Loss: 10.37010. 
+The test reconstruction loss is 0.3076
+
+Epoch: 347/1000, Loss: 1212.40869, Time: 8.1
+Recon Loss: 16800.85502. KL Loss: 145.28848. Laplacian Loss: 10.35874. 
+The test reconstruction loss is 0.3078
+
+Epoch: 348/1000, Loss: 1207.89546, Time: 7.9
+Recon Loss: 16805.30256. KL Loss: 145.51708. Laplacian Loss: 10.35243. 
+The test reconstruction loss is 0.3079
+
+Epoch: 349/1000, Loss: 1202.67381, Time: 7.5
+Recon Loss: 16799.37866. KL Loss: 145.54515. Laplacian Loss: 10.34511. 
+The test reconstruction loss is 0.3080
+
+Epoch: 350/1000, Loss: 1197.57367, Time: 7.3
+Recon Loss: 16794.60457. KL Loss: 145.57596. Laplacian Loss: 10.34344. 
+The test reconstruction loss is 0.3076
+
+Epoch: 351/1000, Loss: 1192.99691, Time: 7.8
+Recon Loss: 16797.53340. KL Loss: 145.33722. Laplacian Loss: 10.33193. 
+The test reconstruction loss is 0.3075
+
+Epoch: 352/1000, Loss: 1187.66950, Time: 7.0
+Recon Loss: 16788.78700. KL Loss: 145.51033. Laplacian Loss: 10.31926. 
+The test reconstruction loss is 0.3077
+
+Epoch: 353/1000, Loss: 1182.44323, Time: 7.3
+Recon Loss: 16781.12039. KL Loss: 145.32080. Laplacian Loss: 10.31415. 
+The test reconstruction loss is 0.3075
+
+Epoch: 354/1000, Loss: 1177.88772, Time: 7.1
+Recon Loss: 16783.00792. KL Loss: 145.13769. Laplacian Loss: 10.30430. 
+The test reconstruction loss is 0.3075
+
+Epoch: 355/1000, Loss: 1173.24940, Time: 7.2
+Recon Loss: 16782.90883. KL Loss: 145.21058. Laplacian Loss: 10.30024. 
+The test reconstruction loss is 0.3076
+
+Epoch: 356/1000, Loss: 1168.70081, Time: 7.2
+Recon Loss: 16783.54306. KL Loss: 145.54404. Laplacian Loss: 10.29487. 
+The test reconstruction loss is 0.3075
+
+Epoch: 357/1000, Loss: 1164.36607, Time: 7.2
+Recon Loss: 16786.75446. KL Loss: 146.01318. Laplacian Loss: 10.29377. 
+The test reconstruction loss is 0.3076
+
+Epoch: 358/1000, Loss: 1159.07809, Time: 7.1
+Recon Loss: 16775.94341. KL Loss: 146.05441. Laplacian Loss: 10.28553. 
+The test reconstruction loss is 0.3076
+
+Epoch: 359/1000, Loss: 1154.24822, Time: 7.2
+Recon Loss: 16772.09789. KL Loss: 145.64264. Laplacian Loss: 10.27173. 
+The test reconstruction loss is 0.3074
+
+Epoch: 360/1000, Loss: 1149.73648, Time: 7.1
+Recon Loss: 16772.09510. KL Loss: 145.70235. Laplacian Loss: 10.26030. 
+The test reconstruction loss is 0.3075
+
+Epoch: 361/1000, Loss: 1145.05462, Time: 7.1
+Recon Loss: 16769.02034. KL Loss: 145.74710. Laplacian Loss: 10.25381. 
+The test reconstruction loss is 0.3076
+
+Epoch: 362/1000, Loss: 1140.45914, Time: 7.2
+Recon Loss: 16766.85697. KL Loss: 145.79282. Laplacian Loss: 10.24682. 
+The test reconstruction loss is 0.3075
+
+Epoch: 363/1000, Loss: 1136.03995, Time: 7.1
+Recon Loss: 16767.35434. KL Loss: 145.65136. Laplacian Loss: 10.23307. 
+The test reconstruction loss is 0.3075
+
+Epoch: 364/1000, Loss: 1131.77247, Time: 7.1
+Recon Loss: 16769.46683. KL Loss: 145.57858. Laplacian Loss: 10.22850. 
+The test reconstruction loss is 0.3077
+
+Epoch: 365/1000, Loss: 1127.25739, Time: 7.2
+Recon Loss: 16767.56891. KL Loss: 145.46362. Laplacian Loss: 10.22090. 
+The test reconstruction loss is 0.3075
+
+Epoch: 366/1000, Loss: 1122.40999, Time: 7.2
+Recon Loss: 16760.34712. KL Loss: 145.30461. Laplacian Loss: 10.20732. 
+The test reconstruction loss is 0.3074
+
+Epoch: 367/1000, Loss: 1117.52735, Time: 7.2
+Recon Loss: 16752.06275. KL Loss: 145.10139. Laplacian Loss: 10.19787. 
+The test reconstruction loss is 0.3075
+
+Epoch: 368/1000, Loss: 1114.21317, Time: 7.3
+Recon Loss: 16767.43994. KL Loss: 145.11323. Laplacian Loss: 10.19005. 
+The test reconstruction loss is 0.3075
+
+Epoch: 369/1000, Loss: 1108.76847, Time: 7.3
+Recon Loss: 16749.35548. KL Loss: 145.06651. Laplacian Loss: 10.18428. 
+The test reconstruction loss is 0.3074
+
+Epoch: 370/1000, Loss: 1105.01865, Time: 7.3
+Recon Loss: 16757.74539. KL Loss: 144.80895. Laplacian Loss: 10.16905. 
+The test reconstruction loss is 0.3074
+
+Epoch: 371/1000, Loss: 1100.05377, Time: 7.4
+Recon Loss: 16746.12437. KL Loss: 144.93183. Laplacian Loss: 10.16242. 
+The test reconstruction loss is 0.3074
+
+Epoch: 372/1000, Loss: 1096.13257, Time: 7.3
+Recon Loss: 16750.63883. KL Loss: 144.94845. Laplacian Loss: 10.15416. 
+The test reconstruction loss is 0.3074
+
+Epoch: 373/1000, Loss: 1091.78288, Time: 7.3
+Recon Loss: 16747.93470. KL Loss: 144.99537. Laplacian Loss: 10.14919. 
+The test reconstruction loss is 0.3074
+
+Epoch: 374/1000, Loss: 1087.34050, Time: 7.4
+Recon Loss: 16743.56353. KL Loss: 144.84872. Laplacian Loss: 10.14335. 
+The test reconstruction loss is 0.3073
+
+Epoch: 375/1000, Loss: 1083.24613, Time: 7.3
+Recon Loss: 16744.47547. KL Loss: 144.79386. Laplacian Loss: 10.12970. 
+The test reconstruction loss is 0.3072
+
+Epoch: 376/1000, Loss: 1078.92976, Time: 7.3
+Recon Loss: 16741.40169. KL Loss: 144.70986. Laplacian Loss: 10.11946. 
+The test reconstruction loss is 0.3073
+
+Epoch: 377/1000, Loss: 1074.94518, Time: 7.3
+Recon Loss: 16742.89229. KL Loss: 144.96631. Laplacian Loss: 10.11244. 
+The test reconstruction loss is 0.3074
+
+Epoch: 378/1000, Loss: 1070.34162, Time: 7.3
+Recon Loss: 16734.36222. KL Loss: 144.83858. Laplacian Loss: 10.10606. 
+The test reconstruction loss is 0.3073
+
+Epoch: 379/1000, Loss: 1066.75956, Time: 7.3
+Recon Loss: 16741.83259. KL Loss: 144.98614. Laplacian Loss: 10.09517. 
+The test reconstruction loss is 0.3073
+
+Epoch: 380/1000, Loss: 1062.58230, Time: 7.4
+Recon Loss: 16738.86968. KL Loss: 145.23299. Laplacian Loss: 10.09750. 
+The test reconstruction loss is 0.3074
+
+Epoch: 381/1000, Loss: 1058.37957, Time: 7.3
+Recon Loss: 16735.45682. KL Loss: 145.36026. Laplacian Loss: 10.09126. 
+The test reconstruction loss is 0.3073
+
+Epoch: 382/1000, Loss: 1054.22341, Time: 7.2
+Recon Loss: 16732.60050. KL Loss: 145.41520. Laplacian Loss: 10.08110. 
+The test reconstruction loss is 0.3074
+
+Epoch: 383/1000, Loss: 1049.70939, Time: 7.2
+Recon Loss: 16724.01271. KL Loss: 145.03529. Laplacian Loss: 10.06533. 
+The test reconstruction loss is 0.3074
+
+Epoch: 384/1000, Loss: 1045.96532, Time: 7.2
+Recon Loss: 16727.14966. KL Loss: 144.98547. Laplacian Loss: 10.05861. 
+The test reconstruction loss is 0.3073
+
+Epoch: 385/1000, Loss: 1041.76396, Time: 7.3
+Recon Loss: 16722.66713. KL Loss: 144.67042. Laplacian Loss: 10.05034. 
+The test reconstruction loss is 0.3072
+
+Epoch: 386/1000, Loss: 1037.83343, Time: 7.1
+Recon Loss: 16722.28273. KL Loss: 144.43657. Laplacian Loss: 10.04033. 
+The test reconstruction loss is 0.3074
+
+Epoch: 387/1000, Loss: 1034.09699, Time: 7.1
+Recon Loss: 16724.46139. KL Loss: 144.31121. Laplacian Loss: 10.03733. 
+The test reconstruction loss is 0.3072
+
+Epoch: 388/1000, Loss: 1030.04242, Time: 7.2
+Recon Loss: 16721.01414. KL Loss: 144.33298. Laplacian Loss: 10.02911. 
+The test reconstruction loss is 0.3073
+
+Epoch: 389/1000, Loss: 1026.48020, Time: 7.2
+Recon Loss: 16725.23215. KL Loss: 144.54525. Laplacian Loss: 10.02335. 
+The test reconstruction loss is 0.3074
+
+Epoch: 390/1000, Loss: 1022.32615, Time: 7.2
+Recon Loss: 16718.89288. KL Loss: 144.88562. Laplacian Loss: 10.02256. 
+The test reconstruction loss is 0.3071
+
+Epoch: 391/1000, Loss: 1018.54214, Time: 7.2
+Recon Loss: 16718.78062. KL Loss: 144.97121. Laplacian Loss: 10.01749. 
+The test reconstruction loss is 0.3071
+
+Epoch: 392/1000, Loss: 1014.53426, Time: 7.3
+Recon Loss: 16714.57282. KL Loss: 145.10437. Laplacian Loss: 10.00915. 
+The test reconstruction loss is 0.3072
+
+Epoch: 393/1000, Loss: 1010.76151, Time: 7.4
+Recon Loss: 16714.14640. KL Loss: 145.12249. Laplacian Loss: 9.99936. 
+The test reconstruction loss is 0.3072
+
+Epoch: 394/1000, Loss: 1006.94976, Time: 7.3
+Recon Loss: 16712.69275. KL Loss: 145.05828. Laplacian Loss: 9.99260. 
+The test reconstruction loss is 0.3071
+
+Epoch: 395/1000, Loss: 1002.68455, Time: 7.3
+Recon Loss: 16703.37478. KL Loss: 144.80032. Laplacian Loss: 9.98098. 
+The test reconstruction loss is 0.3069
+
+Epoch: 396/1000, Loss: 998.99840, Time: 7.3
+Recon Loss: 16703.33543. KL Loss: 144.66257. Laplacian Loss: 9.97560. 
+The test reconstruction loss is 0.3072
+
+Epoch: 397/1000, Loss: 995.11904, Time: 7.3
+Recon Loss: 16699.55353. KL Loss: 144.64334. Laplacian Loss: 9.96848. 
+The test reconstruction loss is 0.3073
+
+Epoch: 398/1000, Loss: 991.68865, Time: 7.3
+Recon Loss: 16703.20645. KL Loss: 144.64272. Laplacian Loss: 9.96101. 
+The test reconstruction loss is 0.3069
+
+Epoch: 399/1000, Loss: 987.96343, Time: 7.4
+Recon Loss: 16701.52914. KL Loss: 144.51432. Laplacian Loss: 9.95347. 
+The test reconstruction loss is 0.3072
+
+Epoch: 400/1000, Loss: 984.66863, Time: 7.3
+Recon Loss: 16706.71686. KL Loss: 144.65391. Laplacian Loss: 9.94929. 
+The test reconstruction loss is 0.3070
+
+Epoch: 401/1000, Loss: 980.36215, Time: 7.3
+Recon Loss: 16693.69709. KL Loss: 144.94026. Laplacian Loss: 9.94482. 
+The test reconstruction loss is 0.3070
+
+Epoch: 402/1000, Loss: 976.99436, Time: 7.3
+Recon Loss: 16696.80316. KL Loss: 145.20661. Laplacian Loss: 9.94038. 
+The test reconstruction loss is 0.3072
+
+Epoch: 403/1000, Loss: 972.97613, Time: 7.3
+Recon Loss: 16688.42166. KL Loss: 145.23015. Laplacian Loss: 9.93205. 
+The test reconstruction loss is 0.3068
+
+Epoch: 404/1000, Loss: 969.84804, Time: 7.3
+Recon Loss: 16695.45929. KL Loss: 145.28686. Laplacian Loss: 9.92369. 
+The test reconstruction loss is 0.3070
+
+Epoch: 405/1000, Loss: 966.01065, Time: 7.3
+Recon Loss: 16689.47885. KL Loss: 145.21151. Laplacian Loss: 9.92239. 
+The test reconstruction loss is 0.3070
+
+Epoch: 406/1000, Loss: 962.28230, Time: 7.3
+Recon Loss: 16685.44779. KL Loss: 145.06688. Laplacian Loss: 9.91021. 
+The test reconstruction loss is 0.3068
+
+Epoch: 407/1000, Loss: 958.73176, Time: 7.1
+Recon Loss: 16684.02270. KL Loss: 144.81044. Laplacian Loss: 9.90908. 
+The test reconstruction loss is 0.3069
+
+Epoch: 408/1000, Loss: 955.28857, Time: 7.1
+Recon Loss: 16684.21547. KL Loss: 144.86701. Laplacian Loss: 9.89393. 
+The test reconstruction loss is 0.3068
+
+Epoch: 409/1000, Loss: 951.69134, Time: 7.2
+Recon Loss: 16680.78591. KL Loss: 145.05914. Laplacian Loss: 9.89021. 
+The test reconstruction loss is 0.3067
+
+Epoch: 410/1000, Loss: 948.23710, Time: 7.1
+Recon Loss: 16680.21840. KL Loss: 144.78646. Laplacian Loss: 9.87998. 
+The test reconstruction loss is 0.3070
+
+Epoch: 411/1000, Loss: 944.75184, Time: 7.1
+Recon Loss: 16678.13687. KL Loss: 144.79180. Laplacian Loss: 9.88172. 
+The test reconstruction loss is 0.3069
+
+Epoch: 412/1000, Loss: 941.35528, Time: 7.2
+Recon Loss: 16677.61577. KL Loss: 144.77572. Laplacian Loss: 9.87472. 
+The test reconstruction loss is 0.3069
+
+Epoch: 413/1000, Loss: 938.23511, Time: 7.2
+Recon Loss: 16681.71581. KL Loss: 144.88343. Laplacian Loss: 9.86918. 
+The test reconstruction loss is 0.3069
+
+Epoch: 414/1000, Loss: 934.26830, Time: 7.1
+Recon Loss: 16670.10672. KL Loss: 144.86642. Laplacian Loss: 9.86085. 
+The test reconstruction loss is 0.3069
+
+Epoch: 415/1000, Loss: 931.07047, Time: 7.2
+Recon Loss: 16672.34664. KL Loss: 144.72095. Laplacian Loss: 9.85509. 
+The test reconstruction loss is 0.3069
+
+Epoch: 416/1000, Loss: 927.73308, Time: 7.2
+Recon Loss: 16671.55153. KL Loss: 144.73105. Laplacian Loss: 9.85010. 
+The test reconstruction loss is 0.3069
+
+Epoch: 417/1000, Loss: 924.29642, Time: 7.2
+Recon Loss: 16668.79191. KL Loss: 144.71276. Laplacian Loss: 9.83887. 
+The test reconstruction loss is 0.3068
+
+Epoch: 418/1000, Loss: 921.05062, Time: 7.3
+Recon Loss: 16669.15752. KL Loss: 144.68710. Laplacian Loss: 9.83175. 
+The test reconstruction loss is 0.3069
+
+Epoch: 419/1000, Loss: 917.84837, Time: 7.2
+Recon Loss: 16669.76214. KL Loss: 144.93255. Laplacian Loss: 9.82553. 
+The test reconstruction loss is 0.3069
+
+Epoch: 420/1000, Loss: 914.21128, Time: 7.1
+Recon Loss: 16661.91848. KL Loss: 144.96648. Laplacian Loss: 9.82362. 
+The test reconstruction loss is 0.3070
+
+Epoch: 421/1000, Loss: 911.08568, Time: 7.2
+Recon Loss: 16663.62754. KL Loss: 144.90466. Laplacian Loss: 9.81629. 
+The test reconstruction loss is 0.3067
+
+Epoch: 422/1000, Loss: 907.70117, Time: 7.2
+Recon Loss: 16660.05463. KL Loss: 144.85892. Laplacian Loss: 9.81058. 
+The test reconstruction loss is 0.3069
+
+Epoch: 423/1000, Loss: 904.11183, Time: 7.3
+Recon Loss: 16652.40294. KL Loss: 144.69812. Laplacian Loss: 9.80284. 
+The test reconstruction loss is 0.3067
+
+Epoch: 424/1000, Loss: 901.29943, Time: 7.3
+Recon Loss: 16659.16048. KL Loss: 144.55711. Laplacian Loss: 9.79631. 
+The test reconstruction loss is 0.3067
+
+Epoch: 425/1000, Loss: 898.14679, Time: 7.4
+Recon Loss: 16658.82236. KL Loss: 144.55016. Laplacian Loss: 9.79704. 
+The test reconstruction loss is 0.3067
+
+Epoch: 426/1000, Loss: 894.81156, Time: 7.2
+Recon Loss: 16654.62323. KL Loss: 144.80696. Laplacian Loss: 9.79083. 
+The test reconstruction loss is 0.3069
+
+Epoch: 427/1000, Loss: 891.48100, Time: 7.1
+Recon Loss: 16650.30789. KL Loss: 144.89605. Laplacian Loss: 9.78528. 
+The test reconstruction loss is 0.3071
+
+Epoch: 428/1000, Loss: 888.62484, Time: 7.2
+Recon Loss: 16654.74682. KL Loss: 145.04476. Laplacian Loss: 9.78136. 
+The test reconstruction loss is 0.3067
+
+Epoch: 429/1000, Loss: 885.15170, Time: 7.2
+Recon Loss: 16646.94811. KL Loss: 145.22093. Laplacian Loss: 9.77562. 
+The test reconstruction loss is 0.3069
+
+Epoch: 430/1000, Loss: 881.99748, Time: 7.3
+Recon Loss: 16645.47215. KL Loss: 144.94780. Laplacian Loss: 9.76790. 
+The test reconstruction loss is 0.3068
+
+Epoch: 431/1000, Loss: 878.74668, Time: 7.1
+Recon Loss: 16641.42784. KL Loss: 144.87073. Laplacian Loss: 9.76614. 
+The test reconstruction loss is 0.3066
+
+Epoch: 432/1000, Loss: 875.85890, Time: 7.2
+Recon Loss: 16644.49718. KL Loss: 144.62775. Laplacian Loss: 9.75941. 
+The test reconstruction loss is 0.3067
+
+Epoch: 433/1000, Loss: 872.67891, Time: 7.2
+Recon Loss: 16641.39820. KL Loss: 144.61503. Laplacian Loss: 9.75032. 
+The test reconstruction loss is 0.3070
+
+Epoch: 434/1000, Loss: 869.86578, Time: 7.2
+Recon Loss: 16645.11935. KL Loss: 144.52994. Laplacian Loss: 9.74748. 
+The test reconstruction loss is 0.3066
+
+Epoch: 435/1000, Loss: 866.56165, Time: 7.2
+Recon Loss: 16638.34154. KL Loss: 144.84691. Laplacian Loss: 9.74813. 
+The test reconstruction loss is 0.3066
+
+Epoch: 436/1000, Loss: 863.50029, Time: 7.1
+Recon Loss: 16636.56635. KL Loss: 144.81998. Laplacian Loss: 9.74174. 
+The test reconstruction loss is 0.3068
+
+Epoch: 437/1000, Loss: 860.52767, Time: 7.2
+Recon Loss: 16636.26360. KL Loss: 144.75264. Laplacian Loss: 9.73615. 
+The test reconstruction loss is 0.3067
+
+Epoch: 438/1000, Loss: 857.25643, Time: 7.2
+Recon Loss: 16629.60791. KL Loss: 144.73282. Laplacian Loss: 9.73132. 
+The test reconstruction loss is 0.3067
+
+Epoch: 439/1000, Loss: 854.40447, Time: 7.2
+Recon Loss: 16631.35458. KL Loss: 144.37584. Laplacian Loss: 9.72655. 
+The test reconstruction loss is 0.3069
+
+Epoch: 440/1000, Loss: 851.78602, Time: 7.2
+Recon Loss: 16636.94516. KL Loss: 144.63990. Laplacian Loss: 9.72273. 
+The test reconstruction loss is 0.3066
+
+Epoch: 441/1000, Loss: 848.53086, Time: 7.2
+Recon Loss: 16629.81989. KL Loss: 144.65097. Laplacian Loss: 9.71190. 
+The test reconstruction loss is 0.3065
+
+Epoch: 442/1000, Loss: 845.48861, Time: 7.2
+Recon Loss: 16626.23712. KL Loss: 144.70501. Laplacian Loss: 9.71461. 
+The test reconstruction loss is 0.3066
+
+Epoch: 443/1000, Loss: 842.36636, Time: 7.2
+Recon Loss: 16621.08893. KL Loss: 144.62603. Laplacian Loss: 9.70848. 
+The test reconstruction loss is 0.3066
+
+Epoch: 444/1000, Loss: 839.92955, Time: 7.3
+Recon Loss: 16629.18705. KL Loss: 144.89380. Laplacian Loss: 9.70673. 
+The test reconstruction loss is 0.3067
+
+Epoch: 445/1000, Loss: 836.40879, Time: 7.3
+Recon Loss: 16615.46123. KL Loss: 144.54399. Laplacian Loss: 9.70175. 
+The test reconstruction loss is 0.3067
+
+Epoch: 446/1000, Loss: 833.59781, Time: 7.3
+Recon Loss: 16615.96376. KL Loss: 144.24122. Laplacian Loss: 9.69518. 
+The test reconstruction loss is 0.3067
+
+Epoch: 447/1000, Loss: 830.97584, Time: 7.2
+Recon Loss: 16619.73906. KL Loss: 144.20244. Laplacian Loss: 9.69286. 
+The test reconstruction loss is 0.3066
+
+Epoch: 448/1000, Loss: 828.09976, Time: 7.2
+Recon Loss: 16617.91283. KL Loss: 144.27312. Laplacian Loss: 9.68944. 
+The test reconstruction loss is 0.3065
+
+Epoch: 449/1000, Loss: 825.38582, Time: 7.3
+Recon Loss: 16618.99611. KL Loss: 144.50710. Laplacian Loss: 9.68741. 
+The test reconstruction loss is 0.3067
+
+Epoch: 450/1000, Loss: 822.37286, Time: 7.3
+Recon Loss: 16613.99844. KL Loss: 144.37428. Laplacian Loss: 9.68164. 
+The test reconstruction loss is 0.3068
+
+Epoch: 451/1000, Loss: 819.42013, Time: 7.3
+Recon Loss: 16609.88534. KL Loss: 144.22434. Laplacian Loss: 9.67732. 
+The test reconstruction loss is 0.3067
+
+Epoch: 452/1000, Loss: 816.76965, Time: 7.3
+Recon Loss: 16611.86279. KL Loss: 144.10060. Laplacian Loss: 9.67128. 
+The test reconstruction loss is 0.3068
+
+Epoch: 453/1000, Loss: 814.06196, Time: 7.2
+Recon Loss: 16612.15004. KL Loss: 144.09651. Laplacian Loss: 9.66887. 
+The test reconstruction loss is 0.3066
+
+Epoch: 454/1000, Loss: 810.99972, Time: 7.1
+Recon Loss: 16604.71123. KL Loss: 144.13681. Laplacian Loss: 9.66191. 
+The test reconstruction loss is 0.3065
+
+Epoch: 455/1000, Loss: 808.39697, Time: 7.2
+Recon Loss: 16606.39027. KL Loss: 144.28192. Laplacian Loss: 9.66280. 
+The test reconstruction loss is 0.3067
+
+Epoch: 456/1000, Loss: 805.46105, Time: 7.4
+Recon Loss: 16601.01758. KL Loss: 144.25917. Laplacian Loss: 9.65817. 
+The test reconstruction loss is 0.3065
+
+Epoch: 457/1000, Loss: 802.98662, Time: 7.2
+Recon Loss: 16604.86377. KL Loss: 144.43348. Laplacian Loss: 9.65853. 
+The test reconstruction loss is 0.3066
+
+Epoch: 458/1000, Loss: 800.21783, Time: 7.2
+Recon Loss: 16602.46531. KL Loss: 144.55197. Laplacian Loss: 9.65053. 
+The test reconstruction loss is 0.3067
+
+Epoch: 459/1000, Loss: 797.42264, Time: 7.4
+Recon Loss: 16599.09088. KL Loss: 144.44845. Laplacian Loss: 9.65242. 
+The test reconstruction loss is 0.3065
+
+Epoch: 460/1000, Loss: 794.82353, Time: 7.3
+Recon Loss: 16599.66560. KL Loss: 144.42404. Laplacian Loss: 9.65173. 
+The test reconstruction loss is 0.3067
+
+Epoch: 461/1000, Loss: 791.99078, Time: 7.1
+Recon Loss: 16595.02685. KL Loss: 144.38136. Laplacian Loss: 9.64804. 
+The test reconstruction loss is 0.3067
+
+Epoch: 462/1000, Loss: 789.41694, Time: 7.1
+Recon Loss: 16595.98654. KL Loss: 144.19538. Laplacian Loss: 9.63922. 
+The test reconstruction loss is 0.3065
+
+Epoch: 463/1000, Loss: 786.57749, Time: 7.2
+Recon Loss: 16590.50960. KL Loss: 144.09665. Laplacian Loss: 9.64003. 
+The test reconstruction loss is 0.3066
+
+Epoch: 464/1000, Loss: 783.73571, Time: 7.1
+Recon Loss: 16584.87470. KL Loss: 143.97988. Laplacian Loss: 9.63399. 
+The test reconstruction loss is 0.3064
+
+Epoch: 465/1000, Loss: 781.53484, Time: 7.2
+Recon Loss: 16592.83926. KL Loss: 143.88204. Laplacian Loss: 9.63378. 
+The test reconstruction loss is 0.3063
+
+Epoch: 466/1000, Loss: 778.88523, Time: 7.3
+Recon Loss: 16590.89365. KL Loss: 143.87273. Laplacian Loss: 9.62447. 
+The test reconstruction loss is 0.3064
+
+Epoch: 467/1000, Loss: 775.96179, Time: 7.2
+Recon Loss: 16582.17844. KL Loss: 143.84676. Laplacian Loss: 9.62960. 
+The test reconstruction loss is 0.3065
+
+Epoch: 468/1000, Loss: 773.39756, Time: 7.3
+Recon Loss: 16581.66972. KL Loss: 143.57084. Laplacian Loss: 9.62332. 
+The test reconstruction loss is 0.3065
+
+Epoch: 469/1000, Loss: 771.20942, Time: 7.2
+Recon Loss: 16588.76864. KL Loss: 143.67023. Laplacian Loss: 9.62271. 
+The test reconstruction loss is 0.3063
+
+Epoch: 470/1000, Loss: 768.38133, Time: 7.3
+Recon Loss: 16581.42957. KL Loss: 143.86775. Laplacian Loss: 9.61587. 
+The test reconstruction loss is 0.3065
+
+Epoch: 471/1000, Loss: 766.00824, Time: 7.2
+Recon Loss: 16583.87441. KL Loss: 143.81496. Laplacian Loss: 9.61994. 
+The test reconstruction loss is 0.3064
+
+Epoch: 472/1000, Loss: 763.43145, Time: 7.1
+Recon Loss: 16581.39223. KL Loss: 144.00780. Laplacian Loss: 9.62002. 
+The test reconstruction loss is 0.3067
+
+Epoch: 473/1000, Loss: 760.78067, Time: 7.3
+Recon Loss: 16577.25383. KL Loss: 144.13442. Laplacian Loss: 9.61210. 
+The test reconstruction loss is 0.3066
+
+Epoch: 474/1000, Loss: 758.30165, Time: 7.3
+Recon Loss: 16576.68359. KL Loss: 144.04149. Laplacian Loss: 9.61172. 
+The test reconstruction loss is 0.3065
+
+Epoch: 475/1000, Loss: 755.79789, Time: 7.3
+Recon Loss: 16575.39143. KL Loss: 143.99662. Laplacian Loss: 9.60632. 
+The test reconstruction loss is 0.3065
+
+Epoch: 476/1000, Loss: 753.42719, Time: 7.2
+Recon Loss: 16576.63006. KL Loss: 144.03937. Laplacian Loss: 9.60627. 
+The test reconstruction loss is 0.3065
+
+Epoch: 477/1000, Loss: 750.68418, Time: 7.3
+Recon Loss: 16569.20359. KL Loss: 143.88984. Laplacian Loss: 9.60841. 
+The test reconstruction loss is 0.3066
+
+Epoch: 478/1000, Loss: 748.44620, Time: 7.2
+Recon Loss: 16573.07727. KL Loss: 143.86011. Laplacian Loss: 9.60612. 
+The test reconstruction loss is 0.3065
+
+Epoch: 479/1000, Loss: 745.84974, Time: 7.3
+Recon Loss: 16568.50184. KL Loss: 143.86759. Laplacian Loss: 9.60166. 
+The test reconstruction loss is 0.3064
+
+Epoch: 480/1000, Loss: 743.65642, Time: 7.3
+Recon Loss: 16572.91085. KL Loss: 143.88100. Laplacian Loss: 9.59813. 
+The test reconstruction loss is 0.3065
+
+Epoch: 481/1000, Loss: 740.94064, Time: 7.3
+Recon Loss: 16564.66495. KL Loss: 144.02523. Laplacian Loss: 9.60121. 
+The test reconstruction loss is 0.3065
+
+Epoch: 482/1000, Loss: 738.69057, Time: 7.3
+Recon Loss: 16567.23356. KL Loss: 143.85591. Laplacian Loss: 9.60362. 
+The test reconstruction loss is 0.3067
+
+Epoch: 483/1000, Loss: 736.21346, Time: 7.2
+Recon Loss: 16564.49673. KL Loss: 143.70321. Laplacian Loss: 9.59869. 
+The test reconstruction loss is 0.3065
+
+Epoch: 484/1000, Loss: 733.81238, Time: 7.2
+Recon Loss: 16563.18538. KL Loss: 143.54854. Laplacian Loss: 9.59560. 
+The test reconstruction loss is 0.3066
+
+Epoch: 485/1000, Loss: 731.76692, Time: 7.2
+Recon Loss: 16569.72097. KL Loss: 143.69162. Laplacian Loss: 9.59188. 
+The test reconstruction loss is 0.3067
+
+Epoch: 486/1000, Loss: 729.12856, Time: 7.3
+Recon Loss: 16562.24794. KL Loss: 143.63905. Laplacian Loss: 9.58869. 
+The test reconstruction loss is 0.3065
+
+Epoch: 487/1000, Loss: 726.71120, Time: 7.3
+Recon Loss: 16559.60178. KL Loss: 143.61468. Laplacian Loss: 9.58649. 
+The test reconstruction loss is 0.3066
+
+Epoch: 488/1000, Loss: 724.54894, Time: 7.3
+Recon Loss: 16562.62878. KL Loss: 143.66262. Laplacian Loss: 9.58607. 
+The test reconstruction loss is 0.3064
+
+Epoch: 489/1000, Loss: 721.83774, Time: 7.1
+Recon Loss: 16552.20447. KL Loss: 144.00952. Laplacian Loss: 9.58152. 
+The test reconstruction loss is 0.3065
+
+Epoch: 490/1000, Loss: 719.55955, Time: 7.1
+Recon Loss: 16552.38599. KL Loss: 143.61635. Laplacian Loss: 9.57906. 
+The test reconstruction loss is 0.3067
+
+Epoch: 491/1000, Loss: 717.56022, Time: 7.2
+Recon Loss: 16558.41565. KL Loss: 143.72189. Laplacian Loss: 9.58178. 
+The test reconstruction loss is 0.3065
+
+Epoch: 492/1000, Loss: 714.78801, Time: 7.2
+Recon Loss: 16545.97391. KL Loss: 143.70344. Laplacian Loss: 9.57815. 
+The test reconstruction loss is 0.3064
+
+Epoch: 493/1000, Loss: 712.51640, Time: 7.2
+Recon Loss: 16545.40574. KL Loss: 143.60258. Laplacian Loss: 9.57126. 
+The test reconstruction loss is 0.3065
+
+Epoch: 494/1000, Loss: 710.28984, Time: 7.2
+Recon Loss: 16545.76250. KL Loss: 143.33629. Laplacian Loss: 9.56687. 
+The test reconstruction loss is 0.3063
+
+Epoch: 495/1000, Loss: 708.15650, Time: 7.3
+Recon Loss: 16547.82814. KL Loss: 143.22575. Laplacian Loss: 9.56767. 
+The test reconstruction loss is 0.3064
+
+Epoch: 496/1000, Loss: 706.08484, Time: 7.3
+Recon Loss: 16551.09174. KL Loss: 143.35513. Laplacian Loss: 9.56396. 
+The test reconstruction loss is 0.3065
+
+Epoch: 497/1000, Loss: 703.55881, Time: 7.3
+Recon Loss: 16542.81388. KL Loss: 143.51819. Laplacian Loss: 9.56683. 
+The test reconstruction loss is 0.3064
+
+Epoch: 498/1000, Loss: 701.36769, Time: 7.3
+Recon Loss: 16543.14392. KL Loss: 143.28371. Laplacian Loss: 9.55837. 
+The test reconstruction loss is 0.3066
+
+Epoch: 499/1000, Loss: 698.95772, Time: 7.3
+Recon Loss: 16537.44680. KL Loss: 143.22598. Laplacian Loss: 9.55760. 
+The test reconstruction loss is 0.3063
+
+Epoch: 500/1000, Loss: 696.90067, Time: 7.2
+Recon Loss: 16540.28190. KL Loss: 143.01222. Laplacian Loss: 9.55763. 
+The test reconstruction loss is 0.3063
+
+Epoch: 501/1000, Loss: 694.55106, Time: 7.3
+Recon Loss: 16535.54684. KL Loss: 143.11168. Laplacian Loss: 9.55147. 
+The test reconstruction loss is 0.3063
+
+Epoch: 502/1000, Loss: 692.53558, Time: 7.2
+Recon Loss: 16538.77530. KL Loss: 143.02226. Laplacian Loss: 9.55292. 
+The test reconstruction loss is 0.3067
+
+Epoch: 503/1000, Loss: 690.36023, Time: 7.2
+Recon Loss: 16537.45883. KL Loss: 143.33041. Laplacian Loss: 9.55394. 
+The test reconstruction loss is 0.3063
+
+Epoch: 504/1000, Loss: 688.03104, Time: 7.2
+Recon Loss: 16532.46322. KL Loss: 143.41571. Laplacian Loss: 9.54797. 
+The test reconstruction loss is 0.3064
+
+Epoch: 505/1000, Loss: 685.87618, Time: 7.3
+Recon Loss: 16531.87773. KL Loss: 143.06209. Laplacian Loss: 9.54474. 
+The test reconstruction loss is 0.3062
+
+Epoch: 506/1000, Loss: 684.09307, Time: 7.3
+Recon Loss: 16539.43706. KL Loss: 143.42412. Laplacian Loss: 9.55057. 
+The test reconstruction loss is 0.3064
+
+Epoch: 507/1000, Loss: 681.78988, Time: 7.2
+Recon Loss: 16533.99370. KL Loss: 143.77319. Laplacian Loss: 9.54795. 
+The test reconstruction loss is 0.3061
+
+Epoch: 508/1000, Loss: 679.61231, Time: 7.3
+Recon Loss: 16531.95331. KL Loss: 143.63406. Laplacian Loss: 9.54375. 
+The test reconstruction loss is 0.3061
+
+Epoch: 509/1000, Loss: 677.35994, Time: 7.3
+Recon Loss: 16527.51075. KL Loss: 143.64532. Laplacian Loss: 9.54290. 
+The test reconstruction loss is 0.3063
+
+Epoch: 510/1000, Loss: 675.24111, Time: 7.4
+Recon Loss: 16526.48522. KL Loss: 143.50335. Laplacian Loss: 9.53691. 
+The test reconstruction loss is 0.3063
+
+Epoch: 511/1000, Loss: 673.15509, Time: 7.3
+Recon Loss: 16525.73645. KL Loss: 143.52664. Laplacian Loss: 9.53646. 
+The test reconstruction loss is 0.3063
+
+Epoch: 512/1000, Loss: 670.97754, Time: 7.2
+Recon Loss: 16522.82771. KL Loss: 143.12694. Laplacian Loss: 9.53482. 
+The test reconstruction loss is 0.3063
+
+Epoch: 513/1000, Loss: 668.80273, Time: 7.2
+Recon Loss: 16519.42931. KL Loss: 143.02677. Laplacian Loss: 9.53428. 
+The test reconstruction loss is 0.3063
+
+Epoch: 514/1000, Loss: 666.91456, Time: 7.3
+Recon Loss: 16523.33376. KL Loss: 142.85612. Laplacian Loss: 9.52928. 
+The test reconstruction loss is 0.3064
+
+Epoch: 515/1000, Loss: 664.90019, Time: 7.2
+Recon Loss: 16523.55014. KL Loss: 142.82839. Laplacian Loss: 9.52805. 
+The test reconstruction loss is 0.3065
+
+Epoch: 516/1000, Loss: 662.87967, Time: 7.1
+Recon Loss: 16523.40024. KL Loss: 142.95458. Laplacian Loss: 9.52153. 
+The test reconstruction loss is 0.3063
+
+Epoch: 517/1000, Loss: 660.66210, Time: 7.2
+Recon Loss: 16517.91618. KL Loss: 142.87714. Laplacian Loss: 9.51981. 
+The test reconstruction loss is 0.3065
+
+Epoch: 518/1000, Loss: 658.66421, Time: 7.3
+Recon Loss: 16517.71588. KL Loss: 142.87689. Laplacian Loss: 9.52153. 
+The test reconstruction loss is 0.3065
+
+Epoch: 519/1000, Loss: 656.53251, Time: 7.2
+Recon Loss: 16513.79894. KL Loss: 143.00905. Laplacian Loss: 9.51903. 
+The test reconstruction loss is 0.3064
+
+Epoch: 520/1000, Loss: 654.78386, Time: 7.1
+Recon Loss: 16519.70941. KL Loss: 142.96755. Laplacian Loss: 9.52003. 
+The test reconstruction loss is 0.3060
+
+Epoch: 521/1000, Loss: 652.79182, Time: 7.2
+Recon Loss: 16518.94705. KL Loss: 143.21227. Laplacian Loss: 9.51488. 
+The test reconstruction loss is 0.3062
+
+Epoch: 522/1000, Loss: 650.42086, Time: 7.1
+Recon Loss: 16507.82104. KL Loss: 143.31294. Laplacian Loss: 9.51897. 
+The test reconstruction loss is 0.3061
+
+Epoch: 523/1000, Loss: 648.61660, Time: 7.1
+Recon Loss: 16512.08127. KL Loss: 143.04511. Laplacian Loss: 9.51064. 
+The test reconstruction loss is 0.3061
+
+Epoch: 524/1000, Loss: 646.60101, Time: 7.2
+Recon Loss: 16510.03870. KL Loss: 143.14804. Laplacian Loss: 9.50752. 
+The test reconstruction loss is 0.3062
+
+Epoch: 525/1000, Loss: 644.60374, Time: 7.2
+Recon Loss: 16508.36248. KL Loss: 143.07231. Laplacian Loss: 9.50609. 
+The test reconstruction loss is 0.3062
+
+Epoch: 526/1000, Loss: 642.64651, Time: 7.3
+Recon Loss: 16507.55219. KL Loss: 142.93043. Laplacian Loss: 9.50541. 
+The test reconstruction loss is 0.3065
+
+Epoch: 527/1000, Loss: 640.52472, Time: 7.3
+Recon Loss: 16502.20375. KL Loss: 142.85728. Laplacian Loss: 9.49894. 
+The test reconstruction loss is 0.3061
+
+Epoch: 528/1000, Loss: 638.71222, Time: 7.2
+Recon Loss: 16504.74974. KL Loss: 142.87386. Laplacian Loss: 9.49492. 
+The test reconstruction loss is 0.3060
+
+Epoch: 529/1000, Loss: 636.74033, Time: 7.3
+Recon Loss: 16502.73057. KL Loss: 142.82942. Laplacian Loss: 9.49438. 
+The test reconstruction loss is 0.3060
+
+Epoch: 530/1000, Loss: 634.94802, Time: 7.2
+Recon Loss: 16504.99682. KL Loss: 143.06110. Laplacian Loss: 9.49680. 
+The test reconstruction loss is 0.3062
+
+Epoch: 531/1000, Loss: 632.83885, Time: 7.2
+Recon Loss: 16498.94155. KL Loss: 142.91077. Laplacian Loss: 9.49565. 
+The test reconstruction loss is 0.3061
+
+Epoch: 532/1000, Loss: 631.01071, Time: 7.4
+Recon Loss: 16500.50100. KL Loss: 142.51745. Laplacian Loss: 9.49313. 
+The test reconstruction loss is 0.3063
+
+Epoch: 533/1000, Loss: 629.05652, Time: 7.4
+Recon Loss: 16498.03274. KL Loss: 142.56350. Laplacian Loss: 9.49046. 
+The test reconstruction loss is 0.3062
+
+Epoch: 534/1000, Loss: 627.29823, Time: 7.3
+Recon Loss: 16500.59953. KL Loss: 142.71255. Laplacian Loss: 9.48725. 
+The test reconstruction loss is 0.3060
+
+Epoch: 535/1000, Loss: 625.47788, Time: 7.2
+Recon Loss: 16500.84697. KL Loss: 143.08077. Laplacian Loss: 9.49060. 
+The test reconstruction loss is 0.3064
+
+Epoch: 536/1000, Loss: 623.53008, Time: 7.2
+Recon Loss: 16497.91670. KL Loss: 142.99078. Laplacian Loss: 9.49075. 
+The test reconstruction loss is 0.3060
+
+Epoch: 537/1000, Loss: 621.53655, Time: 7.3
+Recon Loss: 16493.43598. KL Loss: 142.97499. Laplacian Loss: 9.48991. 
+The test reconstruction loss is 0.3061
+
+Epoch: 538/1000, Loss: 619.75133, Time: 7.2
+Recon Loss: 16494.88955. KL Loss: 142.72646. Laplacian Loss: 9.48199. 
+The test reconstruction loss is 0.3062
+
+Epoch: 539/1000, Loss: 617.89243, Time: 7.2
+Recon Loss: 16493.68129. KL Loss: 142.77890. Laplacian Loss: 9.47796. 
+The test reconstruction loss is 0.3061
+
+Epoch: 540/1000, Loss: 615.97347, Time: 7.3
+Recon Loss: 16490.19556. KL Loss: 142.96087. Laplacian Loss: 9.48288. 
+The test reconstruction loss is 0.3060
+
+Epoch: 541/1000, Loss: 614.04600, Time: 7.2
+Recon Loss: 16486.59925. KL Loss: 143.01075. Laplacian Loss: 9.47942. 
+The test reconstruction loss is 0.3062
+
+Epoch: 542/1000, Loss: 612.24618, Time: 7.1
+Recon Loss: 16486.71299. KL Loss: 142.75152. Laplacian Loss: 9.47290. 
+The test reconstruction loss is 0.3061
+
+Epoch: 543/1000, Loss: 610.32837, Time: 7.1
+Recon Loss: 16482.68923. KL Loss: 142.82844. Laplacian Loss: 9.47595. 
+The test reconstruction loss is 0.3060
+
+Epoch: 544/1000, Loss: 608.61500, Time: 7.2
+Recon Loss: 16484.33819. KL Loss: 142.83204. Laplacian Loss: 9.47593. 
+The test reconstruction loss is 0.3060
+
+Epoch: 545/1000, Loss: 606.76881, Time: 7.1
+Recon Loss: 16482.34594. KL Loss: 142.63663. Laplacian Loss: 9.47186. 
+The test reconstruction loss is 0.3061
+
+Epoch: 546/1000, Loss: 605.07897, Time: 7.1
+Recon Loss: 16484.20107. KL Loss: 142.66178. Laplacian Loss: 9.47300. 
+The test reconstruction loss is 0.3060
+
+Epoch: 547/1000, Loss: 603.34356, Time: 7.1
+Recon Loss: 16484.70470. KL Loss: 142.64396. Laplacian Loss: 9.47059. 
+The test reconstruction loss is 0.3062
+
+Epoch: 548/1000, Loss: 601.52586, Time: 7.1
+Recon Loss: 16482.63198. KL Loss: 142.66133. Laplacian Loss: 9.46801. 
+The test reconstruction loss is 0.3062
+
+Epoch: 549/1000, Loss: 599.77332, Time: 7.1
+Recon Loss: 16482.12672. KL Loss: 142.67588. Laplacian Loss: 9.46798. 
+The test reconstruction loss is 0.3062
+
+Epoch: 550/1000, Loss: 598.09458, Time: 7.1
+Recon Loss: 16483.42623. KL Loss: 142.69492. Laplacian Loss: 9.47072. 
+The test reconstruction loss is 0.3059
+
+Epoch: 551/1000, Loss: 596.04444, Time: 7.2
+Recon Loss: 16474.06589. KL Loss: 142.65793. Laplacian Loss: 9.46757. 
+The test reconstruction loss is 0.3060
+
+Epoch: 552/1000, Loss: 594.37628, Time: 7.2
+Recon Loss: 16475.39746. KL Loss: 142.59160. Laplacian Loss: 9.46708. 
+The test reconstruction loss is 0.3059
+
+Epoch: 553/1000, Loss: 592.73330, Time: 7.2
+Recon Loss: 16477.46472. KL Loss: 142.35027. Laplacian Loss: 9.46510. 
+The test reconstruction loss is 0.3059
+
+Epoch: 554/1000, Loss: 591.13701, Time: 7.1
+Recon Loss: 16480.41149. KL Loss: 142.39142. Laplacian Loss: 9.46388. 
+The test reconstruction loss is 0.3060
+
+Epoch: 555/1000, Loss: 589.29676, Time: 7.2
+Recon Loss: 16475.91733. KL Loss: 142.51690. Laplacian Loss: 9.46496. 
+The test reconstruction loss is 0.3060
+
+Epoch: 556/1000, Loss: 587.48977, Time: 7.2
+Recon Loss: 16472.28726. KL Loss: 142.49089. Laplacian Loss: 9.46684. 
+The test reconstruction loss is 0.3061
+
+Epoch: 557/1000, Loss: 585.75293, Time: 7.2
+Recon Loss: 16470.49785. KL Loss: 142.56820. Laplacian Loss: 9.46417. 
+The test reconstruction loss is 0.3059
+
+Epoch: 558/1000, Loss: 584.02956, Time: 7.2
+Recon Loss: 16468.86250. KL Loss: 142.52162. Laplacian Loss: 9.46639. 
+The test reconstruction loss is 0.3058
+
+Epoch: 559/1000, Loss: 582.53515, Time: 7.2
+Recon Loss: 16473.84039. KL Loss: 142.44013. Laplacian Loss: 9.46611. 
+The test reconstruction loss is 0.3060
+
+Epoch: 560/1000, Loss: 580.74869, Time: 7.2
+Recon Loss: 16469.68619. KL Loss: 142.70167. Laplacian Loss: 9.46665. 
+The test reconstruction loss is 0.3061
+
+Epoch: 561/1000, Loss: 578.94564, Time: 7.3
+Recon Loss: 16465.18203. KL Loss: 142.54222. Laplacian Loss: 9.46738. 
+The test reconstruction loss is 0.3060
+
+Epoch: 562/1000, Loss: 577.27151, Time: 7.3
+Recon Loss: 16464.42341. KL Loss: 142.31202. Laplacian Loss: 9.46552. 
+The test reconstruction loss is 0.3059
+
+Epoch: 563/1000, Loss: 575.68441, Time: 7.2
+Recon Loss: 16465.41212. KL Loss: 142.61012. Laplacian Loss: 9.46829. 
+The test reconstruction loss is 0.3058
+
+Epoch: 564/1000, Loss: 573.91179, Time: 7.3
+Recon Loss: 16461.23671. KL Loss: 142.37373. Laplacian Loss: 9.46850. 
+The test reconstruction loss is 0.3058
+
+Epoch: 565/1000, Loss: 572.37475, Time: 7.2
+Recon Loss: 16463.68967. KL Loss: 142.15649. Laplacian Loss: 9.47431. 
+The test reconstruction loss is 0.3063
+
+Epoch: 566/1000, Loss: 570.76553, Time: 7.2
+Recon Loss: 16463.71400. KL Loss: 142.31848. Laplacian Loss: 9.47112. 
+The test reconstruction loss is 0.3059
+
+Epoch: 567/1000, Loss: 569.02615, Time: 7.2
+Recon Loss: 16459.37260. KL Loss: 142.54780. Laplacian Loss: 9.47393. 
+The test reconstruction loss is 0.3060
+
+Epoch: 568/1000, Loss: 567.42191, Time: 7.2
+Recon Loss: 16459.18326. KL Loss: 142.41831. Laplacian Loss: 9.47755. 
+The test reconstruction loss is 0.3059
+
+Epoch: 569/1000, Loss: 565.72628, Time: 7.2
+Recon Loss: 16456.03031. KL Loss: 142.45331. Laplacian Loss: 9.47617. 
+The test reconstruction loss is 0.3060
+
+Epoch: 570/1000, Loss: 564.19842, Time: 7.2
+Recon Loss: 16457.98316. KL Loss: 142.19687. Laplacian Loss: 9.47616. 
+The test reconstruction loss is 0.3059
+
+Epoch: 571/1000, Loss: 562.41050, Time: 7.3
+Recon Loss: 16451.79066. KL Loss: 141.93615. Laplacian Loss: 9.47741. 
+The test reconstruction loss is 0.3060
+
+Epoch: 572/1000, Loss: 560.92285, Time: 7.4
+Recon Loss: 16454.41220. KL Loss: 141.80344. Laplacian Loss: 9.47840. 
+The test reconstruction loss is 0.3060
+
+Epoch: 573/1000, Loss: 559.17491, Time: 7.3
+Recon Loss: 16448.88896. KL Loss: 141.72111. Laplacian Loss: 9.47770. 
+The test reconstruction loss is 0.3058
+
+Epoch: 574/1000, Loss: 557.71224, Time: 7.3
+Recon Loss: 16451.95212. KL Loss: 141.50248. Laplacian Loss: 9.47923. 
+The test reconstruction loss is 0.3058
+
+Epoch: 575/1000, Loss: 556.12194, Time: 7.2
+Recon Loss: 16450.76945. KL Loss: 141.39856. Laplacian Loss: 9.48143. 
+The test reconstruction loss is 0.3061
+
+Epoch: 576/1000, Loss: 554.76353, Time: 7.1
+Recon Loss: 16456.28297. KL Loss: 141.51059. Laplacian Loss: 9.48658. 
+The test reconstruction loss is 0.3060
+
+Epoch: 577/1000, Loss: 553.01759, Time: 7.2
+Recon Loss: 16449.50133. KL Loss: 141.76167. Laplacian Loss: 9.49093. 
+The test reconstruction loss is 0.3061
+
+Epoch: 578/1000, Loss: 551.45745, Time: 7.3
+Recon Loss: 16448.61308. KL Loss: 141.77493. Laplacian Loss: 9.49131. 
+The test reconstruction loss is 0.3058
+
+Epoch: 579/1000, Loss: 549.85822, Time: 7.2
+Recon Loss: 16446.29800. KL Loss: 141.88183. Laplacian Loss: 9.48878. 
+The test reconstruction loss is 0.3059
+
+Epoch: 580/1000, Loss: 548.24763, Time: 7.2
+Recon Loss: 16443.45722. KL Loss: 141.83180. Laplacian Loss: 9.48940. 
+The test reconstruction loss is 0.3057
+
+Epoch: 581/1000, Loss: 546.95017, Time: 7.1
+Recon Loss: 16449.89836. KL Loss: 141.86776. Laplacian Loss: 9.49822. 
+The test reconstruction loss is 0.3059
+
+Epoch: 582/1000, Loss: 545.34730, Time: 7.2
+Recon Loss: 16446.93222. KL Loss: 141.79956. Laplacian Loss: 9.49890. 
+The test reconstruction loss is 0.3058
+
+Epoch: 583/1000, Loss: 543.75682, Time: 7.2
+Recon Loss: 16444.18457. KL Loss: 141.70955. Laplacian Loss: 9.49869. 
+The test reconstruction loss is 0.3059
+
+Epoch: 584/1000, Loss: 542.21845, Time: 7.1
+Recon Loss: 16442.69335. KL Loss: 141.85984. Laplacian Loss: 9.49699. 
+The test reconstruction loss is 0.3060
+
+Epoch: 585/1000, Loss: 540.85618, Time: 7.3
+Recon Loss: 16446.08859. KL Loss: 142.21150. Laplacian Loss: 9.50517. 
+The test reconstruction loss is 0.3056
+
+Epoch: 586/1000, Loss: 539.08373, Time: 7.2
+Recon Loss: 16436.86989. KL Loss: 142.14028. Laplacian Loss: 9.50699. 
+The test reconstruction loss is 0.3058
+
+Epoch: 587/1000, Loss: 537.68557, Time: 7.1
+Recon Loss: 16439.48154. KL Loss: 142.00615. Laplacian Loss: 9.50589. 
+The test reconstruction loss is 0.3058
+
+Epoch: 588/1000, Loss: 536.18909, Time: 7.2
+Recon Loss: 16438.29051. KL Loss: 142.31223. Laplacian Loss: 9.50653. 
+The test reconstruction loss is 0.3056
+
+Epoch: 589/1000, Loss: 534.66401, Time: 7.3
+Recon Loss: 16436.24776. KL Loss: 142.13825. Laplacian Loss: 9.51358. 
+The test reconstruction loss is 0.3058
+
+Epoch: 590/1000, Loss: 533.21930, Time: 7.3
+Recon Loss: 16436.53861. KL Loss: 142.26252. Laplacian Loss: 9.51298. 
+The test reconstruction loss is 0.3058
+
+Epoch: 591/1000, Loss: 531.74510, Time: 7.4
+Recon Loss: 16435.57990. KL Loss: 142.27926. Laplacian Loss: 9.51913. 
+The test reconstruction loss is 0.3058
+
+Epoch: 592/1000, Loss: 530.26764, Time: 7.3
+Recon Loss: 16434.62190. KL Loss: 142.20010. Laplacian Loss: 9.51807. 
+The test reconstruction loss is 0.3057
+
+Epoch: 593/1000, Loss: 528.68582, Time: 7.3
+Recon Loss: 16430.02970. KL Loss: 142.09748. Laplacian Loss: 9.52006. 
+The test reconstruction loss is 0.3059
+
+Epoch: 594/1000, Loss: 527.27553, Time: 7.2
+Recon Loss: 16430.60148. KL Loss: 142.04980. Laplacian Loss: 9.52636. 
+The test reconstruction loss is 0.3059
+
+Epoch: 595/1000, Loss: 525.78853, Time: 7.3
+Recon Loss: 16428.77666. KL Loss: 142.05556. Laplacian Loss: 9.52117. 
+The test reconstruction loss is 0.3056
+
+Epoch: 596/1000, Loss: 524.37353, Time: 7.3
+Recon Loss: 16428.90110. KL Loss: 141.93106. Laplacian Loss: 9.52755. 
+The test reconstruction loss is 0.3058
+
+Epoch: 597/1000, Loss: 522.99616, Time: 7.2
+Recon Loss: 16430.34837. KL Loss: 141.70856. Laplacian Loss: 9.52759. 
+The test reconstruction loss is 0.3057
+
+Epoch: 598/1000, Loss: 521.59646, Time: 7.2
+Recon Loss: 16430.28711. KL Loss: 141.96530. Laplacian Loss: 9.53215. 
+The test reconstruction loss is 0.3057
+
+Epoch: 599/1000, Loss: 520.01510, Time: 7.2
+Recon Loss: 16424.12814. KL Loss: 142.17523. Laplacian Loss: 9.53595. 
+The test reconstruction loss is 0.3059
+
+Epoch: 600/1000, Loss: 518.66137, Time: 7.3
+Recon Loss: 16425.62984. KL Loss: 142.07912. Laplacian Loss: 9.53748. 
+The test reconstruction loss is 0.3057
+
+Epoch: 601/1000, Loss: 517.17710, Time: 7.3
+Recon Loss: 16422.45034. KL Loss: 142.04723. Laplacian Loss: 9.54291. 
+The test reconstruction loss is 0.3058
+
+Epoch: 602/1000, Loss: 515.85215, Time: 7.3
+Recon Loss: 16424.60290. KL Loss: 141.96980. Laplacian Loss: 9.54181. 
+The test reconstruction loss is 0.3058
+
+Epoch: 603/1000, Loss: 514.45818, Time: 7.2
+Recon Loss: 16424.27147. KL Loss: 141.83462. Laplacian Loss: 9.54316. 
+The test reconstruction loss is 0.3058
+
+Epoch: 604/1000, Loss: 512.98474, Time: 7.2
+Recon Loss: 16420.87133. KL Loss: 141.89154. Laplacian Loss: 9.54618. 
+The test reconstruction loss is 0.3057
+
+Epoch: 605/1000, Loss: 511.59806, Time: 7.1
+Recon Loss: 16420.24328. KL Loss: 141.85826. Laplacian Loss: 9.54937. 
+The test reconstruction loss is 0.3058
+
+Epoch: 606/1000, Loss: 510.26224, Time: 7.2
+Recon Loss: 16420.96313. KL Loss: 141.93903. Laplacian Loss: 9.55548. 
+The test reconstruction loss is 0.3057
+
+Epoch: 607/1000, Loss: 508.86644, Time: 7.2
+Recon Loss: 16419.62224. KL Loss: 142.04580. Laplacian Loss: 9.55613. 
+The test reconstruction loss is 0.3057
+
+Epoch: 608/1000, Loss: 507.46059, Time: 7.2
+Recon Loss: 16418.02560. KL Loss: 141.82244. Laplacian Loss: 9.55790. 
+The test reconstruction loss is 0.3060
+
+Epoch: 609/1000, Loss: 505.88427, Time: 7.2
+Recon Loss: 16410.48923. KL Loss: 141.57465. Laplacian Loss: 9.55920. 
+The test reconstruction loss is 0.3058
+
+Epoch: 610/1000, Loss: 504.68904, Time: 7.3
+Recon Loss: 16415.65419. KL Loss: 141.42483. Laplacian Loss: 9.55823. 
+The test reconstruction loss is 0.3057
+
+Epoch: 611/1000, Loss: 503.34799, Time: 7.2
+Recon Loss: 16415.39881. KL Loss: 141.49412. Laplacian Loss: 9.56005. 
+The test reconstruction loss is 0.3056
+
+Epoch: 612/1000, Loss: 501.98231, Time: 7.3
+Recon Loss: 16414.20604. KL Loss: 141.40438. Laplacian Loss: 9.56447. 
+The test reconstruction loss is 0.3058
+
+Epoch: 613/1000, Loss: 500.71666, Time: 7.2
+Recon Loss: 16416.30875. KL Loss: 141.42381. Laplacian Loss: 9.56398. 
+The test reconstruction loss is 0.3057
+
+Epoch: 614/1000, Loss: 499.22975, Time: 7.2
+Recon Loss: 16410.52826. KL Loss: 141.51505. Laplacian Loss: 9.56483. 
+The test reconstruction loss is 0.3056
+
+Epoch: 615/1000, Loss: 497.85506, Time: 7.2
+Recon Loss: 16408.55021. KL Loss: 141.39140. Laplacian Loss: 9.56748. 
+The test reconstruction loss is 0.3059
+
+Epoch: 616/1000, Loss: 496.49754, Time: 7.2
+Recon Loss: 16406.87985. KL Loss: 141.31733. Laplacian Loss: 9.57102. 
+The test reconstruction loss is 0.3058
+
+Epoch: 617/1000, Loss: 495.27402, Time: 7.3
+Recon Loss: 16409.51457. KL Loss: 141.42703. Laplacian Loss: 9.57429. 
+The test reconstruction loss is 0.3058
+
+Epoch: 618/1000, Loss: 494.04108, Time: 7.2
+Recon Loss: 16411.87454. KL Loss: 141.37631. Laplacian Loss: 9.57495. 
+The test reconstruction loss is 0.3058
+
+Epoch: 619/1000, Loss: 492.54977, Time: 7.2
+Recon Loss: 16404.87998. KL Loss: 141.41274. Laplacian Loss: 9.57985. 
+The test reconstruction loss is 0.3056
+
+Epoch: 620/1000, Loss: 491.21026, Time: 7.1
+Recon Loss: 16403.42029. KL Loss: 141.28737. Laplacian Loss: 9.57436. 
+The test reconstruction loss is 0.3056
+
+Epoch: 621/1000, Loss: 489.99519, Time: 7.2
+Recon Loss: 16405.70890. KL Loss: 141.30623. Laplacian Loss: 9.57824. 
+The test reconstruction loss is 0.3056
+
+Epoch: 622/1000, Loss: 488.70331, Time: 7.2
+Recon Loss: 16404.93295. KL Loss: 141.53700. Laplacian Loss: 9.58247. 
+The test reconstruction loss is 0.3056
+
+Epoch: 623/1000, Loss: 487.37041, Time: 7.2
+Recon Loss: 16402.87872. KL Loss: 141.35028. Laplacian Loss: 9.58775. 
+The test reconstruction loss is 0.3055
+
+Epoch: 624/1000, Loss: 485.94776, Time: 7.2
+Recon Loss: 16397.55083. KL Loss: 141.33401. Laplacian Loss: 9.58518. 
+The test reconstruction loss is 0.3056
+
+Epoch: 625/1000, Loss: 484.68927, Time: 7.2
+Recon Loss: 16397.85221. KL Loss: 141.11376. Laplacian Loss: 9.58805. 
+The test reconstruction loss is 0.3057
+
+Epoch: 626/1000, Loss: 483.49373, Time: 7.1
+Recon Loss: 16400.07752. KL Loss: 141.01190. Laplacian Loss: 9.59137. 
+The test reconstruction loss is 0.3058
+
+Epoch: 627/1000, Loss: 482.24423, Time: 7.1
+Recon Loss: 16400.26510. KL Loss: 140.98332. Laplacian Loss: 9.59133. 
+The test reconstruction loss is 0.3060
+
+Epoch: 628/1000, Loss: 480.95153, Time: 7.2
+Recon Loss: 16398.78106. KL Loss: 140.90993. Laplacian Loss: 9.59104. 
+The test reconstruction loss is 0.3056
+
+Epoch: 629/1000, Loss: 479.61853, Time: 7.2
+Recon Loss: 16395.39945. KL Loss: 140.96685. Laplacian Loss: 9.59586. 
+The test reconstruction loss is 0.3056
+
+Epoch: 630/1000, Loss: 478.21811, Time: 7.2
+Recon Loss: 16389.97286. KL Loss: 140.67136. Laplacian Loss: 9.59300. 
+The test reconstruction loss is 0.3056
+
+Epoch: 631/1000, Loss: 476.97311, Time: 7.2
+Recon Loss: 16389.66548. KL Loss: 140.54801. Laplacian Loss: 9.59314. 
+The test reconstruction loss is 0.3056
+
+Epoch: 632/1000, Loss: 475.87485, Time: 7.2
+Recon Loss: 16394.02338. KL Loss: 140.65871. Laplacian Loss: 9.60053. 
+The test reconstruction loss is 0.3057
+
+Epoch: 633/1000, Loss: 474.70625, Time: 7.3
+Recon Loss: 16395.62517. KL Loss: 140.88016. Laplacian Loss: 9.60695. 
+The test reconstruction loss is 0.3058
+
+Epoch: 634/1000, Loss: 473.44381, Time: 7.2
+Recon Loss: 16393.63880. KL Loss: 141.22673. Laplacian Loss: 9.61075. 
+The test reconstruction loss is 0.3056
+
+Epoch: 635/1000, Loss: 472.11687, Time: 7.2
+Recon Loss: 16389.38071. KL Loss: 141.15052. Laplacian Loss: 9.61951. 
+The test reconstruction loss is 0.3055
+
+Epoch: 636/1000, Loss: 470.85389, Time: 7.2
+Recon Loss: 16387.67254. KL Loss: 141.10252. Laplacian Loss: 9.61311. 
+The test reconstruction loss is 0.3055
+
+Epoch: 637/1000, Loss: 469.80105, Time: 7.2
+Recon Loss: 16393.36154. KL Loss: 140.78424. Laplacian Loss: 9.61876. 
+The test reconstruction loss is 0.3058
+
+Epoch: 638/1000, Loss: 468.61153, Time: 7.3
+Recon Loss: 16393.37138. KL Loss: 141.09844. Laplacian Loss: 9.62286. 
+The test reconstruction loss is 0.3055
+
+Epoch: 639/1000, Loss: 467.27569, Time: 7.4
+Recon Loss: 16387.91850. KL Loss: 141.28406. Laplacian Loss: 9.62854. 
+The test reconstruction loss is 0.3055
+
+Epoch: 640/1000, Loss: 466.09618, Time: 7.4
+Recon Loss: 16388.26767. KL Loss: 141.28992. Laplacian Loss: 9.63107. 
+The test reconstruction loss is 0.3057
+
+Epoch: 641/1000, Loss: 464.76367, Time: 7.3
+Recon Loss: 16382.89155. KL Loss: 141.14799. Laplacian Loss: 9.63560. 
+The test reconstruction loss is 0.3058
+
+Epoch: 642/1000, Loss: 463.59015, Time: 7.3
+Recon Loss: 16383.66270. KL Loss: 140.88884. Laplacian Loss: 9.62873. 
+The test reconstruction loss is 0.3056
+
+Epoch: 643/1000, Loss: 462.30835, Time: 7.3
+Recon Loss: 16379.98101. KL Loss: 140.60948. Laplacian Loss: 9.63130. 
+The test reconstruction loss is 0.3056
+
+Epoch: 644/1000, Loss: 461.28618, Time: 7.3
+Recon Loss: 16385.46618. KL Loss: 140.70630. Laplacian Loss: 9.63168. 
+The test reconstruction loss is 0.3058
+
+Epoch: 645/1000, Loss: 460.02516, Time: 7.3
+Recon Loss: 16381.65405. KL Loss: 140.84119. Laplacian Loss: 9.64002. 
+The test reconstruction loss is 0.3056
+
+Epoch: 646/1000, Loss: 458.99620, Time: 7.2
+Recon Loss: 16386.26338. KL Loss: 141.09726. Laplacian Loss: 9.64620. 
+The test reconstruction loss is 0.3055
+
+Epoch: 647/1000, Loss: 457.68239, Time: 7.2
+Recon Loss: 16380.45061. KL Loss: 141.10305. Laplacian Loss: 9.64790. 
+The test reconstruction loss is 0.3058
+
+Epoch: 648/1000, Loss: 456.34232, Time: 7.3
+Recon Loss: 16373.56971. KL Loss: 141.07776. Laplacian Loss: 9.64629. 
+The test reconstruction loss is 0.3055
+
+Epoch: 649/1000, Loss: 455.32744, Time: 7.2
+Recon Loss: 16378.74964. KL Loss: 140.86735. Laplacian Loss: 9.64984. 
+The test reconstruction loss is 0.3054
+
+Epoch: 650/1000, Loss: 454.08639, Time: 7.1
+Recon Loss: 16375.09038. KL Loss: 140.89615. Laplacian Loss: 9.65113. 
+The test reconstruction loss is 0.3054
+
+Epoch: 651/1000, Loss: 452.91743, Time: 7.2
+Recon Loss: 16374.04290. KL Loss: 140.86962. Laplacian Loss: 9.65183. 
+The test reconstruction loss is 0.3058
+
+Epoch: 652/1000, Loss: 451.84412, Time: 7.3
+Recon Loss: 16376.61377. KL Loss: 140.67680. Laplacian Loss: 9.65312. 
+The test reconstruction loss is 0.3056
+
+Epoch: 653/1000, Loss: 450.66026, Time: 7.1
+Recon Loss: 16374.34521. KL Loss: 140.92362. Laplacian Loss: 9.65658. 
+The test reconstruction loss is 0.3056
+
+Epoch: 654/1000, Loss: 449.39423, Time: 7.1
+Recon Loss: 16369.13808. KL Loss: 140.91308. Laplacian Loss: 9.65605. 
+The test reconstruction loss is 0.3057
+
+Epoch: 655/1000, Loss: 448.28645, Time: 7.2
+Recon Loss: 16369.75881. KL Loss: 140.82201. Laplacian Loss: 9.65841. 
+The test reconstruction loss is 0.3055
+
+Epoch: 656/1000, Loss: 447.16833, Time: 7.3
+Recon Loss: 16369.69917. KL Loss: 140.82354. Laplacian Loss: 9.66288. 
+The test reconstruction loss is 0.3057
+
+Epoch: 657/1000, Loss: 446.06985, Time: 7.3
+Recon Loss: 16370.33576. KL Loss: 140.57118. Laplacian Loss: 9.67174. 
+The test reconstruction loss is 0.3056
+
+Epoch: 658/1000, Loss: 444.93345, Time: 7.3
+Recon Loss: 16369.41861. KL Loss: 140.60859. Laplacian Loss: 9.66985. 
+The test reconstruction loss is 0.3056
+
+Epoch: 659/1000, Loss: 443.94412, Time: 7.4
+Recon Loss: 16373.80601. KL Loss: 140.73005. Laplacian Loss: 9.67214. 
+The test reconstruction loss is 0.3054
+
+Epoch: 660/1000, Loss: 442.72771, Time: 7.1
+Recon Loss: 16369.30355. KL Loss: 140.74939. Laplacian Loss: 9.67645. 
+The test reconstruction loss is 0.3058
+
+Epoch: 661/1000, Loss: 441.61868, Time: 7.2
+Recon Loss: 16368.79264. KL Loss: 140.83794. Laplacian Loss: 9.67824. 
+The test reconstruction loss is 0.3051
+
+Epoch: 662/1000, Loss: 440.53613, Time: 7.2
+Recon Loss: 16369.11846. KL Loss: 140.88407. Laplacian Loss: 9.68229. 
+The test reconstruction loss is 0.3054
+
+Epoch: 663/1000, Loss: 439.37682, Time: 7.2
+Recon Loss: 16366.01889. KL Loss: 141.12687. Laplacian Loss: 9.68955. 
+The test reconstruction loss is 0.3055
+
+Epoch: 664/1000, Loss: 438.24815, Time: 7.2
+Recon Loss: 16364.58762. KL Loss: 140.91869. Laplacian Loss: 9.68908. 
+The test reconstruction loss is 0.3054
+
+Epoch: 665/1000, Loss: 437.02294, Time: 7.3
+Recon Loss: 16359.04687. KL Loss: 140.81735. Laplacian Loss: 9.69021. 
+The test reconstruction loss is 0.3055
+
+Epoch: 666/1000, Loss: 435.85617, Time: 7.3
+Recon Loss: 16355.76212. KL Loss: 140.56392. Laplacian Loss: 9.69078. 
+The test reconstruction loss is 0.3053
+
+Epoch: 667/1000, Loss: 434.88545, Time: 7.2
+Recon Loss: 16359.73633. KL Loss: 140.52722. Laplacian Loss: 9.69478. 
+The test reconstruction loss is 0.3054
+
+Epoch: 668/1000, Loss: 433.74810, Time: 7.2
+Recon Loss: 16357.05586. KL Loss: 140.42173. Laplacian Loss: 9.69899. 
+The test reconstruction loss is 0.3054
+
+Epoch: 669/1000, Loss: 432.61987, Time: 7.3
+Recon Loss: 16354.70116. KL Loss: 140.38553. Laplacian Loss: 9.69673. 
+The test reconstruction loss is 0.3054
+
+Epoch: 670/1000, Loss: 431.61631, Time: 7.2
+Recon Loss: 16356.72352. KL Loss: 140.44773. Laplacian Loss: 9.70470. 
+The test reconstruction loss is 0.3058
+
+Epoch: 671/1000, Loss: 430.51191, Time: 7.3
+Recon Loss: 16354.88434. KL Loss: 140.36668. Laplacian Loss: 9.70706. 
+The test reconstruction loss is 0.3055
+
+Epoch: 672/1000, Loss: 429.50489, Time: 7.3
+Recon Loss: 16356.80999. KL Loss: 140.42463. Laplacian Loss: 9.70403. 
+The test reconstruction loss is 0.3057
+
+Epoch: 673/1000, Loss: 428.41253, Time: 7.3
+Recon Loss: 16354.70725. KL Loss: 140.75887. Laplacian Loss: 9.70759. 
+The test reconstruction loss is 0.3056
+
+Epoch: 674/1000, Loss: 427.35764, Time: 7.3
+Recon Loss: 16354.31254. KL Loss: 140.62561. Laplacian Loss: 9.71337. 
+The test reconstruction loss is 0.3055
+
+Epoch: 675/1000, Loss: 426.27335, Time: 7.3
+Recon Loss: 16352.60073. KL Loss: 140.65119. Laplacian Loss: 9.71342. 
+The test reconstruction loss is 0.3055
+
+Epoch: 676/1000, Loss: 425.16571, Time: 7.3
+Recon Loss: 16349.70867. KL Loss: 140.62796. Laplacian Loss: 9.71712. 
+The test reconstruction loss is 0.3054
+
+Epoch: 677/1000, Loss: 424.16243, Time: 7.3
+Recon Loss: 16351.16562. KL Loss: 140.38127. Laplacian Loss: 9.71795. 
+The test reconstruction loss is 0.3056
+
+Epoch: 678/1000, Loss: 423.36692, Time: 7.3
+Recon Loss: 16360.17282. KL Loss: 140.76857. Laplacian Loss: 9.72355. 
+The test reconstruction loss is 0.3053
+
+Epoch: 679/1000, Loss: 422.07606, Time: 7.4
+Recon Loss: 16349.27480. KL Loss: 140.90803. Laplacian Loss: 9.72572. 
+The test reconstruction loss is 0.3054
+
+Epoch: 680/1000, Loss: 421.13200, Time: 7.4
+Recon Loss: 16352.20835. KL Loss: 141.03606. Laplacian Loss: 9.73067. 
+The test reconstruction loss is 0.3056
+
+Epoch: 681/1000, Loss: 419.98451, Time: 7.3
+Recon Loss: 16347.13789. KL Loss: 140.91639. Laplacian Loss: 9.72914. 
+The test reconstruction loss is 0.3055
+
+Epoch: 682/1000, Loss: 418.82014, Time: 7.3
+Recon Loss: 16341.23372. KL Loss: 140.78191. Laplacian Loss: 9.72664. 
+The test reconstruction loss is 0.3053
+
+Epoch: 683/1000, Loss: 418.01573, Time: 7.3
+Recon Loss: 16349.95325. KL Loss: 140.44643. Laplacian Loss: 9.72939. 
+The test reconstruction loss is 0.3052
+
+Epoch: 684/1000, Loss: 416.81275, Time: 7.3
+Recon Loss: 16341.87652. KL Loss: 140.34850. Laplacian Loss: 9.73364. 
+The test reconstruction loss is 0.3055
+
+Epoch: 685/1000, Loss: 415.80704, Time: 7.3
+Recon Loss: 16341.92389. KL Loss: 140.18845. Laplacian Loss: 9.73453. 
+The test reconstruction loss is 0.3053
+
+Epoch: 686/1000, Loss: 414.89545, Time: 7.2
+Recon Loss: 16345.32925. KL Loss: 140.35152. Laplacian Loss: 9.73726. 
+The test reconstruction loss is 0.3055
+
+Epoch: 687/1000, Loss: 413.86720, Time: 7.2
+Recon Loss: 16343.97739. KL Loss: 140.28392. Laplacian Loss: 9.74077. 
+The test reconstruction loss is 0.3055
+
+Epoch: 688/1000, Loss: 412.86919, Time: 7.3
+Recon Loss: 16343.80650. KL Loss: 140.33375. Laplacian Loss: 9.73741. 
+The test reconstruction loss is 0.3055
+
+Epoch: 689/1000, Loss: 411.82119, Time: 7.2
+Recon Loss: 16341.06342. KL Loss: 140.38559. Laplacian Loss: 9.74571. 
+The test reconstruction loss is 0.3052
+
+Epoch: 690/1000, Loss: 410.75486, Time: 7.2
+Recon Loss: 16337.63753. KL Loss: 140.24368. Laplacian Loss: 9.75091. 
+The test reconstruction loss is 0.3057
+
+Epoch: 691/1000, Loss: 409.81176, Time: 7.2
+Recon Loss: 16339.32392. KL Loss: 140.24338. Laplacian Loss: 9.74843. 
+The test reconstruction loss is 0.3054
+
+Epoch: 692/1000, Loss: 408.79776, Time: 7.2
+Recon Loss: 16338.02560. KL Loss: 140.17963. Laplacian Loss: 9.74367. 
+The test reconstruction loss is 0.3053
+
+Epoch: 693/1000, Loss: 407.84657, Time: 7.1
+Recon Loss: 16338.92088. KL Loss: 140.11748. Laplacian Loss: 9.74850. 
+The test reconstruction loss is 0.3053
+
+Epoch: 694/1000, Loss: 406.73932, Time: 7.1
+Recon Loss: 16333.09206. KL Loss: 140.16475. Laplacian Loss: 9.74979. 
+The test reconstruction loss is 0.3055
+
+Epoch: 695/1000, Loss: 405.79266, Time: 7.1
+Recon Loss: 16333.86962. KL Loss: 140.20801. Laplacian Loss: 9.75139. 
+The test reconstruction loss is 0.3053
+
+Epoch: 696/1000, Loss: 404.85680, Time: 7.2
+Recon Loss: 16335.17665. KL Loss: 139.99418. Laplacian Loss: 9.75352. 
+The test reconstruction loss is 0.3055
+
+Epoch: 697/1000, Loss: 403.89642, Time: 7.2
+Recon Loss: 16335.00517. KL Loss: 140.11559. Laplacian Loss: 9.75560. 
+The test reconstruction loss is 0.3055
+
+Epoch: 698/1000, Loss: 402.77279, Time: 7.2
+Recon Loss: 16328.13054. KL Loss: 139.95526. Laplacian Loss: 9.75324. 
+The test reconstruction loss is 0.3053
+
+Epoch: 699/1000, Loss: 401.89091, Time: 7.2
+Recon Loss: 16330.99118. KL Loss: 139.94904. Laplacian Loss: 9.75915. 
+The test reconstruction loss is 0.3054
+
+Epoch: 700/1000, Loss: 400.94172, Time: 7.3
+Recon Loss: 16330.92723. KL Loss: 139.96504. Laplacian Loss: 9.76140. 
+The test reconstruction loss is 0.3054
+
+Epoch: 701/1000, Loss: 400.00180, Time: 7.3
+Recon Loss: 16331.23878. KL Loss: 140.00139. Laplacian Loss: 9.75970. 
+The test reconstruction loss is 0.3055
+
+Epoch: 702/1000, Loss: 399.10419, Time: 7.2
+Recon Loss: 16332.88071. KL Loss: 140.13727. Laplacian Loss: 9.76576. 
+The test reconstruction loss is 0.3056
+
+Epoch: 703/1000, Loss: 398.05749, Time: 7.1
+Recon Loss: 16328.22159. KL Loss: 140.11025. Laplacian Loss: 9.76841. 
+The test reconstruction loss is 0.3052
+
+Epoch: 704/1000, Loss: 397.12124, Time: 7.2
+Recon Loss: 16328.21631. KL Loss: 140.13898. Laplacian Loss: 9.76796. 
+The test reconstruction loss is 0.3053
+
+Epoch: 705/1000, Loss: 396.05897, Time: 7.3
+Recon Loss: 16322.47772. KL Loss: 140.29344. Laplacian Loss: 9.76700. 
+The test reconstruction loss is 0.3054
+
+Epoch: 706/1000, Loss: 395.13286, Time: 7.3
+Recon Loss: 16322.64136. KL Loss: 140.05778. Laplacian Loss: 9.77344. 
+The test reconstruction loss is 0.3055
+
+Epoch: 707/1000, Loss: 394.34634, Time: 7.2
+Recon Loss: 16328.57451. KL Loss: 140.26922. Laplacian Loss: 9.77129. 
+The test reconstruction loss is 0.3053
+
+Epoch: 708/1000, Loss: 393.28811, Time: 7.3
+Recon Loss: 16322.41719. KL Loss: 140.42386. Laplacian Loss: 9.77528. 
+The test reconstruction loss is 0.3056
+
+Epoch: 709/1000, Loss: 392.41851, Time: 7.3
+Recon Loss: 16324.59490. KL Loss: 140.33498. Laplacian Loss: 9.77857. 
+The test reconstruction loss is 0.3054
+
+Epoch: 710/1000, Loss: 391.41423, Time: 7.3
+Recon Loss: 16320.70016. KL Loss: 140.42943. Laplacian Loss: 9.77679. 
+The test reconstruction loss is 0.3052
+
+Epoch: 711/1000, Loss: 390.61062, Time: 7.3
+Recon Loss: 16325.08161. KL Loss: 140.60604. Laplacian Loss: 9.78539. 
+The test reconstruction loss is 0.3053
+
+Epoch: 712/1000, Loss: 389.59400, Time: 7.3
+Recon Loss: 16320.23327. KL Loss: 140.60196. Laplacian Loss: 9.79035. 
+The test reconstruction loss is 0.3054
+
+Epoch: 713/1000, Loss: 388.61366, Time: 7.3
+Recon Loss: 16317.25650. KL Loss: 140.29845. Laplacian Loss: 9.79055. 
+The test reconstruction loss is 0.3053
+
+Epoch: 714/1000, Loss: 387.72122, Time: 7.4
+Recon Loss: 16318.04521. KL Loss: 140.07651. Laplacian Loss: 9.78682. 
+The test reconstruction loss is 0.3056
+
+Epoch: 715/1000, Loss: 386.79422, Time: 7.3
+Recon Loss: 16316.87595. KL Loss: 139.96250. Laplacian Loss: 9.78973. 
+The test reconstruction loss is 0.3053
+
+Epoch: 716/1000, Loss: 385.88941, Time: 7.2
+Recon Loss: 16316.34866. KL Loss: 139.97451. Laplacian Loss: 9.79522. 
+The test reconstruction loss is 0.3054
+
+Epoch: 717/1000, Loss: 384.98007, Time: 7.2
+Recon Loss: 16315.82562. KL Loss: 139.92638. Laplacian Loss: 9.79137. 
+The test reconstruction loss is 0.3054
+
+Epoch: 718/1000, Loss: 384.08931, Time: 7.3
+Recon Loss: 16315.54767. KL Loss: 140.05256. Laplacian Loss: 9.79657. 
+The test reconstruction loss is 0.3053
+
+Epoch: 719/1000, Loss: 383.20630, Time: 7.2
+Recon Loss: 16315.78234. KL Loss: 140.02696. Laplacian Loss: 9.79631. 
+The test reconstruction loss is 0.3054
+
+Epoch: 720/1000, Loss: 382.22214, Time: 7.3
+Recon Loss: 16311.30339. KL Loss: 139.92335. Laplacian Loss: 9.79895. 
+The test reconstruction loss is 0.3055
+
+Epoch: 721/1000, Loss: 381.30358, Time: 7.3
+Recon Loss: 16309.72668. KL Loss: 139.78349. Laplacian Loss: 9.79918. 
+The test reconstruction loss is 0.3053
+
+Epoch: 722/1000, Loss: 380.56006, Time: 7.2
+Recon Loss: 16315.39431. KL Loss: 139.86195. Laplacian Loss: 9.80952. 
+The test reconstruction loss is 0.3055
+
+Epoch: 723/1000, Loss: 379.51928, Time: 7.2
+Recon Loss: 16307.93381. KL Loss: 139.91351. Laplacian Loss: 9.80643. 
+The test reconstruction loss is 0.3055
+
+Epoch: 724/1000, Loss: 378.64041, Time: 7.2
+Recon Loss: 16307.45561. KL Loss: 139.96554. Laplacian Loss: 9.80896. 
+The test reconstruction loss is 0.3057
+
+Epoch: 725/1000, Loss: 377.78543, Time: 7.2
+Recon Loss: 16308.15125. KL Loss: 139.83685. Laplacian Loss: 9.81013. 
+The test reconstruction loss is 0.3054
+
+Epoch: 726/1000, Loss: 376.86887, Time: 7.1
+Recon Loss: 16305.78964. KL Loss: 139.86496. Laplacian Loss: 9.81028. 
+The test reconstruction loss is 0.3052
+
+Epoch: 727/1000, Loss: 376.07628, Time: 7.2
+Recon Loss: 16308.72823. KL Loss: 139.81889. Laplacian Loss: 9.81917. 
+The test reconstruction loss is 0.3055
+
+Epoch: 728/1000, Loss: 375.15437, Time: 7.2
+Recon Loss: 16305.88307. KL Loss: 139.88597. Laplacian Loss: 9.81648. 
+The test reconstruction loss is 0.3052
+
+Epoch: 729/1000, Loss: 374.24002, Time: 7.2
+Recon Loss: 16303.20572. KL Loss: 139.81322. Laplacian Loss: 9.81940. 
+The test reconstruction loss is 0.3052
+
+Epoch: 730/1000, Loss: 373.41834, Time: 7.2
+Recon Loss: 16304.85128. KL Loss: 139.62636. Laplacian Loss: 9.81856. 
+The test reconstruction loss is 0.3054
+
+Epoch: 731/1000, Loss: 372.57274, Time: 7.2
+Recon Loss: 16304.79078. KL Loss: 139.76374. Laplacian Loss: 9.82346. 
+The test reconstruction loss is 0.3052
+
+Epoch: 732/1000, Loss: 371.75853, Time: 7.2
+Recon Loss: 16306.21132. KL Loss: 139.74023. Laplacian Loss: 9.82777. 
+The test reconstruction loss is 0.3054
+
+Epoch: 733/1000, Loss: 370.81000, Time: 7.3
+Recon Loss: 16301.49283. KL Loss: 139.68672. Laplacian Loss: 9.82610. 
+The test reconstruction loss is 0.3056
+
+Epoch: 734/1000, Loss: 369.92626, Time: 7.3
+Recon Loss: 16299.57440. KL Loss: 139.36957. Laplacian Loss: 9.83417. 
+The test reconstruction loss is 0.3055
+
+Epoch: 735/1000, Loss: 369.10192, Time: 7.3
+Recon Loss: 16300.55582. KL Loss: 139.15106. Laplacian Loss: 9.83016. 
+The test reconstruction loss is 0.3053
+
+Epoch: 736/1000, Loss: 368.40354, Time: 7.2
+Recon Loss: 16306.74697. KL Loss: 139.41879. Laplacian Loss: 9.82834. 
+The test reconstruction loss is 0.3056
+
+Epoch: 737/1000, Loss: 367.43333, Time: 7.2
+Recon Loss: 16300.12616. KL Loss: 139.49401. Laplacian Loss: 9.83239. 
+The test reconstruction loss is 0.3053
+
+Epoch: 738/1000, Loss: 366.55340, Time: 7.2
+Recon Loss: 16297.77131. KL Loss: 139.44856. Laplacian Loss: 9.83374. 
+The test reconstruction loss is 0.3052
+
+Epoch: 739/1000, Loss: 365.74159, Time: 7.1
+Recon Loss: 16298.59271. KL Loss: 139.30230. Laplacian Loss: 9.83436. 
+The test reconstruction loss is 0.3052
+
+Epoch: 740/1000, Loss: 364.99594, Time: 7.1
+Recon Loss: 16302.03117. KL Loss: 139.55678. Laplacian Loss: 9.83480. 
+The test reconstruction loss is 0.3054
+
+Epoch: 741/1000, Loss: 364.12405, Time: 7.1
+Recon Loss: 16299.29238. KL Loss: 139.85637. Laplacian Loss: 9.83646. 
+The test reconstruction loss is 0.3054
+
+Epoch: 742/1000, Loss: 363.25788, Time: 7.3
+Recon Loss: 16296.94754. KL Loss: 139.69993. Laplacian Loss: 9.84398. 
+The test reconstruction loss is 0.3052
+
+Epoch: 743/1000, Loss: 362.40885, Time: 7.3
+Recon Loss: 16295.64149. KL Loss: 139.66256. Laplacian Loss: 9.83527. 
+The test reconstruction loss is 0.3054
+
+Epoch: 744/1000, Loss: 361.53266, Time: 7.3
+Recon Loss: 16292.55615. KL Loss: 139.57542. Laplacian Loss: 9.83973. 
+The test reconstruction loss is 0.3051
+
+Epoch: 745/1000, Loss: 360.67754, Time: 7.3
+Recon Loss: 16290.04336. KL Loss: 139.82394. Laplacian Loss: 9.84227. 
+The test reconstruction loss is 0.3052
+
+Epoch: 746/1000, Loss: 359.91954, Time: 7.2
+Recon Loss: 16292.29820. KL Loss: 139.65108. Laplacian Loss: 9.84972. 
+The test reconstruction loss is 0.3055
+
+Epoch: 747/1000, Loss: 359.08682, Time: 7.3
+Recon Loss: 16291.17762. KL Loss: 139.65010. Laplacian Loss: 9.84100. 
+The test reconstruction loss is 0.3055
+
+Epoch: 748/1000, Loss: 358.34141, Time: 7.2
+Recon Loss: 16293.77408. KL Loss: 139.66525. Laplacian Loss: 9.84286. 
+The test reconstruction loss is 0.3055
+
+Epoch: 749/1000, Loss: 357.45508, Time: 7.2
+Recon Loss: 16289.56060. KL Loss: 139.56575. Laplacian Loss: 9.84520. 
+The test reconstruction loss is 0.3052
+
+Epoch: 750/1000, Loss: 356.64604, Time: 7.3
+Recon Loss: 16288.95669. KL Loss: 139.60154. Laplacian Loss: 9.84205. 
+The test reconstruction loss is 0.3053
+
+Epoch: 751/1000, Loss: 355.81938, Time: 7.3
+Recon Loss: 16287.27128. KL Loss: 139.48183. Laplacian Loss: 9.84665. 
+The test reconstruction loss is 0.3052
+
+Epoch: 752/1000, Loss: 354.98926, Time: 7.3
+Recon Loss: 16285.69927. KL Loss: 139.36830. Laplacian Loss: 9.83806. 
+The test reconstruction loss is 0.3054
+
+Epoch: 753/1000, Loss: 354.39381, Time: 7.2
+Recon Loss: 16294.45322. KL Loss: 139.56129. Laplacian Loss: 9.84947. 
+The test reconstruction loss is 0.3052
+
+Epoch: 754/1000, Loss: 353.50673, Time: 7.3
+Recon Loss: 16289.38395. KL Loss: 139.60062. Laplacian Loss: 9.85207. 
+The test reconstruction loss is 0.3055
+
+Epoch: 755/1000, Loss: 352.63583, Time: 7.3
+Recon Loss: 16285.03653. KL Loss: 139.77003. Laplacian Loss: 9.84730. 
+The test reconstruction loss is 0.3054
+
+Epoch: 756/1000, Loss: 351.76808, Time: 7.2
+Recon Loss: 16280.89449. KL Loss: 139.60319. Laplacian Loss: 9.84651. 
+The test reconstruction loss is 0.3055
+
+Epoch: 757/1000, Loss: 351.02591, Time: 7.2
+Recon Loss: 16282.46883. KL Loss: 139.47622. Laplacian Loss: 9.85347. 
+The test reconstruction loss is 0.3055
+
+Epoch: 758/1000, Loss: 350.33077, Time: 7.3
+Recon Loss: 16286.41531. KL Loss: 139.48004. Laplacian Loss: 9.85040. 
+The test reconstruction loss is 0.3057
+
+Epoch: 759/1000, Loss: 349.46076, Time: 7.2
+Recon Loss: 16281.68031. KL Loss: 139.41841. Laplacian Loss: 9.84849. 
+The test reconstruction loss is 0.3055
+
+Epoch: 760/1000, Loss: 348.73556, Time: 7.3
+Recon Loss: 16283.66423. KL Loss: 139.40741. Laplacian Loss: 9.85358. 
+The test reconstruction loss is 0.3058
+
+Epoch: 761/1000, Loss: 348.10236, Time: 7.3
+Recon Loss: 16289.88859. KL Loss: 139.60113. Laplacian Loss: 9.85884. 
+The test reconstruction loss is 0.3060
+
+Epoch: 762/1000, Loss: 347.23552, Time: 7.3
+Recon Loss: 16284.72477. KL Loss: 139.68715. Laplacian Loss: 9.85850. 
+The test reconstruction loss is 0.3058
+
+Epoch: 763/1000, Loss: 346.42420, Time: 7.3
+Recon Loss: 16282.62100. KL Loss: 139.45369. Laplacian Loss: 9.85284. 
+The test reconstruction loss is 0.3059
+
+Epoch: 764/1000, Loss: 345.63062, Time: 7.3
+Recon Loss: 16280.87721. KL Loss: 139.44319. Laplacian Loss: 9.85268. 
+The test reconstruction loss is 0.3053
+
+Epoch: 765/1000, Loss: 344.86356, Time: 7.2
+Recon Loss: 16280.66864. KL Loss: 139.26072. Laplacian Loss: 9.84702. 
+The test reconstruction loss is 0.3054
+
+Epoch: 766/1000, Loss: 344.12500, Time: 7.2
+Recon Loss: 16281.17944. KL Loss: 139.37692. Laplacian Loss: 9.85071. 
+The test reconstruction loss is 0.3054
+
+Epoch: 767/1000, Loss: 343.26932, Time: 7.3
+Recon Loss: 16275.81435. KL Loss: 139.58912. Laplacian Loss: 9.84729. 
+The test reconstruction loss is 0.3054
+
+Epoch: 768/1000, Loss: 342.43521, Time: 7.2
+Recon Loss: 16271.15277. KL Loss: 139.68503. Laplacian Loss: 9.85476. 
+The test reconstruction loss is 0.3055
+
+Epoch: 769/1000, Loss: 341.73801, Time: 7.2
+Recon Loss: 16273.83735. KL Loss: 139.63198. Laplacian Loss: 9.84760. 
+The test reconstruction loss is 0.3053
+
+Epoch: 770/1000, Loss: 341.05410, Time: 7.2
+Recon Loss: 16276.49364. KL Loss: 139.72298. Laplacian Loss: 9.85457. 
+The test reconstruction loss is 0.3051
+
+Epoch: 771/1000, Loss: 340.23324, Time: 7.2
+Recon Loss: 16272.37242. KL Loss: 139.95756. Laplacian Loss: 9.84906. 
+The test reconstruction loss is 0.3056
+
+Epoch: 772/1000, Loss: 339.46777, Time: 7.2
+Recon Loss: 16270.98704. KL Loss: 139.78629. Laplacian Loss: 9.85378. 
+The test reconstruction loss is 0.3052
+
+Epoch: 773/1000, Loss: 338.70776, Time: 7.2
+Recon Loss: 16269.86622. KL Loss: 139.66151. Laplacian Loss: 9.85362. 
+The test reconstruction loss is 0.3054
+
+Epoch: 774/1000, Loss: 337.97694, Time: 7.2
+Recon Loss: 16270.00236. KL Loss: 139.63068. Laplacian Loss: 9.85319. 
+The test reconstruction loss is 0.3053
+
+Epoch: 775/1000, Loss: 337.15984, Time: 7.2
+Recon Loss: 16265.56721. KL Loss: 139.64838. Laplacian Loss: 9.85283. 
+The test reconstruction loss is 0.3054
+
+Epoch: 776/1000, Loss: 336.54972, Time: 7.2
+Recon Loss: 16271.68001. KL Loss: 139.59644. Laplacian Loss: 9.85118. 
+The test reconstruction loss is 0.3053
+
+Epoch: 777/1000, Loss: 335.65850, Time: 7.2
+Recon Loss: 16262.95543. KL Loss: 139.69226. Laplacian Loss: 9.85602. 
+The test reconstruction loss is 0.3054
+
+Epoch: 778/1000, Loss: 334.98183, Time: 7.3
+Recon Loss: 16265.62344. KL Loss: 139.46543. Laplacian Loss: 9.85304. 
+The test reconstruction loss is 0.3053
+
+Epoch: 779/1000, Loss: 334.22696, Time: 7.3
+Recon Loss: 16263.74497. KL Loss: 139.50357. Laplacian Loss: 9.85556. 
+The test reconstruction loss is 0.3053
+
+Epoch: 780/1000, Loss: 333.45459, Time: 7.2
+Recon Loss: 16261.08429. KL Loss: 139.44671. Laplacian Loss: 9.85261. 
+The test reconstruction loss is 0.3052
+
+Epoch: 781/1000, Loss: 332.70895, Time: 7.3
+Recon Loss: 16259.53680. KL Loss: 139.36871. Laplacian Loss: 9.85433. 
+The test reconstruction loss is 0.3052
+
+Epoch: 782/1000, Loss: 332.03141, Time: 7.3
+Recon Loss: 16261.51569. KL Loss: 139.28712. Laplacian Loss: 9.85251. 
+The test reconstruction loss is 0.3051
+
+Epoch: 783/1000, Loss: 331.34985, Time: 7.3
+Recon Loss: 16262.85901. KL Loss: 139.28520. Laplacian Loss: 9.85879. 
+The test reconstruction loss is 0.3052
+
+Epoch: 784/1000, Loss: 330.64682, Time: 7.2
+Recon Loss: 16263.08962. KL Loss: 139.40580. Laplacian Loss: 9.85758. 
+The test reconstruction loss is 0.3052
+
+Epoch: 785/1000, Loss: 329.85414, Time: 7.2
+Recon Loss: 16258.53883. KL Loss: 139.41324. Laplacian Loss: 9.85929. 
+The test reconstruction loss is 0.3054
+
+Epoch: 786/1000, Loss: 329.19748, Time: 7.2
+Recon Loss: 16261.15260. KL Loss: 139.36915. Laplacian Loss: 9.85619. 
+The test reconstruction loss is 0.3052
+
+Epoch: 787/1000, Loss: 328.39816, Time: 7.2
+Recon Loss: 16256.06944. KL Loss: 139.35530. Laplacian Loss: 9.85560. 
+The test reconstruction loss is 0.3052
+
+Epoch: 788/1000, Loss: 327.76279, Time: 7.3
+Recon Loss: 16259.27143. KL Loss: 139.49794. Laplacian Loss: 9.85666. 
+The test reconstruction loss is 0.3053
+
+Epoch: 789/1000, Loss: 326.96848, Time: 7.3
+Recon Loss: 16254.02219. KL Loss: 139.63969. Laplacian Loss: 9.85644. 
+The test reconstruction loss is 0.3052
+
+Epoch: 790/1000, Loss: 326.22217, Time: 7.3
+Recon Loss: 16251.58006. KL Loss: 139.36245. Laplacian Loss: 9.85574. 
+The test reconstruction loss is 0.3053
+
+Epoch: 791/1000, Loss: 325.54862, Time: 7.3
+Recon Loss: 16252.47045. KL Loss: 139.37538. Laplacian Loss: 9.85890. 
+The test reconstruction loss is 0.3053
+
+Epoch: 792/1000, Loss: 324.88814, Time: 7.4
+Recon Loss: 16254.05905. KL Loss: 139.36189. Laplacian Loss: 9.85792. 
+The test reconstruction loss is 0.3051
+
+Epoch: 793/1000, Loss: 324.14961, Time: 7.2
+Recon Loss: 16251.27798. KL Loss: 139.29193. Laplacian Loss: 9.86316. 
+The test reconstruction loss is 0.3053
+
+Epoch: 794/1000, Loss: 323.46519, Time: 7.2
+Recon Loss: 16251.36562. KL Loss: 139.26493. Laplacian Loss: 9.86282. 
+The test reconstruction loss is 0.3053
+
+Epoch: 795/1000, Loss: 322.72396, Time: 7.2
+Recon Loss: 16248.49552. KL Loss: 139.14262. Laplacian Loss: 9.85895. 
+The test reconstruction loss is 0.3053
+
+Epoch: 796/1000, Loss: 322.03342, Time: 7.3
+Recon Loss: 16248.14737. KL Loss: 139.03056. Laplacian Loss: 9.85660. 
+The test reconstruction loss is 0.3053
+
+Epoch: 797/1000, Loss: 321.35813, Time: 7.1
+Recon Loss: 16248.15495. KL Loss: 139.00394. Laplacian Loss: 9.86293. 
+The test reconstruction loss is 0.3053
+
+Epoch: 798/1000, Loss: 320.66701, Time: 7.2
+Recon Loss: 16247.51579. KL Loss: 138.92512. Laplacian Loss: 9.86069. 
+The test reconstruction loss is 0.3053
+
+Epoch: 799/1000, Loss: 320.01655, Time: 7.2
+Recon Loss: 16248.58136. KL Loss: 138.98390. Laplacian Loss: 9.86580. 
+The test reconstruction loss is 0.3053
+
+Epoch: 800/1000, Loss: 319.31734, Time: 7.2
+Recon Loss: 16247.11989. KL Loss: 139.07658. Laplacian Loss: 9.86306. 
+The test reconstruction loss is 0.3053
+
+Epoch: 801/1000, Loss: 318.58568, Time: 7.2
+Recon Loss: 16243.48643. KL Loss: 139.21154. Laplacian Loss: 9.86799. 
+The test reconstruction loss is 0.3056
+
+Epoch: 802/1000, Loss: 317.95557, Time: 7.2
+Recon Loss: 16245.78762. KL Loss: 139.16715. Laplacian Loss: 9.86060. 
+The test reconstruction loss is 0.3053
+
+Epoch: 803/1000, Loss: 317.22673, Time: 7.1
+Recon Loss: 16242.08954. KL Loss: 139.16153. Laplacian Loss: 9.86908. 
+The test reconstruction loss is 0.3053
+
+Epoch: 804/1000, Loss: 316.51962, Time: 7.1
+Recon Loss: 16239.77033. KL Loss: 139.24861. Laplacian Loss: 9.86395. 
+The test reconstruction loss is 0.3053
+
+Epoch: 805/1000, Loss: 316.04885, Time: 7.2
+Recon Loss: 16249.92121. KL Loss: 139.44098. Laplacian Loss: 9.86546. 
+The test reconstruction loss is 0.3055
+
+Epoch: 806/1000, Loss: 315.36216, Time: 7.2
+Recon Loss: 16247.81017. KL Loss: 139.89757. Laplacian Loss: 9.87104. 
+The test reconstruction loss is 0.3054
+
+Epoch: 807/1000, Loss: 314.52002, Time: 7.2
+Recon Loss: 16237.90922. KL Loss: 139.72454. Laplacian Loss: 9.86885. 
+The test reconstruction loss is 0.3052
+
+Epoch: 808/1000, Loss: 313.93022, Time: 7.3
+Recon Loss: 16241.54109. KL Loss: 139.56137. Laplacian Loss: 9.87108. 
+The test reconstruction loss is 0.3054
+
+Epoch: 809/1000, Loss: 313.29732, Time: 7.2
+Recon Loss: 16242.44516. KL Loss: 139.64794. Laplacian Loss: 9.87450. 
+The test reconstruction loss is 0.3053
+
+Epoch: 810/1000, Loss: 312.54779, Time: 7.1
+Recon Loss: 16237.23609. KL Loss: 139.54124. Laplacian Loss: 9.86930. 
+The test reconstruction loss is 0.3052
+
+Epoch: 811/1000, Loss: 311.90823, Time: 7.1
+Recon Loss: 16237.67588. KL Loss: 139.54739. Laplacian Loss: 9.87028. 
+The test reconstruction loss is 0.3051
+
+Epoch: 812/1000, Loss: 311.21652, Time: 7.1
+Recon Loss: 16235.15947. KL Loss: 139.43802. Laplacian Loss: 9.87342. 
+The test reconstruction loss is 0.3053
+
+Epoch: 813/1000, Loss: 310.57509, Time: 7.1
+Recon Loss: 16235.46821. KL Loss: 139.31869. Laplacian Loss: 9.87156. 
+The test reconstruction loss is 0.3054
+
+Epoch: 814/1000, Loss: 310.05741, Time: 7.3
+Recon Loss: 16242.17546. KL Loss: 139.37495. Laplacian Loss: 9.87565. 
+The test reconstruction loss is 0.3053
+
+Epoch: 815/1000, Loss: 309.34494, Time: 7.3
+Recon Loss: 16238.11311. KL Loss: 139.45051. Laplacian Loss: 9.87500. 
+The test reconstruction loss is 0.3054
+
+Epoch: 816/1000, Loss: 308.64602, Time: 7.3
+Recon Loss: 16234.75298. KL Loss: 139.49053. Laplacian Loss: 9.87201. 
+The test reconstruction loss is 0.3053
+
+Epoch: 817/1000, Loss: 308.08537, Time: 7.3
+Recon Loss: 16238.56843. KL Loss: 139.61444. Laplacian Loss: 9.88062. 
+The test reconstruction loss is 0.3054
+
+Epoch: 818/1000, Loss: 307.38527, Time: 7.4
+Recon Loss: 16235.21748. KL Loss: 139.45671. Laplacian Loss: 9.87361. 
+The test reconstruction loss is 0.3055
+
+Epoch: 819/1000, Loss: 306.65036, Time: 7.3
+Recon Loss: 16229.29267. KL Loss: 139.49522. Laplacian Loss: 9.87611. 
+The test reconstruction loss is 0.3050
+
+Epoch: 820/1000, Loss: 306.02787, Time: 7.2
+Recon Loss: 16229.79249. KL Loss: 139.38365. Laplacian Loss: 9.87603. 
+The test reconstruction loss is 0.3053
+
+Epoch: 821/1000, Loss: 305.43295, Time: 7.2
+Recon Loss: 16231.75787. KL Loss: 139.36828. Laplacian Loss: 9.87189. 
+The test reconstruction loss is 0.3053
+
+Epoch: 822/1000, Loss: 304.78148, Time: 7.1
+Recon Loss: 16229.89047. KL Loss: 139.54995. Laplacian Loss: 9.87916. 
+The test reconstruction loss is 0.3053
+
+Epoch: 823/1000, Loss: 304.09026, Time: 7.3
+Recon Loss: 16226.11283. KL Loss: 139.50423. Laplacian Loss: 9.87835. 
+The test reconstruction loss is 0.3051
+
+Epoch: 824/1000, Loss: 303.50988, Time: 7.2
+Recon Loss: 16228.37531. KL Loss: 139.50635. Laplacian Loss: 9.87966. 
+The test reconstruction loss is 0.3052
+
+Epoch: 825/1000, Loss: 302.91722, Time: 7.2
+Recon Loss: 16229.64780. KL Loss: 139.57905. Laplacian Loss: 9.88610. 
+The test reconstruction loss is 0.3050
+
+Epoch: 826/1000, Loss: 302.18944, Time: 7.1
+Recon Loss: 16223.52491. KL Loss: 139.55345. Laplacian Loss: 9.88142. 
+The test reconstruction loss is 0.3053
+
+Epoch: 827/1000, Loss: 301.50924, Time: 7.3
+Recon Loss: 16220.05047. KL Loss: 139.34325. Laplacian Loss: 9.88019. 
+The test reconstruction loss is 0.3052
+
+Epoch: 828/1000, Loss: 300.98084, Time: 7.3
+Recon Loss: 16224.92759. KL Loss: 139.19413. Laplacian Loss: 9.88394. 
+The test reconstruction loss is 0.3051
+
+Epoch: 829/1000, Loss: 300.35361, Time: 7.3
+Recon Loss: 16224.04779. KL Loss: 139.25355. Laplacian Loss: 9.88144. 
+The test reconstruction loss is 0.3052
+
+Epoch: 830/1000, Loss: 299.77512, Time: 7.3
+Recon Loss: 16225.50583. KL Loss: 139.49633. Laplacian Loss: 9.88454. 
+The test reconstruction loss is 0.3053
+
+Epoch: 831/1000, Loss: 299.14597, Time: 7.2
+Recon Loss: 16224.12301. KL Loss: 139.54012. Laplacian Loss: 9.88803. 
+The test reconstruction loss is 0.3051
+
+Epoch: 832/1000, Loss: 298.55926, Time: 7.1
+Recon Loss: 16225.20534. KL Loss: 139.57195. Laplacian Loss: 9.88783. 
+The test reconstruction loss is 0.3051
+
+Epoch: 833/1000, Loss: 297.83140, Time: 7.2
+Recon Loss: 16218.05172. KL Loss: 139.64972. Laplacian Loss: 9.88555. 
+The test reconstruction loss is 0.3052
+
+Epoch: 834/1000, Loss: 297.35792, Time: 7.2
+Recon Loss: 16225.57598. KL Loss: 139.56524. Laplacian Loss: 9.88505. 
+The test reconstruction loss is 0.3053
+
+Epoch: 835/1000, Loss: 296.60990, Time: 7.2
+Recon Loss: 16216.92179. KL Loss: 139.62708. Laplacian Loss: 9.88522. 
+The test reconstruction loss is 0.3052
+
+Epoch: 836/1000, Loss: 296.06233, Time: 7.1
+Recon Loss: 16219.85751. KL Loss: 139.62056. Laplacian Loss: 9.88548. 
+The test reconstruction loss is 0.3050
+
+Epoch: 837/1000, Loss: 295.44738, Time: 7.2
+Recon Loss: 16218.60781. KL Loss: 139.73682. Laplacian Loss: 9.88688. 
+The test reconstruction loss is 0.3051
+
+Epoch: 838/1000, Loss: 294.89514, Time: 7.3
+Recon Loss: 16220.96968. KL Loss: 139.77755. Laplacian Loss: 9.88900. 
+The test reconstruction loss is 0.3051
+
+Epoch: 839/1000, Loss: 294.25407, Time: 7.2
+Recon Loss: 16217.99018. KL Loss: 139.73407. Laplacian Loss: 9.89519. 
+The test reconstruction loss is 0.3052
+
+Epoch: 840/1000, Loss: 293.63837, Time: 7.1
+Recon Loss: 16216.62705. KL Loss: 139.75405. Laplacian Loss: 9.89054. 
+The test reconstruction loss is 0.3048
+
+Epoch: 841/1000, Loss: 293.06388, Time: 7.1
+Recon Loss: 16217.58243. KL Loss: 139.70469. Laplacian Loss: 9.88906. 
+The test reconstruction loss is 0.3050
+
+Epoch: 842/1000, Loss: 292.48510, Time: 7.2
+Recon Loss: 16218.15474. KL Loss: 139.58478. Laplacian Loss: 9.88989. 
+The test reconstruction loss is 0.3051
+
+Epoch: 843/1000, Loss: 291.80410, Time: 7.2
+Recon Loss: 16212.41560. KL Loss: 139.67065. Laplacian Loss: 9.88934. 
+The test reconstruction loss is 0.3048
+
+Epoch: 844/1000, Loss: 291.29910, Time: 7.2
+Recon Loss: 16217.04410. KL Loss: 139.70293. Laplacian Loss: 9.88852. 
+The test reconstruction loss is 0.3050
+
+Epoch: 845/1000, Loss: 290.65061, Time: 7.2
+Recon Loss: 16213.08113. KL Loss: 139.66122. Laplacian Loss: 9.88943. 
+The test reconstruction loss is 0.3048
+
+Epoch: 846/1000, Loss: 289.97750, Time: 7.1
+Recon Loss: 16207.51778. KL Loss: 139.55449. Laplacian Loss: 9.89252. 
+The test reconstruction loss is 0.3049
+
+Epoch: 847/1000, Loss: 289.38707, Time: 7.1
+Recon Loss: 16206.90787. KL Loss: 139.50569. Laplacian Loss: 9.88879. 
+The test reconstruction loss is 0.3048
+
+Epoch: 848/1000, Loss: 288.89657, Time: 7.2
+Recon Loss: 16212.09840. KL Loss: 139.34066. Laplacian Loss: 9.89040. 
+The test reconstruction loss is 0.3050
+
+Epoch: 849/1000, Loss: 288.22082, Time: 7.2
+Recon Loss: 16205.87367. KL Loss: 139.43514. Laplacian Loss: 9.89226. 
+The test reconstruction loss is 0.3047
+
+Epoch: 850/1000, Loss: 287.67553, Time: 7.3
+Recon Loss: 16207.44774. KL Loss: 139.34765. Laplacian Loss: 9.89619. 
+The test reconstruction loss is 0.3050
+
+Epoch: 851/1000, Loss: 287.12493, Time: 7.3
+Recon Loss: 16208.72828. KL Loss: 139.30979. Laplacian Loss: 9.89453. 
+The test reconstruction loss is 0.3050
+
+Epoch: 852/1000, Loss: 286.51543, Time: 7.2
+Recon Loss: 16206.40744. KL Loss: 139.23379. Laplacian Loss: 9.89256. 
+The test reconstruction loss is 0.3050
+
+Epoch: 853/1000, Loss: 285.91555, Time: 7.2
+Recon Loss: 16204.61576. KL Loss: 139.07986. Laplacian Loss: 9.89106. 
+The test reconstruction loss is 0.3049
+
+Epoch: 854/1000, Loss: 285.28095, Time: 7.2
+Recon Loss: 16200.37215. KL Loss: 139.05564. Laplacian Loss: 9.89297. 
+The test reconstruction loss is 0.3048
+
+Epoch: 855/1000, Loss: 284.77128, Time: 7.2
+Recon Loss: 16203.56004. KL Loss: 139.05187. Laplacian Loss: 9.89448. 
+The test reconstruction loss is 0.3047
+
+Epoch: 856/1000, Loss: 284.21082, Time: 7.2
+Recon Loss: 16203.51388. KL Loss: 139.09520. Laplacian Loss: 9.89715. 
+The test reconstruction loss is 0.3051
+
+Epoch: 857/1000, Loss: 283.55659, Time: 7.2
+Recon Loss: 16197.71571. KL Loss: 139.26126. Laplacian Loss: 9.89400. 
+The test reconstruction loss is 0.3047
+
+Epoch: 858/1000, Loss: 283.04004, Time: 7.2
+Recon Loss: 16200.15676. KL Loss: 139.16191. Laplacian Loss: 9.89986. 
+The test reconstruction loss is 0.3048
+
+Epoch: 859/1000, Loss: 282.54585, Time: 7.3
+Recon Loss: 16203.84951. KL Loss: 139.21860. Laplacian Loss: 9.90181. 
+The test reconstruction loss is 0.3048
+
+Epoch: 860/1000, Loss: 281.89988, Time: 7.3
+Recon Loss: 16198.21377. KL Loss: 139.28914. Laplacian Loss: 9.90146. 
+The test reconstruction loss is 0.3050
+
+Epoch: 861/1000, Loss: 281.36630, Time: 7.4
+Recon Loss: 16199.57408. KL Loss: 139.15269. Laplacian Loss: 9.90029. 
+The test reconstruction loss is 0.3050
+
+Epoch: 862/1000, Loss: 280.88543, Time: 7.3
+Recon Loss: 16203.96245. KL Loss: 139.03879. Laplacian Loss: 9.90225. 
+The test reconstruction loss is 0.3048
+
+Epoch: 863/1000, Loss: 280.21695, Time: 7.2
+Recon Loss: 16196.53846. KL Loss: 139.12547. Laplacian Loss: 9.90366. 
+The test reconstruction loss is 0.3049
+
+Epoch: 864/1000, Loss: 279.68451, Time: 7.2
+Recon Loss: 16197.32721. KL Loss: 139.23372. Laplacian Loss: 9.90598. 
+The test reconstruction loss is 0.3048
+
+Epoch: 865/1000, Loss: 279.10270, Time: 7.1
+Recon Loss: 16195.25526. KL Loss: 139.19330. Laplacian Loss: 9.90284. 
+The test reconstruction loss is 0.3047
+
+Epoch: 866/1000, Loss: 278.53739, Time: 7.1
+Recon Loss: 16193.93800. KL Loss: 139.16685. Laplacian Loss: 9.90426. 
+The test reconstruction loss is 0.3048
+
+Epoch: 867/1000, Loss: 277.96240, Time: 7.2
+Recon Loss: 16192.06050. KL Loss: 139.07524. Laplacian Loss: 9.90297. 
+The test reconstruction loss is 0.3050
+
+Epoch: 868/1000, Loss: 277.40689, Time: 7.2
+Recon Loss: 16191.28544. KL Loss: 138.97470. Laplacian Loss: 9.90229. 
+The test reconstruction loss is 0.3048
+
+Epoch: 869/1000, Loss: 276.79400, Time: 7.1
+Recon Loss: 16186.48240. KL Loss: 139.09324. Laplacian Loss: 9.90602. 
+The test reconstruction loss is 0.3049
+
+Epoch: 870/1000, Loss: 276.36865, Time: 7.1
+Recon Loss: 16193.53123. KL Loss: 139.03335. Laplacian Loss: 9.90692. 
+The test reconstruction loss is 0.3047
+
+Epoch: 871/1000, Loss: 275.87313, Time: 7.2
+Recon Loss: 16195.60923. KL Loss: 139.24232. Laplacian Loss: 9.91588. 
+The test reconstruction loss is 0.3050
+
+Epoch: 872/1000, Loss: 275.25428, Time: 7.2
+Recon Loss: 16190.31026. KL Loss: 139.37799. Laplacian Loss: 9.91234. 
+The test reconstruction loss is 0.3050
+
+Epoch: 873/1000, Loss: 274.68971, Time: 7.3
+Recon Loss: 16188.16093. KL Loss: 139.48715. Laplacian Loss: 9.91385. 
+The test reconstruction loss is 0.3050
+
+Epoch: 874/1000, Loss: 274.22382, Time: 7.4
+Recon Loss: 16192.14857. KL Loss: 139.51440. Laplacian Loss: 9.91778. 
+The test reconstruction loss is 0.3047
+
+Epoch: 875/1000, Loss: 273.67615, Time: 7.4
+Recon Loss: 16191.07264. KL Loss: 139.50339. Laplacian Loss: 9.91678. 
+The test reconstruction loss is 0.3049
+
+Epoch: 876/1000, Loss: 273.13457, Time: 7.4
+Recon Loss: 16190.29702. KL Loss: 139.49469. Laplacian Loss: 9.91512. 
+The test reconstruction loss is 0.3049
+
+Epoch: 877/1000, Loss: 272.56771, Time: 7.2
+Recon Loss: 16187.67985. KL Loss: 139.63061. Laplacian Loss: 9.91286. 
+The test reconstruction loss is 0.3046
+
+Epoch: 878/1000, Loss: 272.01626, Time: 7.2
+Recon Loss: 16185.79747. KL Loss: 139.58298. Laplacian Loss: 9.92071. 
+The test reconstruction loss is 0.3048
+
+Epoch: 879/1000, Loss: 271.50902, Time: 7.2
+Recon Loss: 16186.91761. KL Loss: 139.54945. Laplacian Loss: 9.91833. 
+The test reconstruction loss is 0.3046
+
+Epoch: 880/1000, Loss: 270.93334, Time: 7.1
+Recon Loss: 16183.53078. KL Loss: 139.50707. Laplacian Loss: 9.91782. 
+The test reconstruction loss is 0.3047
+
+Epoch: 881/1000, Loss: 270.44788, Time: 7.2
+Recon Loss: 16185.57270. KL Loss: 139.54127. Laplacian Loss: 9.92214. 
+The test reconstruction loss is 0.3047
+
+Epoch: 882/1000, Loss: 269.90853, Time: 7.2
+Recon Loss: 16184.44889. KL Loss: 139.43246. Laplacian Loss: 9.91881. 
+The test reconstruction loss is 0.3046
+
+Epoch: 883/1000, Loss: 269.35872, Time: 7.2
+Recon Loss: 16182.46653. KL Loss: 139.33471. Laplacian Loss: 9.91793. 
+The test reconstruction loss is 0.3047
+
+Epoch: 884/1000, Loss: 268.88765, Time: 7.3
+Recon Loss: 16185.10315. KL Loss: 139.39774. Laplacian Loss: 9.92289. 
+The test reconstruction loss is 0.3048
+
+Epoch: 885/1000, Loss: 268.32112, Time: 7.3
+Recon Loss: 16181.69277. KL Loss: 139.53498. Laplacian Loss: 9.91944. 
+The test reconstruction loss is 0.3048
+
+Epoch: 886/1000, Loss: 267.80555, Time: 7.2
+Recon Loss: 16181.35630. KL Loss: 139.44473. Laplacian Loss: 9.92629. 
+The test reconstruction loss is 0.3047
+
+Epoch: 887/1000, Loss: 267.35046, Time: 7.3
+Recon Loss: 16185.01655. KL Loss: 139.43688. Laplacian Loss: 9.92440. 
+The test reconstruction loss is 0.3047
+
+Epoch: 888/1000, Loss: 266.82031, Time: 7.2
+Recon Loss: 16183.47263. KL Loss: 139.58733. Laplacian Loss: 9.92609. 
+The test reconstruction loss is 0.3046
+
+Epoch: 889/1000, Loss: 266.28285, Time: 7.3
+Recon Loss: 16181.58825. KL Loss: 139.58370. Laplacian Loss: 9.92473. 
+The test reconstruction loss is 0.3046
+
+Epoch: 890/1000, Loss: 265.72791, Time: 7.2
+Recon Loss: 16178.27091. KL Loss: 139.62664. Laplacian Loss: 9.92795. 
+The test reconstruction loss is 0.3048
+
+Epoch: 891/1000, Loss: 265.38220, Time: 7.2
+Recon Loss: 16188.32650. KL Loss: 139.62944. Laplacian Loss: 9.93809. 
+The test reconstruction loss is 0.3047
+
+Epoch: 892/1000, Loss: 264.88153, Time: 7.2
+Recon Loss: 16188.63604. KL Loss: 139.55741. Laplacian Loss: 9.93672. 
+The test reconstruction loss is 0.3050
+
+Epoch: 893/1000, Loss: 264.33308, Time: 7.1
+Recon Loss: 16185.31172. KL Loss: 139.72204. Laplacian Loss: 9.94106. 
+The test reconstruction loss is 0.3048
+
+Epoch: 894/1000, Loss: 263.73924, Time: 7.2
+Recon Loss: 16179.34295. KL Loss: 139.81420. Laplacian Loss: 9.93282. 
+The test reconstruction loss is 0.3048
+
+Epoch: 895/1000, Loss: 263.34708, Time: 7.2
+Recon Loss: 16186.04032. KL Loss: 139.83679. Laplacian Loss: 9.94231. 
+The test reconstruction loss is 0.3050
+
+Epoch: 896/1000, Loss: 262.78121, Time: 7.1
+Recon Loss: 16181.49938. KL Loss: 139.73322. Laplacian Loss: 9.94704. 
+The test reconstruction loss is 0.3051
+
+Epoch: 897/1000, Loss: 262.40855, Time: 7.2
+Recon Loss: 16189.78712. KL Loss: 139.59628. Laplacian Loss: 9.94692. 
+The test reconstruction loss is 0.3049
+
+Epoch: 898/1000, Loss: 261.64758, Time: 7.2
+Recon Loss: 16172.41668. KL Loss: 139.58528. Laplacian Loss: 9.93892. 
+The test reconstruction loss is 0.3048
+
+Epoch: 899/1000, Loss: 261.17227, Time: 7.3
+Recon Loss: 16173.69383. KL Loss: 139.35334. Laplacian Loss: 9.94155. 
+The test reconstruction loss is 0.3049
+
+Epoch: 900/1000, Loss: 260.66779, Time: 7.3
+Recon Loss: 16172.96101. KL Loss: 139.30159. Laplacian Loss: 9.93752. 
+The test reconstruction loss is 0.3047
+
+Epoch: 901/1000, Loss: 260.16149, Time: 7.3
+Recon Loss: 16171.68543. KL Loss: 139.49571. Laplacian Loss: 9.93699. 
+The test reconstruction loss is 0.3047
+
+Epoch: 902/1000, Loss: 259.63338, Time: 7.3
+Recon Loss: 16168.54404. KL Loss: 139.64543. Laplacian Loss: 9.94730. 
+The test reconstruction loss is 0.3049
+
+Epoch: 903/1000, Loss: 259.12866, Time: 7.3
+Recon Loss: 16167.26090. KL Loss: 139.65731. Laplacian Loss: 9.94943. 
+The test reconstruction loss is 0.3049
+
+Epoch: 904/1000, Loss: 258.64952, Time: 7.2
+Recon Loss: 16167.61903. KL Loss: 139.66324. Laplacian Loss: 9.95026. 
+The test reconstruction loss is 0.3050
+
+Epoch: 905/1000, Loss: 258.13526, Time: 7.2
+Recon Loss: 16165.83114. KL Loss: 139.50663. Laplacian Loss: 9.94671. 
+The test reconstruction loss is 0.3049
+
+Epoch: 906/1000, Loss: 257.66849, Time: 7.2
+Recon Loss: 16166.62614. KL Loss: 139.58099. Laplacian Loss: 9.95205. 
+The test reconstruction loss is 0.3050
+
+Epoch: 907/1000, Loss: 257.15884, Time: 7.3
+Recon Loss: 16164.71239. KL Loss: 139.46846. Laplacian Loss: 9.95446. 
+The test reconstruction loss is 0.3049
+
+Epoch: 908/1000, Loss: 256.70059, Time: 7.3
+Recon Loss: 16165.97240. KL Loss: 139.55420. Laplacian Loss: 9.95709. 
+The test reconstruction loss is 0.3048
+
+Epoch: 909/1000, Loss: 256.21831, Time: 7.3
+Recon Loss: 16165.71711. KL Loss: 139.52368. Laplacian Loss: 9.95737. 
+The test reconstruction loss is 0.3048
+
+Epoch: 910/1000, Loss: 255.70845, Time: 7.2
+Recon Loss: 16163.06865. KL Loss: 139.75620. Laplacian Loss: 9.96298. 
+The test reconstruction loss is 0.3050
+
+Epoch: 911/1000, Loss: 255.22630, Time: 7.2
+Recon Loss: 16162.57259. KL Loss: 139.90315. Laplacian Loss: 9.95904. 
+The test reconstruction loss is 0.3047
+
+Epoch: 912/1000, Loss: 254.81754, Time: 7.1
+Recon Loss: 16166.50626. KL Loss: 140.21743. Laplacian Loss: 9.96458. 
+The test reconstruction loss is 0.3048
+
+Epoch: 913/1000, Loss: 254.25233, Time: 7.2
+Recon Loss: 16160.09920. KL Loss: 140.30022. Laplacian Loss: 9.96546. 
+The test reconstruction loss is 0.3049
+
+Epoch: 914/1000, Loss: 253.79693, Time: 7.2
+Recon Loss: 16161.12892. KL Loss: 140.35720. Laplacian Loss: 9.96449. 
+The test reconstruction loss is 0.3047
+
+Epoch: 915/1000, Loss: 253.38707, Time: 7.1
+Recon Loss: 16164.84765. KL Loss: 140.65940. Laplacian Loss: 9.96745. 
+The test reconstruction loss is 0.3049
+
+Epoch: 916/1000, Loss: 252.84124, Time: 7.1
+Recon Loss: 16159.52164. KL Loss: 140.54566. Laplacian Loss: 9.97164. 
+The test reconstruction loss is 0.3049
+
+Epoch: 917/1000, Loss: 252.39274, Time: 7.2
+Recon Loss: 16160.96797. KL Loss: 140.36758. Laplacian Loss: 9.97112. 
+The test reconstruction loss is 0.3046
+
+Epoch: 918/1000, Loss: 251.80156, Time: 7.1
+Recon Loss: 16152.65035. KL Loss: 140.11587. Laplacian Loss: 9.96831. 
+The test reconstruction loss is 0.3049
+
+Epoch: 919/1000, Loss: 251.38087, Time: 7.1
+Recon Loss: 16155.39026. KL Loss: 140.17651. Laplacian Loss: 9.97380. 
+The test reconstruction loss is 0.3046
+
+Epoch: 920/1000, Loss: 250.88389, Time: 7.2
+Recon Loss: 16153.11957. KL Loss: 140.03539. Laplacian Loss: 9.97517. 
+The test reconstruction loss is 0.3048
+
+Epoch: 921/1000, Loss: 250.39157, Time: 7.2
+Recon Loss: 16151.08366. KL Loss: 139.99461. Laplacian Loss: 9.97274. 
+The test reconstruction loss is 0.3048
+
+Epoch: 922/1000, Loss: 250.01890, Time: 7.2
+Recon Loss: 16157.01531. KL Loss: 139.94938. Laplacian Loss: 9.97834. 
+The test reconstruction loss is 0.3048
+
+Epoch: 923/1000, Loss: 249.45711, Time: 7.2
+Recon Loss: 16149.92714. KL Loss: 139.91901. Laplacian Loss: 9.97669. 
+The test reconstruction loss is 0.3048
+
+Epoch: 924/1000, Loss: 248.99733, Time: 7.2
+Recon Loss: 16149.67921. KL Loss: 139.86439. Laplacian Loss: 9.98034. 
+The test reconstruction loss is 0.3048
+
+Epoch: 925/1000, Loss: 248.59674, Time: 7.3
+Recon Loss: 16153.71403. KL Loss: 139.72185. Laplacian Loss: 9.97943. 
+The test reconstruction loss is 0.3048
+
+Epoch: 926/1000, Loss: 248.07286, Time: 7.2
+Recon Loss: 16148.68227. KL Loss: 139.82162. Laplacian Loss: 9.98301. 
+The test reconstruction loss is 0.3048
+
+Epoch: 927/1000, Loss: 247.62965, Time: 7.3
+Recon Loss: 16149.28736. KL Loss: 139.88218. Laplacian Loss: 9.98391. 
+The test reconstruction loss is 0.3048
+
+Epoch: 928/1000, Loss: 247.11699, Time: 7.2
+Recon Loss: 16145.02012. KL Loss: 139.87525. Laplacian Loss: 9.98430. 
+The test reconstruction loss is 0.3049
+
+Epoch: 929/1000, Loss: 246.71059, Time: 7.2
+Recon Loss: 16148.08190. KL Loss: 139.82416. Laplacian Loss: 9.98705. 
+The test reconstruction loss is 0.3045
+
+Epoch: 930/1000, Loss: 246.22629, Time: 7.3
+Recon Loss: 16145.28421. KL Loss: 140.02308. Laplacian Loss: 9.99196. 
+The test reconstruction loss is 0.3048
+
+Epoch: 931/1000, Loss: 245.77419, Time: 7.3
+Recon Loss: 16145.02552. KL Loss: 139.93607. Laplacian Loss: 9.99391. 
+The test reconstruction loss is 0.3046
+
+Epoch: 932/1000, Loss: 245.33446, Time: 7.2
+Recon Loss: 16145.58377. KL Loss: 139.96274. Laplacian Loss: 9.99077. 
+The test reconstruction loss is 0.3050
+
+Epoch: 933/1000, Loss: 244.90356, Time: 7.2
+Recon Loss: 16146.44056. KL Loss: 140.16410. Laplacian Loss: 9.99011. 
+The test reconstruction loss is 0.3046
+
+Epoch: 934/1000, Loss: 244.41159, Time: 7.3
+Recon Loss: 16143.11249. KL Loss: 140.00810. Laplacian Loss: 9.99318. 
+The test reconstruction loss is 0.3046
+
+Epoch: 935/1000, Loss: 243.92159, Time: 7.3
+Recon Loss: 16139.74906. KL Loss: 140.13394. Laplacian Loss: 9.98911. 
+The test reconstruction loss is 0.3046
+
+Epoch: 936/1000, Loss: 243.54490, Time: 7.3
+Recon Loss: 16144.07775. KL Loss: 140.22255. Laplacian Loss: 9.99629. 
+The test reconstruction loss is 0.3048
+
+Epoch: 937/1000, Loss: 243.05127, Time: 7.2
+Recon Loss: 16140.41202. KL Loss: 140.16818. Laplacian Loss: 9.99338. 
+The test reconstruction loss is 0.3049
+
+Epoch: 938/1000, Loss: 242.69190, Time: 7.2
+Recon Loss: 16146.05979. KL Loss: 140.16862. Laplacian Loss: 9.99530. 
+The test reconstruction loss is 0.3049
+
+Epoch: 939/1000, Loss: 242.18329, Time: 7.2
+Recon Loss: 16140.96981. KL Loss: 140.26006. Laplacian Loss: 9.99317. 
+The test reconstruction loss is 0.3047
+
+Epoch: 940/1000, Loss: 241.73267, Time: 7.1
+Recon Loss: 16140.07070. KL Loss: 140.23462. Laplacian Loss: 9.99026. 
+The test reconstruction loss is 0.3049
+
+Epoch: 941/1000, Loss: 241.25035, Time: 7.2
+Recon Loss: 16136.43410. KL Loss: 140.32468. Laplacian Loss: 9.99541. 
+The test reconstruction loss is 0.3047
+
+Epoch: 942/1000, Loss: 240.96927, Time: 7.2
+Recon Loss: 16147.24506. KL Loss: 140.34612. Laplacian Loss: 9.99829. 
+The test reconstruction loss is 0.3047
+
+Epoch: 943/1000, Loss: 240.43530, Time: 7.3
+Recon Loss: 16139.83337. KL Loss: 140.24741. Laplacian Loss: 10.00026. 
+The test reconstruction loss is 0.3049
+
+Epoch: 944/1000, Loss: 239.96538, Time: 7.1
+Recon Loss: 16137.12778. KL Loss: 140.16177. Laplacian Loss: 9.99585. 
+The test reconstruction loss is 0.3047
+
+Epoch: 945/1000, Loss: 239.48198, Time: 7.1
+Recon Loss: 16133.10241. KL Loss: 140.29260. Laplacian Loss: 9.99219. 
+The test reconstruction loss is 0.3048
+
+Epoch: 946/1000, Loss: 239.10126, Time: 7.1
+Recon Loss: 16136.46513. KL Loss: 140.14332. Laplacian Loss: 9.99698. 
+The test reconstruction loss is 0.3047
+
+Epoch: 947/1000, Loss: 238.62348, Time: 7.1
+Recon Loss: 16132.65988. KL Loss: 140.14152. Laplacian Loss: 9.99742. 
+The test reconstruction loss is 0.3050
+
+Epoch: 948/1000, Loss: 238.21232, Time: 7.2
+Recon Loss: 16133.63462. KL Loss: 140.07093. Laplacian Loss: 9.99967. 
+The test reconstruction loss is 0.3047
+
+Epoch: 949/1000, Loss: 237.77614, Time: 7.2
+Recon Loss: 16132.69698. KL Loss: 140.06071. Laplacian Loss: 9.99990. 
+The test reconstruction loss is 0.3048
+
+Epoch: 950/1000, Loss: 237.35654, Time: 7.2
+Recon Loss: 16132.89119. KL Loss: 140.09974. Laplacian Loss: 9.99902. 
+The test reconstruction loss is 0.3047
+
+Epoch: 951/1000, Loss: 236.92392, Time: 7.2
+Recon Loss: 16132.02721. KL Loss: 140.04327. Laplacian Loss: 10.00114. 
+The test reconstruction loss is 0.3048
+
+Epoch: 952/1000, Loss: 236.51030, Time: 7.2
+Recon Loss: 16132.60061. KL Loss: 140.10736. Laplacian Loss: 9.99475. 
+The test reconstruction loss is 0.3049
+
+Epoch: 953/1000, Loss: 236.11204, Time: 7.3
+Recon Loss: 16133.97017. KL Loss: 140.13937. Laplacian Loss: 9.99870. 
+The test reconstruction loss is 0.3048
+
+Epoch: 954/1000, Loss: 235.63672, Time: 7.5
+Recon Loss: 16129.64115. KL Loss: 140.10036. Laplacian Loss: 10.00158. 
+The test reconstruction loss is 0.3048
+
+Epoch: 955/1000, Loss: 235.23715, Time: 7.6
+Recon Loss: 16131.01421. KL Loss: 140.12068. Laplacian Loss: 9.99674. 
+The test reconstruction loss is 0.3048
+
+Epoch: 956/1000, Loss: 234.83591, Time: 7.2
+Recon Loss: 16131.68906. KL Loss: 140.22819. Laplacian Loss: 10.00484. 
+The test reconstruction loss is 0.3048
+
+Epoch: 957/1000, Loss: 234.31623, Time: 7.1
+Recon Loss: 16124.20420. KL Loss: 140.09034. Laplacian Loss: 9.99796. 
+The test reconstruction loss is 0.3048
+
+Epoch: 958/1000, Loss: 233.87577, Time: 7.1
+Recon Loss: 16122.11491. KL Loss: 140.16462. Laplacian Loss: 9.99584. 
+The test reconstruction loss is 0.3047
+
+Epoch: 959/1000, Loss: 233.50811, Time: 7.3
+Recon Loss: 16125.22106. KL Loss: 140.16344. Laplacian Loss: 10.00096. 
+The test reconstruction loss is 0.3048
+
+Epoch: 960/1000, Loss: 233.09916, Time: 7.4
+Recon Loss: 16125.47981. KL Loss: 140.06259. Laplacian Loss: 9.99905. 
+The test reconstruction loss is 0.3048
+
+Epoch: 961/1000, Loss: 232.73144, Time: 7.1
+Recon Loss: 16128.48139. KL Loss: 140.16375. Laplacian Loss: 9.99885. 
+The test reconstruction loss is 0.3046
+
+Epoch: 962/1000, Loss: 232.28154, Time: 7.1
+Recon Loss: 16125.26909. KL Loss: 140.25260. Laplacian Loss: 9.99932. 
+The test reconstruction loss is 0.3049
+
+Epoch: 963/1000, Loss: 231.79187, Time: 7.1
+Recon Loss: 16119.22726. KL Loss: 140.25212. Laplacian Loss: 9.99402. 
+The test reconstruction loss is 0.3048
+
+Epoch: 964/1000, Loss: 231.48551, Time: 7.1
+Recon Loss: 16126.12858. KL Loss: 140.57470. Laplacian Loss: 10.00230. 
+The test reconstruction loss is 0.3050
+
+Epoch: 965/1000, Loss: 231.00339, Time: 7.1
+Recon Loss: 16120.12954. KL Loss: 140.77528. Laplacian Loss: 10.00148. 
+The test reconstruction loss is 0.3046
+
+Epoch: 966/1000, Loss: 230.58957, Time: 7.0
+Recon Loss: 16119.35128. KL Loss: 140.71385. Laplacian Loss: 10.00294. 
+The test reconstruction loss is 0.3049
+
+Epoch: 967/1000, Loss: 230.20316, Time: 7.1
+Recon Loss: 16120.48285. KL Loss: 140.86822. Laplacian Loss: 10.00076. 
+The test reconstruction loss is 0.3047
+
+Epoch: 968/1000, Loss: 229.78804, Time: 7.0
+Recon Loss: 16119.23547. KL Loss: 140.98726. Laplacian Loss: 10.00326. 
+The test reconstruction loss is 0.3047
+
+Epoch: 969/1000, Loss: 229.36363, Time: 7.0
+Recon Loss: 16117.70545. KL Loss: 140.76904. Laplacian Loss: 9.99982. 
+The test reconstruction loss is 0.3047
+
+Epoch: 970/1000, Loss: 229.00083, Time: 7.0
+Recon Loss: 16120.42054. KL Loss: 140.82026. Laplacian Loss: 9.99951. 
+The test reconstruction loss is 0.3049
+
+Epoch: 971/1000, Loss: 228.59393, Time: 7.1
+Recon Loss: 16119.72191. KL Loss: 140.82261. Laplacian Loss: 10.00051. 
+The test reconstruction loss is 0.3048
+
+Epoch: 972/1000, Loss: 228.12521, Time: 7.1
+Recon Loss: 16114.26726. KL Loss: 140.80581. Laplacian Loss: 9.99992. 
+The test reconstruction loss is 0.3047
+
+Epoch: 973/1000, Loss: 227.74532, Time: 7.0
+Recon Loss: 16115.58689. KL Loss: 140.69151. Laplacian Loss: 9.99956. 
+The test reconstruction loss is 0.3048
+
+Epoch: 974/1000, Loss: 227.36529, Time: 7.1
+Recon Loss: 16116.69696. KL Loss: 140.63018. Laplacian Loss: 10.00165. 
+The test reconstruction loss is 0.3049
+
+Epoch: 975/1000, Loss: 226.99786, Time: 7.1
+Recon Loss: 16118.62705. KL Loss: 140.76419. Laplacian Loss: 9.99993. 
+The test reconstruction loss is 0.3047
+
+Epoch: 976/1000, Loss: 226.57488, Time: 6.9
+Recon Loss: 16116.45968. KL Loss: 140.64733. Laplacian Loss: 9.99791. 
+The test reconstruction loss is 0.3048
+
+Epoch: 977/1000, Loss: 226.11794, Time: 7.1
+Recon Loss: 16111.48939. KL Loss: 140.67869. Laplacian Loss: 9.99414. 
+The test reconstruction loss is 0.3048
+
+Epoch: 978/1000, Loss: 225.71751, Time: 7.1
+Recon Loss: 16110.64800. KL Loss: 140.56954. Laplacian Loss: 9.99927. 
+The test reconstruction loss is 0.3047
+
+Epoch: 979/1000, Loss: 225.31509, Time: 7.2
+Recon Loss: 16109.65467. KL Loss: 140.45188. Laplacian Loss: 10.00131. 
+The test reconstruction loss is 0.3048
+
+Epoch: 980/1000, Loss: 224.92051, Time: 7.1
+Recon Loss: 16109.31768. KL Loss: 140.43478. Laplacian Loss: 9.99638. 
+The test reconstruction loss is 0.3049
+
+Epoch: 981/1000, Loss: 224.44785, Time: 7.2
+Recon Loss: 16102.64244. KL Loss: 140.56707. Laplacian Loss: 9.99259. 
+The test reconstruction loss is 0.3047
+
+Epoch: 982/1000, Loss: 224.08032, Time: 7.0
+Recon Loss: 16104.17712. KL Loss: 140.37945. Laplacian Loss: 9.99413. 
+The test reconstruction loss is 0.3049
+
+Epoch: 983/1000, Loss: 223.72188, Time: 7.1
+Recon Loss: 16106.23468. KL Loss: 140.30638. Laplacian Loss: 9.99607. 
+The test reconstruction loss is 0.3047
+
+Epoch: 984/1000, Loss: 223.29169, Time: 7.0
+Recon Loss: 16102.80395. KL Loss: 140.11950. Laplacian Loss: 9.99525. 
+The test reconstruction loss is 0.3047
+
+Epoch: 985/1000, Loss: 222.91640, Time: 7.1
+Recon Loss: 16103.18779. KL Loss: 140.26226. Laplacian Loss: 9.99622. 
+The test reconstruction loss is 0.3047
+
+Epoch: 986/1000, Loss: 222.50583, Time: 7.4
+Recon Loss: 16100.92704. KL Loss: 140.33083. Laplacian Loss: 9.99345. 
+The test reconstruction loss is 0.3047
+
+Epoch: 987/1000, Loss: 222.13353, Time: 7.4
+Recon Loss: 16101.29108. KL Loss: 140.51256. Laplacian Loss: 9.99607. 
+The test reconstruction loss is 0.3046
+
+Epoch: 988/1000, Loss: 221.79571, Time: 7.1
+Recon Loss: 16104.52396. KL Loss: 140.53049. Laplacian Loss: 9.99643. 
+The test reconstruction loss is 0.3046
+
+Epoch: 989/1000, Loss: 221.38271, Time: 7.1
+Recon Loss: 16101.67746. KL Loss: 140.65155. Laplacian Loss: 9.99706. 
+The test reconstruction loss is 0.3046
+
+Epoch: 990/1000, Loss: 220.99782, Time: 7.0
+Recon Loss: 16101.12594. KL Loss: 140.61678. Laplacian Loss: 9.99662. 
+The test reconstruction loss is 0.3049
+
+Epoch: 991/1000, Loss: 220.66838, Time: 7.1
+Recon Loss: 16104.88798. KL Loss: 140.47148. Laplacian Loss: 9.99975. 
+The test reconstruction loss is 0.3049
+
+Epoch: 992/1000, Loss: 220.20852, Time: 7.1
+Recon Loss: 16098.31666. KL Loss: 140.42445. Laplacian Loss: 9.99750. 
+The test reconstruction loss is 0.3050
+
+Epoch: 993/1000, Loss: 219.87022, Time: 7.2
+Recon Loss: 16101.16091. KL Loss: 140.40148. Laplacian Loss: 9.99821. 
+The test reconstruction loss is 0.3049
+
+Epoch: 994/1000, Loss: 219.48361, Time: 7.1
+Recon Loss: 16100.10645. KL Loss: 140.39657. Laplacian Loss: 9.99797. 
+The test reconstruction loss is 0.3047
+
+Epoch: 995/1000, Loss: 219.10161, Time: 7.1
+Recon Loss: 16099.24563. KL Loss: 140.59141. Laplacian Loss: 9.99445. 
+The test reconstruction loss is 0.3047
+
+Epoch: 996/1000, Loss: 218.65440, Time: 7.1
+Recon Loss: 16093.19755. KL Loss: 140.57314. Laplacian Loss: 9.99485. 
+The test reconstruction loss is 0.3048
+
+Epoch: 997/1000, Loss: 218.21679, Time: 7.1
+Recon Loss: 16087.96332. KL Loss: 140.42141. Laplacian Loss: 9.99397. 
+The test reconstruction loss is 0.3047
+
+Epoch: 998/1000, Loss: 217.90176, Time: 7.6
+Recon Loss: 16092.36003. KL Loss: 140.41182. Laplacian Loss: 9.99116. 
+The test reconstruction loss is 0.3048
+
+Epoch: 999/1000, Loss: 217.61188, Time: 7.7
+Recon Loss: 16098.52803. KL Loss: 140.46286. Laplacian Loss: 9.99267. 
+The test reconstruction loss is 0.3048
+
+The following is the eval result:
+Mean: 18.125 + std: 10.071 | Median 16.286

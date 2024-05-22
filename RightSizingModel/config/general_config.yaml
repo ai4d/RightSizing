@@ -1,0 +1,20 @@
+# This is used to find the data directory and template directory
+dataset: "human-body2"
+template: "template2.ply"
+
+# This is used to define which training model we are going to use
+model_name: "vae_coma"
+
+# batch size
+batch_size: 64
+
+# down-sampling parameter
+ds_factor: [4, 4, 4, 4]
+
+# model parameters
+model:
+    latent_channels: 8
+    in_channels: 3
+    out_channels: [16, 16, 16, 32]
+    K: 6
+    # number

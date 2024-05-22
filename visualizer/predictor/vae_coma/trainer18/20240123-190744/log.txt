@@ -1,0 +1,2008 @@
+Epoch: 0/1000, Loss: 44435.16713, Time: 31.0
+Recon Loss: 88670.03991. KL Loss: 20.79484. Height Loss: 3.90528. Waist Loss: 0.87463. Chest Loss: 1.10051. Hip Loss: 0.53508. Arm Loss: 3.06960. Crotch Loss: 5.05996. Head Loss: 1.18117. Laplacian Loss: 5.40582. 
+The test reconstruction loss is 0.6546
+
+Epoch: 1/1000, Loss: 33809.25344, Time: 30.3
+Recon Loss: 66764.63145. KL Loss: 120.61876. Height Loss: 11.06856. Waist Loss: 1.90121. Chest Loss: 2.07872. Hip Loss: 1.04926. Arm Loss: 10.35888. Crotch Loss: 12.80949. Head Loss: 2.32444. Laplacian Loss: 16.46103. 
+The test reconstruction loss is 0.6322
+
+Epoch: 2/1000, Loss: 32668.57855, Time: 30.4
+Recon Loss: 65302.69020. KL Loss: 188.43996. Height Loss: 8.42232. Waist Loss: 1.68662. Chest Loss: 2.44659. Hip Loss: 0.73521. Arm Loss: 8.45980. Crotch Loss: 10.41346. Head Loss: 1.46373. Laplacian Loss: 16.40178. 
+The test reconstruction loss is 0.6278
+
+Epoch: 3/1000, Loss: 30442.86323, Time: 30.4
+Recon Loss: 61305.95680. KL Loss: 229.93981. Height Loss: 8.21195. Waist Loss: 1.70509. Chest Loss: 2.79260. Hip Loss: 1.26164. Arm Loss: 7.72245. Crotch Loss: 10.45895. Head Loss: 1.72757. Laplacian Loss: 16.77875. 
+The test reconstruction loss is 0.5883
+
+Epoch: 4/1000, Loss: 26994.64597, Time: 30.4
+Recon Loss: 54415.00261. KL Loss: 242.15455. Height Loss: 10.60502. Waist Loss: 1.81263. Chest Loss: 3.01227. Hip Loss: 2.47432. Arm Loss: 8.44169. Crotch Loss: 12.63657. Head Loss: 2.62391. Laplacian Loss: 17.63147. 
+The test reconstruction loss is 0.5591
+
+Epoch: 5/1000, Loss: 25056.79886, Time: 30.3
+Recon Loss: 50873.57158. KL Loss: 284.02705. Height Loss: 9.30879. Waist Loss: 1.74691. Chest Loss: 2.85565. Hip Loss: 2.45902. Arm Loss: 8.25247. Crotch Loss: 11.92086. Head Loss: 2.46997. Laplacian Loss: 17.74406. 
+The test reconstruction loss is 0.5427
+
+Epoch: 6/1000, Loss: 23745.75764, Time: 30.4
+Recon Loss: 48620.65457. KL Loss: 324.55877. Height Loss: 7.35248. Waist Loss: 1.90052. Chest Loss: 3.12060. Hip Loss: 2.49466. Arm Loss: 7.51617. Crotch Loss: 10.65093. Head Loss: 2.47911. Laplacian Loss: 17.68914. 
+The test reconstruction loss is 0.5296
+
+Epoch: 7/1000, Loss: 22566.86933, Time: 30.4
+Recon Loss: 46551.57221. KL Loss: 354.10626. Height Loss: 6.06638. Waist Loss: 2.19503. Chest Loss: 3.64844. Hip Loss: 2.60260. Arm Loss: 6.97393. Crotch Loss: 9.95249. Head Loss: 2.44049. Laplacian Loss: 17.63603. 
+The test reconstruction loss is 0.5182
+
+Epoch: 8/1000, Loss: 21091.28938, Time: 30.4
+Recon Loss: 43742.94851. KL Loss: 361.48950. Height Loss: 5.08829. Waist Loss: 2.58730. Chest Loss: 4.47255. Hip Loss: 2.83974. Arm Loss: 6.93234. Crotch Loss: 9.78028. Head Loss: 2.59194. Laplacian Loss: 17.71388. 
+The test reconstruction loss is 0.4793
+
+Epoch: 9/1000, Loss: 17905.63941, Time: 30.5
+Recon Loss: 37029.44339. KL Loss: 352.55756. Height Loss: 4.74496. Waist Loss: 2.96550. Chest Loss: 5.35808. Hip Loss: 3.42716. Arm Loss: 7.48909. Crotch Loss: 10.29588. Head Loss: 3.10052. Laplacian Loss: 18.75097. 
+The test reconstruction loss is 0.4521
+
+Epoch: 10/1000, Loss: 16842.22524, Time: 30.5
+Recon Loss: 34989.05971. KL Loss: 376.01561. Height Loss: 4.35122. Waist Loss: 2.84954. Chest Loss: 5.04459. Hip Loss: 3.50136. Arm Loss: 7.23364. Crotch Loss: 10.02880. Head Loss: 3.02333. Laplacian Loss: 18.93437. 
+The test reconstruction loss is 0.4467
+
+Epoch: 11/1000, Loss: 16281.47295, Time: 30.5
+Recon Loss: 34030.16851. KL Loss: 391.21695. Height Loss: 4.21723. Waist Loss: 2.77284. Chest Loss: 4.78242. Hip Loss: 3.55764. Arm Loss: 6.94182. Crotch Loss: 9.62949. Head Loss: 3.03009. Laplacian Loss: 18.95055. 
+The test reconstruction loss is 0.4389
+
+Epoch: 12/1000, Loss: 15734.27522, Time: 30.5
+Recon Loss: 33063.06330. KL Loss: 395.36779. Height Loss: 4.28462. Waist Loss: 2.83332. Chest Loss: 4.70591. Hip Loss: 3.71620. Arm Loss: 6.77936. Crotch Loss: 9.38665. Head Loss: 3.15500. Laplacian Loss: 18.98642. 
+The test reconstruction loss is 0.4334
+
+Epoch: 13/1000, Loss: 15208.76224, Time: 30.6
+Recon Loss: 32119.65021. KL Loss: 393.58895. Height Loss: 4.35919. Waist Loss: 2.94393. Chest Loss: 4.69321. Hip Loss: 3.87785. Arm Loss: 6.69569. Crotch Loss: 9.33484. Head Loss: 3.33486. Laplacian Loss: 19.02912. 
+The test reconstruction loss is 0.4266
+
+Epoch: 14/1000, Loss: 14789.41806, Time: 30.6
+Recon Loss: 31401.15624. KL Loss: 393.35748. Height Loss: 4.31728. Waist Loss: 3.06301. Chest Loss: 4.80452. Hip Loss: 4.02940. Arm Loss: 6.62871. Crotch Loss: 9.28081. Head Loss: 3.43302. Laplacian Loss: 19.06877. 
+The test reconstruction loss is 0.4225
+
+Epoch: 15/1000, Loss: 14457.25730, Time: 30.5
+Recon Loss: 30882.41854. KL Loss: 392.96263. Height Loss: 4.19137. Waist Loss: 3.12886. Chest Loss: 4.85692. Hip Loss: 4.04322. Arm Loss: 6.55558. Crotch Loss: 9.24625. Head Loss: 3.44457. Laplacian Loss: 19.08525. 
+The test reconstruction loss is 0.4185
+
+Epoch: 16/1000, Loss: 14197.13488, Time: 30.5
+Recon Loss: 30523.45790. KL Loss: 392.59465. Height Loss: 4.06787. Waist Loss: 3.17403. Chest Loss: 4.93069. Hip Loss: 4.11879. Arm Loss: 6.37598. Crotch Loss: 9.19458. Head Loss: 3.42711. Laplacian Loss: 19.09470. 
+The test reconstruction loss is 0.4187
+
+Epoch: 17/1000, Loss: 13940.91443, Time: 30.4
+Recon Loss: 30163.22327. KL Loss: 390.23935. Height Loss: 4.01004. Waist Loss: 3.23637. Chest Loss: 5.04897. Hip Loss: 4.20918. Arm Loss: 6.24439. Crotch Loss: 9.12199. Head Loss: 3.44858. Laplacian Loss: 19.09727. 
+The test reconstruction loss is 0.4145
+
+Epoch: 18/1000, Loss: 13638.26436, Time: 30.5
+Recon Loss: 29689.29330. KL Loss: 386.61155. Height Loss: 3.93471. Waist Loss: 3.30890. Chest Loss: 5.12801. Hip Loss: 4.29713. Arm Loss: 6.11143. Crotch Loss: 9.10863. Head Loss: 3.46629. Laplacian Loss: 19.11124. 
+The test reconstruction loss is 0.4095
+
+Epoch: 19/1000, Loss: 13308.48003, Time: 30.6
+Recon Loss: 29139.28031. KL Loss: 382.19428. Height Loss: 3.92036. Waist Loss: 3.44996. Chest Loss: 5.22746. Hip Loss: 4.44314. Arm Loss: 6.03322. Crotch Loss: 8.92148. Head Loss: 3.56122. Laplacian Loss: 19.12444. 
+The test reconstruction loss is 0.4040
+
+Epoch: 20/1000, Loss: 12945.12953, Time: 30.5
+Recon Loss: 28498.12835. KL Loss: 378.06459. Height Loss: 3.95922. Waist Loss: 3.60013. Chest Loss: 5.29885. Hip Loss: 4.52401. Arm Loss: 5.99542. Crotch Loss: 8.72940. Head Loss: 3.69222. Laplacian Loss: 19.13843. 
+The test reconstruction loss is 0.4013
+
+Epoch: 21/1000, Loss: 12636.27079, Time: 30.5
+Recon Loss: 27971.38942. KL Loss: 372.45009. Height Loss: 4.03978. Waist Loss: 3.74166. Chest Loss: 5.30922. Hip Loss: 4.64287. Arm Loss: 6.02557. Crotch Loss: 8.58084. Head Loss: 3.84522. Laplacian Loss: 19.14609. 
+The test reconstruction loss is 0.3948
+
+Epoch: 22/1000, Loss: 12353.02649, Time: 30.5
+Recon Loss: 27499.66562. KL Loss: 371.38873. Height Loss: 4.07862. Waist Loss: 3.88194. Chest Loss: 5.29997. Hip Loss: 4.71883. Arm Loss: 6.05007. Crotch Loss: 8.33140. Head Loss: 3.97003. Laplacian Loss: 19.14189. 
+The test reconstruction loss is 0.3917
+
+Epoch: 23/1000, Loss: 12117.60832, Time: 30.5
+Recon Loss: 27132.65046. KL Loss: 369.43926. Height Loss: 4.15266. Waist Loss: 4.02416. Chest Loss: 5.30290. Hip Loss: 4.77688. Arm Loss: 6.07981. Crotch Loss: 8.14307. Head Loss: 4.07276. Laplacian Loss: 19.14150. 
+The test reconstruction loss is 0.3884
+
+Epoch: 24/1000, Loss: 11897.99829, Time: 30.4
+Recon Loss: 26806.21454. KL Loss: 371.11126. Height Loss: 4.13260. Waist Loss: 4.12580. Chest Loss: 5.23905. Hip Loss: 4.82494. Arm Loss: 6.02225. Crotch Loss: 7.90299. Head Loss: 4.13222. Laplacian Loss: 19.12896. 
+The test reconstruction loss is 0.3866
+
+Epoch: 25/1000, Loss: 11725.25716, Time: 30.5
+Recon Loss: 26591.48224. KL Loss: 373.97256. Height Loss: 4.12158. Waist Loss: 4.18142. Chest Loss: 5.17860. Hip Loss: 4.86576. Arm Loss: 5.95323. Crotch Loss: 7.64674. Head Loss: 4.12172. Laplacian Loss: 19.09061. 
+The test reconstruction loss is 0.3852
+
+Epoch: 26/1000, Loss: 11550.99260, Time: 30.5
+Recon Loss: 26367.27574. KL Loss: 375.45571. Height Loss: 4.12391. Waist Loss: 4.24745. Chest Loss: 5.10751. Hip Loss: 4.89811. Arm Loss: 5.89680. Crotch Loss: 7.41926. Head Loss: 4.14697. Laplacian Loss: 19.06716. 
+The test reconstruction loss is 0.3838
+
+Epoch: 27/1000, Loss: 11387.01354, Time: 30.6
+Recon Loss: 26168.69604. KL Loss: 377.80464. Height Loss: 4.09099. Waist Loss: 4.29985. Chest Loss: 5.00437. Hip Loss: 4.90809. Arm Loss: 5.81426. Crotch Loss: 7.16206. Head Loss: 4.15045. Laplacian Loss: 19.04429. 
+The test reconstruction loss is 0.3831
+
+Epoch: 28/1000, Loss: 11243.17444, Time: 30.5
+Recon Loss: 26015.85683. KL Loss: 380.20229. Height Loss: 4.07118. Waist Loss: 4.32971. Chest Loss: 4.91511. Hip Loss: 4.92197. Arm Loss: 5.73838. Crotch Loss: 6.91093. Head Loss: 4.13011. Laplacian Loss: 19.03044. 
+The test reconstruction loss is 0.3821
+
+Epoch: 29/1000, Loss: 11100.35268, Time: 30.5
+Recon Loss: 25864.35060. KL Loss: 380.83312. Height Loss: 4.03102. Waist Loss: 4.35819. Chest Loss: 4.83194. Hip Loss: 4.93253. Arm Loss: 5.67495. Crotch Loss: 6.66909. Head Loss: 4.10840. Laplacian Loss: 19.00079. 
+The test reconstruction loss is 0.3806
+
+Epoch: 30/1000, Loss: 10972.77564, Time: 30.6
+Recon Loss: 25747.60025. KL Loss: 382.80143. Height Loss: 3.99551. Waist Loss: 4.38701. Chest Loss: 4.74012. Hip Loss: 4.95103. Arm Loss: 5.59782. Crotch Loss: 6.39095. Head Loss: 4.10963. Laplacian Loss: 18.97034. 
+The test reconstruction loss is 0.3800
+
+Epoch: 31/1000, Loss: 10843.17557, Time: 30.6
+Recon Loss: 25624.42899. KL Loss: 384.20644. Height Loss: 3.93807. Waist Loss: 4.39942. Chest Loss: 4.66335. Hip Loss: 4.95449. Arm Loss: 5.52049. Crotch Loss: 6.15582. Head Loss: 4.08255. Laplacian Loss: 18.92942. 
+The test reconstruction loss is 0.3793
+
+Epoch: 32/1000, Loss: 10718.13782, Time: 30.5
+Recon Loss: 25509.05394. KL Loss: 385.59816. Height Loss: 3.90753. Waist Loss: 4.41202. Chest Loss: 4.57852. Hip Loss: 4.95835. Arm Loss: 5.45103. Crotch Loss: 5.90998. Head Loss: 4.06022. Laplacian Loss: 18.89862. 
+The test reconstruction loss is 0.3785
+
+Epoch: 33/1000, Loss: 10599.78334, Time: 30.6
+Recon Loss: 25408.16443. KL Loss: 385.99415. Height Loss: 3.86700. Waist Loss: 4.42447. Chest Loss: 4.49814. Hip Loss: 4.95575. Arm Loss: 5.38882. Crotch Loss: 5.68558. Head Loss: 4.05596. Laplacian Loss: 18.86236. 
+The test reconstruction loss is 0.3781
+
+Epoch: 34/1000, Loss: 10483.14716, Time: 30.5
+Recon Loss: 25309.77789. KL Loss: 386.45958. Height Loss: 3.82449. Waist Loss: 4.43530. Chest Loss: 4.42536. Hip Loss: 4.95434. Arm Loss: 5.31349. Crotch Loss: 5.45182. Head Loss: 4.03718. Laplacian Loss: 18.83326. 
+The test reconstruction loss is 0.3772
+
+Epoch: 35/1000, Loss: 10370.17476, Time: 30.5
+Recon Loss: 25218.50653. KL Loss: 387.52280. Height Loss: 3.78744. Waist Loss: 4.44468. Chest Loss: 4.34736. Hip Loss: 4.94018. Arm Loss: 5.23726. Crotch Loss: 5.21458. Head Loss: 4.02523. Laplacian Loss: 18.79252. 
+The test reconstruction loss is 0.3764
+
+Epoch: 36/1000, Loss: 10260.25052, Time: 30.5
+Recon Loss: 25131.64549. KL Loss: 388.04921. Height Loss: 3.74872. Waist Loss: 4.45049. Chest Loss: 4.28021. Hip Loss: 4.93665. Arm Loss: 5.18045. Crotch Loss: 4.99262. Head Loss: 4.00670. Laplacian Loss: 18.76101. 
+The test reconstruction loss is 0.3762
+
+Epoch: 37/1000, Loss: 10155.21452, Time: 30.5
+Recon Loss: 25055.14616. KL Loss: 388.54977. Height Loss: 3.71068. Waist Loss: 4.45681. Chest Loss: 4.22126. Hip Loss: 4.92558. Arm Loss: 5.11761. Crotch Loss: 4.78031. Head Loss: 3.99066. Laplacian Loss: 18.72736. 
+The test reconstruction loss is 0.3758
+
+Epoch: 38/1000, Loss: 10052.74278, Time: 30.5
+Recon Loss: 24982.10539. KL Loss: 389.19636. Height Loss: 3.67412. Waist Loss: 4.45560. Chest Loss: 4.16063. Hip Loss: 4.92163. Arm Loss: 5.06108. Crotch Loss: 4.58765. Head Loss: 3.98378. Laplacian Loss: 18.69079. 
+The test reconstruction loss is 0.3751
+
+Epoch: 39/1000, Loss: 9949.79613, Time: 30.5
+Recon Loss: 24906.38738. KL Loss: 389.88910. Height Loss: 3.63750. Waist Loss: 4.45189. Chest Loss: 4.09996. Hip Loss: 4.90102. Arm Loss: 5.00435. Crotch Loss: 4.39871. Head Loss: 3.95591. Laplacian Loss: 18.65770. 
+The test reconstruction loss is 0.3746
+
+Epoch: 40/1000, Loss: 9847.13390, Time: 30.5
+Recon Loss: 24827.61284. KL Loss: 390.41053. Height Loss: 3.61373. Waist Loss: 4.44683. Chest Loss: 4.04415. Hip Loss: 4.88415. Arm Loss: 4.94787. Crotch Loss: 4.22508. Head Loss: 3.95226. Laplacian Loss: 18.61985. 
+The test reconstruction loss is 0.3740
+
+Epoch: 41/1000, Loss: 9747.76896, Time: 30.7
+Recon Loss: 24754.78736. KL Loss: 390.50023. Height Loss: 3.57836. Waist Loss: 4.44140. Chest Loss: 3.99449. Hip Loss: 4.87288. Arm Loss: 4.90062. Crotch Loss: 4.07999. Head Loss: 3.94221. Laplacian Loss: 18.58320. 
+The test reconstruction loss is 0.3737
+
+Epoch: 42/1000, Loss: 9651.86461, Time: 30.5
+Recon Loss: 24689.21490. KL Loss: 391.10986. Height Loss: 3.55333. Waist Loss: 4.43657. Chest Loss: 3.94033. Hip Loss: 4.85189. Arm Loss: 4.84449. Crotch Loss: 3.93883. Head Loss: 3.92896. Laplacian Loss: 18.53642. 
+The test reconstruction loss is 0.3730
+
+Epoch: 43/1000, Loss: 9558.21141, Time: 30.5
+Recon Loss: 24626.32978. KL Loss: 391.02426. Height Loss: 3.52418. Waist Loss: 4.42177. Chest Loss: 3.89966. Hip Loss: 4.83504. Arm Loss: 4.80433. Crotch Loss: 3.83064. Head Loss: 3.90823. Laplacian Loss: 18.50591. 
+The test reconstruction loss is 0.3726
+
+Epoch: 44/1000, Loss: 9464.72687, Time: 30.5
+Recon Loss: 24562.04664. KL Loss: 391.70633. Height Loss: 3.49368. Waist Loss: 4.40909. Chest Loss: 3.84390. Hip Loss: 4.81292. Arm Loss: 4.75132. Crotch Loss: 3.71639. Head Loss: 3.90519. Laplacian Loss: 18.46336. 
+The test reconstruction loss is 0.3722
+
+Epoch: 45/1000, Loss: 9372.68632, Time: 30.4
+Recon Loss: 24499.16272. KL Loss: 392.31009. Height Loss: 3.45605. Waist Loss: 4.40082. Chest Loss: 3.80673. Hip Loss: 4.78632. Arm Loss: 4.69877. Crotch Loss: 3.61064. Head Loss: 3.88222. Laplacian Loss: 18.43361. 
+The test reconstruction loss is 0.3717
+
+Epoch: 46/1000, Loss: 9284.44546, Time: 30.5
+Recon Loss: 24444.81916. KL Loss: 392.65458. Height Loss: 3.43066. Waist Loss: 4.38204. Chest Loss: 3.76349. Hip Loss: 4.75933. Arm Loss: 4.65009. Crotch Loss: 3.51551. Head Loss: 3.86803. Laplacian Loss: 18.38749. 
+The test reconstruction loss is 0.3715
+
+Epoch: 47/1000, Loss: 9197.93956, Time: 30.5
+Recon Loss: 24391.90873. KL Loss: 392.84413. Height Loss: 3.40144. Waist Loss: 4.35726. Chest Loss: 3.72850. Hip Loss: 4.73617. Arm Loss: 4.60683. Crotch Loss: 3.45426. Head Loss: 3.85183. Laplacian Loss: 18.35152. 
+The test reconstruction loss is 0.3710
+
+Epoch: 48/1000, Loss: 9109.59684, Time: 30.5
+Recon Loss: 24332.15255. KL Loss: 393.56155. Height Loss: 3.36955. Waist Loss: 4.33656. Chest Loss: 3.68720. Hip Loss: 4.71055. Arm Loss: 4.56006. Crotch Loss: 3.38354. Head Loss: 3.82448. Laplacian Loss: 18.31296. 
+The test reconstruction loss is 0.3706
+
+Epoch: 49/1000, Loss: 9025.78054, Time: 30.5
+Recon Loss: 24283.21246. KL Loss: 394.46519. Height Loss: 3.33806. Waist Loss: 4.31389. Chest Loss: 3.64777. Hip Loss: 4.67522. Arm Loss: 4.50237. Crotch Loss: 3.31540. Head Loss: 3.81097. Laplacian Loss: 18.26903. 
+The test reconstruction loss is 0.3702
+
+Epoch: 50/1000, Loss: 8942.72305, Time: 30.5
+Recon Loss: 24233.63692. KL Loss: 396.13463. Height Loss: 3.30206. Waist Loss: 4.28026. Chest Loss: 3.61085. Hip Loss: 4.64296. Arm Loss: 4.45022. Crotch Loss: 3.25552. Head Loss: 3.78553. Laplacian Loss: 18.23577. 
+The test reconstruction loss is 0.3698
+
+Epoch: 51/1000, Loss: 8860.23548, Time: 30.5
+Recon Loss: 24183.82916. KL Loss: 397.81539. Height Loss: 3.26908. Waist Loss: 4.24269. Chest Loss: 3.57313. Hip Loss: 4.60708. Arm Loss: 4.40067. Crotch Loss: 3.20064. Head Loss: 3.75568. Laplacian Loss: 18.19445. 
+The test reconstruction loss is 0.3694
+
+Epoch: 52/1000, Loss: 8780.29954, Time: 30.5
+Recon Loss: 24138.76549. KL Loss: 399.69425. Height Loss: 3.23014. Waist Loss: 4.21377. Chest Loss: 3.53727. Hip Loss: 4.57019. Arm Loss: 4.35138. Crotch Loss: 3.15325. Head Loss: 3.73121. Laplacian Loss: 18.15235. 
+The test reconstruction loss is 0.3691
+
+Epoch: 53/1000, Loss: 8700.92266, Time: 30.6
+Recon Loss: 24093.24559. KL Loss: 401.38844. Height Loss: 3.19889. Waist Loss: 4.17915. Chest Loss: 3.50376. Hip Loss: 4.53418. Arm Loss: 4.30407. Crotch Loss: 3.10665. Head Loss: 3.70412. Laplacian Loss: 18.11047. 
+The test reconstruction loss is 0.3688
+
+Epoch: 54/1000, Loss: 8622.65177, Time: 30.6
+Recon Loss: 24049.78000. KL Loss: 403.20662. Height Loss: 3.15760. Waist Loss: 4.13692. Chest Loss: 3.46755. Hip Loss: 4.49395. Arm Loss: 4.24842. Crotch Loss: 3.06408. Head Loss: 3.67159. Laplacian Loss: 18.06946. 
+The test reconstruction loss is 0.3685
+
+Epoch: 55/1000, Loss: 8545.65381, Time: 30.6
+Recon Loss: 24006.45884. KL Loss: 404.83240. Height Loss: 3.12223. Waist Loss: 4.10407. Chest Loss: 3.43721. Hip Loss: 4.46126. Arm Loss: 4.20731. Crotch Loss: 3.02910. Head Loss: 3.64470. Laplacian Loss: 18.03245. 
+The test reconstruction loss is 0.3682
+
+Epoch: 56/1000, Loss: 8470.91100, Time: 30.5
+Recon Loss: 23968.66463. KL Loss: 407.01280. Height Loss: 3.08952. Waist Loss: 4.06544. Chest Loss: 3.40611. Hip Loss: 4.42123. Arm Loss: 4.15354. Crotch Loss: 2.98377. Head Loss: 3.61453. Laplacian Loss: 17.98898. 
+The test reconstruction loss is 0.3677
+
+Epoch: 57/1000, Loss: 8395.65308, Time: 30.6
+Recon Loss: 23926.53732. KL Loss: 409.05842. Height Loss: 3.05016. Waist Loss: 4.02811. Chest Loss: 3.38196. Hip Loss: 4.38463. Arm Loss: 4.10526. Crotch Loss: 2.95106. Head Loss: 3.58958. Laplacian Loss: 17.94809. 
+The test reconstruction loss is 0.3675
+
+Epoch: 58/1000, Loss: 8321.73734, Time: 30.5
+Recon Loss: 23886.44582. KL Loss: 411.32698. Height Loss: 3.01730. Waist Loss: 3.99022. Chest Loss: 3.34132. Hip Loss: 4.34498. Arm Loss: 4.05970. Crotch Loss: 2.92024. Head Loss: 3.55991. Laplacian Loss: 17.91226. 
+The test reconstruction loss is 0.3673
+
+Epoch: 59/1000, Loss: 8247.18203, Time: 30.6
+Recon Loss: 23842.73473. KL Loss: 413.05497. Height Loss: 2.98492. Waist Loss: 3.94951. Chest Loss: 3.31580. Hip Loss: 4.30939. Arm Loss: 4.01559. Crotch Loss: 2.88433. Head Loss: 3.52999. Laplacian Loss: 17.86585. 
+The test reconstruction loss is 0.3670
+
+Epoch: 60/1000, Loss: 8177.35879, Time: 30.6
+Recon Loss: 23811.41888. KL Loss: 414.99161. Height Loss: 2.94789. Waist Loss: 3.91082. Chest Loss: 3.28903. Hip Loss: 4.26963. Arm Loss: 3.96586. Crotch Loss: 2.85190. Head Loss: 3.50379. Laplacian Loss: 17.82707. 
+The test reconstruction loss is 0.3668
+
+Epoch: 61/1000, Loss: 8107.35745, Time: 30.6
+Recon Loss: 23777.20416. KL Loss: 416.52765. Height Loss: 2.91598. Waist Loss: 3.87477. Chest Loss: 3.26633. Hip Loss: 4.23464. Arm Loss: 3.92677. Crotch Loss: 2.82287. Head Loss: 3.47357. Laplacian Loss: 17.78755. 
+The test reconstruction loss is 0.3662
+
+Epoch: 62/1000, Loss: 8038.51186, Time: 30.6
+Recon Loss: 23744.07691. KL Loss: 418.78405. Height Loss: 2.88356. Waist Loss: 3.84072. Chest Loss: 3.24121. Hip Loss: 4.20496. Arm Loss: 3.88320. Crotch Loss: 2.79340. Head Loss: 3.44920. Laplacian Loss: 17.74250. 
+The test reconstruction loss is 0.3661
+
+Epoch: 63/1000, Loss: 7969.48896, Time: 30.5
+Recon Loss: 23708.70938. KL Loss: 421.33640. Height Loss: 2.84556. Waist Loss: 3.79687. Chest Loss: 3.22103. Hip Loss: 4.16920. Arm Loss: 3.84392. Crotch Loss: 2.76706. Head Loss: 3.41405. Laplacian Loss: 17.69801. 
+The test reconstruction loss is 0.3657
+
+Epoch: 64/1000, Loss: 7900.85080, Time: 30.4
+Recon Loss: 23672.11787. KL Loss: 423.84184. Height Loss: 2.81078. Waist Loss: 3.76180. Chest Loss: 3.19568. Hip Loss: 4.13569. Arm Loss: 3.79639. Crotch Loss: 2.74065. Head Loss: 3.38987. Laplacian Loss: 17.65951. 
+The test reconstruction loss is 0.3654
+
+Epoch: 65/1000, Loss: 7833.54591, Time: 30.6
+Recon Loss: 23637.90843. KL Loss: 426.22465. Height Loss: 2.77778. Waist Loss: 3.72097. Chest Loss: 3.17755. Hip Loss: 4.10273. Arm Loss: 3.75744. Crotch Loss: 2.71174. Head Loss: 3.36576. Laplacian Loss: 17.61074. 
+The test reconstruction loss is 0.3651
+
+Epoch: 66/1000, Loss: 7765.57324, Time: 30.5
+Recon Loss: 23599.32980. KL Loss: 428.01270. Height Loss: 2.74883. Waist Loss: 3.68364. Chest Loss: 3.16063. Hip Loss: 4.07213. Arm Loss: 3.72556. Crotch Loss: 2.68978. Head Loss: 3.33679. Laplacian Loss: 17.56492. 
+The test reconstruction loss is 0.3650
+
+Epoch: 67/1000, Loss: 7700.50125, Time: 30.5
+Recon Loss: 23568.04848. KL Loss: 429.37481. Height Loss: 2.71897. Waist Loss: 3.65083. Chest Loss: 3.14199. Hip Loss: 4.04170. Arm Loss: 3.69336. Crotch Loss: 2.66975. Head Loss: 3.31552. Laplacian Loss: 17.52371. 
+The test reconstruction loss is 0.3645
+
+Epoch: 68/1000, Loss: 7635.65539, Time: 30.6
+Recon Loss: 23535.92343. KL Loss: 430.94970. Height Loss: 2.68759. Waist Loss: 3.61430. Chest Loss: 3.12563. Hip Loss: 4.01301. Arm Loss: 3.65237. Crotch Loss: 2.64307. Head Loss: 3.29706. Laplacian Loss: 17.47865. 
+The test reconstruction loss is 0.3643
+
+Epoch: 69/1000, Loss: 7571.79345, Time: 30.5
+Recon Loss: 23504.87256. KL Loss: 432.15945. Height Loss: 2.65970. Waist Loss: 3.58117. Chest Loss: 3.11197. Hip Loss: 3.98593. Arm Loss: 3.61944. Crotch Loss: 2.62350. Head Loss: 3.27060. Laplacian Loss: 17.43265. 
+The test reconstruction loss is 0.3640
+
+Epoch: 70/1000, Loss: 7508.06124, Time: 30.5
+Recon Loss: 23470.79301. KL Loss: 434.71442. Height Loss: 2.63148. Waist Loss: 3.55037. Chest Loss: 3.09969. Hip Loss: 3.96040. Arm Loss: 3.58411. Crotch Loss: 2.60388. Head Loss: 3.25085. Laplacian Loss: 17.38993. 
+The test reconstruction loss is 0.3638
+
+Epoch: 71/1000, Loss: 7445.92805, Time: 30.6
+Recon Loss: 23441.02656. KL Loss: 435.16802. Height Loss: 2.60412. Waist Loss: 3.51366. Chest Loss: 3.08879. Hip Loss: 3.93784. Arm Loss: 3.56591. Crotch Loss: 2.60008. Head Loss: 3.22972. Laplacian Loss: 17.34233. 
+The test reconstruction loss is 0.3635
+
+Epoch: 72/1000, Loss: 7382.47808, Time: 30.6
+Recon Loss: 23403.80945. KL Loss: 437.27802. Height Loss: 2.58091. Waist Loss: 3.48270. Chest Loss: 3.07022. Hip Loss: 3.91509. Arm Loss: 3.53287. Crotch Loss: 2.58567. Head Loss: 3.21431. Laplacian Loss: 17.30324. 
+The test reconstruction loss is 0.3633
+
+Epoch: 73/1000, Loss: 7318.62203, Time: 30.6
+Recon Loss: 23364.26836. KL Loss: 439.19912. Height Loss: 2.55523. Waist Loss: 3.45237. Chest Loss: 3.05255. Hip Loss: 3.88746. Arm Loss: 3.50093. Crotch Loss: 2.56336. Head Loss: 3.19254. Laplacian Loss: 17.25087. 
+The test reconstruction loss is 0.3630
+
+Epoch: 74/1000, Loss: 7255.28906, Time: 30.6
+Recon Loss: 23324.17755. KL Loss: 440.80078. Height Loss: 2.52723. Waist Loss: 3.42159. Chest Loss: 3.04607. Hip Loss: 3.85690. Arm Loss: 3.47114. Crotch Loss: 2.54255. Head Loss: 3.17474. Laplacian Loss: 17.20125. 
+The test reconstruction loss is 0.3627
+
+Epoch: 75/1000, Loss: 7195.06081, Time: 30.6
+Recon Loss: 23292.56777. KL Loss: 441.83520. Height Loss: 2.50763. Waist Loss: 3.39125. Chest Loss: 3.03276. Hip Loss: 3.83112. Arm Loss: 3.45180. Crotch Loss: 2.52719. Head Loss: 3.15575. Laplacian Loss: 17.14795. 
+The test reconstruction loss is 0.3623
+
+Epoch: 76/1000, Loss: 7132.23088, Time: 30.5
+Recon Loss: 23249.32028. KL Loss: 443.33062. Height Loss: 2.48293. Waist Loss: 3.36135. Chest Loss: 3.02185. Hip Loss: 3.80755. Arm Loss: 3.42450. Crotch Loss: 2.52062. Head Loss: 3.13977. Laplacian Loss: 17.09951. 
+The test reconstruction loss is 0.3618
+
+Epoch: 77/1000, Loss: 7077.58844, Time: 30.6
+Recon Loss: 23231.08574. KL Loss: 444.80458. Height Loss: 2.46466. Waist Loss: 3.33750. Chest Loss: 3.02496. Hip Loss: 3.79181. Arm Loss: 3.41074. Crotch Loss: 2.51433. Head Loss: 3.13388. Laplacian Loss: 17.04521. 
+The test reconstruction loss is 0.3617
+
+Epoch: 78/1000, Loss: 7008.61245, Time: 30.5
+Recon Loss: 23161.60821. KL Loss: 446.25544. Height Loss: 2.44609. Waist Loss: 3.31376. Chest Loss: 3.01430. Hip Loss: 3.77069. Arm Loss: 3.38535. Crotch Loss: 2.49928. Head Loss: 3.12144. Laplacian Loss: 17.00453. 
+The test reconstruction loss is 0.3612
+
+Epoch: 79/1000, Loss: 6946.16443, Time: 30.6
+Recon Loss: 23113.64562. KL Loss: 446.67101. Height Loss: 2.42367. Waist Loss: 3.28944. Chest Loss: 3.00307. Hip Loss: 3.74355. Arm Loss: 3.36774. Crotch Loss: 2.48616. Head Loss: 3.11818. Laplacian Loss: 16.95019. 
+The test reconstruction loss is 0.3607
+
+Epoch: 80/1000, Loss: 6881.92854, Time: 30.5
+Recon Loss: 23055.31686. KL Loss: 447.73335. Height Loss: 2.41369. Waist Loss: 3.26920. Chest Loss: 2.99433. Hip Loss: 3.71996. Arm Loss: 3.35428. Crotch Loss: 2.47834. Head Loss: 3.10942. Laplacian Loss: 16.90680. 
+The test reconstruction loss is 0.3603
+
+Epoch: 81/1000, Loss: 6825.49580, Time: 30.5
+Recon Loss: 23022.05892. KL Loss: 447.80121. Height Loss: 2.39880. Waist Loss: 3.24877. Chest Loss: 2.99414. Hip Loss: 3.71538. Arm Loss: 3.36251. Crotch Loss: 2.49610. Head Loss: 3.09294. Laplacian Loss: 16.84651. 
+The test reconstruction loss is 0.3598
+
+Epoch: 82/1000, Loss: 6752.80466, Time: 30.5
+Recon Loss: 22925.35660. KL Loss: 450.93439. Height Loss: 2.39320. Waist Loss: 3.23314. Chest Loss: 2.99782. Hip Loss: 3.70706. Arm Loss: 3.34161. Crotch Loss: 2.49053. Head Loss: 3.10358. Laplacian Loss: 16.80348. 
+The test reconstruction loss is 0.3590
+
+Epoch: 83/1000, Loss: 6673.59052, Time: 30.5
+Recon Loss: 22802.12388. KL Loss: 451.84602. Height Loss: 2.39641. Waist Loss: 3.22558. Chest Loss: 3.00368. Hip Loss: 3.68923. Arm Loss: 3.35034. Crotch Loss: 2.49513. Head Loss: 3.12099. Laplacian Loss: 16.75031. 
+The test reconstruction loss is 0.3581
+
+Epoch: 84/1000, Loss: 6588.64668, Time: 30.6
+Recon Loss: 22653.90602. KL Loss: 452.46650. Height Loss: 2.40096. Waist Loss: 3.22279. Chest Loss: 3.01284. Hip Loss: 3.67432. Arm Loss: 3.35860. Crotch Loss: 2.50013. Head Loss: 3.14486. Laplacian Loss: 16.69759. 
+The test reconstruction loss is 0.3569
+
+Epoch: 85/1000, Loss: 6490.56668, Time: 30.5
+Recon Loss: 22448.96695. KL Loss: 451.03387. Height Loss: 2.42630. Waist Loss: 3.23680. Chest Loss: 3.05101. Hip Loss: 3.68131. Arm Loss: 3.41029. Crotch Loss: 2.54483. Head Loss: 3.18051. Laplacian Loss: 16.65340. 
+The test reconstruction loss is 0.3550
+
+Epoch: 86/1000, Loss: 6354.54140, Time: 30.5
+Recon Loss: 22092.64125. KL Loss: 450.48655. Height Loss: 2.49110. Waist Loss: 3.27565. Chest Loss: 3.10090. Hip Loss: 3.71009. Arm Loss: 3.46730. Crotch Loss: 2.58149. Head Loss: 3.26694. Laplacian Loss: 16.61463. 
+The test reconstruction loss is 0.3514
+
+Epoch: 87/1000, Loss: 6195.41733, Time: 30.5
+Recon Loss: 21633.05977. KL Loss: 448.49265. Height Loss: 2.59129. Waist Loss: 3.35366. Chest Loss: 3.19799. Hip Loss: 3.77622. Arm Loss: 3.60025. Crotch Loss: 2.66201. Head Loss: 3.40855. Laplacian Loss: 16.58453. 
+The test reconstruction loss is 0.3471
+
+Epoch: 88/1000, Loss: 6036.13190, Time: 30.5
+Recon Loss: 21157.20131. KL Loss: 448.86628. Height Loss: 2.71670. Waist Loss: 3.44443. Chest Loss: 3.31085. Hip Loss: 3.84235. Arm Loss: 3.78378. Crotch Loss: 2.72970. Head Loss: 3.60901. Laplacian Loss: 16.55468. 
+The test reconstruction loss is 0.3439
+
+Epoch: 89/1000, Loss: 5936.68963, Time: 30.6
+Recon Loss: 20909.13038. KL Loss: 453.65093. Height Loss: 2.78120. Waist Loss: 3.48334. Chest Loss: 3.37221. Hip Loss: 3.84038. Arm Loss: 3.90268. Crotch Loss: 2.74604. Head Loss: 3.70788. Laplacian Loss: 16.50998. 
+The test reconstruction loss is 0.3425
+
+Epoch: 90/1000, Loss: 5876.21555, Time: 30.5
+Recon Loss: 20819.32223. KL Loss: 458.56285. Height Loss: 2.78245. Waist Loss: 3.46048. Chest Loss: 3.35697. Hip Loss: 3.78404. Arm Loss: 3.91858. Crotch Loss: 2.72985. Head Loss: 3.71741. Laplacian Loss: 16.44766. 
+The test reconstruction loss is 0.3416
+
+Epoch: 91/1000, Loss: 5818.24818, Time: 30.5
+Recon Loss: 20739.09740. KL Loss: 465.32474. Height Loss: 2.76728. Waist Loss: 3.43074. Chest Loss: 3.35209. Hip Loss: 3.73240. Arm Loss: 3.89006. Crotch Loss: 2.68582. Head Loss: 3.68431. Laplacian Loss: 16.38850. 
+The test reconstruction loss is 0.3411
+
+Epoch: 92/1000, Loss: 5767.52426, Time: 30.4
+Recon Loss: 20689.95545. KL Loss: 469.46407. Height Loss: 2.73235. Waist Loss: 3.38836. Chest Loss: 3.30793. Hip Loss: 3.68372. Arm Loss: 3.84636. Crotch Loss: 2.64749. Head Loss: 3.64020. Laplacian Loss: 16.31547. 
+The test reconstruction loss is 0.3408
+
+Epoch: 93/1000, Loss: 5721.65433, Time: 30.5
+Recon Loss: 20655.92981. KL Loss: 472.90446. Height Loss: 2.71161. Waist Loss: 3.35977. Chest Loss: 3.26803. Hip Loss: 3.64851. Arm Loss: 3.80845. Crotch Loss: 2.62779. Head Loss: 3.60109. Laplacian Loss: 16.26003. 
+The test reconstruction loss is 0.3404
+
+Epoch: 94/1000, Loss: 5675.49420, Time: 30.6
+Recon Loss: 20619.37897. KL Loss: 475.81711. Height Loss: 2.69194. Waist Loss: 3.33865. Chest Loss: 3.22889. Hip Loss: 3.61416. Arm Loss: 3.77427. Crotch Loss: 2.60696. Head Loss: 3.57692. Laplacian Loss: 16.19515. 
+The test reconstruction loss is 0.3400
+
+Epoch: 95/1000, Loss: 5629.84214, Time: 30.5
+Recon Loss: 20583.30954. KL Loss: 478.54602. Height Loss: 2.67265. Waist Loss: 3.31037. Chest Loss: 3.20055. Hip Loss: 3.57953. Arm Loss: 3.73793. Crotch Loss: 2.58545. Head Loss: 3.54598. Laplacian Loss: 16.14671. 
+The test reconstruction loss is 0.3395
+
+Epoch: 96/1000, Loss: 5585.61715, Time: 30.6
+Recon Loss: 20549.98689. KL Loss: 480.86886. Height Loss: 2.65579. Waist Loss: 3.29465. Chest Loss: 3.17850. Hip Loss: 3.55619. Arm Loss: 3.71449. Crotch Loss: 2.57004. Head Loss: 3.52667. Laplacian Loss: 16.10068. 
+The test reconstruction loss is 0.3393
+
+Epoch: 97/1000, Loss: 5540.89610, Time: 30.6
+Recon Loss: 20514.35428. KL Loss: 483.22613. Height Loss: 2.63994. Waist Loss: 3.27656. Chest Loss: 3.14397. Hip Loss: 3.52925. Arm Loss: 3.68598. Crotch Loss: 2.55177. Head Loss: 3.50193. Laplacian Loss: 16.05172. 
+The test reconstruction loss is 0.3390
+
+Epoch: 98/1000, Loss: 5498.78877, Time: 30.5
+Recon Loss: 20487.21887. KL Loss: 485.54782. Height Loss: 2.62427. Waist Loss: 3.25459. Chest Loss: 3.12120. Hip Loss: 3.50255. Arm Loss: 3.65720. Crotch Loss: 2.54096. Head Loss: 3.46963. Laplacian Loss: 16.01616. 
+The test reconstruction loss is 0.3388
+
+Epoch: 99/1000, Loss: 5456.70686, Time: 30.5
+Recon Loss: 20459.64700. KL Loss: 486.47867. Height Loss: 2.60873. Waist Loss: 3.23596. Chest Loss: 3.09974. Hip Loss: 3.47804. Arm Loss: 3.63337. Crotch Loss: 2.52066. Head Loss: 3.45112. Laplacian Loss: 15.98307. 
+The test reconstruction loss is 0.3387
+
+Epoch: 100/1000, Loss: 5415.02776, Time: 30.5
+Recon Loss: 20432.10942. KL Loss: 487.80838. Height Loss: 2.59324. Waist Loss: 3.21944. Chest Loss: 3.07200. Hip Loss: 3.45127. Arm Loss: 3.60795. Crotch Loss: 2.50770. Head Loss: 3.42865. Laplacian Loss: 15.95288. 
+The test reconstruction loss is 0.3382
+
+Epoch: 101/1000, Loss: 5373.60170, Time: 30.4
+Recon Loss: 20404.01422. KL Loss: 488.99936. Height Loss: 2.57789. Waist Loss: 3.20282. Chest Loss: 3.05062. Hip Loss: 3.42545. Arm Loss: 3.58519. Crotch Loss: 2.49492. Head Loss: 3.40815. Laplacian Loss: 15.92587. 
+The test reconstruction loss is 0.3381
+
+Epoch: 102/1000, Loss: 5334.38815, Time: 30.4
+Recon Loss: 20383.25542. KL Loss: 489.97397. Height Loss: 2.56784. Waist Loss: 3.18978. Chest Loss: 3.02874. Hip Loss: 3.40523. Arm Loss: 3.56306. Crotch Loss: 2.48356. Head Loss: 3.39205. Laplacian Loss: 15.90164. 
+The test reconstruction loss is 0.3378
+
+Epoch: 103/1000, Loss: 5296.05155, Time: 30.5
+Recon Loss: 20365.94643. KL Loss: 490.42341. Height Loss: 2.55594. Waist Loss: 3.17238. Chest Loss: 3.00616. Hip Loss: 3.38159. Arm Loss: 3.54485. Crotch Loss: 2.47328. Head Loss: 3.36493. Laplacian Loss: 15.87498. 
+The test reconstruction loss is 0.3377
+
+Epoch: 104/1000, Loss: 5257.14702, Time: 30.6
+Recon Loss: 20343.77334. KL Loss: 491.42489. Height Loss: 2.54726. Waist Loss: 3.16470. Chest Loss: 2.98885. Hip Loss: 3.36307. Arm Loss: 3.52482. Crotch Loss: 2.46313. Head Loss: 3.35143. Laplacian Loss: 15.84666. 
+The test reconstruction loss is 0.3375
+
+Epoch: 105/1000, Loss: 5216.99696, Time: 30.4
+Recon Loss: 20315.49185. KL Loss: 492.00929. Height Loss: 2.53669. Waist Loss: 3.15058. Chest Loss: 2.97176. Hip Loss: 3.34175. Arm Loss: 3.50864. Crotch Loss: 2.45409. Head Loss: 3.33574. Laplacian Loss: 15.82629. 
+The test reconstruction loss is 0.3374
+
+Epoch: 106/1000, Loss: 5179.12709, Time: 30.4
+Recon Loss: 20295.43354. KL Loss: 492.76440. Height Loss: 2.52595. Waist Loss: 3.13997. Chest Loss: 2.95677. Hip Loss: 3.32073. Arm Loss: 3.49120. Crotch Loss: 2.43757. Head Loss: 3.32368. Laplacian Loss: 15.80545. 
+The test reconstruction loss is 0.3370
+
+Epoch: 107/1000, Loss: 5141.44940, Time: 30.6
+Recon Loss: 20276.27301. KL Loss: 492.67717. Height Loss: 2.51606. Waist Loss: 3.12608. Chest Loss: 2.93613. Hip Loss: 3.29802. Arm Loss: 3.46744. Crotch Loss: 2.42692. Head Loss: 3.30034. Laplacian Loss: 15.78535. 
+The test reconstruction loss is 0.3369
+
+Epoch: 108/1000, Loss: 5105.17703, Time: 30.6
+Recon Loss: 20259.51345. KL Loss: 493.21291. Height Loss: 2.51030. Waist Loss: 3.11850. Chest Loss: 2.92459. Hip Loss: 3.28535. Arm Loss: 3.45594. Crotch Loss: 2.42300. Head Loss: 3.29387. Laplacian Loss: 15.76533. 
+The test reconstruction loss is 0.3366
+
+Epoch: 109/1000, Loss: 5068.71586, Time: 30.6
+Recon Loss: 20241.31368. KL Loss: 494.13365. Height Loss: 2.50198. Waist Loss: 3.11028. Chest Loss: 2.91099. Hip Loss: 3.26953. Arm Loss: 3.44351. Crotch Loss: 2.41025. Head Loss: 3.28031. Laplacian Loss: 15.74366. 
+The test reconstruction loss is 0.3369
+
+Epoch: 110/1000, Loss: 5033.71105, Time: 30.6
+Recon Loss: 20228.25381. KL Loss: 494.44641. Height Loss: 2.49529. Waist Loss: 3.10311. Chest Loss: 2.89967. Hip Loss: 3.25260. Arm Loss: 3.43208. Crotch Loss: 2.40581. Head Loss: 3.26869. Laplacian Loss: 15.72187. 
+The test reconstruction loss is 0.3364
+
+Epoch: 111/1000, Loss: 4997.74321, Time: 30.6
+Recon Loss: 20209.21914. KL Loss: 495.17659. Height Loss: 2.49155. Waist Loss: 3.09896. Chest Loss: 2.89487. Hip Loss: 3.24119. Arm Loss: 3.42076. Crotch Loss: 2.39497. Head Loss: 3.26258. Laplacian Loss: 15.69684. 
+The test reconstruction loss is 0.3363
+
+Epoch: 112/1000, Loss: 4961.32351, Time: 30.6
+Recon Loss: 20188.44187. KL Loss: 494.69987. Height Loss: 2.48349. Waist Loss: 3.09105. Chest Loss: 2.88097. Hip Loss: 3.22432. Arm Loss: 3.40985. Crotch Loss: 2.38714. Head Loss: 3.25405. Laplacian Loss: 15.67800. 
+The test reconstruction loss is 0.3359
+
+Epoch: 113/1000, Loss: 4926.25367, Time: 30.6
+Recon Loss: 20173.18594. KL Loss: 493.95994. Height Loss: 2.47509. Waist Loss: 3.08550. Chest Loss: 2.86751. Hip Loss: 3.20844. Arm Loss: 3.39208. Crotch Loss: 2.37562. Head Loss: 3.24204. Laplacian Loss: 15.64978. 
+The test reconstruction loss is 0.3359
+
+Epoch: 114/1000, Loss: 4891.59511, Time: 30.5
+Recon Loss: 20156.94785. KL Loss: 493.48545. Height Loss: 2.47008. Waist Loss: 3.08390. Chest Loss: 2.85755. Hip Loss: 3.20089. Arm Loss: 3.38591. Crotch Loss: 2.36965. Head Loss: 3.23486. Laplacian Loss: 15.62821. 
+The test reconstruction loss is 0.3359
+
+Epoch: 115/1000, Loss: 4857.31089, Time: 30.5
+Recon Loss: 20142.16499. KL Loss: 493.82160. Height Loss: 2.45959. Waist Loss: 3.07360. Chest Loss: 2.84429. Hip Loss: 3.18003. Arm Loss: 3.37256. Crotch Loss: 2.35621. Head Loss: 3.21786. Laplacian Loss: 15.60636. 
+The test reconstruction loss is 0.3356
+
+Epoch: 116/1000, Loss: 4822.94670, Time: 30.5
+Recon Loss: 20125.22471. KL Loss: 493.58484. Height Loss: 2.45615. Waist Loss: 3.06881. Chest Loss: 2.83430. Hip Loss: 3.16753. Arm Loss: 3.35957. Crotch Loss: 2.34873. Head Loss: 3.21404. Laplacian Loss: 15.57818. 
+The test reconstruction loss is 0.3353
+
+Epoch: 117/1000, Loss: 4789.16751, Time: 30.5
+Recon Loss: 20110.40230. KL Loss: 493.08545. Height Loss: 2.44570. Waist Loss: 3.06138. Chest Loss: 2.82407. Hip Loss: 3.15232. Arm Loss: 3.35016. Crotch Loss: 2.33790. Head Loss: 3.20521. Laplacian Loss: 15.55102. 
+The test reconstruction loss is 0.3350
+
+Epoch: 118/1000, Loss: 4755.81777, Time: 30.5
+Recon Loss: 20096.21847. KL Loss: 492.64243. Height Loss: 2.44020. Waist Loss: 3.05854. Chest Loss: 2.81564. Hip Loss: 3.13928. Arm Loss: 3.33643. Crotch Loss: 2.32700. Head Loss: 3.19547. Laplacian Loss: 15.51914. 
+The test reconstruction loss is 0.3349
+
+Epoch: 119/1000, Loss: 4722.16103, Time: 30.5
+Recon Loss: 20080.13754. KL Loss: 491.76229. Height Loss: 2.42720. Waist Loss: 3.05045. Chest Loss: 2.80779. Hip Loss: 3.12523. Arm Loss: 3.32460. Crotch Loss: 2.31971. Head Loss: 3.18442. Laplacian Loss: 15.48410. 
+The test reconstruction loss is 0.3349
+
+Epoch: 120/1000, Loss: 4690.12693, Time: 30.5
+Recon Loss: 20069.57177. KL Loss: 490.84853. Height Loss: 2.42569. Waist Loss: 3.04805. Chest Loss: 2.80289. Hip Loss: 3.11318. Arm Loss: 3.31310. Crotch Loss: 2.31165. Head Loss: 3.17284. Laplacian Loss: 15.45362. 
+The test reconstruction loss is 0.3348
+
+Epoch: 121/1000, Loss: 4658.02175, Time: 30.5
+Recon Loss: 20057.61481. KL Loss: 490.54030. Height Loss: 2.41701. Waist Loss: 3.04195. Chest Loss: 2.79343. Hip Loss: 3.09926. Arm Loss: 3.30268. Crotch Loss: 2.29762. Head Loss: 3.16579. Laplacian Loss: 15.42291. 
+The test reconstruction loss is 0.3346
+
+Epoch: 122/1000, Loss: 4626.26894, Time: 30.4
+Recon Loss: 20045.38558. KL Loss: 490.07919. Height Loss: 2.40914. Waist Loss: 3.03990. Chest Loss: 2.78856. Hip Loss: 3.08896. Arm Loss: 3.29381. Crotch Loss: 2.29192. Head Loss: 3.16005. Laplacian Loss: 15.39769. 
+The test reconstruction loss is 0.3345
+
+Epoch: 123/1000, Loss: 4594.42492, Time: 30.5
+Recon Loss: 20032.18147. KL Loss: 489.70325. Height Loss: 2.40313. Waist Loss: 3.03679. Chest Loss: 2.78272. Hip Loss: 3.07674. Arm Loss: 3.28127. Crotch Loss: 2.28188. Head Loss: 3.14980. Laplacian Loss: 15.36319. 
+The test reconstruction loss is 0.3343
+
+Epoch: 124/1000, Loss: 4564.39150, Time: 30.5
+Recon Loss: 20025.93006. KL Loss: 489.35513. Height Loss: 2.39777. Waist Loss: 3.03287. Chest Loss: 2.77642. Hip Loss: 3.06182. Arm Loss: 3.27778. Crotch Loss: 2.27517. Head Loss: 3.14234. Laplacian Loss: 15.32898. 
+The test reconstruction loss is 0.3342
+
+Epoch: 125/1000, Loss: 4531.88005, Time: 30.6
+Recon Loss: 20007.53106. KL Loss: 488.70345. Height Loss: 2.39152. Waist Loss: 3.02710. Chest Loss: 2.77241. Hip Loss: 3.05038. Arm Loss: 3.26597. Crotch Loss: 2.26524. Head Loss: 3.13745. Laplacian Loss: 15.28688. 
+The test reconstruction loss is 0.3341
+
+Epoch: 126/1000, Loss: 4502.23907, Time: 30.5
+Recon Loss: 20001.62088. KL Loss: 487.93560. Height Loss: 2.38410. Waist Loss: 3.02370. Chest Loss: 2.76309. Hip Loss: 3.03927. Arm Loss: 3.25747. Crotch Loss: 2.25787. Head Loss: 3.12980. Laplacian Loss: 15.24710. 
+The test reconstruction loss is 0.3342
+
+Epoch: 127/1000, Loss: 4471.90509, Time: 30.5
+Recon Loss: 19990.85958. KL Loss: 487.31677. Height Loss: 2.37921. Waist Loss: 3.02349. Chest Loss: 2.75921. Hip Loss: 3.02718. Arm Loss: 3.24745. Crotch Loss: 2.24752. Head Loss: 3.12832. Laplacian Loss: 15.20557. 
+The test reconstruction loss is 0.3340
+
+Epoch: 128/1000, Loss: 4440.95873, Time: 30.5
+Recon Loss: 19976.07994. KL Loss: 487.35120. Height Loss: 2.37309. Waist Loss: 3.01811. Chest Loss: 2.75206. Hip Loss: 3.01309. Arm Loss: 3.23458. Crotch Loss: 2.24069. Head Loss: 3.11277. Laplacian Loss: 15.16564. 
+The test reconstruction loss is 0.3337
+
+Epoch: 129/1000, Loss: 4411.21983, Time: 30.6
+Recon Loss: 19965.16357. KL Loss: 487.24555. Height Loss: 2.37016. Waist Loss: 3.01555. Chest Loss: 2.74864. Hip Loss: 3.00543. Arm Loss: 3.22579. Crotch Loss: 2.23561. Head Loss: 3.10985. Laplacian Loss: 15.12193. 
+The test reconstruction loss is 0.3339
+
+Epoch: 130/1000, Loss: 4380.51719, Time: 30.6
+Recon Loss: 19949.73264. KL Loss: 486.45167. Height Loss: 2.36168. Waist Loss: 3.00918. Chest Loss: 2.74378. Hip Loss: 2.99278. Arm Loss: 3.21712. Crotch Loss: 2.22685. Head Loss: 3.10247. Laplacian Loss: 15.07612. 
+The test reconstruction loss is 0.3335
+
+Epoch: 131/1000, Loss: 4350.90329, Time: 30.6
+Recon Loss: 19938.81058. KL Loss: 485.18312. Height Loss: 2.35249. Waist Loss: 3.00457. Chest Loss: 2.74039. Hip Loss: 2.98402. Arm Loss: 3.20208. Crotch Loss: 2.21434. Head Loss: 3.09252. Laplacian Loss: 15.03741. 
+The test reconstruction loss is 0.3335
+
+Epoch: 132/1000, Loss: 4322.47416, Time: 30.6
+Recon Loss: 19931.91722. KL Loss: 484.53195. Height Loss: 2.34804. Waist Loss: 3.00009. Chest Loss: 2.73181. Hip Loss: 2.97217. Arm Loss: 3.19269. Crotch Loss: 2.20692. Head Loss: 3.08051. Laplacian Loss: 14.99553. 
+The test reconstruction loss is 0.3333
+
+Epoch: 133/1000, Loss: 4293.91175, Time: 30.6
+Recon Loss: 19922.40566. KL Loss: 484.10122. Height Loss: 2.34384. Waist Loss: 3.00070. Chest Loss: 2.73089. Hip Loss: 2.96007. Arm Loss: 3.18772. Crotch Loss: 2.19995. Head Loss: 3.07710. Laplacian Loss: 14.95199. 
+The test reconstruction loss is 0.3334
+
+Epoch: 134/1000, Loss: 4264.14337, Time: 30.6
+Recon Loss: 19906.28301. KL Loss: 483.21463. Height Loss: 2.34222. Waist Loss: 2.99741. Chest Loss: 2.73107. Hip Loss: 2.95600. Arm Loss: 3.17766. Crotch Loss: 2.19223. Head Loss: 3.07288. Laplacian Loss: 14.89956. 
+The test reconstruction loss is 0.3332
+
+Epoch: 135/1000, Loss: 4237.69961, Time: 30.6
+Recon Loss: 19905.84998. KL Loss: 482.76468. Height Loss: 2.33697. Waist Loss: 2.99344. Chest Loss: 2.72237. Hip Loss: 2.94205. Arm Loss: 3.17080. Crotch Loss: 2.18549. Head Loss: 3.06616. Laplacian Loss: 14.84994. 
+The test reconstruction loss is 0.3330
+
+Epoch: 136/1000, Loss: 4208.74612, Time: 30.6
+Recon Loss: 19890.28182. KL Loss: 482.73147. Height Loss: 2.33422. Waist Loss: 2.99165. Chest Loss: 2.72448. Hip Loss: 2.93615. Arm Loss: 3.16367. Crotch Loss: 2.18025. Head Loss: 3.06459. Laplacian Loss: 14.80721. 
+The test reconstruction loss is 0.3329
+
+Epoch: 137/1000, Loss: 4180.48882, Time: 30.5
+Recon Loss: 19878.94287. KL Loss: 481.96594. Height Loss: 2.32770. Waist Loss: 2.98559. Chest Loss: 2.71999. Hip Loss: 2.92432. Arm Loss: 3.15116. Crotch Loss: 2.17145. Head Loss: 3.05485. Laplacian Loss: 14.75773. 
+The test reconstruction loss is 0.3329
+
+Epoch: 138/1000, Loss: 4153.53368, Time: 30.5
+Recon Loss: 19871.45590. KL Loss: 482.20507. Height Loss: 2.32400. Waist Loss: 2.98370. Chest Loss: 2.71432. Hip Loss: 2.91934. Arm Loss: 3.14189. Crotch Loss: 2.16255. Head Loss: 3.05397. Laplacian Loss: 14.71201. 
+The test reconstruction loss is 0.3327
+
+Epoch: 139/1000, Loss: 4126.08684, Time: 30.5
+Recon Loss: 19860.92980. KL Loss: 481.42427. Height Loss: 2.32274. Waist Loss: 2.98153. Chest Loss: 2.71122. Hip Loss: 2.91163. Arm Loss: 3.13708. Crotch Loss: 2.15827. Head Loss: 3.05383. Laplacian Loss: 14.66067. 
+The test reconstruction loss is 0.3328
+
+Epoch: 140/1000, Loss: 4098.00533, Time: 30.6
+Recon Loss: 19846.22651. KL Loss: 481.12947. Height Loss: 2.31594. Waist Loss: 2.97685. Chest Loss: 2.71034. Hip Loss: 2.90242. Arm Loss: 3.12600. Crotch Loss: 2.14884. Head Loss: 3.04438. Laplacian Loss: 14.61377. 
+The test reconstruction loss is 0.3325
+
+Epoch: 141/1000, Loss: 4071.93205, Time: 30.6
+Recon Loss: 19840.56920. KL Loss: 480.39983. Height Loss: 2.31264. Waist Loss: 2.97253. Chest Loss: 2.70705. Hip Loss: 2.89637. Arm Loss: 3.12058. Crotch Loss: 2.14404. Head Loss: 3.03643. Laplacian Loss: 14.56874. 
+The test reconstruction loss is 0.3324
+
+Epoch: 142/1000, Loss: 4044.27347, Time: 30.6
+Recon Loss: 19824.09079. KL Loss: 480.58549. Height Loss: 2.31581. Waist Loss: 2.97541. Chest Loss: 2.70222. Hip Loss: 2.89230. Arm Loss: 3.11281. Crotch Loss: 2.13496. Head Loss: 3.04070. Laplacian Loss: 14.52852. 
+The test reconstruction loss is 0.3324
+
+Epoch: 143/1000, Loss: 4018.14495, Time: 30.6
+Recon Loss: 19816.24440. KL Loss: 479.98037. Height Loss: 2.30926. Waist Loss: 2.96848. Chest Loss: 2.69972. Hip Loss: 2.88210. Arm Loss: 3.10210. Crotch Loss: 2.13011. Head Loss: 3.03089. Laplacian Loss: 14.48542. 
+The test reconstruction loss is 0.3322
+
+Epoch: 144/1000, Loss: 3991.87608, Time: 30.6
+Recon Loss: 19806.00342. KL Loss: 479.33142. Height Loss: 2.30414. Waist Loss: 2.96595. Chest Loss: 2.69054. Hip Loss: 2.87563. Arm Loss: 3.09510. Crotch Loss: 2.12616. Head Loss: 3.03272. Laplacian Loss: 14.44302. 
+The test reconstruction loss is 0.3322
+
+Epoch: 145/1000, Loss: 3964.95190, Time: 30.5
+Recon Loss: 19791.02110. KL Loss: 479.35908. Height Loss: 2.29762. Waist Loss: 2.96026. Chest Loss: 2.68606. Hip Loss: 2.86511. Arm Loss: 3.08210. Crotch Loss: 2.11557. Head Loss: 3.02521. Laplacian Loss: 14.40999. 
+The test reconstruction loss is 0.3320
+
+Epoch: 146/1000, Loss: 3939.42491, Time: 30.6
+Recon Loss: 19782.64183. KL Loss: 478.45594. Height Loss: 2.29521. Waist Loss: 2.95561. Chest Loss: 2.68309. Hip Loss: 2.85742. Arm Loss: 3.07555. Crotch Loss: 2.10960. Head Loss: 3.02101. Laplacian Loss: 14.36906. 
+The test reconstruction loss is 0.3318
+
+Epoch: 147/1000, Loss: 3912.90704, Time: 30.7
+Recon Loss: 19767.65280. KL Loss: 478.02142. Height Loss: 2.29306. Waist Loss: 2.95101. Chest Loss: 2.67673. Hip Loss: 2.84707. Arm Loss: 3.06560. Crotch Loss: 2.10420. Head Loss: 3.01567. Laplacian Loss: 14.32779. 
+The test reconstruction loss is 0.3322
+
+Epoch: 148/1000, Loss: 3888.19916, Time: 30.6
+Recon Loss: 19760.58390. KL Loss: 477.43303. Height Loss: 2.29374. Waist Loss: 2.95188. Chest Loss: 2.67523. Hip Loss: 2.84460. Arm Loss: 3.06336. Crotch Loss: 2.09778. Head Loss: 3.01509. Laplacian Loss: 14.28308. 
+The test reconstruction loss is 0.3316
+
+Epoch: 149/1000, Loss: 3863.59408, Time: 30.6
+Recon Loss: 19752.97951. KL Loss: 477.33281. Height Loss: 2.28902. Waist Loss: 2.94802. Chest Loss: 2.67259. Hip Loss: 2.83955. Arm Loss: 3.05797. Crotch Loss: 2.09319. Head Loss: 3.01352. Laplacian Loss: 14.24108. 
+The test reconstruction loss is 0.3317
+
+Epoch: 150/1000, Loss: 3837.40685, Time: 30.6
+Recon Loss: 19735.76262. KL Loss: 476.63872. Height Loss: 2.28838. Waist Loss: 2.94827. Chest Loss: 2.67061. Hip Loss: 2.83507. Arm Loss: 3.05311. Crotch Loss: 2.08974. Head Loss: 3.00988. Laplacian Loss: 14.19990. 
+The test reconstruction loss is 0.3314
+
+Epoch: 151/1000, Loss: 3812.02930, Time: 30.6
+Recon Loss: 19722.62842. KL Loss: 475.29089. Height Loss: 2.28513. Waist Loss: 2.94537. Chest Loss: 2.66322. Hip Loss: 2.82878. Arm Loss: 3.04714. Crotch Loss: 2.08521. Head Loss: 3.00608. Laplacian Loss: 14.16351. 
+The test reconstruction loss is 0.3315
+
+Epoch: 152/1000, Loss: 3787.36371, Time: 30.6
+Recon Loss: 19710.48956. KL Loss: 475.09885. Height Loss: 2.28793. Waist Loss: 2.95025. Chest Loss: 2.66357. Hip Loss: 2.83005. Arm Loss: 3.04168. Crotch Loss: 2.08028. Head Loss: 3.01268. Laplacian Loss: 14.11735. 
+The test reconstruction loss is 0.3317
+
+Epoch: 153/1000, Loss: 3761.86541, Time: 30.5
+Recon Loss: 19692.76626. KL Loss: 475.24661. Height Loss: 2.28496. Waist Loss: 2.94896. Chest Loss: 2.66080. Hip Loss: 2.82730. Arm Loss: 3.03427. Crotch Loss: 2.07199. Head Loss: 3.01891. Laplacian Loss: 14.07936. 
+The test reconstruction loss is 0.3310
+
+Epoch: 154/1000, Loss: 3736.31279, Time: 30.6
+Recon Loss: 19674.11433. KL Loss: 474.74327. Height Loss: 2.28428. Waist Loss: 2.94581. Chest Loss: 2.65729. Hip Loss: 2.82152. Arm Loss: 3.03334. Crotch Loss: 2.06884. Head Loss: 3.01322. Laplacian Loss: 14.03726. 
+The test reconstruction loss is 0.3310
+
+Epoch: 155/1000, Loss: 3713.55218, Time: 30.5
+Recon Loss: 19669.67119. KL Loss: 473.21297. Height Loss: 2.28817. Waist Loss: 2.95207. Chest Loss: 2.65882. Hip Loss: 2.82338. Arm Loss: 3.03333. Crotch Loss: 2.07052. Head Loss: 3.02045. Laplacian Loss: 13.99502. 
+The test reconstruction loss is 0.3305
+
+Epoch: 156/1000, Loss: 3686.85247, Time: 30.5
+Recon Loss: 19641.07864. KL Loss: 473.37754. Height Loss: 2.28924. Waist Loss: 2.95225. Chest Loss: 2.66144. Hip Loss: 2.82378. Arm Loss: 3.02940. Crotch Loss: 2.06149. Head Loss: 3.02598. Laplacian Loss: 13.95186. 
+The test reconstruction loss is 0.3305
+
+Epoch: 157/1000, Loss: 3663.41063, Time: 30.6
+Recon Loss: 19630.19707. KL Loss: 472.41255. Height Loss: 2.29704. Waist Loss: 2.95345. Chest Loss: 2.66010. Hip Loss: 2.82113. Arm Loss: 3.03122. Crotch Loss: 2.06244. Head Loss: 3.03304. Laplacian Loss: 13.90936. 
+The test reconstruction loss is 0.3304
+
+Epoch: 158/1000, Loss: 3637.17948, Time: 30.5
+Recon Loss: 19599.65496. KL Loss: 472.76691. Height Loss: 2.30741. Waist Loss: 2.96600. Chest Loss: 2.67094. Hip Loss: 2.82807. Arm Loss: 3.04084. Crotch Loss: 2.05454. Head Loss: 3.04635. Laplacian Loss: 13.86966. 
+The test reconstruction loss is 0.3303
+
+Epoch: 159/1000, Loss: 3612.03908, Time: 30.4
+Recon Loss: 19576.85923. KL Loss: 470.74660. Height Loss: 2.30906. Waist Loss: 2.97256. Chest Loss: 2.66466. Hip Loss: 2.83289. Arm Loss: 3.04428. Crotch Loss: 2.05850. Head Loss: 3.05891. Laplacian Loss: 13.83131. 
+The test reconstruction loss is 0.3300
+
+Epoch: 160/1000, Loss: 3587.93221, Time: 30.5
+Recon Loss: 19556.82968. KL Loss: 470.29401. Height Loss: 2.32245. Waist Loss: 2.98241. Chest Loss: 2.67185. Hip Loss: 2.83982. Arm Loss: 3.04881. Crotch Loss: 2.05272. Head Loss: 3.07341. Laplacian Loss: 13.79283. 
+The test reconstruction loss is 0.3300
+
+Epoch: 161/1000, Loss: 3560.66548, Time: 30.6
+Recon Loss: 19516.28234. KL Loss: 469.76035. Height Loss: 2.33298. Waist Loss: 2.99319. Chest Loss: 2.67467. Hip Loss: 2.85030. Arm Loss: 3.05566. Crotch Loss: 2.05840. Head Loss: 3.09725. Laplacian Loss: 13.75959. 
+The test reconstruction loss is 0.3300
+
+Epoch: 162/1000, Loss: 3535.96179, Time: 30.5
+Recon Loss: 19489.74837. KL Loss: 469.08385. Height Loss: 2.34932. Waist Loss: 2.99940. Chest Loss: 2.68218. Hip Loss: 2.85892. Arm Loss: 3.06647. Crotch Loss: 2.05833. Head Loss: 3.10947. Laplacian Loss: 13.72601. 
+The test reconstruction loss is 0.3290
+
+Epoch: 163/1000, Loss: 3509.18378, Time: 30.5
+Recon Loss: 19446.45707. KL Loss: 469.16485. Height Loss: 2.37123. Waist Loss: 3.02586. Chest Loss: 2.69646. Hip Loss: 2.88167. Arm Loss: 3.08557. Crotch Loss: 2.06165. Head Loss: 3.14732. Laplacian Loss: 13.69470. 
+The test reconstruction loss is 0.3291
+
+Epoch: 164/1000, Loss: 3478.69820, Time: 30.6
+Recon Loss: 19381.20973. KL Loss: 468.09728. Height Loss: 2.39597. Waist Loss: 3.03931. Chest Loss: 2.70616. Hip Loss: 2.89367. Arm Loss: 3.10041. Crotch Loss: 2.06360. Head Loss: 3.18384. Laplacian Loss: 13.66496. 
+The test reconstruction loss is 0.3281
+
+Epoch: 165/1000, Loss: 3448.09538, Time: 30.6
+Recon Loss: 19311.69784. KL Loss: 467.39114. Height Loss: 2.42184. Waist Loss: 3.06083. Chest Loss: 2.72402. Hip Loss: 2.91466. Arm Loss: 3.12241. Crotch Loss: 2.07075. Head Loss: 3.22498. Laplacian Loss: 13.63871. 
+The test reconstruction loss is 0.3272
+
+Epoch: 166/1000, Loss: 3421.57448, Time: 30.6
+Recon Loss: 19262.60936. KL Loss: 467.05526. Height Loss: 2.47246. Waist Loss: 3.09451. Chest Loss: 2.75525. Hip Loss: 2.94511. Arm Loss: 3.15510. Crotch Loss: 2.07558. Head Loss: 3.27719. Laplacian Loss: 13.60223. 
+The test reconstruction loss is 0.3269
+
+Epoch: 167/1000, Loss: 3389.18935, Time: 30.5
+Recon Loss: 19175.40008. KL Loss: 466.31426. Height Loss: 2.51970. Waist Loss: 3.12815. Chest Loss: 2.76777. Hip Loss: 2.98205. Arm Loss: 3.18899. Crotch Loss: 2.09653. Head Loss: 3.34647. Laplacian Loss: 13.58630. 
+The test reconstruction loss is 0.3266
+
+Epoch: 168/1000, Loss: 3355.42659, Time: 30.6
+Recon Loss: 19075.08145. KL Loss: 465.84315. Height Loss: 2.58526. Waist Loss: 3.17686. Chest Loss: 2.80941. Hip Loss: 3.01923. Arm Loss: 3.23909. Crotch Loss: 2.11091. Head Loss: 3.43822. Laplacian Loss: 13.55323. 
+The test reconstruction loss is 0.3252
+
+Epoch: 169/1000, Loss: 3321.27673, Time: 30.5
+Recon Loss: 18970.46886. KL Loss: 464.08269. Height Loss: 2.63879. Waist Loss: 3.22313. Chest Loss: 2.85133. Hip Loss: 3.06898. Arm Loss: 3.30164. Crotch Loss: 2.13290. Head Loss: 3.51841. Laplacian Loss: 13.53826. 
+The test reconstruction loss is 0.3243
+
+Epoch: 170/1000, Loss: 3285.02176, Time: 30.5
+Recon Loss: 18847.50624. KL Loss: 462.79803. Height Loss: 2.72920. Waist Loss: 3.28660. Chest Loss: 2.89561. Hip Loss: 3.11535. Arm Loss: 3.35495. Crotch Loss: 2.15109. Head Loss: 3.65079. Laplacian Loss: 13.52066. 
+The test reconstruction loss is 0.3234
+
+Epoch: 171/1000, Loss: 3253.58878, Time: 30.5
+Recon Loss: 18750.42296. KL Loss: 462.91523. Height Loss: 2.79544. Waist Loss: 3.35104. Chest Loss: 2.95058. Hip Loss: 3.16628. Arm Loss: 3.43787. Crotch Loss: 2.17676. Head Loss: 3.76745. Laplacian Loss: 13.50752. 
+The test reconstruction loss is 0.3220
+
+Epoch: 172/1000, Loss: 3217.76030, Time: 30.5
+Recon Loss: 18623.80636. KL Loss: 464.09046. Height Loss: 2.87987. Waist Loss: 3.40316. Chest Loss: 2.98209. Hip Loss: 3.20118. Arm Loss: 3.52559. Crotch Loss: 2.20328. Head Loss: 3.86300. Laplacian Loss: 13.50310. 
+The test reconstruction loss is 0.3221
+
+Epoch: 173/1000, Loss: 3181.84021, Time: 30.6
+Recon Loss: 18497.42637. KL Loss: 462.95034. Height Loss: 2.94632. Waist Loss: 3.45635. Chest Loss: 3.01565. Hip Loss: 3.22501. Arm Loss: 3.58352. Crotch Loss: 2.21698. Head Loss: 3.99521. Laplacian Loss: 13.49506. 
+The test reconstruction loss is 0.3207
+
+Epoch: 174/1000, Loss: 3163.34451, Time: 30.5
+Recon Loss: 18479.79568. KL Loss: 465.79979. Height Loss: 2.96481. Waist Loss: 3.48956. Chest Loss: 3.05128. Hip Loss: 3.24942. Arm Loss: 3.62691. Crotch Loss: 2.23516. Head Loss: 4.05489. Laplacian Loss: 13.49402. 
+The test reconstruction loss is 0.3219
+
+Epoch: 175/1000, Loss: 3129.09194, Time: 30.6
+Recon Loss: 18363.83057. KL Loss: 464.78263. Height Loss: 3.01849. Waist Loss: 3.52636. Chest Loss: 3.07303. Hip Loss: 3.25762. Arm Loss: 3.67299. Crotch Loss: 2.25140. Head Loss: 4.13490. Laplacian Loss: 13.47439. 
+The test reconstruction loss is 0.3199
+
+Epoch: 176/1000, Loss: 3109.07474, Time: 30.6
+Recon Loss: 18336.97969. KL Loss: 466.01898. Height Loss: 3.04476. Waist Loss: 3.55581. Chest Loss: 3.08702. Hip Loss: 3.25508. Arm Loss: 3.72959. Crotch Loss: 2.25185. Head Loss: 4.21005. Laplacian Loss: 13.44738. 
+The test reconstruction loss is 0.3213
+
+Epoch: 177/1000, Loss: 3082.93876, Time: 30.6
+Recon Loss: 18271.85469. KL Loss: 469.39993. Height Loss: 3.05568. Waist Loss: 3.57315. Chest Loss: 3.09609. Hip Loss: 3.25027. Arm Loss: 3.75636. Crotch Loss: 2.25429. Head Loss: 4.19718. Laplacian Loss: 13.43563. 
+The test reconstruction loss is 0.3193
+
+Epoch: 178/1000, Loss: 3054.75644, Time: 30.6
+Recon Loss: 18192.66421. KL Loss: 469.95513. Height Loss: 3.06743. Waist Loss: 3.59796. Chest Loss: 3.10950. Hip Loss: 3.26077. Arm Loss: 3.78481. Crotch Loss: 2.25957. Head Loss: 4.22738. Laplacian Loss: 13.41071. 
+The test reconstruction loss is 0.3193
+
+Epoch: 179/1000, Loss: 3028.37965, Time: 30.5
+Recon Loss: 18126.10508. KL Loss: 468.37054. Height Loss: 3.07085. Waist Loss: 3.62252. Chest Loss: 3.11729. Hip Loss: 3.26580. Arm Loss: 3.80751. Crotch Loss: 2.26019. Head Loss: 4.27204. Laplacian Loss: 13.37167. 
+The test reconstruction loss is 0.3190
+
+Epoch: 180/1000, Loss: 3010.03678, Time: 30.6
+Recon Loss: 18111.39025. KL Loss: 469.68149. Height Loss: 3.07219. Waist Loss: 3.62721. Chest Loss: 3.11084. Hip Loss: 3.25637. Arm Loss: 3.81435. Crotch Loss: 2.25899. Head Loss: 4.25482. Laplacian Loss: 13.34492. 
+The test reconstruction loss is 0.3181
+
+Epoch: 181/1000, Loss: 2991.31082, Time: 30.6
+Recon Loss: 18090.69479. KL Loss: 471.43365. Height Loss: 3.07898. Waist Loss: 3.64326. Chest Loss: 3.12203. Hip Loss: 3.25188. Arm Loss: 3.84423. Crotch Loss: 2.26222. Head Loss: 4.26434. Laplacian Loss: 13.30504. 
+The test reconstruction loss is 0.3187
+
+Epoch: 182/1000, Loss: 2967.71735, Time: 30.5
+Recon Loss: 18037.78614. KL Loss: 472.10736. Height Loss: 3.09429. Waist Loss: 3.64843. Chest Loss: 3.12188. Hip Loss: 3.24687. Arm Loss: 3.85542. Crotch Loss: 2.26557. Head Loss: 4.29610. Laplacian Loss: 13.28033. 
+The test reconstruction loss is 0.3175
+
+Epoch: 183/1000, Loss: 2950.66292, Time: 30.5
+Recon Loss: 18029.97162. KL Loss: 471.32348. Height Loss: 3.08181. Waist Loss: 3.65972. Chest Loss: 3.13086. Hip Loss: 3.23850. Arm Loss: 3.86572. Crotch Loss: 2.26192. Head Loss: 4.31175. Laplacian Loss: 13.23492. 
+The test reconstruction loss is 0.3178
+
+Epoch: 184/1000, Loss: 2928.47610, Time: 30.5
+Recon Loss: 17982.39805. KL Loss: 472.13858. Height Loss: 3.10568. Waist Loss: 3.67822. Chest Loss: 3.13189. Hip Loss: 3.25028. Arm Loss: 3.91087. Crotch Loss: 2.27422. Head Loss: 4.31509. Laplacian Loss: 13.20711. 
+The test reconstruction loss is 0.3164
+
+Epoch: 185/1000, Loss: 2908.04551, Time: 30.5
+Recon Loss: 17950.83653. KL Loss: 472.58222. Height Loss: 3.08682. Waist Loss: 3.68369. Chest Loss: 3.13348. Hip Loss: 3.23071. Arm Loss: 3.89649. Crotch Loss: 2.26650. Head Loss: 4.31149. Laplacian Loss: 13.18231. 
+The test reconstruction loss is 0.3170
+
+Epoch: 186/1000, Loss: 2885.93621, Time: 30.5
+Recon Loss: 17904.65569. KL Loss: 472.84418. Height Loss: 3.09090. Waist Loss: 3.68839. Chest Loss: 3.12476. Hip Loss: 3.22432. Arm Loss: 3.90553. Crotch Loss: 2.26938. Head Loss: 4.33126. Laplacian Loss: 13.15072. 
+The test reconstruction loss is 0.3173
+
+Epoch: 187/1000, Loss: 2872.11208, Time: 30.5
+Recon Loss: 17916.87689. KL Loss: 474.49095. Height Loss: 3.06842. Waist Loss: 3.68097. Chest Loss: 3.12262. Hip Loss: 3.20314. Arm Loss: 3.88248. Crotch Loss: 2.25701. Head Loss: 4.29249. Laplacian Loss: 13.11904. 
+The test reconstruction loss is 0.3165
+
+Epoch: 188/1000, Loss: 2851.00453, Time: 30.5
+Recon Loss: 17874.68772. KL Loss: 475.49121. Height Loss: 3.07708. Waist Loss: 3.69058. Chest Loss: 3.12572. Hip Loss: 3.20589. Arm Loss: 3.90318. Crotch Loss: 2.26106. Head Loss: 4.27628. Laplacian Loss: 13.08620. 
+The test reconstruction loss is 0.3158
+
+Epoch: 189/1000, Loss: 2827.32635, Time: 30.5
+Recon Loss: 17815.12661. KL Loss: 474.71483. Height Loss: 3.08104. Waist Loss: 3.69957. Chest Loss: 3.12988. Hip Loss: 3.19910. Arm Loss: 3.90532. Crotch Loss: 2.26609. Head Loss: 4.29205. Laplacian Loss: 13.05479. 
+The test reconstruction loss is 0.3155
+
+Epoch: 190/1000, Loss: 2808.87302, Time: 30.5
+Recon Loss: 17793.82463. KL Loss: 474.35063. Height Loss: 3.05175. Waist Loss: 3.69199. Chest Loss: 3.12108. Hip Loss: 3.18225. Arm Loss: 3.87755. Crotch Loss: 2.25503. Head Loss: 4.27852. Laplacian Loss: 13.03845. 
+The test reconstruction loss is 0.3154
+
+Epoch: 191/1000, Loss: 2791.97039, Time: 30.4
+Recon Loss: 17781.18246. KL Loss: 475.02849. Height Loss: 3.03949. Waist Loss: 3.67857. Chest Loss: 3.11502. Hip Loss: 3.16580. Arm Loss: 3.87002. Crotch Loss: 2.24751. Head Loss: 4.25716. Laplacian Loss: 12.99536. 
+The test reconstruction loss is 0.3149
+
+Epoch: 192/1000, Loss: 2774.80588, Time: 30.4
+Recon Loss: 17764.34378. KL Loss: 476.32790. Height Loss: 3.03435. Waist Loss: 3.68557. Chest Loss: 3.10614. Hip Loss: 3.15549. Arm Loss: 3.86602. Crotch Loss: 2.24255. Head Loss: 4.24378. Laplacian Loss: 12.94421. 
+The test reconstruction loss is 0.3162
+
+Epoch: 193/1000, Loss: 2762.19731, Time: 30.5
+Recon Loss: 17778.10264. KL Loss: 478.74574. Height Loss: 3.01777. Waist Loss: 3.67817. Chest Loss: 3.10667. Hip Loss: 3.14793. Arm Loss: 3.86228. Crotch Loss: 2.24232. Head Loss: 4.21749. Laplacian Loss: 12.89860. 
+The test reconstruction loss is 0.3154
+
+Epoch: 194/1000, Loss: 2739.82112, Time: 30.5
+Recon Loss: 17720.33052. KL Loss: 480.00122. Height Loss: 3.02947. Waist Loss: 3.69228. Chest Loss: 3.11360. Hip Loss: 3.14538. Arm Loss: 3.87652. Crotch Loss: 2.24468. Head Loss: 4.21339. Laplacian Loss: 12.86338. 
+The test reconstruction loss is 0.3151
+
+Epoch: 195/1000, Loss: 2720.31357, Time: 30.5
+Recon Loss: 17686.71461. KL Loss: 479.06713. Height Loss: 3.01215. Waist Loss: 3.68254. Chest Loss: 3.10655. Hip Loss: 3.12517. Arm Loss: 3.85645. Crotch Loss: 2.24106. Head Loss: 4.21066. Laplacian Loss: 12.83506. 
+The test reconstruction loss is 0.3147
+
+Epoch: 196/1000, Loss: 2704.48259, Time: 30.6
+Recon Loss: 17678.48606. KL Loss: 477.75711. Height Loss: 3.00501. Waist Loss: 3.68111. Chest Loss: 3.09787. Hip Loss: 3.11565. Arm Loss: 3.84887. Crotch Loss: 2.23655. Head Loss: 4.19454. Laplacian Loss: 12.77728. 
+The test reconstruction loss is 0.3143
+
+Epoch: 197/1000, Loss: 2688.87153, Time: 30.6
+Recon Loss: 17669.94534. KL Loss: 477.67779. Height Loss: 2.99513. Waist Loss: 3.67058. Chest Loss: 3.08534. Hip Loss: 3.10141. Arm Loss: 3.83535. Crotch Loss: 2.22918. Head Loss: 4.19480. Laplacian Loss: 12.74130. 
+The test reconstruction loss is 0.3146
+
+Epoch: 198/1000, Loss: 2674.48119, Time: 30.5
+Recon Loss: 17667.37305. KL Loss: 478.14090. Height Loss: 2.99713. Waist Loss: 3.67973. Chest Loss: 3.09652. Hip Loss: 3.10751. Arm Loss: 3.84629. Crotch Loss: 2.23319. Head Loss: 4.15678. Laplacian Loss: 12.67947. 
+The test reconstruction loss is 0.3145
+
+Epoch: 199/1000, Loss: 2658.36861, Time: 30.4
+Recon Loss: 17652.32144. KL Loss: 477.41497. Height Loss: 3.00102. Waist Loss: 3.67349. Chest Loss: 3.09365. Hip Loss: 3.09287. Arm Loss: 3.84178. Crotch Loss: 2.23304. Head Loss: 4.16904. Laplacian Loss: 12.65087. 
+The test reconstruction loss is 0.3142
+
+Epoch: 200/1000, Loss: 2642.09126, Time: 30.5
+Recon Loss: 17634.38991. KL Loss: 476.85330. Height Loss: 3.00254. Waist Loss: 3.68257. Chest Loss: 3.09609. Hip Loss: 3.09637. Arm Loss: 3.85250. Crotch Loss: 2.24134. Head Loss: 4.17746. Laplacian Loss: 12.59336. 
+The test reconstruction loss is 0.3144
+
+Epoch: 201/1000, Loss: 2624.68267, Time: 30.5
+Recon Loss: 17609.44723. KL Loss: 476.41940. Height Loss: 2.99628. Waist Loss: 3.67842. Chest Loss: 3.08622. Hip Loss: 3.08658. Arm Loss: 3.84997. Crotch Loss: 2.24201. Head Loss: 4.15125. Laplacian Loss: 12.55883. 
+The test reconstruction loss is 0.3136
+
+Epoch: 202/1000, Loss: 2613.61127, Time: 30.5
+Recon Loss: 17629.67165. KL Loss: 477.40858. Height Loss: 2.99060. Waist Loss: 3.67259. Chest Loss: 3.07580. Hip Loss: 3.07456. Arm Loss: 3.83292. Crotch Loss: 2.23278. Head Loss: 4.15283. Laplacian Loss: 12.50006. 
+The test reconstruction loss is 0.3149
+
+Epoch: 203/1000, Loss: 2596.69767, Time: 30.5
+Recon Loss: 17603.31858. KL Loss: 479.68043. Height Loss: 2.99385. Waist Loss: 3.67192. Chest Loss: 3.07542. Hip Loss: 3.06544. Arm Loss: 3.82907. Crotch Loss: 2.23688. Head Loss: 4.13402. Laplacian Loss: 12.47724. 
+The test reconstruction loss is 0.3138
+
+Epoch: 204/1000, Loss: 2582.68849, Time: 30.6
+Recon Loss: 17600.69233. KL Loss: 480.45593. Height Loss: 2.97740. Waist Loss: 3.67006. Chest Loss: 3.07706. Hip Loss: 3.05495. Arm Loss: 3.81553. Crotch Loss: 2.23161. Head Loss: 4.12189. Laplacian Loss: 12.42395. 
+The test reconstruction loss is 0.3136
+
+Epoch: 205/1000, Loss: 2562.25770, Time: 30.5
+Recon Loss: 17549.95560. KL Loss: 479.00912. Height Loss: 2.97453. Waist Loss: 3.66575. Chest Loss: 3.06755. Hip Loss: 3.04621. Arm Loss: 3.80687. Crotch Loss: 2.23442. Head Loss: 4.12467. Laplacian Loss: 12.38819. 
+The test reconstruction loss is 0.3136
+
+Epoch: 206/1000, Loss: 2547.44243, Time: 30.6
+Recon Loss: 17542.36389. KL Loss: 477.71695. Height Loss: 2.95449. Waist Loss: 3.65792. Chest Loss: 3.06319. Hip Loss: 3.03330. Arm Loss: 3.78443. Crotch Loss: 2.22419. Head Loss: 4.11168. Laplacian Loss: 12.32745. 
+The test reconstruction loss is 0.3135
+
+Epoch: 207/1000, Loss: 2532.03450, Time: 30.5
+Recon Loss: 17524.40758. KL Loss: 477.36514. Height Loss: 2.96507. Waist Loss: 3.66380. Chest Loss: 3.06250. Hip Loss: 3.03512. Arm Loss: 3.79080. Crotch Loss: 2.23156. Head Loss: 4.11435. Laplacian Loss: 12.28705. 
+The test reconstruction loss is 0.3133
+
+Epoch: 208/1000, Loss: 2518.69242, Time: 30.5
+Recon Loss: 17525.73058. KL Loss: 476.05903. Height Loss: 2.95188. Waist Loss: 3.65717. Chest Loss: 3.05768. Hip Loss: 3.02307. Arm Loss: 3.77054. Crotch Loss: 2.22526. Head Loss: 4.10429. Laplacian Loss: 12.23117. 
+The test reconstruction loss is 0.3132
+
+Epoch: 209/1000, Loss: 2502.79666, Time: 30.5
+Recon Loss: 17503.24843. KL Loss: 476.12829. Height Loss: 2.94934. Waist Loss: 3.65820. Chest Loss: 3.05612. Hip Loss: 3.02012. Arm Loss: 3.77640. Crotch Loss: 2.22454. Head Loss: 4.09887. Laplacian Loss: 12.19448. 
+The test reconstruction loss is 0.3134
+
+Epoch: 210/1000, Loss: 2490.15651, Time: 30.5
+Recon Loss: 17506.72271. KL Loss: 475.92352. Height Loss: 2.94526. Waist Loss: 3.64943. Chest Loss: 3.04563. Hip Loss: 3.01392. Arm Loss: 3.77110. Crotch Loss: 2.22376. Head Loss: 4.08506. Laplacian Loss: 12.14214. 
+The test reconstruction loss is 0.3131
+
+Epoch: 211/1000, Loss: 2472.88194, Time: 30.5
+Recon Loss: 17471.51745. KL Loss: 476.33724. Height Loss: 2.94645. Waist Loss: 3.65257. Chest Loss: 3.04698. Hip Loss: 3.00817. Arm Loss: 3.76444. Crotch Loss: 2.22557. Head Loss: 4.08419. Laplacian Loss: 12.11289. 
+The test reconstruction loss is 0.3129
+
+Epoch: 212/1000, Loss: 2458.65031, Time: 30.6
+Recon Loss: 17462.42913. KL Loss: 475.34477. Height Loss: 2.92970. Waist Loss: 3.64543. Chest Loss: 3.03822. Hip Loss: 2.99798. Arm Loss: 3.74328. Crotch Loss: 2.22340. Head Loss: 4.06478. Laplacian Loss: 12.07751. 
+The test reconstruction loss is 0.3129
+
+Epoch: 213/1000, Loss: 2445.30815, Time: 30.5
+Recon Loss: 17456.73512. KL Loss: 475.16848. Height Loss: 2.93027. Waist Loss: 3.64478. Chest Loss: 3.03231. Hip Loss: 2.99433. Arm Loss: 3.74218. Crotch Loss: 2.21917. Head Loss: 4.07823. Laplacian Loss: 12.02831. 
+The test reconstruction loss is 0.3125
+
+Epoch: 214/1000, Loss: 2429.10207, Time: 30.5
+Recon Loss: 17429.31455. KL Loss: 474.17423. Height Loss: 2.92318. Waist Loss: 3.63799. Chest Loss: 3.02935. Hip Loss: 2.98724. Arm Loss: 3.73596. Crotch Loss: 2.22037. Head Loss: 4.05577. Laplacian Loss: 12.00337. 
+The test reconstruction loss is 0.3125
+
+Epoch: 215/1000, Loss: 2420.25670, Time: 30.5
+Recon Loss: 17457.12421. KL Loss: 474.31736. Height Loss: 2.92136. Waist Loss: 3.63360. Chest Loss: 3.02332. Hip Loss: 2.98244. Arm Loss: 3.73759. Crotch Loss: 2.22701. Head Loss: 4.05094. Laplacian Loss: 11.96046. 
+The test reconstruction loss is 0.3127
+
+Epoch: 216/1000, Loss: 2403.19627, Time: 30.5
+Recon Loss: 17420.85400. KL Loss: 473.40606. Height Loss: 2.92188. Waist Loss: 3.63401. Chest Loss: 3.02029. Hip Loss: 2.97512. Arm Loss: 3.72744. Crotch Loss: 2.22617. Head Loss: 4.04225. Laplacian Loss: 11.93502. 
+The test reconstruction loss is 0.3125
+
+Epoch: 217/1000, Loss: 2391.46598, Time: 30.5
+Recon Loss: 17426.17747. KL Loss: 474.66783. Height Loss: 2.89977. Waist Loss: 3.62476. Chest Loss: 3.00557. Hip Loss: 2.96561. Arm Loss: 3.69781. Crotch Loss: 2.21621. Head Loss: 4.03354. Laplacian Loss: 11.90738. 
+The test reconstruction loss is 0.3125
+
+Epoch: 218/1000, Loss: 2378.97166, Time: 30.5
+Recon Loss: 17423.12573. KL Loss: 475.11855. Height Loss: 2.90866. Waist Loss: 3.62551. Chest Loss: 3.00588. Hip Loss: 2.96012. Arm Loss: 3.70497. Crotch Loss: 2.21814. Head Loss: 4.02121. Laplacian Loss: 11.85294. 
+The test reconstruction loss is 0.3126
+
+Epoch: 219/1000, Loss: 2364.35379, Time: 30.5
+Recon Loss: 17401.91787. KL Loss: 474.65746. Height Loss: 2.91065. Waist Loss: 3.62858. Chest Loss: 3.00602. Hip Loss: 2.96208. Arm Loss: 3.71082. Crotch Loss: 2.21846. Head Loss: 4.01749. Laplacian Loss: 11.83237. 
+The test reconstruction loss is 0.3123
+
+Epoch: 220/1000, Loss: 2351.40568, Time: 30.6
+Recon Loss: 17394.47828. KL Loss: 475.31336. Height Loss: 2.89769. Waist Loss: 3.61821. Chest Loss: 2.99467. Hip Loss: 2.94669. Arm Loss: 3.69983. Crotch Loss: 2.21304. Head Loss: 4.01854. Laplacian Loss: 11.81775. 
+The test reconstruction loss is 0.3125
+
+Epoch: 221/1000, Loss: 2338.18399, Time: 30.4
+Recon Loss: 17385.60795. KL Loss: 474.48269. Height Loss: 2.88810. Waist Loss: 3.61791. Chest Loss: 2.99826. Hip Loss: 2.94380. Arm Loss: 3.68371. Crotch Loss: 2.21211. Head Loss: 4.00621. Laplacian Loss: 11.76515. 
+The test reconstruction loss is 0.3118
+
+Epoch: 222/1000, Loss: 2322.57867, Time: 30.6
+Recon Loss: 17356.04442. KL Loss: 473.10242. Height Loss: 2.88316. Waist Loss: 3.61596. Chest Loss: 2.98853. Hip Loss: 2.93425. Arm Loss: 3.67392. Crotch Loss: 2.21132. Head Loss: 3.99031. Laplacian Loss: 11.76003. 
+The test reconstruction loss is 0.3119
+
+Epoch: 223/1000, Loss: 2310.48361, Time: 30.6
+Recon Loss: 17354.05548. KL Loss: 472.88434. Height Loss: 2.87846. Waist Loss: 3.60366. Chest Loss: 2.98117. Hip Loss: 2.92858. Arm Loss: 3.66493. Crotch Loss: 2.20869. Head Loss: 3.97983. Laplacian Loss: 11.72296. 
+The test reconstruction loss is 0.3122
+
+Epoch: 224/1000, Loss: 2298.64836, Time: 30.5
+Recon Loss: 17353.50539. KL Loss: 472.57181. Height Loss: 2.87116. Waist Loss: 3.59606. Chest Loss: 2.97213. Hip Loss: 2.91687. Arm Loss: 3.64720. Crotch Loss: 2.20577. Head Loss: 3.97650. Laplacian Loss: 11.69955. 
+The test reconstruction loss is 0.3118
+
+Epoch: 225/1000, Loss: 2286.12515, Time: 30.5
+Recon Loss: 17345.16229. KL Loss: 473.90016. Height Loss: 2.86096. Waist Loss: 3.59308. Chest Loss: 2.96874. Hip Loss: 2.91302. Arm Loss: 3.64740. Crotch Loss: 2.20256. Head Loss: 3.95108. Laplacian Loss: 11.66756. 
+The test reconstruction loss is 0.3122
+
+Epoch: 226/1000, Loss: 2273.91006, Time: 30.5
+Recon Loss: 17340.09586. KL Loss: 472.72005. Height Loss: 2.86310. Waist Loss: 3.58761. Chest Loss: 2.95609. Hip Loss: 2.89863. Arm Loss: 3.64594. Crotch Loss: 2.20151. Head Loss: 3.95122. Laplacian Loss: 11.64185. 
+The test reconstruction loss is 0.3117
+
+Epoch: 227/1000, Loss: 2262.13046, Time: 30.6
+Recon Loss: 17336.30731. KL Loss: 472.69691. Height Loss: 2.85985. Waist Loss: 3.58548. Chest Loss: 2.95713. Hip Loss: 2.90254. Arm Loss: 3.63381. Crotch Loss: 2.20217. Head Loss: 3.95297. Laplacian Loss: 11.61924. 
+The test reconstruction loss is 0.3116
+
+Epoch: 228/1000, Loss: 2248.99501, Time: 30.6
+Recon Loss: 17321.81512. KL Loss: 472.31817. Height Loss: 2.85156. Waist Loss: 3.58110. Chest Loss: 2.95125. Hip Loss: 2.88907. Arm Loss: 3.62546. Crotch Loss: 2.20315. Head Loss: 3.94390. Laplacian Loss: 11.59747. 
+The test reconstruction loss is 0.3115
+
+Epoch: 229/1000, Loss: 2236.57457, Time: 30.5
+Recon Loss: 17311.71746. KL Loss: 471.30677. Height Loss: 2.85751. Waist Loss: 3.58438. Chest Loss: 2.94642. Hip Loss: 2.89052. Arm Loss: 3.62923. Crotch Loss: 2.20195. Head Loss: 3.94217. Laplacian Loss: 11.56838. 
+The test reconstruction loss is 0.3117
+
+Epoch: 230/1000, Loss: 2222.60174, Time: 30.6
+Recon Loss: 17289.88695. KL Loss: 470.41723. Height Loss: 2.84600. Waist Loss: 3.57441. Chest Loss: 2.93863. Hip Loss: 2.87736. Arm Loss: 3.60871. Crotch Loss: 2.19680. Head Loss: 3.92051. Laplacian Loss: 11.55675. 
+The test reconstruction loss is 0.3124
+
+Epoch: 231/1000, Loss: 2212.61607, Time: 30.5
+Recon Loss: 17300.33503. KL Loss: 470.37138. Height Loss: 2.83927. Waist Loss: 3.56558. Chest Loss: 2.93442. Hip Loss: 2.87117. Arm Loss: 3.59626. Crotch Loss: 2.19186. Head Loss: 3.89808. Laplacian Loss: 11.52156. 
+The test reconstruction loss is 0.3114
+
+Epoch: 232/1000, Loss: 2201.55040, Time: 30.5
+Recon Loss: 17298.97335. KL Loss: 470.23373. Height Loss: 2.83358. Waist Loss: 3.56178. Chest Loss: 2.92457. Hip Loss: 2.86453. Arm Loss: 3.59018. Crotch Loss: 2.19470. Head Loss: 3.91629. Laplacian Loss: 11.50718. 
+The test reconstruction loss is 0.3120
+
+Epoch: 233/1000, Loss: 2189.18385, Time: 30.4
+Recon Loss: 17288.59871. KL Loss: 470.13326. Height Loss: 2.81954. Waist Loss: 3.54850. Chest Loss: 2.91484. Hip Loss: 2.85223. Arm Loss: 3.57953. Crotch Loss: 2.18532. Head Loss: 3.88761. Laplacian Loss: 11.48403. 
+The test reconstruction loss is 0.3113
+
+Epoch: 234/1000, Loss: 2175.76499, Time: 30.5
+Recon Loss: 17266.37754. KL Loss: 469.19144. Height Loss: 2.81902. Waist Loss: 3.54951. Chest Loss: 2.91391. Hip Loss: 2.85348. Arm Loss: 3.57272. Crotch Loss: 2.18591. Head Loss: 3.88707. Laplacian Loss: 11.45989. 
+The test reconstruction loss is 0.3114
+
+Epoch: 235/1000, Loss: 2166.05181, Time: 30.5
+Recon Loss: 17276.33916. KL Loss: 468.19099. Height Loss: 2.81945. Waist Loss: 3.54702. Chest Loss: 2.90869. Hip Loss: 2.84557. Arm Loss: 3.56858. Crotch Loss: 2.18803. Head Loss: 3.87906. Laplacian Loss: 11.42372. 
+The test reconstruction loss is 0.3111
+
+Epoch: 236/1000, Loss: 2153.93637, Time: 30.6
+Recon Loss: 17262.87465. KL Loss: 467.98548. Height Loss: 2.82301. Waist Loss: 3.55161. Chest Loss: 2.91317. Hip Loss: 2.84817. Arm Loss: 3.56807. Crotch Loss: 2.18594. Head Loss: 3.86849. Laplacian Loss: 11.40790. 
+The test reconstruction loss is 0.3114
+
+Epoch: 237/1000, Loss: 2143.00329, Time: 30.6
+Recon Loss: 17259.71242. KL Loss: 467.63677. Height Loss: 2.81453. Waist Loss: 3.54549. Chest Loss: 2.90619. Hip Loss: 2.84258. Arm Loss: 3.56701. Crotch Loss: 2.18650. Head Loss: 3.86920. Laplacian Loss: 11.39805. 
+The test reconstruction loss is 0.3113
+
+Epoch: 238/1000, Loss: 2133.96259, Time: 30.5
+Recon Loss: 17271.09269. KL Loss: 469.30186. Height Loss: 2.81043. Waist Loss: 3.54468. Chest Loss: 2.89687. Hip Loss: 2.84578. Arm Loss: 3.56072. Crotch Loss: 2.18896. Head Loss: 3.86541. Laplacian Loss: 11.37771. 
+The test reconstruction loss is 0.3110
+
+Epoch: 239/1000, Loss: 2121.38856, Time: 30.5
+Recon Loss: 17250.90009. KL Loss: 471.05026. Height Loss: 2.80448. Waist Loss: 3.53364. Chest Loss: 2.89892. Hip Loss: 2.84005. Arm Loss: 3.55719. Crotch Loss: 2.18368. Head Loss: 3.85456. Laplacian Loss: 11.36895. 
+The test reconstruction loss is 0.3110
+
+Epoch: 240/1000, Loss: 2107.64836, Time: 30.5
+Recon Loss: 17223.61178. KL Loss: 468.09996. Height Loss: 2.80135. Waist Loss: 3.53521. Chest Loss: 2.89089. Hip Loss: 2.82668. Arm Loss: 3.54811. Crotch Loss: 2.17885. Head Loss: 3.85211. Laplacian Loss: 11.35281. 
+The test reconstruction loss is 0.3108
+
+Epoch: 241/1000, Loss: 2098.47416, Time: 30.5
+Recon Loss: 17235.52751. KL Loss: 467.33335. Height Loss: 2.79162. Waist Loss: 3.52280. Chest Loss: 2.88150. Hip Loss: 2.82085. Arm Loss: 3.53144. Crotch Loss: 2.17817. Head Loss: 3.83237. Laplacian Loss: 11.33025. 
+The test reconstruction loss is 0.3111
+
+Epoch: 242/1000, Loss: 2085.36559, Time: 30.5
+Recon Loss: 17210.14772. KL Loss: 466.18329. Height Loss: 2.79338. Waist Loss: 3.52069. Chest Loss: 2.87849. Hip Loss: 2.81226. Arm Loss: 3.52611. Crotch Loss: 2.17277. Head Loss: 3.83744. Laplacian Loss: 11.31266. 
+The test reconstruction loss is 0.3108
+
+Epoch: 243/1000, Loss: 2075.59933, Time: 30.6
+Recon Loss: 17213.89083. KL Loss: 466.28756. Height Loss: 2.78582. Waist Loss: 3.51645. Chest Loss: 2.86694. Hip Loss: 2.80715. Arm Loss: 3.51354. Crotch Loss: 2.17323. Head Loss: 3.83081. Laplacian Loss: 11.29402. 
+The test reconstruction loss is 0.3110
+
+Epoch: 244/1000, Loss: 2065.04704, Time: 30.6
+Recon Loss: 17209.83499. KL Loss: 466.46869. Height Loss: 2.78397. Waist Loss: 3.51080. Chest Loss: 2.86587. Hip Loss: 2.80169. Arm Loss: 3.50565. Crotch Loss: 2.16815. Head Loss: 3.81614. Laplacian Loss: 11.26882. 
+The test reconstruction loss is 0.3107
+
+Epoch: 245/1000, Loss: 2055.10560, Time: 30.5
+Recon Loss: 17210.63958. KL Loss: 466.15337. Height Loss: 2.77816. Waist Loss: 3.50542. Chest Loss: 2.86013. Hip Loss: 2.79544. Arm Loss: 3.50207. Crotch Loss: 2.16666. Head Loss: 3.80566. Laplacian Loss: 11.25843. 
+The test reconstruction loss is 0.3109
+
+Epoch: 246/1000, Loss: 2045.96675, Time: 30.6
+Recon Loss: 17217.42743. KL Loss: 465.68637. Height Loss: 2.78892. Waist Loss: 3.50639. Chest Loss: 2.86576. Hip Loss: 2.79370. Arm Loss: 3.50244. Crotch Loss: 2.16927. Head Loss: 3.79686. Laplacian Loss: 11.22887. 
+The test reconstruction loss is 0.3108
+
+Epoch: 247/1000, Loss: 2034.27420, Time: 30.6
+Recon Loss: 17199.88808. KL Loss: 465.19256. Height Loss: 2.78345. Waist Loss: 3.50847. Chest Loss: 2.86250. Hip Loss: 2.79494. Arm Loss: 3.50557. Crotch Loss: 2.16870. Head Loss: 3.81368. Laplacian Loss: 11.21169. 
+The test reconstruction loss is 0.3108
+
+Epoch: 248/1000, Loss: 2023.62113, Time: 30.6
+Recon Loss: 17193.05332. KL Loss: 464.54395. Height Loss: 2.78080. Waist Loss: 3.50190. Chest Loss: 2.85094. Hip Loss: 2.78920. Arm Loss: 3.49593. Crotch Loss: 2.16394. Head Loss: 3.79700. Laplacian Loss: 11.20150. 
+The test reconstruction loss is 0.3106
+
+Epoch: 249/1000, Loss: 2013.14910, Time: 30.6
+Recon Loss: 17185.50987. KL Loss: 464.69559. Height Loss: 2.77037. Waist Loss: 3.49916. Chest Loss: 2.84649. Hip Loss: 2.78550. Arm Loss: 3.49203. Crotch Loss: 2.16059. Head Loss: 3.80406. Laplacian Loss: 11.19403. 
+The test reconstruction loss is 0.3109
+
+Epoch: 250/1000, Loss: 2002.22585, Time: 30.6
+Recon Loss: 17174.99744. KL Loss: 464.53822. Height Loss: 2.76506. Waist Loss: 3.49185. Chest Loss: 2.83792. Hip Loss: 2.77635. Arm Loss: 3.48361. Crotch Loss: 2.16045. Head Loss: 3.77770. Laplacian Loss: 11.16988. 
+The test reconstruction loss is 0.3109
+
+Epoch: 251/1000, Loss: 1990.84469, Time: 30.5
+Recon Loss: 17158.64703. KL Loss: 463.75182. Height Loss: 2.75816. Waist Loss: 3.49162. Chest Loss: 2.83315. Hip Loss: 2.76891. Arm Loss: 3.47386. Crotch Loss: 2.15641. Head Loss: 3.77752. Laplacian Loss: 11.16132. 
+The test reconstruction loss is 0.3107
+
+Epoch: 252/1000, Loss: 1981.62992, Time: 30.5
+Recon Loss: 17162.65635. KL Loss: 462.98981. Height Loss: 2.75233. Waist Loss: 3.48499. Chest Loss: 2.82758. Hip Loss: 2.76563. Arm Loss: 3.46070. Crotch Loss: 2.15529. Head Loss: 3.76660. Laplacian Loss: 11.14031. 
+The test reconstruction loss is 0.3106
+
+Epoch: 253/1000, Loss: 1974.45737, Time: 30.6
+Recon Loss: 17182.65817. KL Loss: 464.35951. Height Loss: 2.74882. Waist Loss: 3.48084. Chest Loss: 2.82224. Hip Loss: 2.76819. Arm Loss: 3.46472. Crotch Loss: 2.15650. Head Loss: 3.76533. Laplacian Loss: 11.11290. 
+The test reconstruction loss is 0.3103
+
+Epoch: 254/1000, Loss: 1961.51830, Time: 30.6
+Recon Loss: 17149.22257. KL Loss: 464.05088. Height Loss: 2.74342. Waist Loss: 3.47559. Chest Loss: 2.81418. Hip Loss: 2.75794. Arm Loss: 3.45437. Crotch Loss: 2.15085. Head Loss: 3.75808. Laplacian Loss: 11.11906. 
+The test reconstruction loss is 0.3103
+
+Epoch: 255/1000, Loss: 1951.73463, Time: 30.6
+Recon Loss: 17146.79683. KL Loss: 462.50237. Height Loss: 2.73883. Waist Loss: 3.47390. Chest Loss: 2.81532. Hip Loss: 2.75141. Arm Loss: 3.44279. Crotch Loss: 2.14399. Head Loss: 3.74284. Laplacian Loss: 11.09382. 
+The test reconstruction loss is 0.3104
+
+Epoch: 256/1000, Loss: 1941.37826, Time: 30.6
+Recon Loss: 17136.61710. KL Loss: 461.34874. Height Loss: 2.74095. Waist Loss: 3.46817. Chest Loss: 2.80703. Hip Loss: 2.74784. Arm Loss: 3.44207. Crotch Loss: 2.14819. Head Loss: 3.73850. Laplacian Loss: 11.07922. 
+The test reconstruction loss is 0.3102
+
+Epoch: 257/1000, Loss: 1930.88509, Time: 30.4
+Recon Loss: 17125.61346. KL Loss: 460.18301. Height Loss: 2.73171. Waist Loss: 3.46075. Chest Loss: 2.79590. Hip Loss: 2.73989. Arm Loss: 3.43078. Crotch Loss: 2.14335. Head Loss: 3.72768. Laplacian Loss: 11.07452. 
+The test reconstruction loss is 0.3105
+
+Epoch: 258/1000, Loss: 1924.17675, Time: 30.5
+Recon Loss: 17150.07353. KL Loss: 460.11019. Height Loss: 2.71903. Waist Loss: 3.45809. Chest Loss: 2.79468. Hip Loss: 2.73707. Arm Loss: 3.41929. Crotch Loss: 2.13763. Head Loss: 3.71965. Laplacian Loss: 11.03661. 
+The test reconstruction loss is 0.3104
+
+Epoch: 259/1000, Loss: 1914.20286, Time: 30.5
+Recon Loss: 17140.59393. KL Loss: 460.54123. Height Loss: 2.72158. Waist Loss: 3.45512. Chest Loss: 2.78850. Hip Loss: 2.73201. Arm Loss: 3.42000. Crotch Loss: 2.13731. Head Loss: 3.70564. Laplacian Loss: 11.02607. 
+The test reconstruction loss is 0.3102
+
+Epoch: 260/1000, Loss: 1904.39107, Time: 30.5
+Recon Loss: 17130.44383. KL Loss: 460.43880. Height Loss: 2.73226. Waist Loss: 3.45646. Chest Loss: 2.79647. Hip Loss: 2.74136. Arm Loss: 3.42710. Crotch Loss: 2.14465. Head Loss: 3.70087. Laplacian Loss: 11.01890. 
+The test reconstruction loss is 0.3106
+
+Epoch: 261/1000, Loss: 1893.12186, Time: 30.5
+Recon Loss: 17109.49447. KL Loss: 459.58982. Height Loss: 2.71212. Waist Loss: 3.44832. Chest Loss: 2.78343. Hip Loss: 2.72742. Arm Loss: 3.40647. Crotch Loss: 2.13628. Head Loss: 3.70440. Laplacian Loss: 11.01478. 
+The test reconstruction loss is 0.3100
+
+Epoch: 262/1000, Loss: 1884.79633, Time: 30.6
+Recon Loss: 17115.82687. KL Loss: 458.49871. Height Loss: 2.71021. Waist Loss: 3.44890. Chest Loss: 2.78181. Hip Loss: 2.72051. Arm Loss: 3.40440. Crotch Loss: 2.13405. Head Loss: 3.70052. Laplacian Loss: 10.98547. 
+The test reconstruction loss is 0.3103
+
+Epoch: 263/1000, Loss: 1874.56417, Time: 30.5
+Recon Loss: 17102.37517. KL Loss: 457.56131. Height Loss: 2.70482. Waist Loss: 3.44457. Chest Loss: 2.77578. Hip Loss: 2.71549. Arm Loss: 3.39215. Crotch Loss: 2.13638. Head Loss: 3.70436. Laplacian Loss: 10.97192. 
+The test reconstruction loss is 0.3102
+
+Epoch: 264/1000, Loss: 1867.82880, Time: 30.5
+Recon Loss: 17122.23475. KL Loss: 458.03186. Height Loss: 2.71186. Waist Loss: 3.43821. Chest Loss: 2.77366. Hip Loss: 2.71147. Arm Loss: 3.39596. Crotch Loss: 2.13386. Head Loss: 3.67308. Laplacian Loss: 10.95323. 
+The test reconstruction loss is 0.3103
+
+Epoch: 265/1000, Loss: 1856.50014, Time: 30.6
+Recon Loss: 17095.46883. KL Loss: 457.02110. Height Loss: 2.71120. Waist Loss: 3.43531. Chest Loss: 2.76999. Hip Loss: 2.71560. Arm Loss: 3.39398. Crotch Loss: 2.13129. Head Loss: 3.68808. Laplacian Loss: 10.94531. 
+The test reconstruction loss is 0.3100
+
+Epoch: 266/1000, Loss: 1846.97897, Time: 30.6
+Recon Loss: 17088.76496. KL Loss: 456.22129. Height Loss: 2.69397. Waist Loss: 3.42857. Chest Loss: 2.75713. Hip Loss: 2.70269. Arm Loss: 3.37967. Crotch Loss: 2.12719. Head Loss: 3.66533. Laplacian Loss: 10.93597. 
+The test reconstruction loss is 0.3098
+
+Epoch: 267/1000, Loss: 1838.41349, Time: 30.5
+Recon Loss: 17089.44359. KL Loss: 455.73841. Height Loss: 2.69126. Waist Loss: 3.42551. Chest Loss: 2.75163. Hip Loss: 2.69615. Arm Loss: 3.36857. Crotch Loss: 2.12295. Head Loss: 3.66391. Laplacian Loss: 10.91683. 
+The test reconstruction loss is 0.3106
+
+Epoch: 268/1000, Loss: 1830.58805, Time: 30.4
+Recon Loss: 17095.65536. KL Loss: 455.19207. Height Loss: 2.69356. Waist Loss: 3.42983. Chest Loss: 2.75535. Hip Loss: 2.69950. Arm Loss: 3.37470. Crotch Loss: 2.12222. Head Loss: 3.67342. Laplacian Loss: 10.88684. 
+The test reconstruction loss is 0.3103
+
+Epoch: 269/1000, Loss: 1821.51774, Time: 30.5
+Recon Loss: 17090.20201. KL Loss: 455.14848. Height Loss: 2.68348. Waist Loss: 3.42064. Chest Loss: 2.74865. Hip Loss: 2.69571. Arm Loss: 3.36296. Crotch Loss: 2.12055. Head Loss: 3.64907. Laplacian Loss: 10.88376. 
+The test reconstruction loss is 0.3105
+
+Epoch: 270/1000, Loss: 1813.41379, Time: 30.5
+Recon Loss: 17093.06661. KL Loss: 455.36614. Height Loss: 2.68466. Waist Loss: 3.41527. Chest Loss: 2.74128. Hip Loss: 2.68785. Arm Loss: 3.35453. Crotch Loss: 2.11419. Head Loss: 3.64779. Laplacian Loss: 10.87718. 
+The test reconstruction loss is 0.3102
+
+Epoch: 271/1000, Loss: 1804.29054, Time: 30.5
+Recon Loss: 17085.03899. KL Loss: 455.09972. Height Loss: 2.68046. Waist Loss: 3.41204. Chest Loss: 2.74199. Hip Loss: 2.68700. Arm Loss: 3.34713. Crotch Loss: 2.11989. Head Loss: 3.64069. Laplacian Loss: 10.85737. 
+The test reconstruction loss is 0.3103
+
+Epoch: 272/1000, Loss: 1794.34729, Time: 30.5
+Recon Loss: 17068.21539. KL Loss: 455.01629. Height Loss: 2.67792. Waist Loss: 3.40863. Chest Loss: 2.72958. Hip Loss: 2.67576. Arm Loss: 3.34211. Crotch Loss: 2.11281. Head Loss: 3.63172. Laplacian Loss: 10.85789. 
+The test reconstruction loss is 0.3100
+
+Epoch: 273/1000, Loss: 1786.42044, Time: 30.6
+Recon Loss: 17072.29818. KL Loss: 454.79997. Height Loss: 2.67239. Waist Loss: 3.40206. Chest Loss: 2.72477. Hip Loss: 2.67117. Arm Loss: 3.33018. Crotch Loss: 2.11404. Head Loss: 3.62027. Laplacian Loss: 10.83151. 
+The test reconstruction loss is 0.3101
+
+Epoch: 274/1000, Loss: 1780.50834, Time: 30.7
+Recon Loss: 17093.27022. KL Loss: 456.89929. Height Loss: 2.66674. Waist Loss: 3.40204. Chest Loss: 2.72255. Hip Loss: 2.67970. Arm Loss: 3.33487. Crotch Loss: 2.11201. Head Loss: 3.62153. Laplacian Loss: 10.81476. 
+The test reconstruction loss is 0.3098
+
+Epoch: 275/1000, Loss: 1769.32451, Time: 30.4
+Recon Loss: 17059.29895. KL Loss: 458.41709. Height Loss: 2.66388. Waist Loss: 3.39286. Chest Loss: 2.71695. Hip Loss: 2.67930. Arm Loss: 3.32865. Crotch Loss: 2.10787. Head Loss: 3.62781. Laplacian Loss: 10.81867. 
+The test reconstruction loss is 0.3097
+
+Epoch: 276/1000, Loss: 1759.38179, Time: 30.4
+Recon Loss: 17041.31145. KL Loss: 456.57118. Height Loss: 2.66439. Waist Loss: 3.39045. Chest Loss: 2.71504. Hip Loss: 2.66767. Arm Loss: 3.32399. Crotch Loss: 2.10806. Head Loss: 3.60807. Laplacian Loss: 10.80456. 
+The test reconstruction loss is 0.3102
+
+Epoch: 277/1000, Loss: 1751.89404, Time: 30.6
+Recon Loss: 17049.06769. KL Loss: 455.10953. Height Loss: 2.64887. Waist Loss: 3.38617. Chest Loss: 2.70777. Hip Loss: 2.66363. Arm Loss: 3.31089. Crotch Loss: 2.09874. Head Loss: 3.60092. Laplacian Loss: 10.78625. 
+The test reconstruction loss is 0.3100
+
+Epoch: 278/1000, Loss: 1743.21981, Time: 30.5
+Recon Loss: 17042.11715. KL Loss: 454.99463. Height Loss: 2.64640. Waist Loss: 3.37865. Chest Loss: 2.70395. Hip Loss: 2.65750. Arm Loss: 3.29848. Crotch Loss: 2.09601. Head Loss: 3.57783. Laplacian Loss: 10.77921. 
+The test reconstruction loss is 0.3095
+
+Epoch: 279/1000, Loss: 1734.60678, Time: 30.5
+Recon Loss: 17034.89444. KL Loss: 454.35220. Height Loss: 2.64004. Waist Loss: 3.37546. Chest Loss: 2.69842. Hip Loss: 2.64789. Arm Loss: 3.29713. Crotch Loss: 2.09479. Head Loss: 3.57814. Laplacian Loss: 10.76521. 
+The test reconstruction loss is 0.3096
+
+Epoch: 280/1000, Loss: 1726.77469, Time: 30.5
+Recon Loss: 17035.42712. KL Loss: 454.48008. Height Loss: 2.63016. Waist Loss: 3.36661. Chest Loss: 2.69025. Hip Loss: 2.64444. Arm Loss: 3.28859. Crotch Loss: 2.09276. Head Loss: 3.57745. Laplacian Loss: 10.74637. 
+The test reconstruction loss is 0.3095
+
+Epoch: 281/1000, Loss: 1719.99870, Time: 30.6
+Recon Loss: 17046.22275. KL Loss: 453.70351. Height Loss: 2.63440. Waist Loss: 3.36717. Chest Loss: 2.69373. Hip Loss: 2.64656. Arm Loss: 3.27984. Crotch Loss: 2.09264. Head Loss: 3.57778. Laplacian Loss: 10.73033. 
+The test reconstruction loss is 0.3096
+
+Epoch: 282/1000, Loss: 1722.02244, Time: 30.5
+Recon Loss: 17144.97418. KL Loss: 459.13910. Height Loss: 2.63643. Waist Loss: 3.37452. Chest Loss: 2.69250. Hip Loss: 2.66070. Arm Loss: 3.30419. Crotch Loss: 2.09895. Head Loss: 3.57299. Laplacian Loss: 10.73126. 
+The test reconstruction loss is 0.3101
+
+Epoch: 283/1000, Loss: 1704.76688, Time: 30.4
+Recon Loss: 17039.24542. KL Loss: 462.27546. Height Loss: 2.62586. Waist Loss: 3.35538. Chest Loss: 2.68661. Hip Loss: 2.65710. Arm Loss: 3.29671. Crotch Loss: 2.08892. Head Loss: 3.57610. Laplacian Loss: 10.73528. 
+The test reconstruction loss is 0.3095
+
+Epoch: 284/1000, Loss: 1694.08229, Time: 30.5
+Recon Loss: 17010.96196. KL Loss: 458.16501. Height Loss: 2.61772. Waist Loss: 3.35542. Chest Loss: 2.68281. Hip Loss: 2.63969. Arm Loss: 3.27576. Crotch Loss: 2.08163. Head Loss: 3.55817. Laplacian Loss: 10.72228. 
+The test reconstruction loss is 0.3101
+
+Epoch: 285/1000, Loss: 1686.39770, Time: 30.6
+Recon Loss: 17012.98278. KL Loss: 455.77983. Height Loss: 2.61495. Waist Loss: 3.35143. Chest Loss: 2.67822. Hip Loss: 2.62756. Arm Loss: 3.26083. Crotch Loss: 2.07881. Head Loss: 3.54522. Laplacian Loss: 10.69642. 
+The test reconstruction loss is 0.3095
+
+Epoch: 286/1000, Loss: 1678.99169, Time: 30.6
+Recon Loss: 17015.30241. KL Loss: 453.62630. Height Loss: 2.61456. Waist Loss: 3.35246. Chest Loss: 2.67595. Hip Loss: 2.63001. Arm Loss: 3.26985. Crotch Loss: 2.07668. Head Loss: 3.55782. Laplacian Loss: 10.66489. 
+The test reconstruction loss is 0.3094
+
+Epoch: 287/1000, Loss: 1670.14392, Time: 30.6
+Recon Loss: 17001.73885. KL Loss: 452.27474. Height Loss: 2.60750. Waist Loss: 3.34806. Chest Loss: 2.67354. Hip Loss: 2.62659. Arm Loss: 3.25394. Crotch Loss: 2.07506. Head Loss: 3.53713. Laplacian Loss: 10.66500. 
+The test reconstruction loss is 0.3096
+
+Epoch: 288/1000, Loss: 1662.81085, Time: 30.5
+Recon Loss: 17003.74508. KL Loss: 451.27881. Height Loss: 2.60824. Waist Loss: 3.33946. Chest Loss: 2.66779. Hip Loss: 2.61709. Arm Loss: 3.24968. Crotch Loss: 2.07748. Head Loss: 3.53037. Laplacian Loss: 10.65091. 
+The test reconstruction loss is 0.3098
+
+Epoch: 289/1000, Loss: 1656.60946, Time: 30.6
+Recon Loss: 17015.99612. KL Loss: 451.55730. Height Loss: 2.60762. Waist Loss: 3.34081. Chest Loss: 2.66659. Hip Loss: 2.61921. Arm Loss: 3.24916. Crotch Loss: 2.07447. Head Loss: 3.53621. Laplacian Loss: 10.63188. 
+The test reconstruction loss is 0.3096
+
+Epoch: 290/1000, Loss: 1648.23043, Time: 30.6
+Recon Loss: 17004.23454. KL Loss: 451.91487. Height Loss: 2.59995. Waist Loss: 3.33429. Chest Loss: 2.66188. Hip Loss: 2.61394. Arm Loss: 3.24108. Crotch Loss: 2.07345. Head Loss: 3.52023. Laplacian Loss: 10.63226. 
+The test reconstruction loss is 0.3094
+
+Epoch: 291/1000, Loss: 1639.96924, Time: 30.5
+Recon Loss: 16993.59062. KL Loss: 451.36580. Height Loss: 2.60438. Waist Loss: 3.33032. Chest Loss: 2.65669. Hip Loss: 2.60944. Arm Loss: 3.23707. Crotch Loss: 2.07314. Head Loss: 3.51344. Laplacian Loss: 10.61664. 
+The test reconstruction loss is 0.3098
+
+Epoch: 292/1000, Loss: 1633.22683, Time: 30.6
+Recon Loss: 17000.69101. KL Loss: 451.12437. Height Loss: 2.58781. Waist Loss: 3.32356. Chest Loss: 2.65022. Hip Loss: 2.60336. Arm Loss: 3.22778. Crotch Loss: 2.06647. Head Loss: 3.50384. Laplacian Loss: 10.59632. 
+The test reconstruction loss is 0.3093
+
+Epoch: 293/1000, Loss: 1625.06011, Time: 30.6
+Recon Loss: 16988.51401. KL Loss: 451.16781. Height Loss: 2.59275. Waist Loss: 3.32536. Chest Loss: 2.65085. Hip Loss: 2.60496. Arm Loss: 3.22548. Crotch Loss: 2.06549. Head Loss: 3.50432. Laplacian Loss: 10.58679. 
+The test reconstruction loss is 0.3100
+
+Epoch: 294/1000, Loss: 1617.86569, Time: 30.6
+Recon Loss: 16987.40123. KL Loss: 451.29683. Height Loss: 2.59221. Waist Loss: 3.31661. Chest Loss: 2.64543. Hip Loss: 2.59993. Arm Loss: 3.22457. Crotch Loss: 2.06939. Head Loss: 3.50418. Laplacian Loss: 10.57632. 
+The test reconstruction loss is 0.3093
+
+Epoch: 295/1000, Loss: 1610.01299, Time: 30.5
+Recon Loss: 16979.80780. KL Loss: 450.52242. Height Loss: 2.58715. Waist Loss: 3.31369. Chest Loss: 2.63897. Hip Loss: 2.59514. Arm Loss: 3.21169. Crotch Loss: 2.06030. Head Loss: 3.50674. Laplacian Loss: 10.56359. 
+The test reconstruction loss is 0.3091
+
+Epoch: 296/1000, Loss: 1602.53288, Time: 30.5
+Recon Loss: 16975.29763. KL Loss: 449.19084. Height Loss: 2.58632. Waist Loss: 3.31532. Chest Loss: 2.63911. Hip Loss: 2.59441. Arm Loss: 3.21451. Crotch Loss: 2.06552. Head Loss: 3.49825. Laplacian Loss: 10.54736. 
+The test reconstruction loss is 0.3092
+
+Epoch: 297/1000, Loss: 1595.05404, Time: 30.6
+Recon Loss: 16970.94942. KL Loss: 448.28303. Height Loss: 2.58192. Waist Loss: 3.30964. Chest Loss: 2.63467. Hip Loss: 2.58797. Arm Loss: 3.20642. Crotch Loss: 2.06312. Head Loss: 3.48391. Laplacian Loss: 10.53991. 
+The test reconstruction loss is 0.3093
+
+Epoch: 298/1000, Loss: 1589.40885, Time: 30.6
+Recon Loss: 16986.84197. KL Loss: 447.90854. Height Loss: 2.57419. Waist Loss: 3.30438. Chest Loss: 2.63305. Hip Loss: 2.59009. Arm Loss: 3.20414. Crotch Loss: 2.06185. Head Loss: 3.47363. Laplacian Loss: 10.51603. 
+The test reconstruction loss is 0.3101
+
+Epoch: 299/1000, Loss: 1582.74678, Time: 30.7
+Recon Loss: 16989.30156. KL Loss: 448.43573. Height Loss: 2.57421. Waist Loss: 3.29935. Chest Loss: 2.62536. Hip Loss: 2.58275. Arm Loss: 3.19543. Crotch Loss: 2.05707. Head Loss: 3.47638. Laplacian Loss: 10.51378. 
+The test reconstruction loss is 0.3091
+
+Epoch: 300/1000, Loss: 1573.70051, Time: 30.5
+Recon Loss: 16963.86977. KL Loss: 447.62375. Height Loss: 2.57279. Waist Loss: 3.29786. Chest Loss: 2.62263. Hip Loss: 2.58026. Arm Loss: 3.19510. Crotch Loss: 2.05659. Head Loss: 3.48534. Laplacian Loss: 10.49828. 
+The test reconstruction loss is 0.3095
+
+Epoch: 301/1000, Loss: 1568.53196, Time: 30.6
+Recon Loss: 16984.05019. KL Loss: 447.91708. Height Loss: 2.56010. Waist Loss: 3.28857. Chest Loss: 2.61863. Hip Loss: 2.57515. Arm Loss: 3.18261. Crotch Loss: 2.05122. Head Loss: 3.46705. Laplacian Loss: 10.49719. 
+The test reconstruction loss is 0.3102
+
+Epoch: 302/1000, Loss: 1559.79961, Time: 30.6
+Recon Loss: 16961.49873. KL Loss: 448.42496. Height Loss: 2.55408. Waist Loss: 3.27904. Chest Loss: 2.60919. Hip Loss: 2.56881. Arm Loss: 3.17518. Crotch Loss: 2.04959. Head Loss: 3.45083. Laplacian Loss: 10.48517. 
+The test reconstruction loss is 0.3095
+
+Epoch: 303/1000, Loss: 1553.48983, Time: 30.6
+Recon Loss: 16966.87655. KL Loss: 447.97470. Height Loss: 2.55417. Waist Loss: 3.28014. Chest Loss: 2.60736. Hip Loss: 2.56749. Arm Loss: 3.16512. Crotch Loss: 2.04420. Head Loss: 3.44879. Laplacian Loss: 10.46986. 
+The test reconstruction loss is 0.3093
+
+Epoch: 304/1000, Loss: 1546.08347, Time: 30.5
+Recon Loss: 16957.33452. KL Loss: 448.13492. Height Loss: 2.55485. Waist Loss: 3.27590. Chest Loss: 2.60688. Hip Loss: 2.56476. Arm Loss: 3.16935. Crotch Loss: 2.04455. Head Loss: 3.45427. Laplacian Loss: 10.46029. 
+The test reconstruction loss is 0.3096
+
+Epoch: 305/1000, Loss: 1538.53844, Time: 30.5
+Recon Loss: 16947.63713. KL Loss: 447.81675. Height Loss: 2.54376. Waist Loss: 3.26936. Chest Loss: 2.59756. Hip Loss: 2.55545. Arm Loss: 3.16190. Crotch Loss: 2.04427. Head Loss: 3.43962. Laplacian Loss: 10.45560. 
+The test reconstruction loss is 0.3089
+
+Epoch: 306/1000, Loss: 1531.95979, Time: 30.6
+Recon Loss: 16948.24312. KL Loss: 447.26581. Height Loss: 2.54263. Waist Loss: 3.26433. Chest Loss: 2.59980. Hip Loss: 2.55567. Arm Loss: 3.15693. Crotch Loss: 2.04306. Head Loss: 3.43274. Laplacian Loss: 10.44028. 
+The test reconstruction loss is 0.3092
+
+Epoch: 307/1000, Loss: 1525.09153, Time: 30.6
+Recon Loss: 16944.62262. KL Loss: 446.68289. Height Loss: 2.54165. Waist Loss: 3.26649. Chest Loss: 2.59656. Hip Loss: 2.55609. Arm Loss: 3.15429. Crotch Loss: 2.04129. Head Loss: 3.43187. Laplacian Loss: 10.42467. 
+The test reconstruction loss is 0.3090
+
+Epoch: 308/1000, Loss: 1517.59690, Time: 30.5
+Recon Loss: 16932.74315. KL Loss: 446.13187. Height Loss: 2.53683. Waist Loss: 3.26366. Chest Loss: 2.58870. Hip Loss: 2.55314. Arm Loss: 3.14968. Crotch Loss: 2.03959. Head Loss: 3.44405. Laplacian Loss: 10.41716. 
+The test reconstruction loss is 0.3092
+
+Epoch: 309/1000, Loss: 1512.04305, Time: 30.6
+Recon Loss: 16945.19969. KL Loss: 446.05622. Height Loss: 2.52845. Waist Loss: 3.25866. Chest Loss: 2.58593. Hip Loss: 2.54770. Arm Loss: 3.14094. Crotch Loss: 2.03112. Head Loss: 3.42116. Laplacian Loss: 10.40408. 
+The test reconstruction loss is 0.3098
+
+Epoch: 310/1000, Loss: 1504.86317, Time: 30.6
+Recon Loss: 16934.95218. KL Loss: 446.28151. Height Loss: 2.53512. Waist Loss: 3.25425. Chest Loss: 2.58522. Hip Loss: 2.54426. Arm Loss: 3.14200. Crotch Loss: 2.03830. Head Loss: 3.41755. Laplacian Loss: 10.39734. 
+The test reconstruction loss is 0.3091
+
+Epoch: 311/1000, Loss: 1498.72085, Time: 30.6
+Recon Loss: 16940.34503. KL Loss: 445.09199. Height Loss: 2.52414. Waist Loss: 3.24895. Chest Loss: 2.58131. Hip Loss: 2.54022. Arm Loss: 3.13128. Crotch Loss: 2.03135. Head Loss: 3.40495. Laplacian Loss: 10.37455. 
+The test reconstruction loss is 0.3095
+
+Epoch: 312/1000, Loss: 1492.60308, Time: 30.6
+Recon Loss: 16942.09844. KL Loss: 445.36734. Height Loss: 2.52925. Waist Loss: 3.24395. Chest Loss: 2.58351. Hip Loss: 2.54016. Arm Loss: 3.13396. Crotch Loss: 2.02743. Head Loss: 3.40249. Laplacian Loss: 10.37316. 
+The test reconstruction loss is 0.3096
+
+Epoch: 313/1000, Loss: 1485.78279, Time: 30.5
+Recon Loss: 16936.37107. KL Loss: 445.36281. Height Loss: 2.52217. Waist Loss: 3.23713. Chest Loss: 2.57613. Hip Loss: 2.52965. Arm Loss: 3.12777. Crotch Loss: 2.03136. Head Loss: 3.40150. Laplacian Loss: 10.35829. 
+The test reconstruction loss is 0.3089
+
+Epoch: 314/1000, Loss: 1478.24081, Time: 30.6
+Recon Loss: 16920.68371. KL Loss: 444.86037. Height Loss: 2.51702. Waist Loss: 3.23722. Chest Loss: 2.57193. Hip Loss: 2.53125. Arm Loss: 3.11903. Crotch Loss: 2.02741. Head Loss: 3.40289. Laplacian Loss: 10.35451. 
+The test reconstruction loss is 0.3088
+
+Epoch: 315/1000, Loss: 1472.83270, Time: 30.6
+Recon Loss: 16931.03927. KL Loss: 444.34726. Height Loss: 2.52314. Waist Loss: 3.23282. Chest Loss: 2.57309. Hip Loss: 2.52996. Arm Loss: 3.11930. Crotch Loss: 2.02454. Head Loss: 3.40218. Laplacian Loss: 10.33602. 
+The test reconstruction loss is 0.3088
+
+Epoch: 316/1000, Loss: 1465.03269, Time: 30.6
+Recon Loss: 16911.38108. KL Loss: 443.60832. Height Loss: 2.51400. Waist Loss: 3.22921. Chest Loss: 2.56976. Hip Loss: 2.52576. Arm Loss: 3.11314. Crotch Loss: 2.02612. Head Loss: 3.39886. Laplacian Loss: 10.33383. 
+The test reconstruction loss is 0.3089
+
+Epoch: 317/1000, Loss: 1458.69888, Time: 30.5
+Recon Loss: 16910.50903. KL Loss: 442.71308. Height Loss: 2.50966. Waist Loss: 3.22432. Chest Loss: 2.56421. Hip Loss: 2.52080. Arm Loss: 3.10152. Crotch Loss: 2.01952. Head Loss: 3.39345. Laplacian Loss: 10.32052. 
+The test reconstruction loss is 0.3095
+
+Epoch: 318/1000, Loss: 1452.22188, Time: 30.6
+Recon Loss: 16905.98546. KL Loss: 442.78339. Height Loss: 2.50947. Waist Loss: 3.21938. Chest Loss: 2.55975. Hip Loss: 2.51450. Arm Loss: 3.09848. Crotch Loss: 2.02419. Head Loss: 3.37497. Laplacian Loss: 10.31052. 
+The test reconstruction loss is 0.3090
+
+Epoch: 319/1000, Loss: 1445.54103, Time: 30.5
+Recon Loss: 16898.80883. KL Loss: 442.47501. Height Loss: 2.50023. Waist Loss: 3.21870. Chest Loss: 2.55649. Hip Loss: 2.51283. Arm Loss: 3.09157. Crotch Loss: 2.01751. Head Loss: 3.37403. Laplacian Loss: 10.29748. 
+The test reconstruction loss is 0.3101
+
+Epoch: 320/1000, Loss: 1440.23140, Time: 30.5
+Recon Loss: 16907.91559. KL Loss: 442.38976. Height Loss: 2.50132. Waist Loss: 3.21043. Chest Loss: 2.54948. Hip Loss: 2.51324. Arm Loss: 3.09095. Crotch Loss: 2.01670. Head Loss: 3.37269. Laplacian Loss: 10.28765. 
+The test reconstruction loss is 0.3087
+
+Epoch: 321/1000, Loss: 1433.86836, Time: 30.6
+Recon Loss: 16902.76074. KL Loss: 442.42129. Height Loss: 2.49734. Waist Loss: 3.20899. Chest Loss: 2.55050. Hip Loss: 2.50667. Arm Loss: 3.09134. Crotch Loss: 2.01851. Head Loss: 3.37234. Laplacian Loss: 10.27924. 
+The test reconstruction loss is 0.3088
+
+Epoch: 322/1000, Loss: 1428.13071, Time: 30.6
+Recon Loss: 16905.90468. KL Loss: 442.38859. Height Loss: 2.49278. Waist Loss: 3.20291. Chest Loss: 2.54921. Hip Loss: 2.50829. Arm Loss: 3.08749. Crotch Loss: 2.01281. Head Loss: 3.36958. Laplacian Loss: 10.26128. 
+The test reconstruction loss is 0.3089
+
+Epoch: 323/1000, Loss: 1421.62635, Time: 30.5
+Recon Loss: 16899.50910. KL Loss: 441.90538. Height Loss: 2.49258. Waist Loss: 3.20197. Chest Loss: 2.54014. Hip Loss: 2.50495. Arm Loss: 3.07592. Crotch Loss: 2.01140. Head Loss: 3.34586. Laplacian Loss: 10.25652. 
+The test reconstruction loss is 0.3089
+
+Epoch: 324/1000, Loss: 1415.12818, Time: 30.5
+Recon Loss: 16890.65954. KL Loss: 441.60636. Height Loss: 2.49081. Waist Loss: 3.20191. Chest Loss: 2.53894. Hip Loss: 2.50248. Arm Loss: 3.07531. Crotch Loss: 2.01363. Head Loss: 3.36330. Laplacian Loss: 10.25053. 
+The test reconstruction loss is 0.3087
+
+Epoch: 325/1000, Loss: 1409.15654, Time: 30.5
+Recon Loss: 16891.34108. KL Loss: 440.84335. Height Loss: 2.47759. Waist Loss: 3.19672. Chest Loss: 2.53496. Hip Loss: 2.49746. Arm Loss: 3.06187. Crotch Loss: 2.00685. Head Loss: 3.34343. Laplacian Loss: 10.23267. 
+The test reconstruction loss is 0.3087
+
+Epoch: 326/1000, Loss: 1404.30003, Time: 30.4
+Recon Loss: 16902.72399. KL Loss: 440.64544. Height Loss: 2.48270. Waist Loss: 3.19514. Chest Loss: 2.53616. Hip Loss: 2.49889. Arm Loss: 3.06652. Crotch Loss: 2.00998. Head Loss: 3.35543. Laplacian Loss: 10.21801. 
+The test reconstruction loss is 0.3088
+
+Epoch: 327/1000, Loss: 1397.78273, Time: 30.6
+Recon Loss: 16892.35347. KL Loss: 440.58578. Height Loss: 2.48342. Waist Loss: 3.19172. Chest Loss: 2.53739. Hip Loss: 2.49620. Arm Loss: 3.06644. Crotch Loss: 2.01061. Head Loss: 3.35416. Laplacian Loss: 10.21622. 
+The test reconstruction loss is 0.3086
+
+Epoch: 328/1000, Loss: 1391.42313, Time: 30.5
+Recon Loss: 16885.21521. KL Loss: 440.26578. Height Loss: 2.47499. Waist Loss: 3.18861. Chest Loss: 2.52883. Hip Loss: 2.49706. Arm Loss: 3.06108. Crotch Loss: 2.00428. Head Loss: 3.34183. Laplacian Loss: 10.20482. 
+The test reconstruction loss is 0.3091
+
+Epoch: 329/1000, Loss: 1385.64363, Time: 30.6
+Recon Loss: 16884.58384. KL Loss: 439.95745. Height Loss: 2.47285. Waist Loss: 3.18959. Chest Loss: 2.52693. Hip Loss: 2.49215. Arm Loss: 3.05214. Crotch Loss: 1.99935. Head Loss: 3.33971. Laplacian Loss: 10.19588. 
+The test reconstruction loss is 0.3092
+
+Epoch: 330/1000, Loss: 1379.66641, Time: 30.5
+Recon Loss: 16880.43869. KL Loss: 439.64931. Height Loss: 2.47202. Waist Loss: 3.18706. Chest Loss: 2.52402. Hip Loss: 2.48743. Arm Loss: 3.04977. Crotch Loss: 2.00318. Head Loss: 3.33404. Laplacian Loss: 10.19122. 
+The test reconstruction loss is 0.3086
+
+Epoch: 331/1000, Loss: 1373.83947, Time: 30.5
+Recon Loss: 16878.80382. KL Loss: 439.83778. Height Loss: 2.46295. Waist Loss: 3.17911. Chest Loss: 2.51654. Hip Loss: 2.48298. Arm Loss: 3.03934. Crotch Loss: 1.99562. Head Loss: 3.32561. Laplacian Loss: 10.17962. 
+The test reconstruction loss is 0.3090
+
+Epoch: 332/1000, Loss: 1367.87108, Time: 30.6
+Recon Loss: 16873.40856. KL Loss: 439.07349. Height Loss: 2.46969. Waist Loss: 3.17846. Chest Loss: 2.51670. Hip Loss: 2.48266. Arm Loss: 3.04061. Crotch Loss: 2.00093. Head Loss: 3.33258. Laplacian Loss: 10.16620. 
+The test reconstruction loss is 0.3086
+
+Epoch: 333/1000, Loss: 1361.89573, Time: 30.6
+Recon Loss: 16868.54932. KL Loss: 438.81049. Height Loss: 2.46126. Waist Loss: 3.17380. Chest Loss: 2.51590. Hip Loss: 2.47999. Arm Loss: 3.03441. Crotch Loss: 1.99987. Head Loss: 3.31849. Laplacian Loss: 10.15927. 
+The test reconstruction loss is 0.3086
+
+Epoch: 334/1000, Loss: 1356.31312, Time: 30.5
+Recon Loss: 16867.16211. KL Loss: 438.45940. Height Loss: 2.46803. Waist Loss: 3.17261. Chest Loss: 2.51368. Hip Loss: 2.47981. Arm Loss: 3.03911. Crotch Loss: 1.99912. Head Loss: 3.31842. Laplacian Loss: 10.15349. 
+The test reconstruction loss is 0.3085
+
+Epoch: 335/1000, Loss: 1350.67767, Time: 30.5
+Recon Loss: 16865.47519. KL Loss: 438.13137. Height Loss: 2.46209. Waist Loss: 3.17028. Chest Loss: 2.51139. Hip Loss: 2.47652. Arm Loss: 3.03380. Crotch Loss: 1.99943. Head Loss: 3.32325. Laplacian Loss: 10.14101. 
+The test reconstruction loss is 0.3084
+
+Epoch: 336/1000, Loss: 1345.19311, Time: 30.5
+Recon Loss: 16865.48784. KL Loss: 438.05090. Height Loss: 2.45748. Waist Loss: 3.16550. Chest Loss: 2.50873. Hip Loss: 2.47339. Arm Loss: 3.02929. Crotch Loss: 1.99382. Head Loss: 3.31524. Laplacian Loss: 10.13697. 
+The test reconstruction loss is 0.3087
+
+Epoch: 337/1000, Loss: 1339.39476, Time: 30.5
+Recon Loss: 16860.84845. KL Loss: 438.21082. Height Loss: 2.44586. Waist Loss: 3.16154. Chest Loss: 2.50191. Hip Loss: 2.47318. Arm Loss: 3.02065. Crotch Loss: 1.98847. Head Loss: 3.31769. Laplacian Loss: 10.12462. 
+The test reconstruction loss is 0.3087
+
+Epoch: 338/1000, Loss: 1333.53897, Time: 30.6
+Recon Loss: 16855.30067. KL Loss: 437.66579. Height Loss: 2.44879. Waist Loss: 3.16133. Chest Loss: 2.50077. Hip Loss: 2.46772. Arm Loss: 3.01341. Crotch Loss: 1.98678. Head Loss: 3.30516. Laplacian Loss: 10.11064. 
+The test reconstruction loss is 0.3083
+
+Epoch: 339/1000, Loss: 1327.95233, Time: 30.6
+Recon Loss: 16852.28725. KL Loss: 437.20460. Height Loss: 2.44146. Waist Loss: 3.15594. Chest Loss: 2.49820. Hip Loss: 2.46557. Arm Loss: 3.00946. Crotch Loss: 1.98834. Head Loss: 3.30655. Laplacian Loss: 10.10975. 
+The test reconstruction loss is 0.3090
+
+Epoch: 340/1000, Loss: 1324.04103, Time: 30.6
+Recon Loss: 16872.16278. KL Loss: 437.36159. Height Loss: 2.44564. Waist Loss: 3.15049. Chest Loss: 2.49338. Hip Loss: 2.45940. Arm Loss: 3.00544. Crotch Loss: 1.98717. Head Loss: 3.29750. Laplacian Loss: 10.09864. 
+The test reconstruction loss is 0.3085
+
+Epoch: 341/1000, Loss: 1318.25501, Time: 30.5
+Recon Loss: 16865.27363. KL Loss: 437.54356. Height Loss: 2.44103. Waist Loss: 3.14815. Chest Loss: 2.48676. Hip Loss: 2.45810. Arm Loss: 3.01044. Crotch Loss: 1.98571. Head Loss: 3.28785. Laplacian Loss: 10.09304. 
+The test reconstruction loss is 0.3086
+
+Epoch: 342/1000, Loss: 1311.60986, Time: 30.5
+Recon Loss: 16845.68290. KL Loss: 437.56708. Height Loss: 2.44124. Waist Loss: 3.14328. Chest Loss: 2.49064. Hip Loss: 2.45559. Arm Loss: 3.00333. Crotch Loss: 1.98262. Head Loss: 3.29145. Laplacian Loss: 10.08471. 
+The test reconstruction loss is 0.3083
+
+Epoch: 343/1000, Loss: 1307.40540, Time: 30.5
+Recon Loss: 16860.72807. KL Loss: 437.50976. Height Loss: 2.42878. Waist Loss: 3.14466. Chest Loss: 2.48760. Hip Loss: 2.45776. Arm Loss: 2.99830. Crotch Loss: 1.97960. Head Loss: 3.29106. Laplacian Loss: 10.06325. 
+The test reconstruction loss is 0.3086
+
+Epoch: 344/1000, Loss: 1301.23364, Time: 30.5
+Recon Loss: 16846.94424. KL Loss: 437.40972. Height Loss: 2.43227. Waist Loss: 3.13769. Chest Loss: 2.48283. Hip Loss: 2.45473. Arm Loss: 2.99388. Crotch Loss: 1.97673. Head Loss: 3.28491. Laplacian Loss: 10.06806. 
+The test reconstruction loss is 0.3084
+
+Epoch: 345/1000, Loss: 1295.66926, Time: 30.6
+Recon Loss: 16841.84769. KL Loss: 436.66262. Height Loss: 2.43161. Waist Loss: 3.13986. Chest Loss: 2.48461. Hip Loss: 2.44852. Arm Loss: 2.98840. Crotch Loss: 1.97864. Head Loss: 3.28234. Laplacian Loss: 10.05596. 
+The test reconstruction loss is 0.3085
+
+Epoch: 346/1000, Loss: 1290.06461, Time: 30.5
+Recon Loss: 16834.52579. KL Loss: 436.59461. Height Loss: 2.43332. Waist Loss: 3.13536. Chest Loss: 2.47711. Hip Loss: 2.44857. Arm Loss: 2.99192. Crotch Loss: 1.98094. Head Loss: 3.28105. Laplacian Loss: 10.05909. 
+The test reconstruction loss is 0.3083
+
+Epoch: 347/1000, Loss: 1285.13835, Time: 30.5
+Recon Loss: 16839.05132. KL Loss: 435.86725. Height Loss: 2.42150. Waist Loss: 3.12877. Chest Loss: 2.47306. Hip Loss: 2.44497. Arm Loss: 2.97994. Crotch Loss: 1.97145. Head Loss: 3.27367. Laplacian Loss: 10.04423. 
+The test reconstruction loss is 0.3087
+
+Epoch: 348/1000, Loss: 1279.22241, Time: 30.6
+Recon Loss: 16827.10599. KL Loss: 435.77355. Height Loss: 2.41967. Waist Loss: 3.12454. Chest Loss: 2.46794. Hip Loss: 2.44115. Arm Loss: 2.97957. Crotch Loss: 1.97278. Head Loss: 3.26647. Laplacian Loss: 10.03722. 
+The test reconstruction loss is 0.3091
+
+Epoch: 349/1000, Loss: 1274.21183, Time: 30.6
+Recon Loss: 16827.74425. KL Loss: 435.05967. Height Loss: 2.42351. Waist Loss: 3.12187. Chest Loss: 2.46380. Hip Loss: 2.43889. Arm Loss: 2.97569. Crotch Loss: 1.97408. Head Loss: 3.27051. Laplacian Loss: 10.02943. 
+The test reconstruction loss is 0.3088
+
+Epoch: 350/1000, Loss: 1269.50271, Time: 30.5
+Recon Loss: 16833.01073. KL Loss: 434.97110. Height Loss: 2.41328. Waist Loss: 3.11831. Chest Loss: 2.46279. Hip Loss: 2.43457. Arm Loss: 2.96761. Crotch Loss: 1.97252. Head Loss: 3.25847. Laplacian Loss: 10.01993. 
+The test reconstruction loss is 0.3085
+
+Epoch: 351/1000, Loss: 1264.15791, Time: 30.5
+Recon Loss: 16827.61128. KL Loss: 435.27321. Height Loss: 2.41173. Waist Loss: 3.11555. Chest Loss: 2.45761. Hip Loss: 2.43197. Arm Loss: 2.96604. Crotch Loss: 1.96997. Head Loss: 3.25384. Laplacian Loss: 10.01296. 
+The test reconstruction loss is 0.3082
+
+Epoch: 352/1000, Loss: 1259.42568, Time: 30.6
+Recon Loss: 16831.41479. KL Loss: 435.33606. Height Loss: 2.40450. Waist Loss: 3.11043. Chest Loss: 2.45463. Hip Loss: 2.42984. Arm Loss: 2.95571. Crotch Loss: 1.96601. Head Loss: 3.25033. Laplacian Loss: 10.00390. 
+The test reconstruction loss is 0.3085
+
+Epoch: 353/1000, Loss: 1253.92462, Time: 30.6
+Recon Loss: 16822.99001. KL Loss: 435.08418. Height Loss: 2.41055. Waist Loss: 3.10163. Chest Loss: 2.45064. Hip Loss: 2.42345. Arm Loss: 2.95525. Crotch Loss: 1.96669. Head Loss: 3.24766. Laplacian Loss: 10.00082. 
+The test reconstruction loss is 0.3087
+
+Epoch: 354/1000, Loss: 1249.59558, Time: 30.5
+Recon Loss: 16831.44240. KL Loss: 435.17496. Height Loss: 2.40029. Waist Loss: 3.10192. Chest Loss: 2.44978. Hip Loss: 2.42386. Arm Loss: 2.95151. Crotch Loss: 1.95968. Head Loss: 3.25297. Laplacian Loss: 9.98880. 
+The test reconstruction loss is 0.3083
+
+Epoch: 355/1000, Loss: 1243.80137, Time: 30.6
+Recon Loss: 16817.80201. KL Loss: 435.13187. Height Loss: 2.40272. Waist Loss: 3.09946. Chest Loss: 2.44559. Hip Loss: 2.41868. Arm Loss: 2.94879. Crotch Loss: 1.96205. Head Loss: 3.24478. Laplacian Loss: 9.98193. 
+The test reconstruction loss is 0.3082
+
+Epoch: 356/1000, Loss: 1238.96957, Time: 30.6
+Recon Loss: 16819.18680. KL Loss: 434.31255. Height Loss: 2.39672. Waist Loss: 3.09731. Chest Loss: 2.44066. Hip Loss: 2.42136. Arm Loss: 2.94676. Crotch Loss: 1.95400. Head Loss: 3.24250. Laplacian Loss: 9.96280. 
+The test reconstruction loss is 0.3082
+
+Epoch: 357/1000, Loss: 1233.58261, Time: 30.6
+Recon Loss: 16810.58682. KL Loss: 434.03568. Height Loss: 2.39636. Waist Loss: 3.09060. Chest Loss: 2.44472. Hip Loss: 2.41795. Arm Loss: 2.94278. Crotch Loss: 1.95756. Head Loss: 3.23293. Laplacian Loss: 9.96216. 
+The test reconstruction loss is 0.3087
+
+Epoch: 358/1000, Loss: 1230.17301, Time: 30.5
+Recon Loss: 16830.66385. KL Loss: 434.11099. Height Loss: 2.39546. Waist Loss: 3.09467. Chest Loss: 2.44352. Hip Loss: 2.42101. Arm Loss: 2.94035. Crotch Loss: 1.95329. Head Loss: 3.24133. Laplacian Loss: 9.94613. 
+The test reconstruction loss is 0.3084
+
+Epoch: 359/1000, Loss: 1224.27857, Time: 30.5
+Recon Loss: 16812.91972. KL Loss: 434.07710. Height Loss: 2.39824. Waist Loss: 3.08911. Chest Loss: 2.43991. Hip Loss: 2.41461. Arm Loss: 2.95019. Crotch Loss: 1.95655. Head Loss: 3.23669. Laplacian Loss: 9.94975. 
+The test reconstruction loss is 0.3086
+
+Epoch: 360/1000, Loss: 1219.06276, Time: 30.6
+Recon Loss: 16806.11426. KL Loss: 433.59874. Height Loss: 2.39636. Waist Loss: 3.08958. Chest Loss: 2.43850. Hip Loss: 2.41250. Arm Loss: 2.94151. Crotch Loss: 1.95350. Head Loss: 3.23387. Laplacian Loss: 9.94203. 
+The test reconstruction loss is 0.3081
+
+Epoch: 361/1000, Loss: 1214.15054, Time: 30.6
+Recon Loss: 16803.77565. KL Loss: 432.83770. Height Loss: 2.38970. Waist Loss: 3.08429. Chest Loss: 2.43334. Hip Loss: 2.41134. Arm Loss: 2.93437. Crotch Loss: 1.95520. Head Loss: 3.23316. Laplacian Loss: 9.93491. 
+The test reconstruction loss is 0.3080
+
+Epoch: 362/1000, Loss: 1209.44674, Time: 30.5
+Recon Loss: 16803.69497. KL Loss: 432.67512. Height Loss: 2.38562. Waist Loss: 3.07916. Chest Loss: 2.43090. Hip Loss: 2.40649. Arm Loss: 2.92783. Crotch Loss: 1.94993. Head Loss: 3.23115. Laplacian Loss: 9.93246. 
+The test reconstruction loss is 0.3085
+
+Epoch: 363/1000, Loss: 1203.89736, Time: 30.5
+Recon Loss: 16790.40785. KL Loss: 432.21570. Height Loss: 2.38731. Waist Loss: 3.07577. Chest Loss: 2.42499. Hip Loss: 2.40324. Arm Loss: 2.92609. Crotch Loss: 1.94982. Head Loss: 3.22416. Laplacian Loss: 9.92275. 
+The test reconstruction loss is 0.3081
+
+Epoch: 364/1000, Loss: 1199.99617, Time: 30.4
+Recon Loss: 16802.47106. KL Loss: 431.85862. Height Loss: 2.37777. Waist Loss: 3.07494. Chest Loss: 2.42408. Hip Loss: 2.39917. Arm Loss: 2.91817. Crotch Loss: 1.94627. Head Loss: 3.21589. Laplacian Loss: 9.90752. 
+The test reconstruction loss is 0.3081
+
+Epoch: 365/1000, Loss: 1194.76920, Time: 30.5
+Recon Loss: 16792.03106. KL Loss: 431.54556. Height Loss: 2.37824. Waist Loss: 3.07142. Chest Loss: 2.42314. Hip Loss: 2.40049. Arm Loss: 2.91983. Crotch Loss: 1.94931. Head Loss: 3.22027. Laplacian Loss: 9.90805. 
+The test reconstruction loss is 0.3082
+
+Epoch: 366/1000, Loss: 1190.46680, Time: 30.5
+Recon Loss: 16796.62613. KL Loss: 431.40827. Height Loss: 2.37888. Waist Loss: 3.06565. Chest Loss: 2.41604. Hip Loss: 2.39779. Arm Loss: 2.91120. Crotch Loss: 1.94453. Head Loss: 3.22113. Laplacian Loss: 9.89686. 
+The test reconstruction loss is 0.3082
+
+Epoch: 367/1000, Loss: 1185.72639, Time: 30.6
+Recon Loss: 16794.28605. KL Loss: 431.08662. Height Loss: 2.37206. Waist Loss: 3.06216. Chest Loss: 2.41233. Hip Loss: 2.39396. Arm Loss: 2.91174. Crotch Loss: 1.94164. Head Loss: 3.20806. Laplacian Loss: 9.88834. 
+The test reconstruction loss is 0.3088
+
+Epoch: 368/1000, Loss: 1181.72208, Time: 30.5
+Recon Loss: 16801.55472. KL Loss: 431.26810. Height Loss: 2.37732. Waist Loss: 3.05671. Chest Loss: 2.41180. Hip Loss: 2.39091. Arm Loss: 2.90873. Crotch Loss: 1.94658. Head Loss: 3.20439. Laplacian Loss: 9.88454. 
+The test reconstruction loss is 0.3081
+
+Epoch: 369/1000, Loss: 1176.40637, Time: 30.5
+Recon Loss: 16789.30448. KL Loss: 431.33383. Height Loss: 2.36439. Waist Loss: 3.05207. Chest Loss: 2.40940. Hip Loss: 2.38818. Arm Loss: 2.89999. Crotch Loss: 1.93635. Head Loss: 3.21043. Laplacian Loss: 9.87582. 
+The test reconstruction loss is 0.3085
+
+Epoch: 370/1000, Loss: 1172.03630, Time: 30.5
+Recon Loss: 16790.05074. KL Loss: 431.53262. Height Loss: 2.36801. Waist Loss: 3.05009. Chest Loss: 2.40989. Hip Loss: 2.38866. Arm Loss: 2.90055. Crotch Loss: 1.93619. Head Loss: 3.20697. Laplacian Loss: 9.86761. 
+The test reconstruction loss is 0.3079
+
+Epoch: 371/1000, Loss: 1166.78357, Time: 30.5
+Recon Loss: 16778.15715. KL Loss: 431.09780. Height Loss: 2.36030. Waist Loss: 3.04533. Chest Loss: 2.40341. Hip Loss: 2.38298. Arm Loss: 2.89929. Crotch Loss: 1.93215. Head Loss: 3.19795. Laplacian Loss: 9.86411. 
+The test reconstruction loss is 0.3086
+
+Epoch: 372/1000, Loss: 1162.27214, Time: 30.5
+Recon Loss: 16776.65902. KL Loss: 430.65437. Height Loss: 2.36185. Waist Loss: 3.04877. Chest Loss: 2.39956. Hip Loss: 2.38156. Arm Loss: 2.89077. Crotch Loss: 1.93372. Head Loss: 3.19320. Laplacian Loss: 9.86090. 
+The test reconstruction loss is 0.3083
+
+Epoch: 373/1000, Loss: 1158.10435, Time: 30.5
+Recon Loss: 16780.26199. KL Loss: 430.21802. Height Loss: 2.36302. Waist Loss: 3.04039. Chest Loss: 2.39832. Hip Loss: 2.37777. Arm Loss: 2.89527. Crotch Loss: 1.93676. Head Loss: 3.18512. Laplacian Loss: 9.85453. 
+The test reconstruction loss is 0.3080
+
+Epoch: 374/1000, Loss: 1153.03733, Time: 30.6
+Recon Loss: 16768.68350. KL Loss: 430.28162. Height Loss: 2.35882. Waist Loss: 3.04186. Chest Loss: 2.39840. Hip Loss: 2.37839. Arm Loss: 2.88644. Crotch Loss: 1.93556. Head Loss: 3.18907. Laplacian Loss: 9.84759. 
+The test reconstruction loss is 0.3078
+
+Epoch: 375/1000, Loss: 1149.15892, Time: 30.5
+Recon Loss: 16776.84006. KL Loss: 430.06683. Height Loss: 2.35377. Waist Loss: 3.03918. Chest Loss: 2.39735. Hip Loss: 2.37265. Arm Loss: 2.87787. Crotch Loss: 1.93042. Head Loss: 3.18536. Laplacian Loss: 9.83251. 
+The test reconstruction loss is 0.3082
+
+Epoch: 376/1000, Loss: 1144.65709, Time: 30.6
+Recon Loss: 16773.60447. KL Loss: 429.56250. Height Loss: 2.35052. Waist Loss: 3.03498. Chest Loss: 2.39103. Hip Loss: 2.37682. Arm Loss: 2.87995. Crotch Loss: 1.93064. Head Loss: 3.19464. Laplacian Loss: 9.82687. 
+The test reconstruction loss is 0.3082
+
+Epoch: 377/1000, Loss: 1140.18496, Time: 30.6
+Recon Loss: 16771.00414. KL Loss: 429.35244. Height Loss: 2.35354. Waist Loss: 3.03018. Chest Loss: 2.38777. Hip Loss: 2.36965. Arm Loss: 2.87358. Crotch Loss: 1.92919. Head Loss: 3.18728. Laplacian Loss: 9.82283. 
+The test reconstruction loss is 0.3082
+
+Epoch: 378/1000, Loss: 1135.81248, Time: 30.6
+Recon Loss: 16769.72311. KL Loss: 429.36650. Height Loss: 2.34678. Waist Loss: 3.02279. Chest Loss: 2.38563. Hip Loss: 2.36583. Arm Loss: 2.86816. Crotch Loss: 1.92497. Head Loss: 3.18452. Laplacian Loss: 9.81390. 
+The test reconstruction loss is 0.3083
+
+Epoch: 379/1000, Loss: 1131.56478, Time: 30.5
+Recon Loss: 16769.80154. KL Loss: 428.94171. Height Loss: 2.34560. Waist Loss: 3.02590. Chest Loss: 2.38302. Hip Loss: 2.36688. Arm Loss: 2.86886. Crotch Loss: 1.92301. Head Loss: 3.17741. Laplacian Loss: 9.80177. 
+The test reconstruction loss is 0.3081
+
+Epoch: 380/1000, Loss: 1126.63068, Time: 30.5
+Recon Loss: 16758.16655. KL Loss: 429.07195. Height Loss: 2.34319. Waist Loss: 3.02059. Chest Loss: 2.37696. Hip Loss: 2.36132. Arm Loss: 2.86347. Crotch Loss: 1.92205. Head Loss: 3.17490. Laplacian Loss: 9.80015. 
+The test reconstruction loss is 0.3080
+
+Epoch: 381/1000, Loss: 1122.43538, Time: 30.6
+Recon Loss: 16758.47221. KL Loss: 428.48010. Height Loss: 2.34001. Waist Loss: 3.01803. Chest Loss: 2.37420. Hip Loss: 2.36303. Arm Loss: 2.85630. Crotch Loss: 1.92154. Head Loss: 3.17720. Laplacian Loss: 9.79131. 
+The test reconstruction loss is 0.3082
+
+Epoch: 382/1000, Loss: 1118.41075, Time: 30.6
+Recon Loss: 16760.86097. KL Loss: 428.13952. Height Loss: 2.33997. Waist Loss: 3.01527. Chest Loss: 2.37258. Hip Loss: 2.35682. Arm Loss: 2.85456. Crotch Loss: 1.92143. Head Loss: 3.17408. Laplacian Loss: 9.78922. 
+The test reconstruction loss is 0.3081
+
+Epoch: 383/1000, Loss: 1114.44483, Time: 30.6
+Recon Loss: 16763.87870. KL Loss: 428.12383. Height Loss: 2.33817. Waist Loss: 3.01378. Chest Loss: 2.37024. Hip Loss: 2.35765. Arm Loss: 2.85883. Crotch Loss: 1.91718. Head Loss: 3.16373. Laplacian Loss: 9.77798. 
+The test reconstruction loss is 0.3082
+
+Epoch: 384/1000, Loss: 1109.51094, Time: 30.5
+Recon Loss: 16750.22979. KL Loss: 428.24176. Height Loss: 2.33470. Waist Loss: 3.00765. Chest Loss: 2.36526. Hip Loss: 2.35405. Arm Loss: 2.85030. Crotch Loss: 1.91776. Head Loss: 3.16711. Laplacian Loss: 9.77944. 
+The test reconstruction loss is 0.3081
+
+Epoch: 385/1000, Loss: 1106.18470, Time: 30.5
+Recon Loss: 16763.64581. KL Loss: 427.73541. Height Loss: 2.33106. Waist Loss: 3.00702. Chest Loss: 2.36469. Hip Loss: 2.35436. Arm Loss: 2.84832. Crotch Loss: 1.91619. Head Loss: 3.15933. Laplacian Loss: 9.76568. 
+The test reconstruction loss is 0.3084
+
+Epoch: 386/1000, Loss: 1101.25754, Time: 30.5
+Recon Loss: 16748.60824. KL Loss: 428.14380. Height Loss: 2.33126. Waist Loss: 3.00195. Chest Loss: 2.36604. Hip Loss: 2.35369. Arm Loss: 2.84681. Crotch Loss: 1.91776. Head Loss: 3.15754. Laplacian Loss: 9.76399. 
+The test reconstruction loss is 0.3078
+
+Epoch: 387/1000, Loss: 1097.13621, Time: 30.6
+Recon Loss: 16748.09489. KL Loss: 427.56625. Height Loss: 2.32689. Waist Loss: 3.00053. Chest Loss: 2.36049. Hip Loss: 2.35089. Arm Loss: 2.84663. Crotch Loss: 1.91288. Head Loss: 3.16071. Laplacian Loss: 9.74990. 
+The test reconstruction loss is 0.3079
+
+Epoch: 388/1000, Loss: 1093.49103, Time: 30.6
+Recon Loss: 16754.66816. KL Loss: 427.59761. Height Loss: 2.32679. Waist Loss: 2.99715. Chest Loss: 2.35597. Hip Loss: 2.34781. Arm Loss: 2.83746. Crotch Loss: 1.91111. Head Loss: 3.15348. Laplacian Loss: 9.74953. 
+The test reconstruction loss is 0.3081
+
+Epoch: 389/1000, Loss: 1088.82154, Time: 30.5
+Recon Loss: 16743.63538. KL Loss: 427.64975. Height Loss: 2.32222. Waist Loss: 2.99182. Chest Loss: 2.35674. Hip Loss: 2.34294. Arm Loss: 2.83337. Crotch Loss: 1.91086. Head Loss: 3.14609. Laplacian Loss: 9.74578. 
+The test reconstruction loss is 0.3080
+
+Epoch: 390/1000, Loss: 1084.44559, Time: 30.7
+Recon Loss: 16737.09653. KL Loss: 426.74120. Height Loss: 2.32306. Waist Loss: 2.98620. Chest Loss: 2.35477. Hip Loss: 2.33979. Arm Loss: 2.83474. Crotch Loss: 1.91245. Head Loss: 3.15711. Laplacian Loss: 9.74074. 
+The test reconstruction loss is 0.3081
+
+Epoch: 391/1000, Loss: 1080.83519, Time: 30.6
+Recon Loss: 16743.96419. KL Loss: 426.05277. Height Loss: 2.31881. Waist Loss: 2.98721. Chest Loss: 2.35173. Hip Loss: 2.33793. Arm Loss: 2.83289. Crotch Loss: 1.90873. Head Loss: 3.15158. Laplacian Loss: 9.72461. 
+The test reconstruction loss is 0.3081
+
+Epoch: 392/1000, Loss: 1076.73028, Time: 30.6
+Recon Loss: 16741.46447. KL Loss: 425.58807. Height Loss: 2.32213. Waist Loss: 2.98592. Chest Loss: 2.35062. Hip Loss: 2.33932. Arm Loss: 2.82452. Crotch Loss: 1.90557. Head Loss: 3.14860. Laplacian Loss: 9.71674. 
+The test reconstruction loss is 0.3080
+
+Epoch: 393/1000, Loss: 1073.00688, Time: 30.6
+Recon Loss: 16744.83045. KL Loss: 425.68200. Height Loss: 2.31377. Waist Loss: 2.98151. Chest Loss: 2.34650. Hip Loss: 2.33574. Arm Loss: 2.82472. Crotch Loss: 1.90402. Head Loss: 3.14840. Laplacian Loss: 9.71212. 
+The test reconstruction loss is 0.3084
+
+Epoch: 394/1000, Loss: 1068.97786, Time: 30.5
+Recon Loss: 16742.81070. KL Loss: 425.61159. Height Loss: 2.31110. Waist Loss: 2.97667. Chest Loss: 2.34504. Hip Loss: 2.33336. Arm Loss: 2.81885. Crotch Loss: 1.90793. Head Loss: 3.13608. Laplacian Loss: 9.70738. 
+The test reconstruction loss is 0.3083
+
+Epoch: 395/1000, Loss: 1065.60571, Time: 30.6
+Recon Loss: 16750.46551. KL Loss: 426.20041. Height Loss: 2.31048. Waist Loss: 2.97390. Chest Loss: 2.34105. Hip Loss: 2.33107. Arm Loss: 2.81847. Crotch Loss: 1.89955. Head Loss: 3.15243. Laplacian Loss: 9.70551. 
+The test reconstruction loss is 0.3079
+
+Epoch: 396/1000, Loss: 1060.56985, Time: 30.5
+Recon Loss: 16730.79810. KL Loss: 425.58415. Height Loss: 2.30814. Waist Loss: 2.97457. Chest Loss: 2.34105. Hip Loss: 2.33327. Arm Loss: 2.81032. Crotch Loss: 1.90012. Head Loss: 3.13671. Laplacian Loss: 9.69915. 
+The test reconstruction loss is 0.3080
+
+Epoch: 397/1000, Loss: 1056.54979, Time: 30.5
+Recon Loss: 16727.21352. KL Loss: 424.93098. Height Loss: 2.30745. Waist Loss: 2.97137. Chest Loss: 2.34006. Hip Loss: 2.33067. Arm Loss: 2.81481. Crotch Loss: 1.90348. Head Loss: 3.14638. Laplacian Loss: 9.69507. 
+The test reconstruction loss is 0.3081
+
+Epoch: 398/1000, Loss: 1052.55475, Time: 30.5
+Recon Loss: 16724.62756. KL Loss: 424.58396. Height Loss: 2.30824. Waist Loss: 2.96997. Chest Loss: 2.33714. Hip Loss: 2.32989. Arm Loss: 2.80872. Crotch Loss: 1.90006. Head Loss: 3.13244. Laplacian Loss: 9.68785. 
+The test reconstruction loss is 0.3081
+
+Epoch: 399/1000, Loss: 1048.72045, Time: 30.6
+Recon Loss: 16723.86122. KL Loss: 424.21277. Height Loss: 2.30666. Waist Loss: 2.96568. Chest Loss: 2.33235. Hip Loss: 2.32584. Arm Loss: 2.80646. Crotch Loss: 1.89765. Head Loss: 3.13881. Laplacian Loss: 9.68694. 
+The test reconstruction loss is 0.3081
+
+Epoch: 400/1000, Loss: 1044.98170, Time: 30.6
+Recon Loss: 16725.19050. KL Loss: 424.03332. Height Loss: 2.30061. Waist Loss: 2.95985. Chest Loss: 2.33028. Hip Loss: 2.32167. Arm Loss: 2.80293. Crotch Loss: 1.89519. Head Loss: 3.13249. Laplacian Loss: 9.67226. 
+The test reconstruction loss is 0.3082
+
+Epoch: 401/1000, Loss: 1041.24070, Time: 30.5
+Recon Loss: 16724.74288. KL Loss: 423.96565. Height Loss: 2.30362. Waist Loss: 2.95824. Chest Loss: 2.33158. Hip Loss: 2.32340. Arm Loss: 2.80680. Crotch Loss: 1.89667. Head Loss: 3.12432. Laplacian Loss: 9.66766. 
+The test reconstruction loss is 0.3078
+
+Epoch: 402/1000, Loss: 1037.13128, Time: 30.5
+Recon Loss: 16717.98734. KL Loss: 423.87122. Height Loss: 2.30036. Waist Loss: 2.95813. Chest Loss: 2.32821. Hip Loss: 2.32127. Arm Loss: 2.79913. Crotch Loss: 1.89460. Head Loss: 3.12825. Laplacian Loss: 9.66263. 
+The test reconstruction loss is 0.3080
+
+Epoch: 403/1000, Loss: 1033.40009, Time: 30.5
+Recon Loss: 16718.19837. KL Loss: 424.02856. Height Loss: 2.29191. Waist Loss: 2.95326. Chest Loss: 2.32266. Hip Loss: 2.31880. Arm Loss: 2.79111. Crotch Loss: 1.88853. Head Loss: 3.12119. Laplacian Loss: 9.65776. 
+The test reconstruction loss is 0.3079
+
+Epoch: 404/1000, Loss: 1029.86837, Time: 30.6
+Recon Loss: 16720.69370. KL Loss: 423.68182. Height Loss: 2.29491. Waist Loss: 2.95022. Chest Loss: 2.32144. Hip Loss: 2.31636. Arm Loss: 2.79440. Crotch Loss: 1.88976. Head Loss: 3.12012. Laplacian Loss: 9.65288. 
+The test reconstruction loss is 0.3080
+
+Epoch: 405/1000, Loss: 1025.99213, Time: 30.6
+Recon Loss: 16716.61900. KL Loss: 423.31018. Height Loss: 2.29514. Waist Loss: 2.94895. Chest Loss: 2.32135. Hip Loss: 2.31619. Arm Loss: 2.79387. Crotch Loss: 1.89291. Head Loss: 3.12387. Laplacian Loss: 9.64656. 
+The test reconstruction loss is 0.3079
+
+Epoch: 406/1000, Loss: 1022.16817, Time: 30.5
+Recon Loss: 16713.61852. KL Loss: 423.44933. Height Loss: 2.28976. Waist Loss: 2.94609. Chest Loss: 2.31738. Hip Loss: 2.31094. Arm Loss: 2.78751. Crotch Loss: 1.89029. Head Loss: 3.12106. Laplacian Loss: 9.64447. 
+The test reconstruction loss is 0.3082
+
+Epoch: 407/1000, Loss: 1019.48562, Time: 30.6
+Recon Loss: 16731.15372. KL Loss: 423.48233. Height Loss: 2.28755. Waist Loss: 2.94123. Chest Loss: 2.31161. Hip Loss: 2.30781. Arm Loss: 2.78173. Crotch Loss: 1.88431. Head Loss: 3.11744. Laplacian Loss: 9.63562. 
+The test reconstruction loss is 0.3076
+
+Epoch: 408/1000, Loss: 1015.03566, Time: 30.6
+Recon Loss: 16715.58141. KL Loss: 423.76959. Height Loss: 2.28291. Waist Loss: 2.94078. Chest Loss: 2.31489. Hip Loss: 2.30620. Arm Loss: 2.78196. Crotch Loss: 1.88252. Head Loss: 3.11285. Laplacian Loss: 9.63072. 
+The test reconstruction loss is 0.3077
+
+Epoch: 409/1000, Loss: 1010.81896, Time: 30.6
+Recon Loss: 16704.14066. KL Loss: 423.40153. Height Loss: 2.28281. Waist Loss: 2.93800. Chest Loss: 2.30818. Hip Loss: 2.30608. Arm Loss: 2.78280. Crotch Loss: 1.88609. Head Loss: 3.11000. Laplacian Loss: 9.62879. 
+The test reconstruction loss is 0.3077
+
+Epoch: 410/1000, Loss: 1007.08574, Time: 30.5
+Recon Loss: 16701.33170. KL Loss: 422.77153. Height Loss: 2.27806. Waist Loss: 2.93518. Chest Loss: 2.30855. Hip Loss: 2.30359. Arm Loss: 2.78077. Crotch Loss: 1.88526. Head Loss: 3.11681. Laplacian Loss: 9.62272. 
+The test reconstruction loss is 0.3076
+
+Epoch: 411/1000, Loss: 1003.67520, Time: 30.6
+Recon Loss: 16704.40198. KL Loss: 422.53996. Height Loss: 2.27824. Waist Loss: 2.92988. Chest Loss: 2.30258. Hip Loss: 2.30001. Arm Loss: 2.77327. Crotch Loss: 1.88294. Head Loss: 3.11413. Laplacian Loss: 9.61615. 
+The test reconstruction loss is 0.3080
+
+Epoch: 412/1000, Loss: 1000.24050, Time: 30.5
+Recon Loss: 16706.13201. KL Loss: 422.59884. Height Loss: 2.27878. Waist Loss: 2.92858. Chest Loss: 2.30335. Hip Loss: 2.30005. Arm Loss: 2.77342. Crotch Loss: 1.88489. Head Loss: 3.09781. Laplacian Loss: 9.60606. 
+The test reconstruction loss is 0.3077
+
+Epoch: 413/1000, Loss: 996.57020, Time: 30.6
+Recon Loss: 16703.11123. KL Loss: 422.36269. Height Loss: 2.27273. Waist Loss: 2.92294. Chest Loss: 2.29791. Hip Loss: 2.29851. Arm Loss: 2.76908. Crotch Loss: 1.88241. Head Loss: 3.10713. Laplacian Loss: 9.61174. 
+The test reconstruction loss is 0.3076
+
+Epoch: 414/1000, Loss: 992.66017, Time: 30.6
+Recon Loss: 16695.95489. KL Loss: 422.07736. Height Loss: 2.27184. Waist Loss: 2.92252. Chest Loss: 2.29528. Hip Loss: 2.29520. Arm Loss: 2.76019. Crotch Loss: 1.87801. Head Loss: 3.10097. Laplacian Loss: 9.60652. 
+The test reconstruction loss is 0.3078
+
+Epoch: 415/1000, Loss: 989.20804, Time: 30.5
+Recon Loss: 16696.63210. KL Loss: 421.80463. Height Loss: 2.27161. Waist Loss: 2.91509. Chest Loss: 2.29178. Hip Loss: 2.29300. Arm Loss: 2.76281. Crotch Loss: 1.87771. Head Loss: 3.09801. Laplacian Loss: 9.59622. 
+The test reconstruction loss is 0.3074
+
+Epoch: 416/1000, Loss: 985.35566, Time: 30.6
+Recon Loss: 16689.70108. KL Loss: 421.65049. Height Loss: 2.26711. Waist Loss: 2.91283. Chest Loss: 2.28915. Hip Loss: 2.29083. Arm Loss: 2.75476. Crotch Loss: 1.87478. Head Loss: 3.09062. Laplacian Loss: 9.59292. 
+The test reconstruction loss is 0.3078
+
+Epoch: 417/1000, Loss: 982.07853, Time: 30.6
+Recon Loss: 16692.67423. KL Loss: 421.05866. Height Loss: 2.26365. Waist Loss: 2.90964. Chest Loss: 2.28833. Hip Loss: 2.28913. Arm Loss: 2.75938. Crotch Loss: 1.87508. Head Loss: 3.09078. Laplacian Loss: 9.59023. 
+The test reconstruction loss is 0.3078
+
+Epoch: 418/1000, Loss: 978.99034, Time: 30.6
+Recon Loss: 16699.44684. KL Loss: 421.14113. Height Loss: 2.25762. Waist Loss: 2.90275. Chest Loss: 2.28484. Hip Loss: 2.28406. Arm Loss: 2.74991. Crotch Loss: 1.86798. Head Loss: 3.09387. Laplacian Loss: 9.58321. 
+The test reconstruction loss is 0.3077
+
+Epoch: 419/1000, Loss: 975.03770, Time: 30.7
+Recon Loss: 16688.47749. KL Loss: 420.91926. Height Loss: 2.26246. Waist Loss: 2.90493. Chest Loss: 2.28487. Hip Loss: 2.28354. Arm Loss: 2.75269. Crotch Loss: 1.87359. Head Loss: 3.09051. Laplacian Loss: 9.57555. 
+The test reconstruction loss is 0.3076
+
+Epoch: 420/1000, Loss: 972.48843, Time: 30.6
+Recon Loss: 16704.09927. KL Loss: 420.88231. Height Loss: 2.25813. Waist Loss: 2.90216. Chest Loss: 2.28436. Hip Loss: 2.28319. Arm Loss: 2.75110. Crotch Loss: 1.87371. Head Loss: 3.08975. Laplacian Loss: 9.56819. 
+The test reconstruction loss is 0.3083
+
+Epoch: 421/1000, Loss: 969.10217, Time: 30.5
+Recon Loss: 16702.44691. KL Loss: 421.29325. Height Loss: 2.26399. Waist Loss: 2.90151. Chest Loss: 2.28005. Hip Loss: 2.28092. Arm Loss: 2.75605. Crotch Loss: 1.87775. Head Loss: 3.08963. Laplacian Loss: 9.56988. 
+The test reconstruction loss is 0.3076
+
+Epoch: 422/1000, Loss: 964.57795, Time: 30.5
+Recon Loss: 16680.85031. KL Loss: 420.84462. Height Loss: 2.25504. Waist Loss: 2.89816. Chest Loss: 2.28022. Hip Loss: 2.28217. Arm Loss: 2.74974. Crotch Loss: 1.86929. Head Loss: 3.09065. Laplacian Loss: 9.56326. 
+The test reconstruction loss is 0.3077
+
+Epoch: 423/1000, Loss: 961.33291, Time: 30.6
+Recon Loss: 16682.30111. KL Loss: 420.73440. Height Loss: 2.26038. Waist Loss: 2.89761. Chest Loss: 2.27487. Hip Loss: 2.27780. Arm Loss: 2.74560. Crotch Loss: 1.86867. Head Loss: 3.09285. Laplacian Loss: 9.55610. 
+The test reconstruction loss is 0.3076
+
+Epoch: 424/1000, Loss: 957.96275, Time: 30.5
+Recon Loss: 16681.83830. KL Loss: 420.57265. Height Loss: 2.24857. Waist Loss: 2.89576. Chest Loss: 2.27030. Hip Loss: 2.28119. Arm Loss: 2.74154. Crotch Loss: 1.86424. Head Loss: 3.08022. Laplacian Loss: 9.55386. 
+The test reconstruction loss is 0.3077
+
+Epoch: 425/1000, Loss: 954.62100, Time: 30.4
+Recon Loss: 16680.75768. KL Loss: 420.14655. Height Loss: 2.25337. Waist Loss: 2.89479. Chest Loss: 2.27178. Hip Loss: 2.27918. Arm Loss: 2.73966. Crotch Loss: 1.86543. Head Loss: 3.08078. Laplacian Loss: 9.54574. 
+The test reconstruction loss is 0.3075
+
+Epoch: 426/1000, Loss: 951.10487, Time: 30.6
+Recon Loss: 16676.60034. KL Loss: 419.68988. Height Loss: 2.24860. Waist Loss: 2.88789. Chest Loss: 2.26673. Hip Loss: 2.27664. Arm Loss: 2.73756. Crotch Loss: 1.86370. Head Loss: 3.08490. Laplacian Loss: 9.54161. 
+The test reconstruction loss is 0.3080
+
+Epoch: 427/1000, Loss: 948.00705, Time: 30.5
+Recon Loss: 16679.78474. KL Loss: 419.40579. Height Loss: 2.25268. Waist Loss: 2.88680. Chest Loss: 2.26707. Hip Loss: 2.27577. Arm Loss: 2.73373. Crotch Loss: 1.86325. Head Loss: 3.07441. Laplacian Loss: 9.53730. 
+The test reconstruction loss is 0.3075
+
+Epoch: 428/1000, Loss: 944.39214, Time: 30.5
+Recon Loss: 16672.08294. KL Loss: 419.72208. Height Loss: 2.24906. Waist Loss: 2.88416. Chest Loss: 2.26351. Hip Loss: 2.27506. Arm Loss: 2.72971. Crotch Loss: 1.86742. Head Loss: 3.07321. Laplacian Loss: 9.53433. 
+The test reconstruction loss is 0.3075
+
+Epoch: 429/1000, Loss: 940.96970, Time: 30.5
+Recon Loss: 16668.30528. KL Loss: 419.41293. Height Loss: 2.24480. Waist Loss: 2.88386. Chest Loss: 2.26242. Hip Loss: 2.27356. Arm Loss: 2.72852. Crotch Loss: 1.86329. Head Loss: 3.07137. Laplacian Loss: 9.53324. 
+The test reconstruction loss is 0.3076
+
+Epoch: 430/1000, Loss: 938.04344, Time: 30.6
+Recon Loss: 16674.37958. KL Loss: 418.65717. Height Loss: 2.24800. Waist Loss: 2.88187. Chest Loss: 2.26080. Hip Loss: 2.27330. Arm Loss: 2.72731. Crotch Loss: 1.86174. Head Loss: 3.06847. Laplacian Loss: 9.52054. 
+The test reconstruction loss is 0.3075
+
+Epoch: 431/1000, Loss: 935.00821, Time: 30.6
+Recon Loss: 16676.97819. KL Loss: 418.81013. Height Loss: 2.24379. Waist Loss: 2.87902. Chest Loss: 2.26236. Hip Loss: 2.27120. Arm Loss: 2.72886. Crotch Loss: 1.86253. Head Loss: 3.06157. Laplacian Loss: 9.52228. 
+The test reconstruction loss is 0.3073
+
+Epoch: 432/1000, Loss: 931.60433, Time: 30.5
+Recon Loss: 16673.17125. KL Loss: 418.66267. Height Loss: 2.23893. Waist Loss: 2.87260. Chest Loss: 2.25636. Hip Loss: 2.26670. Arm Loss: 2.71677. Crotch Loss: 1.85884. Head Loss: 3.06897. Laplacian Loss: 9.51361. 
+The test reconstruction loss is 0.3077
+
+Epoch: 433/1000, Loss: 928.29811, Time: 30.5
+Recon Loss: 16669.89779. KL Loss: 418.48331. Height Loss: 2.24301. Waist Loss: 2.87430. Chest Loss: 2.25504. Hip Loss: 2.26307. Arm Loss: 2.71883. Crotch Loss: 1.85736. Head Loss: 3.06412. Laplacian Loss: 9.51379. 
+The test reconstruction loss is 0.3076
+
+Epoch: 434/1000, Loss: 924.71851, Time: 30.5
+Recon Loss: 16661.30327. KL Loss: 418.08015. Height Loss: 2.23766. Waist Loss: 2.87140. Chest Loss: 2.25523. Hip Loss: 2.26414. Arm Loss: 2.72235. Crotch Loss: 1.85621. Head Loss: 3.06473. Laplacian Loss: 9.50619. 
+The test reconstruction loss is 0.3076
+
+Epoch: 435/1000, Loss: 921.71216, Time: 30.6
+Recon Loss: 16663.91907. KL Loss: 418.01665. Height Loss: 2.23772. Waist Loss: 2.86833. Chest Loss: 2.25151. Hip Loss: 2.26617. Arm Loss: 2.71491. Crotch Loss: 1.85639. Head Loss: 3.05718. Laplacian Loss: 9.49777. 
+The test reconstruction loss is 0.3073
+
+Epoch: 436/1000, Loss: 918.20142, Time: 30.6
+Recon Loss: 16655.21936. KL Loss: 418.03140. Height Loss: 2.23671. Waist Loss: 2.86494. Chest Loss: 2.25255. Hip Loss: 2.26064. Arm Loss: 2.71282. Crotch Loss: 1.85645. Head Loss: 3.06035. Laplacian Loss: 9.50595. 
+The test reconstruction loss is 0.3076
+
+Epoch: 437/1000, Loss: 915.16135, Time: 30.6
+Recon Loss: 16657.46300. KL Loss: 417.37397. Height Loss: 2.22648. Waist Loss: 2.86117. Chest Loss: 2.24650. Hip Loss: 2.25770. Arm Loss: 2.71148. Crotch Loss: 1.85166. Head Loss: 3.06278. Laplacian Loss: 9.49177. 
+The test reconstruction loss is 0.3075
+
+Epoch: 438/1000, Loss: 911.95809, Time: 30.5
+Recon Loss: 16654.40403. KL Loss: 417.16752. Height Loss: 2.23220. Waist Loss: 2.85909. Chest Loss: 2.24376. Hip Loss: 2.25834. Arm Loss: 2.70842. Crotch Loss: 1.85270. Head Loss: 3.06661. Laplacian Loss: 9.48855. 
+The test reconstruction loss is 0.3074
+
+Epoch: 439/1000, Loss: 909.25471, Time: 30.5
+Recon Loss: 16662.41850. KL Loss: 417.13195. Height Loss: 2.22157. Waist Loss: 2.85460. Chest Loss: 2.23809. Hip Loss: 2.25544. Arm Loss: 2.70229. Crotch Loss: 1.84989. Head Loss: 3.05871. Laplacian Loss: 9.48366. 
+The test reconstruction loss is 0.3075
+
+Epoch: 440/1000, Loss: 905.84964, Time: 30.5
+Recon Loss: 16655.25778. KL Loss: 416.97694. Height Loss: 2.22248. Waist Loss: 2.85002. Chest Loss: 2.23579. Hip Loss: 2.25242. Arm Loss: 2.70580. Crotch Loss: 1.84617. Head Loss: 3.05387. Laplacian Loss: 9.47838. 
+The test reconstruction loss is 0.3076
+
+Epoch: 441/1000, Loss: 902.75340, Time: 30.5
+Recon Loss: 16654.08978. KL Loss: 416.60289. Height Loss: 2.21895. Waist Loss: 2.85061. Chest Loss: 2.23601. Hip Loss: 2.25354. Arm Loss: 2.69817. Crotch Loss: 1.84700. Head Loss: 3.05163. Laplacian Loss: 9.47340. 
+The test reconstruction loss is 0.3073
+
+Epoch: 442/1000, Loss: 899.73355, Time: 30.5
+Recon Loss: 16653.71559. KL Loss: 416.47704. Height Loss: 2.22065. Waist Loss: 2.84853. Chest Loss: 2.23494. Hip Loss: 2.25011. Arm Loss: 2.69491. Crotch Loss: 1.84673. Head Loss: 3.04883. Laplacian Loss: 9.47605. 
+The test reconstruction loss is 0.3073
+
+Epoch: 443/1000, Loss: 896.29309, Time: 31.4
+Recon Loss: 16644.96584. KL Loss: 416.47865. Height Loss: 2.21953. Waist Loss: 2.84475. Chest Loss: 2.23147. Hip Loss: 2.24662. Arm Loss: 2.69413. Crotch Loss: 1.85012. Head Loss: 3.03577. Laplacian Loss: 9.46727. 
+The test reconstruction loss is 0.3073
+
+Epoch: 444/1000, Loss: 893.40753, Time: 30.4
+Recon Loss: 16647.05753. KL Loss: 416.17244. Height Loss: 2.21314. Waist Loss: 2.83901. Chest Loss: 2.22785. Hip Loss: 2.24440. Arm Loss: 2.69149. Crotch Loss: 1.84733. Head Loss: 3.04550. Laplacian Loss: 9.46606. 
+The test reconstruction loss is 0.3073
+
+Epoch: 445/1000, Loss: 890.47690, Time: 30.3
+Recon Loss: 16647.05394. KL Loss: 416.42806. Height Loss: 2.21916. Waist Loss: 2.83765. Chest Loss: 2.22367. Hip Loss: 2.24557. Arm Loss: 2.68819. Crotch Loss: 1.84720. Head Loss: 3.04292. Laplacian Loss: 9.46668. 
+The test reconstruction loss is 0.3073
+
+Epoch: 446/1000, Loss: 887.26357, Time: 30.4
+Recon Loss: 16642.17458. KL Loss: 415.95701. Height Loss: 2.21546. Waist Loss: 2.83444. Chest Loss: 2.22402. Hip Loss: 2.24068. Arm Loss: 2.68685. Crotch Loss: 1.84693. Head Loss: 3.03573. Laplacian Loss: 9.46171. 
+The test reconstruction loss is 0.3078
+
+Epoch: 447/1000, Loss: 884.89864, Time: 30.3
+Recon Loss: 16654.26550. KL Loss: 415.93908. Height Loss: 2.20714. Waist Loss: 2.83132. Chest Loss: 2.21868. Hip Loss: 2.24257. Arm Loss: 2.68172. Crotch Loss: 1.84238. Head Loss: 3.04544. Laplacian Loss: 9.45128. 
+The test reconstruction loss is 0.3075
+
+Epoch: 448/1000, Loss: 881.42434, Time: 30.4
+Recon Loss: 16642.64741. KL Loss: 415.74163. Height Loss: 2.21106. Waist Loss: 2.83238. Chest Loss: 2.21793. Hip Loss: 2.24017. Arm Loss: 2.68557. Crotch Loss: 1.84252. Head Loss: 3.03119. Laplacian Loss: 9.45042. 
+The test reconstruction loss is 0.3072
+
+Epoch: 449/1000, Loss: 878.55188, Time: 30.4
+Recon Loss: 16643.52250. KL Loss: 415.44985. Height Loss: 2.21115. Waist Loss: 2.82902. Chest Loss: 2.21653. Hip Loss: 2.23738. Arm Loss: 2.68162. Crotch Loss: 1.84168. Head Loss: 3.03374. Laplacian Loss: 9.44439. 
+The test reconstruction loss is 0.3073
+
+Epoch: 450/1000, Loss: 875.34903, Time: 30.4
+Recon Loss: 16637.26495. KL Loss: 415.04925. Height Loss: 2.20372. Waist Loss: 2.82683. Chest Loss: 2.21678. Hip Loss: 2.23645. Arm Loss: 2.67990. Crotch Loss: 1.84096. Head Loss: 3.03480. Laplacian Loss: 9.44031. 
+The test reconstruction loss is 0.3072
+
+Epoch: 451/1000, Loss: 872.59296, Time: 30.4
+Recon Loss: 16638.85775. KL Loss: 415.08533. Height Loss: 2.20951. Waist Loss: 2.82333. Chest Loss: 2.21367. Hip Loss: 2.23650. Arm Loss: 2.67839. Crotch Loss: 1.84178. Head Loss: 3.04312. Laplacian Loss: 9.44225. 
+The test reconstruction loss is 0.3077
+
+Epoch: 452/1000, Loss: 869.58505, Time: 30.4
+Recon Loss: 16636.83819. KL Loss: 414.70386. Height Loss: 2.20205. Waist Loss: 2.82064. Chest Loss: 2.21126. Hip Loss: 2.23290. Arm Loss: 2.67476. Crotch Loss: 1.83656. Head Loss: 3.03388. Laplacian Loss: 9.43546. 
+The test reconstruction loss is 0.3073
+
+Epoch: 453/1000, Loss: 866.47549, Time: 30.4
+Recon Loss: 16631.62908. KL Loss: 414.51508. Height Loss: 2.20068. Waist Loss: 2.81604. Chest Loss: 2.20882. Hip Loss: 2.23183. Arm Loss: 2.66778. Crotch Loss: 1.83501. Head Loss: 3.03209. Laplacian Loss: 9.43073. 
+The test reconstruction loss is 0.3073
+
+Epoch: 454/1000, Loss: 863.79393, Time: 30.4
+Recon Loss: 16634.54573. KL Loss: 414.40129. Height Loss: 2.20310. Waist Loss: 2.81331. Chest Loss: 2.20725. Hip Loss: 2.23012. Arm Loss: 2.67230. Crotch Loss: 1.83728. Head Loss: 3.02837. Laplacian Loss: 9.42432. 
+The test reconstruction loss is 0.3074
+
+Epoch: 455/1000, Loss: 860.79449, Time: 30.4
+Recon Loss: 16631.19039. KL Loss: 414.17974. Height Loss: 2.19772. Waist Loss: 2.80915. Chest Loss: 2.20523. Hip Loss: 2.23008. Arm Loss: 2.66543. Crotch Loss: 1.83398. Head Loss: 3.02754. Laplacian Loss: 9.41990. 
+The test reconstruction loss is 0.3074
+
+Epoch: 456/1000, Loss: 858.03659, Time: 30.4
+Recon Loss: 16632.02511. KL Loss: 413.94263. Height Loss: 2.19890. Waist Loss: 2.81057. Chest Loss: 2.20622. Hip Loss: 2.22845. Arm Loss: 2.65990. Crotch Loss: 1.83636. Head Loss: 3.02758. Laplacian Loss: 9.41351. 
+The test reconstruction loss is 0.3073
+
+Epoch: 457/1000, Loss: 855.44572, Time: 30.4
+Recon Loss: 16635.41116. KL Loss: 413.84713. Height Loss: 2.20125. Waist Loss: 2.81277. Chest Loss: 2.20651. Hip Loss: 2.22799. Arm Loss: 2.66865. Crotch Loss: 1.83651. Head Loss: 3.02354. Laplacian Loss: 9.41775. 
+The test reconstruction loss is 0.3072
+
+Epoch: 458/1000, Loss: 852.21617, Time: 30.4
+Recon Loss: 16625.70971. KL Loss: 413.96989. Height Loss: 2.19699. Waist Loss: 2.80799. Chest Loss: 2.20135. Hip Loss: 2.22865. Arm Loss: 2.66502. Crotch Loss: 1.83316. Head Loss: 3.02333. Laplacian Loss: 9.41541. 
+The test reconstruction loss is 0.3072
+
+Epoch: 459/1000, Loss: 849.24231, Time: 30.4
+Recon Loss: 16621.83597. KL Loss: 413.49493. Height Loss: 2.19571. Waist Loss: 2.80574. Chest Loss: 2.19993. Hip Loss: 2.22412. Arm Loss: 2.66325. Crotch Loss: 1.82822. Head Loss: 3.01778. Laplacian Loss: 9.41098. 
+The test reconstruction loss is 0.3074
+
+Epoch: 460/1000, Loss: 846.76732, Time: 30.3
+Recon Loss: 16627.23140. KL Loss: 414.01229. Height Loss: 2.19215. Waist Loss: 2.79950. Chest Loss: 2.19683. Hip Loss: 2.22376. Arm Loss: 2.65894. Crotch Loss: 1.82986. Head Loss: 3.02134. Laplacian Loss: 9.40591. 
+The test reconstruction loss is 0.3073
+
+Epoch: 461/1000, Loss: 843.81438, Time: 30.3
+Recon Loss: 16622.90090. KL Loss: 413.74219. Height Loss: 2.18948. Waist Loss: 2.79852. Chest Loss: 2.19251. Hip Loss: 2.22223. Arm Loss: 2.65364. Crotch Loss: 1.82999. Head Loss: 3.01222. Laplacian Loss: 9.40638. 
+The test reconstruction loss is 0.3072
+
+Epoch: 462/1000, Loss: 840.93767, Time: 30.3
+Recon Loss: 16619.47094. KL Loss: 413.66167. Height Loss: 2.18967. Waist Loss: 2.79320. Chest Loss: 2.19360. Hip Loss: 2.22083. Arm Loss: 2.65040. Crotch Loss: 1.82713. Head Loss: 3.01651. Laplacian Loss: 9.39913. 
+The test reconstruction loss is 0.3079
+
+Epoch: 463/1000, Loss: 838.47319, Time: 30.3
+Recon Loss: 16624.88596. KL Loss: 413.23728. Height Loss: 2.18837. Waist Loss: 2.79187. Chest Loss: 2.19159. Hip Loss: 2.22044. Arm Loss: 2.64893. Crotch Loss: 1.82730. Head Loss: 3.01311. Laplacian Loss: 9.39895. 
+The test reconstruction loss is 0.3071
+
+Epoch: 464/1000, Loss: 835.60515, Time: 30.4
+Recon Loss: 16621.48011. KL Loss: 413.30977. Height Loss: 2.18134. Waist Loss: 2.79098. Chest Loss: 2.19023. Hip Loss: 2.21874. Arm Loss: 2.64424. Crotch Loss: 1.82349. Head Loss: 3.01044. Laplacian Loss: 9.38947. 
+The test reconstruction loss is 0.3074
+
+Epoch: 465/1000, Loss: 833.30191, Time: 30.5
+Recon Loss: 16628.44228. KL Loss: 413.22507. Height Loss: 2.19215. Waist Loss: 2.79010. Chest Loss: 2.18681. Hip Loss: 2.21832. Arm Loss: 2.65329. Crotch Loss: 1.82733. Head Loss: 3.01586. Laplacian Loss: 9.39376. 
+The test reconstruction loss is 0.3071
+
+Epoch: 466/1000, Loss: 829.95295, Time: 30.5
+Recon Loss: 16614.19531. KL Loss: 412.88263. Height Loss: 2.18795. Waist Loss: 2.78776. Chest Loss: 2.18795. Hip Loss: 2.21651. Arm Loss: 2.64629. Crotch Loss: 1.82630. Head Loss: 3.01188. Laplacian Loss: 9.38068. 
+The test reconstruction loss is 0.3072
+
+Epoch: 467/1000, Loss: 826.99105, Time: 30.4
+Recon Loss: 16607.74637. KL Loss: 412.52058. Height Loss: 2.18354. Waist Loss: 2.78412. Chest Loss: 2.18214. Hip Loss: 2.21377. Arm Loss: 2.64608. Crotch Loss: 1.82489. Head Loss: 3.00593. Laplacian Loss: 9.38324. 
+The test reconstruction loss is 0.3072
+
+Epoch: 468/1000, Loss: 824.37970, Time: 30.4
+Recon Loss: 16608.84011. KL Loss: 412.29409. Height Loss: 2.17691. Waist Loss: 2.77793. Chest Loss: 2.17870. Hip Loss: 2.21313. Arm Loss: 2.64116. Crotch Loss: 1.82327. Head Loss: 3.00791. Laplacian Loss: 9.37863. 
+The test reconstruction loss is 0.3072
+
+Epoch: 469/1000, Loss: 821.75556, Time: 30.3
+Recon Loss: 16608.81316. KL Loss: 412.39416. Height Loss: 2.17916. Waist Loss: 2.77413. Chest Loss: 2.17662. Hip Loss: 2.20749. Arm Loss: 2.63934. Crotch Loss: 1.82217. Head Loss: 3.00539. Laplacian Loss: 9.37487. 
+The test reconstruction loss is 0.3070
+
+Epoch: 470/1000, Loss: 819.17114, Time: 30.3
+Recon Loss: 16608.80369. KL Loss: 412.27661. Height Loss: 2.18200. Waist Loss: 2.77166. Chest Loss: 2.17741. Hip Loss: 2.20915. Arm Loss: 2.63947. Crotch Loss: 1.82610. Head Loss: 3.00391. Laplacian Loss: 9.37547. 
+The test reconstruction loss is 0.3072
+
+Epoch: 471/1000, Loss: 816.17284, Time: 30.3
+Recon Loss: 16600.73114. KL Loss: 411.60280. Height Loss: 2.17720. Waist Loss: 2.77545. Chest Loss: 2.17625. Hip Loss: 2.20789. Arm Loss: 2.63433. Crotch Loss: 1.82030. Head Loss: 2.99844. Laplacian Loss: 9.37148. 
+The test reconstruction loss is 0.3073
+
+Epoch: 472/1000, Loss: 814.19017, Time: 30.3
+Recon Loss: 16614.18253. KL Loss: 411.28785. Height Loss: 2.17642. Waist Loss: 2.77135. Chest Loss: 2.17331. Hip Loss: 2.20640. Arm Loss: 2.63920. Crotch Loss: 1.82352. Head Loss: 3.00580. Laplacian Loss: 9.36241. 
+The test reconstruction loss is 0.3071
+
+Epoch: 473/1000, Loss: 811.72143, Time: 30.3
+Recon Loss: 16616.94658. KL Loss: 411.50776. Height Loss: 2.17114. Waist Loss: 2.76763. Chest Loss: 2.17122. Hip Loss: 2.20779. Arm Loss: 2.63186. Crotch Loss: 1.82101. Head Loss: 2.99529. Laplacian Loss: 9.36019. 
+The test reconstruction loss is 0.3074
+
+Epoch: 474/1000, Loss: 808.63317, Time: 30.4
+Recon Loss: 16604.30217. KL Loss: 411.82039. Height Loss: 2.17121. Waist Loss: 2.76003. Chest Loss: 2.16919. Hip Loss: 2.20362. Arm Loss: 2.62909. Crotch Loss: 1.82273. Head Loss: 3.00375. Laplacian Loss: 9.36502. 
+The test reconstruction loss is 0.3072
+
+Epoch: 475/1000, Loss: 805.77478, Time: 30.4
+Recon Loss: 16597.80735. KL Loss: 411.48038. Height Loss: 2.16946. Waist Loss: 2.76202. Chest Loss: 2.16582. Hip Loss: 2.20146. Arm Loss: 2.62822. Crotch Loss: 1.82026. Head Loss: 2.99760. Laplacian Loss: 9.35585. 
+The test reconstruction loss is 0.3072
+
+Epoch: 476/1000, Loss: 803.24277, Time: 30.3
+Recon Loss: 16598.29967. KL Loss: 411.31759. Height Loss: 2.16842. Waist Loss: 2.75457. Chest Loss: 2.16601. Hip Loss: 2.19982. Arm Loss: 2.62128. Crotch Loss: 1.81630. Head Loss: 2.99716. Laplacian Loss: 9.35281. 
+The test reconstruction loss is 0.3071
+
+Epoch: 477/1000, Loss: 800.56090, Time: 30.4
+Recon Loss: 16595.03888. KL Loss: 410.79109. Height Loss: 2.16579. Waist Loss: 2.75548. Chest Loss: 2.16228. Hip Loss: 2.19775. Arm Loss: 2.62300. Crotch Loss: 1.81543. Head Loss: 2.99380. Laplacian Loss: 9.34992. 
+The test reconstruction loss is 0.3070
+
+Epoch: 478/1000, Loss: 798.23710, Time: 30.3
+Recon Loss: 16599.32267. KL Loss: 410.69091. Height Loss: 2.16715. Waist Loss: 2.75540. Chest Loss: 2.16282. Hip Loss: 2.19683. Arm Loss: 2.62294. Crotch Loss: 1.81447. Head Loss: 2.98858. Laplacian Loss: 9.34307. 
+The test reconstruction loss is 0.3070
+
+Epoch: 479/1000, Loss: 795.75426, Time: 30.4
+Recon Loss: 16599.52823. KL Loss: 410.51255. Height Loss: 2.16857. Waist Loss: 2.75174. Chest Loss: 2.16235. Hip Loss: 2.19605. Arm Loss: 2.62232. Crotch Loss: 1.81374. Head Loss: 2.99052. Laplacian Loss: 9.34120. 
+The test reconstruction loss is 0.3070
+
+Epoch: 480/1000, Loss: 792.96081, Time: 30.4
+Recon Loss: 16591.97411. KL Loss: 410.61022. Height Loss: 2.16405. Waist Loss: 2.74935. Chest Loss: 2.15713. Hip Loss: 2.19698. Arm Loss: 2.62423. Crotch Loss: 1.81316. Head Loss: 2.99870. Laplacian Loss: 9.34016. 
+The test reconstruction loss is 0.3074
+
+Epoch: 481/1000, Loss: 790.78417, Time: 30.3
+Recon Loss: 16599.27745. KL Loss: 410.56803. Height Loss: 2.15923. Waist Loss: 2.74571. Chest Loss: 2.15456. Hip Loss: 2.19251. Arm Loss: 2.61919. Crotch Loss: 1.80803. Head Loss: 3.00065. Laplacian Loss: 9.33866. 
+The test reconstruction loss is 0.3073
+
+Epoch: 482/1000, Loss: 788.57402, Time: 30.4
+Recon Loss: 16604.93750. KL Loss: 410.96542. Height Loss: 2.16015. Waist Loss: 2.73722. Chest Loss: 2.15333. Hip Loss: 2.18686. Arm Loss: 2.61799. Crotch Loss: 1.81244. Head Loss: 2.99644. Laplacian Loss: 9.33425. 
+The test reconstruction loss is 0.3073
+
+Epoch: 483/1000, Loss: 785.36166, Time: 30.5
+Recon Loss: 16587.64922. KL Loss: 410.75799. Height Loss: 2.15993. Waist Loss: 2.73644. Chest Loss: 2.15221. Hip Loss: 2.18951. Arm Loss: 2.61332. Crotch Loss: 1.81014. Head Loss: 2.98646. Laplacian Loss: 9.32701. 
+The test reconstruction loss is 0.3069
+
+Epoch: 484/1000, Loss: 782.90780, Time: 30.4
+Recon Loss: 16587.07565. KL Loss: 410.51170. Height Loss: 2.15771. Waist Loss: 2.73946. Chest Loss: 2.15299. Hip Loss: 2.19122. Arm Loss: 2.61073. Crotch Loss: 1.80958. Head Loss: 2.98337. Laplacian Loss: 9.32923. 
+The test reconstruction loss is 0.3070
+
+Epoch: 485/1000, Loss: 780.37370, Time: 30.4
+Recon Loss: 16585.02985. KL Loss: 410.09594. Height Loss: 2.15680. Waist Loss: 2.73664. Chest Loss: 2.14836. Hip Loss: 2.19007. Arm Loss: 2.61052. Crotch Loss: 1.81037. Head Loss: 2.97911. Laplacian Loss: 9.32336. 
+The test reconstruction loss is 0.3071
+
+Epoch: 486/1000, Loss: 777.92208, Time: 30.4
+Recon Loss: 16584.13196. KL Loss: 409.91783. Height Loss: 2.15444. Waist Loss: 2.73464. Chest Loss: 2.14612. Hip Loss: 2.18759. Arm Loss: 2.60814. Crotch Loss: 1.80395. Head Loss: 2.98645. Laplacian Loss: 9.32486. 
+The test reconstruction loss is 0.3070
+
+Epoch: 487/1000, Loss: 775.33147, Time: 30.5
+Recon Loss: 16579.78048. KL Loss: 409.71761. Height Loss: 2.15688. Waist Loss: 2.73106. Chest Loss: 2.14351. Hip Loss: 2.18612. Arm Loss: 2.61002. Crotch Loss: 1.80922. Head Loss: 2.97823. Laplacian Loss: 9.31775. 
+The test reconstruction loss is 0.3071
+
+Epoch: 488/1000, Loss: 773.09070, Time: 30.4
+Recon Loss: 16583.67055. KL Loss: 409.68390. Height Loss: 2.15471. Waist Loss: 2.73015. Chest Loss: 2.14044. Hip Loss: 2.18383. Arm Loss: 2.60296. Crotch Loss: 1.80303. Head Loss: 2.97663. Laplacian Loss: 9.31799. 
+The test reconstruction loss is 0.3070
+
+Epoch: 489/1000, Loss: 770.52833, Time: 30.4
+Recon Loss: 16578.80997. KL Loss: 409.88875. Height Loss: 2.15100. Waist Loss: 2.72857. Chest Loss: 2.14043. Hip Loss: 2.18561. Arm Loss: 2.60280. Crotch Loss: 1.80417. Head Loss: 2.97631. Laplacian Loss: 9.31699. 
+The test reconstruction loss is 0.3068
+
+Epoch: 490/1000, Loss: 767.96384, Time: 30.4
+Recon Loss: 16574.54355. KL Loss: 409.04794. Height Loss: 2.15245. Waist Loss: 2.72892. Chest Loss: 2.14010. Hip Loss: 2.18184. Arm Loss: 2.60179. Crotch Loss: 1.80503. Head Loss: 2.97460. Laplacian Loss: 9.31668. 
+The test reconstruction loss is 0.3071
+
+Epoch: 491/1000, Loss: 765.73953, Time: 30.4
+Recon Loss: 16577.93953. KL Loss: 408.93745. Height Loss: 2.14887. Waist Loss: 2.72557. Chest Loss: 2.13802. Hip Loss: 2.17917. Arm Loss: 2.60292. Crotch Loss: 1.80400. Head Loss: 2.97381. Laplacian Loss: 9.30969. 
+The test reconstruction loss is 0.3070
+
+Epoch: 492/1000, Loss: 763.23160, Time: 30.3
+Recon Loss: 16573.83527. KL Loss: 409.19085. Height Loss: 2.14938. Waist Loss: 2.72187. Chest Loss: 2.13453. Hip Loss: 2.17766. Arm Loss: 2.60001. Crotch Loss: 1.80565. Head Loss: 2.97451. Laplacian Loss: 9.30397. 
+The test reconstruction loss is 0.3068
+
+Epoch: 493/1000, Loss: 761.04666, Time: 30.4
+Recon Loss: 16577.73102. KL Loss: 409.00487. Height Loss: 2.14809. Waist Loss: 2.71712. Chest Loss: 2.13446. Hip Loss: 2.17492. Arm Loss: 2.59593. Crotch Loss: 1.80288. Head Loss: 2.96827. Laplacian Loss: 9.30675. 
+The test reconstruction loss is 0.3072
+
+Epoch: 494/1000, Loss: 758.45154, Time: 30.4
+Recon Loss: 16571.30211. KL Loss: 408.70215. Height Loss: 2.14403. Waist Loss: 2.71531. Chest Loss: 2.13094. Hip Loss: 2.17640. Arm Loss: 2.59288. Crotch Loss: 1.80271. Head Loss: 2.97748. Laplacian Loss: 9.29933. 
+The test reconstruction loss is 0.3069
+
+Epoch: 495/1000, Loss: 756.14834, Time: 30.3
+Recon Loss: 16571.50718. KL Loss: 408.27095. Height Loss: 2.14561. Waist Loss: 2.71184. Chest Loss: 2.13183. Hip Loss: 2.17311. Arm Loss: 2.59692. Crotch Loss: 1.80433. Head Loss: 2.96941. Laplacian Loss: 9.30337. 
+The test reconstruction loss is 0.3072
+
+Epoch: 496/1000, Loss: 753.81887, Time: 30.4
+Recon Loss: 16571.36974. KL Loss: 408.63991. Height Loss: 2.14069. Waist Loss: 2.70745. Chest Loss: 2.12757. Hip Loss: 2.17315. Arm Loss: 2.58845. Crotch Loss: 1.80222. Head Loss: 2.96384. Laplacian Loss: 9.28999. 
+The test reconstruction loss is 0.3069
+
+Epoch: 497/1000, Loss: 751.51343, Time: 30.4
+Recon Loss: 16570.87020. KL Loss: 408.68870. Height Loss: 2.13540. Waist Loss: 2.70571. Chest Loss: 2.12424. Hip Loss: 2.16942. Arm Loss: 2.59366. Crotch Loss: 1.79698. Head Loss: 2.96051. Laplacian Loss: 9.29652. 
+The test reconstruction loss is 0.3068
+
+Epoch: 498/1000, Loss: 748.95250, Time: 30.3
+Recon Loss: 16564.55753. KL Loss: 408.42977. Height Loss: 2.13757. Waist Loss: 2.70481. Chest Loss: 2.12255. Hip Loss: 2.16911. Arm Loss: 2.58378. Crotch Loss: 1.79466. Head Loss: 2.95490. Laplacian Loss: 9.28981. 
+The test reconstruction loss is 0.3068
+
+Epoch: 499/1000, Loss: 746.82825, Time: 30.4
+Recon Loss: 16568.05363. KL Loss: 408.16465. Height Loss: 2.13600. Waist Loss: 2.69875. Chest Loss: 2.12082. Hip Loss: 2.16551. Arm Loss: 2.58492. Crotch Loss: 1.79636. Head Loss: 2.96038. Laplacian Loss: 9.28777. 
+The test reconstruction loss is 0.3071
+
+Epoch: 500/1000, Loss: 744.60507, Time: 30.4
+Recon Loss: 16569.11891. KL Loss: 408.02559. Height Loss: 2.13228. Waist Loss: 2.69568. Chest Loss: 2.11726. Hip Loss: 2.16400. Arm Loss: 2.57967. Crotch Loss: 1.79561. Head Loss: 2.96537. Laplacian Loss: 9.28563. 
+The test reconstruction loss is 0.3074
+
+Epoch: 501/1000, Loss: 742.28526, Time: 30.5
+Recon Loss: 16567.35790. KL Loss: 407.84349. Height Loss: 2.13218. Waist Loss: 2.69780. Chest Loss: 2.11507. Hip Loss: 2.16384. Arm Loss: 2.57968. Crotch Loss: 1.79659. Head Loss: 2.96237. Laplacian Loss: 9.27852. 
+The test reconstruction loss is 0.3067
+

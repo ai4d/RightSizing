@@ -1,0 +1,39 @@
+dataset: "human-body2"
+template: "template2.ply"
+
+# This is used to define which training model we are going to use
+model_name: "vae_coma"
+
+# batch size
+batch_size: 32
+
+# down-sampling parameter
+ds_factor: [4, 4, 4, 4]
+
+# model parameters
+model:
+    latent_channels: 8
+    in_channels: 3
+    out_channels: [16, 16, 16, 32]
+    K: 6
+    # number
+
+
+# optimizer parameters
+lr: 0.0001
+weight_decay: 0.001
+betas: (0.9, 0.999)
+
+
+# training parameters
+trainer: "trainer16"
+epochs: 1000
+# loss parameters
+reduce: "mean"
+# if reduce == sum, we need to set the alpha and beta to be 1
+# for reconstruction loss
+alpha: 500
+# for KL divergence
+beta_start: 0.01
+beta_end: 1
+beta_anneal_epochs: 100

@@ -1,0 +1,1800 @@
+Epoch: 001/050, Train Loss: 3.12338, Duration: 1.74918
+Height Loss: 11.49199. Arm Loss: 8.52810. Crotch Loss: 8.96580.
+Chest Loss: 49.62136. Hip Loss: 48.48763. Waist Loss: 57.39664
+Epoch: 002/050, Train Loss: 1.44191, Duration: 0.97222
+Height Loss: 9.99752. Arm Loss: 7.99568. Crotch Loss: 6.56875.
+Chest Loss: 21.50556. Hip Loss: 33.25152. Waist Loss: 25.75312
+Epoch: 003/050, Train Loss: 0.90816, Duration: 0.98448
+Height Loss: 8.08706. Arm Loss: 5.70454. Crotch Loss: 5.55415.
+Chest Loss: 14.27796. Hip Loss: 19.54047. Waist Loss: 19.89573
+Epoch: 004/050, Train Loss: 0.71543, Duration: 0.97259
+Height Loss: 7.10611. Arm Loss: 4.84554. Crotch Loss: 5.29361.
+Chest Loss: 11.16395. Hip Loss: 13.34611. Waist Loss: 16.84242
+Epoch: 005/050, Train Loss: 0.61679, Duration: 0.97926
+Height Loss: 7.51466. Arm Loss: 4.30802. Crotch Loss: 4.51789.
+Chest Loss: 9.76796. Hip Loss: 10.07273. Waist Loss: 15.93834
+Epoch: 006/050, Train Loss: 0.56214, Duration: 1.03442
+Height Loss: 6.87572. Arm Loss: 4.04997. Crotch Loss: 3.96985.
+Chest Loss: 8.62586. Hip Loss: 8.46574. Waist Loss: 15.08972
+Epoch: 007/050, Train Loss: 0.52472, Duration: 0.98995
+Height Loss: 6.55061. Arm Loss: 3.90095. Crotch Loss: 3.50531.
+Chest Loss: 7.80216. Hip Loss: 7.66183. Waist Loss: 14.23038
+Epoch: 008/050, Train Loss: 0.49690, Duration: 0.98174
+Height Loss: 6.25384. Arm Loss: 3.81234. Crotch Loss: 3.24598.
+Chest Loss: 7.16946. Hip Loss: 7.26270. Waist Loss: 13.39295
+Epoch: 009/050, Train Loss: 0.47454, Duration: 0.96941
+Height Loss: 6.12306. Arm Loss: 3.75789. Crotch Loss: 3.08444.
+Chest Loss: 6.74206. Hip Loss: 6.99286. Waist Loss: 12.76554
+Epoch: 010/050, Train Loss: 0.45608, Duration: 0.97271
+Height Loss: 6.04836. Arm Loss: 3.70996. Crotch Loss: 2.95642.
+Chest Loss: 6.41870. Hip Loss: 6.74237. Waist Loss: 12.24371
+Epoch: 011/050, Train Loss: 0.44003, Duration: 0.97676
+Height Loss: 5.99568. Arm Loss: 3.65754. Crotch Loss: 2.82063.
+Chest Loss: 6.15800. Hip Loss: 6.50283. Waist Loss: 11.77436
+Epoch: 012/050, Train Loss: 0.42557, Duration: 0.97013
+Height Loss: 5.94189. Arm Loss: 3.59977. Crotch Loss: 2.67550.
+Chest Loss: 5.93154. Hip Loss: 6.28397. Waist Loss: 11.34074
+Epoch: 013/050, Train Loss: 0.41229, Duration: 0.97570
+Height Loss: 5.88756. Arm Loss: 3.54336. Crotch Loss: 2.52911.
+Chest Loss: 5.73087. Hip Loss: 6.07677. Waist Loss: 10.94481
+Epoch: 014/050, Train Loss: 0.40002, Duration: 0.98507
+Height Loss: 5.83530. Arm Loss: 3.49359. Crotch Loss: 2.39375.
+Chest Loss: 5.55016. Hip Loss: 5.88055. Waist Loss: 10.59442
+Epoch: 015/050, Train Loss: 0.38872, Duration: 0.98548
+Height Loss: 5.78247. Arm Loss: 3.45130. Crotch Loss: 2.27248.
+Chest Loss: 5.38534. Hip Loss: 5.69300. Waist Loss: 10.29406
+Epoch: 016/050, Train Loss: 0.37831, Duration: 0.95397
+Height Loss: 5.72044. Arm Loss: 3.41359. Crotch Loss: 2.16114.
+Chest Loss: 5.23139. Hip Loss: 5.51222. Waist Loss: 10.03960
+Epoch: 017/050, Train Loss: 0.36867, Duration: 0.95140
+Height Loss: 5.64751. Arm Loss: 3.37816. Crotch Loss: 2.05665.
+Chest Loss: 5.08475. Hip Loss: 5.33832. Waist Loss: 9.82343
+Epoch: 018/050, Train Loss: 0.35976, Duration: 0.92795
+Height Loss: 5.57254. Arm Loss: 3.34443. Crotch Loss: 1.96163.
+Chest Loss: 4.94366. Hip Loss: 5.17119. Waist Loss: 9.63913
+Epoch: 019/050, Train Loss: 0.35155, Duration: 0.92416
+Height Loss: 5.50518. Arm Loss: 3.31143. Crotch Loss: 1.87980.
+Chest Loss: 4.80696. Hip Loss: 5.01136. Waist Loss: 9.48132
+Epoch: 020/050, Train Loss: 0.34402, Duration: 0.92415
+Height Loss: 5.44547. Arm Loss: 3.27672. Crotch Loss: 1.81061.
+Chest Loss: 4.67332. Hip Loss: 4.86021. Waist Loss: 9.34415
+Epoch: 021/050, Train Loss: 0.33704, Duration: 0.92295
+Height Loss: 5.38469. Arm Loss: 3.23812. Crotch Loss: 1.74971.
+Chest Loss: 4.54155. Hip Loss: 4.71891. Waist Loss: 9.22282
+Epoch: 022/050, Train Loss: 0.33044, Duration: 0.92419
+Height Loss: 5.31294. Arm Loss: 3.19542. Crotch Loss: 1.69242.
+Chest Loss: 4.41131. Hip Loss: 4.58797. Waist Loss: 9.11383
+Epoch: 023/050, Train Loss: 0.32411, Duration: 0.93841
+Height Loss: 5.22620. Arm Loss: 3.15005. Crotch Loss: 1.63673.
+Chest Loss: 4.28291. Hip Loss: 4.46733. Waist Loss: 9.01459
+Epoch: 024/050, Train Loss: 0.31804, Duration: 0.93752
+Height Loss: 5.12696. Arm Loss: 3.10439. Crotch Loss: 1.58379.
+Chest Loss: 4.15715. Hip Loss: 4.35639. Waist Loss: 8.92303
+Epoch: 025/050, Train Loss: 0.31229, Duration: 0.93247
+Height Loss: 5.02178. Arm Loss: 3.06159. Crotch Loss: 1.53664.
+Chest Loss: 4.03548. Hip Loss: 4.25459. Waist Loss: 8.83806
+Epoch: 026/050, Train Loss: 0.30696, Duration: 0.93253
+Height Loss: 4.91844. Arm Loss: 3.02512. Crotch Loss: 1.49865.
+Chest Loss: 3.92001. Hip Loss: 4.16137. Waist Loss: 8.75943
+Epoch: 027/050, Train Loss: 0.30215, Duration: 0.96300
+Height Loss: 4.82404. Arm Loss: 2.99762. Crotch Loss: 1.47194.
+Chest Loss: 3.81316. Hip Loss: 4.07533. Waist Loss: 8.68703
+Epoch: 028/050, Train Loss: 0.29789, Duration: 0.94321
+Height Loss: 4.74181. Arm Loss: 2.97938. Crotch Loss: 1.45550.
+Chest Loss: 3.71654. Hip Loss: 3.99495. Waist Loss: 8.62063
+Epoch: 029/050, Train Loss: 0.29414, Duration: 0.93609
+Height Loss: 4.66951. Arm Loss: 2.96786. Crotch Loss: 1.44543.
+Chest Loss: 3.63091. Hip Loss: 3.91888. Waist Loss: 8.56007
+Epoch: 030/050, Train Loss: 0.29080, Duration: 0.93987
+Height Loss: 4.60148. Arm Loss: 2.95935. Crotch Loss: 1.43689.
+Chest Loss: 3.55610. Hip Loss: 3.84667. Waist Loss: 8.50456
+Epoch: 031/050, Train Loss: 0.28775, Duration: 0.93886
+Height Loss: 4.53284. Arm Loss: 2.95079. Crotch Loss: 1.42595.
+Chest Loss: 3.49121. Hip Loss: 3.77814. Waist Loss: 8.45314
+Epoch: 032/050, Train Loss: 0.28489, Duration: 0.94602
+Height Loss: 4.46151. Arm Loss: 2.94076. Crotch Loss: 1.41061.
+Chest Loss: 3.43526. Hip Loss: 3.71302. Waist Loss: 8.40504
+Epoch: 033/050, Train Loss: 0.28212, Duration: 0.94824
+Height Loss: 4.38849. Arm Loss: 2.92941. Crotch Loss: 1.39083.
+Chest Loss: 3.38733. Hip Loss: 3.65106. Waist Loss: 8.35983
+Epoch: 034/050, Train Loss: 0.27941, Duration: 0.93195
+Height Loss: 4.31705. Arm Loss: 2.91789. Crotch Loss: 1.36820.
+Chest Loss: 3.34656. Hip Loss: 3.59191. Waist Loss: 8.31746
+Epoch: 035/050, Train Loss: 0.27676, Duration: 0.94665
+Height Loss: 4.25116. Arm Loss: 2.90752. Crotch Loss: 1.34495.
+Chest Loss: 3.31202. Hip Loss: 3.53555. Waist Loss: 8.27763
+Epoch: 036/050, Train Loss: 0.27418, Duration: 0.95615
+Height Loss: 4.19370. Arm Loss: 2.89911. Crotch Loss: 1.32273.
+Chest Loss: 3.28275. Hip Loss: 3.48181. Waist Loss: 8.23989
+Epoch: 037/050, Train Loss: 0.27173, Duration: 0.93246
+Height Loss: 4.14574. Arm Loss: 2.89270. Crotch Loss: 1.30215.
+Chest Loss: 3.25783. Hip Loss: 3.43052. Waist Loss: 8.20349
+Epoch: 038/050, Train Loss: 0.26941, Duration: 0.93323
+Height Loss: 4.10677. Arm Loss: 2.88762. Crotch Loss: 1.28295.
+Chest Loss: 3.23641. Hip Loss: 3.38146. Waist Loss: 8.16783
+Epoch: 039/050, Train Loss: 0.26724, Duration: 0.93380
+Height Loss: 4.07526. Arm Loss: 2.88291. Crotch Loss: 1.26442.
+Chest Loss: 3.21782. Hip Loss: 3.33462. Waist Loss: 8.13240
+Epoch: 040/050, Train Loss: 0.26520, Duration: 0.95437
+Height Loss: 4.04938. Arm Loss: 2.87773. Crotch Loss: 1.24590.
+Chest Loss: 3.20155. Hip Loss: 3.28992. Waist Loss: 8.09690
+Epoch: 041/050, Train Loss: 0.26326, Duration: 0.93734
+Height Loss: 4.02759. Arm Loss: 2.87166. Crotch Loss: 1.22708.
+Chest Loss: 3.18711. Hip Loss: 3.24712. Waist Loss: 8.06118
+Epoch: 042/050, Train Loss: 0.26142, Duration: 0.94897
+Height Loss: 4.00889. Arm Loss: 2.86471. Crotch Loss: 1.20810.
+Chest Loss: 3.17411. Hip Loss: 3.20605. Waist Loss: 8.02505
+Epoch: 043/050, Train Loss: 0.25967, Duration: 0.93876
+Height Loss: 3.99283. Arm Loss: 2.85716. Crotch Loss: 1.18932.
+Chest Loss: 3.16231. Hip Loss: 3.16640. Waist Loss: 7.98845
+Epoch: 044/050, Train Loss: 0.25799, Duration: 0.93897
+Height Loss: 3.97932. Arm Loss: 2.84929. Crotch Loss: 1.17118.
+Chest Loss: 3.15142. Hip Loss: 3.12777. Waist Loss: 7.95142
+Epoch: 045/050, Train Loss: 0.25638, Duration: 0.94041
+Height Loss: 3.96852. Arm Loss: 2.84133. Crotch Loss: 1.15397.
+Chest Loss: 3.14122. Hip Loss: 3.08977. Waist Loss: 7.91410
+Epoch: 046/050, Train Loss: 0.25485, Duration: 0.93681
+Height Loss: 3.96062. Arm Loss: 2.83345. Crotch Loss: 1.13795.
+Chest Loss: 3.13161. Hip Loss: 3.05210. Waist Loss: 7.87657
+Epoch: 047/050, Train Loss: 0.25338, Duration: 0.93567
+Height Loss: 3.95594. Arm Loss: 2.82584. Crotch Loss: 1.12344.
+Chest Loss: 3.12252. Hip Loss: 3.01443. Waist Loss: 7.83909
+Epoch: 048/050, Train Loss: 0.25199, Duration: 0.94257
+Height Loss: 3.95479. Arm Loss: 2.81872. Crotch Loss: 1.11078.
+Chest Loss: 3.11391. Hip Loss: 2.97659. Waist Loss: 7.80205
+Epoch: 049/050, Train Loss: 0.25065, Duration: 0.94442
+Height Loss: 3.95734. Arm Loss: 2.81231. Crotch Loss: 1.10042.
+Chest Loss: 3.10576. Hip Loss: 2.93853. Waist Loss: 7.76582
+Epoch: 050/050, Train Loss: 0.24938, Duration: 0.94266
+Height Loss: 3.96363. Arm Loss: 2.80679. Crotch Loss: 1.09280.
+Chest Loss: 3.09809. Hip Loss: 2.90050. Waist Loss: 7.73084
+Epoch: 001/100, Train Loss: 3.12338, Duration: 1.67340
+Height Loss: 11.49199. Arm Loss: 8.52810. Crotch Loss: 8.96580.
+Chest Loss: 49.62136. Hip Loss: 48.48763. Waist Loss: 57.39664
+Epoch: 002/100, Train Loss: 1.44191, Duration: 0.96393
+Height Loss: 9.99751. Arm Loss: 7.99568. Crotch Loss: 6.56875.
+Chest Loss: 21.50556. Hip Loss: 33.25152. Waist Loss: 25.75312
+Epoch: 003/100, Train Loss: 0.90816, Duration: 0.96334
+Height Loss: 8.08706. Arm Loss: 5.70454. Crotch Loss: 5.55415.
+Chest Loss: 14.27796. Hip Loss: 19.54047. Waist Loss: 19.89572
+Epoch: 004/100, Train Loss: 0.71543, Duration: 0.97381
+Height Loss: 7.10611. Arm Loss: 4.84554. Crotch Loss: 5.29361.
+Chest Loss: 11.16395. Hip Loss: 13.34612. Waist Loss: 16.84242
+Epoch: 005/100, Train Loss: 0.61679, Duration: 0.97757
+Height Loss: 7.51465. Arm Loss: 4.30802. Crotch Loss: 4.51789.
+Chest Loss: 9.76795. Hip Loss: 10.07273. Waist Loss: 15.93835
+Epoch: 006/100, Train Loss: 0.56214, Duration: 1.03411
+Height Loss: 6.87572. Arm Loss: 4.04997. Crotch Loss: 3.96985.
+Chest Loss: 8.62586. Hip Loss: 8.46574. Waist Loss: 15.08972
+Epoch: 007/100, Train Loss: 0.52472, Duration: 0.97864
+Height Loss: 6.55061. Arm Loss: 3.90095. Crotch Loss: 3.50531.
+Chest Loss: 7.80216. Hip Loss: 7.66182. Waist Loss: 14.23038
+Epoch: 008/100, Train Loss: 0.49690, Duration: 0.97302
+Height Loss: 6.25384. Arm Loss: 3.81234. Crotch Loss: 3.24598.
+Chest Loss: 7.16946. Hip Loss: 7.26270. Waist Loss: 13.39295
+Epoch: 009/100, Train Loss: 0.47454, Duration: 0.96770
+Height Loss: 6.12306. Arm Loss: 3.75789. Crotch Loss: 3.08444.
+Chest Loss: 6.74206. Hip Loss: 6.99286. Waist Loss: 12.76554
+Epoch: 010/100, Train Loss: 0.45608, Duration: 0.96645
+Height Loss: 6.04836. Arm Loss: 3.70996. Crotch Loss: 2.95642.
+Chest Loss: 6.41870. Hip Loss: 6.74237. Waist Loss: 12.24371
+Epoch: 011/100, Train Loss: 0.44003, Duration: 0.97476
+Height Loss: 5.99568. Arm Loss: 3.65754. Crotch Loss: 2.82063.
+Chest Loss: 6.15800. Hip Loss: 6.50283. Waist Loss: 11.77436
+Epoch: 012/100, Train Loss: 0.42557, Duration: 0.96738
+Height Loss: 5.94189. Arm Loss: 3.59977. Crotch Loss: 2.67550.
+Chest Loss: 5.93154. Hip Loss: 6.28397. Waist Loss: 11.34074
+Epoch: 013/100, Train Loss: 0.41229, Duration: 0.96977
+Height Loss: 5.88756. Arm Loss: 3.54336. Crotch Loss: 2.52911.
+Chest Loss: 5.73086. Hip Loss: 6.07677. Waist Loss: 10.94481
+Epoch: 014/100, Train Loss: 0.40002, Duration: 0.97130
+Height Loss: 5.83530. Arm Loss: 3.49359. Crotch Loss: 2.39375.
+Chest Loss: 5.55016. Hip Loss: 5.88055. Waist Loss: 10.59442
+Epoch: 015/100, Train Loss: 0.38872, Duration: 0.96913
+Height Loss: 5.78247. Arm Loss: 3.45130. Crotch Loss: 2.27248.
+Chest Loss: 5.38534. Hip Loss: 5.69300. Waist Loss: 10.29406
+Epoch: 016/100, Train Loss: 0.37831, Duration: 0.96881
+Height Loss: 5.72044. Arm Loss: 3.41359. Crotch Loss: 2.16114.
+Chest Loss: 5.23139. Hip Loss: 5.51222. Waist Loss: 10.03960
+Epoch: 017/100, Train Loss: 0.36867, Duration: 0.97020
+Height Loss: 5.64751. Arm Loss: 3.37816. Crotch Loss: 2.05665.
+Chest Loss: 5.08475. Hip Loss: 5.33832. Waist Loss: 9.82343
+Epoch: 018/100, Train Loss: 0.35976, Duration: 0.97230
+Height Loss: 5.57253. Arm Loss: 3.34443. Crotch Loss: 1.96163.
+Chest Loss: 4.94366. Hip Loss: 5.17119. Waist Loss: 9.63913
+Epoch: 019/100, Train Loss: 0.35155, Duration: 0.97443
+Height Loss: 5.50517. Arm Loss: 3.31143. Crotch Loss: 1.87980.
+Chest Loss: 4.80696. Hip Loss: 5.01136. Waist Loss: 9.48132
+Epoch: 020/100, Train Loss: 0.34402, Duration: 0.98095
+Height Loss: 5.44547. Arm Loss: 3.27672. Crotch Loss: 1.81061.
+Chest Loss: 4.67332. Hip Loss: 4.86021. Waist Loss: 9.34415
+Epoch: 021/100, Train Loss: 0.33704, Duration: 0.97774
+Height Loss: 5.38468. Arm Loss: 3.23812. Crotch Loss: 1.74971.
+Chest Loss: 4.54155. Hip Loss: 4.71891. Waist Loss: 9.22282
+Epoch: 022/100, Train Loss: 0.33044, Duration: 0.98000
+Height Loss: 5.31294. Arm Loss: 3.19542. Crotch Loss: 1.69242.
+Chest Loss: 4.41131. Hip Loss: 4.58797. Waist Loss: 9.11383
+Epoch: 023/100, Train Loss: 0.32411, Duration: 0.97979
+Height Loss: 5.22620. Arm Loss: 3.15005. Crotch Loss: 1.63673.
+Chest Loss: 4.28291. Hip Loss: 4.46733. Waist Loss: 9.01459
+Epoch: 024/100, Train Loss: 0.31804, Duration: 0.97570
+Height Loss: 5.12696. Arm Loss: 3.10439. Crotch Loss: 1.58379.
+Chest Loss: 4.15715. Hip Loss: 4.35639. Waist Loss: 8.92303
+Epoch: 025/100, Train Loss: 0.31229, Duration: 0.98001
+Height Loss: 5.02178. Arm Loss: 3.06159. Crotch Loss: 1.53664.
+Chest Loss: 4.03548. Hip Loss: 4.25459. Waist Loss: 8.83806
+Epoch: 026/100, Train Loss: 0.30696, Duration: 0.97596
+Height Loss: 4.91844. Arm Loss: 3.02512. Crotch Loss: 1.49865.
+Chest Loss: 3.92001. Hip Loss: 4.16137. Waist Loss: 8.75943
+Epoch: 027/100, Train Loss: 0.30215, Duration: 0.97616
+Height Loss: 4.82404. Arm Loss: 2.99762. Crotch Loss: 1.47194.
+Chest Loss: 3.81316. Hip Loss: 4.07533. Waist Loss: 8.68703
+Epoch: 028/100, Train Loss: 0.29789, Duration: 0.98813
+Height Loss: 4.74181. Arm Loss: 2.97938. Crotch Loss: 1.45550.
+Chest Loss: 3.71654. Hip Loss: 3.99495. Waist Loss: 8.62062
+Epoch: 029/100, Train Loss: 0.29414, Duration: 0.97616
+Height Loss: 4.66951. Arm Loss: 2.96786. Crotch Loss: 1.44543.
+Chest Loss: 3.63091. Hip Loss: 3.91888. Waist Loss: 8.56007
+Epoch: 030/100, Train Loss: 0.29080, Duration: 0.97954
+Height Loss: 4.60148. Arm Loss: 2.95935. Crotch Loss: 1.43689.
+Chest Loss: 3.55610. Hip Loss: 3.84667. Waist Loss: 8.50456
+Epoch: 031/100, Train Loss: 0.28775, Duration: 0.98273
+Height Loss: 4.53284. Arm Loss: 2.95080. Crotch Loss: 1.42595.
+Chest Loss: 3.49121. Hip Loss: 3.77814. Waist Loss: 8.45314
+Epoch: 032/100, Train Loss: 0.28489, Duration: 0.97882
+Height Loss: 4.46151. Arm Loss: 2.94076. Crotch Loss: 1.41061.
+Chest Loss: 3.43526. Hip Loss: 3.71302. Waist Loss: 8.40504
+Epoch: 033/100, Train Loss: 0.28212, Duration: 0.98901
+Height Loss: 4.38849. Arm Loss: 2.92941. Crotch Loss: 1.39083.
+Chest Loss: 3.38733. Hip Loss: 3.65106. Waist Loss: 8.35983
+Epoch: 034/100, Train Loss: 0.27941, Duration: 0.98994
+Height Loss: 4.31705. Arm Loss: 2.91789. Crotch Loss: 1.36820.
+Chest Loss: 3.34657. Hip Loss: 3.59191. Waist Loss: 8.31746
+Epoch: 035/100, Train Loss: 0.27676, Duration: 0.99169
+Height Loss: 4.25116. Arm Loss: 2.90752. Crotch Loss: 1.34495.
+Chest Loss: 3.31202. Hip Loss: 3.53555. Waist Loss: 8.27763
+Epoch: 036/100, Train Loss: 0.27418, Duration: 0.98097
+Height Loss: 4.19370. Arm Loss: 2.89911. Crotch Loss: 1.32273.
+Chest Loss: 3.28275. Hip Loss: 3.48181. Waist Loss: 8.23989
+Epoch: 037/100, Train Loss: 0.27173, Duration: 0.97970
+Height Loss: 4.14574. Arm Loss: 2.89270. Crotch Loss: 1.30215.
+Chest Loss: 3.25783. Hip Loss: 3.43052. Waist Loss: 8.20349
+Epoch: 038/100, Train Loss: 0.26941, Duration: 0.98268
+Height Loss: 4.10677. Arm Loss: 2.88762. Crotch Loss: 1.28295.
+Chest Loss: 3.23641. Hip Loss: 3.38147. Waist Loss: 8.16783
+Epoch: 039/100, Train Loss: 0.26724, Duration: 0.98955
+Height Loss: 4.07526. Arm Loss: 2.88291. Crotch Loss: 1.26442.
+Chest Loss: 3.21782. Hip Loss: 3.33462. Waist Loss: 8.13240
+Epoch: 040/100, Train Loss: 0.26520, Duration: 0.98494
+Height Loss: 4.04938. Arm Loss: 2.87773. Crotch Loss: 1.24590.
+Chest Loss: 3.20155. Hip Loss: 3.28992. Waist Loss: 8.09690
+Epoch: 041/100, Train Loss: 0.26326, Duration: 0.97652
+Height Loss: 4.02759. Arm Loss: 2.87166. Crotch Loss: 1.22708.
+Chest Loss: 3.18711. Hip Loss: 3.24712. Waist Loss: 8.06118
+Epoch: 042/100, Train Loss: 0.26142, Duration: 0.97658
+Height Loss: 4.00889. Arm Loss: 2.86471. Crotch Loss: 1.20810.
+Chest Loss: 3.17411. Hip Loss: 3.20605. Waist Loss: 8.02505
+Epoch: 043/100, Train Loss: 0.25967, Duration: 0.97940
+Height Loss: 3.99283. Arm Loss: 2.85716. Crotch Loss: 1.18932.
+Chest Loss: 3.16231. Hip Loss: 3.16640. Waist Loss: 7.98845
+Epoch: 044/100, Train Loss: 0.25799, Duration: 0.98535
+Height Loss: 3.97932. Arm Loss: 2.84929. Crotch Loss: 1.17118.
+Chest Loss: 3.15142. Hip Loss: 3.12777. Waist Loss: 7.95142
+Epoch: 045/100, Train Loss: 0.25638, Duration: 0.97998
+Height Loss: 3.96852. Arm Loss: 2.84133. Crotch Loss: 1.15397.
+Chest Loss: 3.14122. Hip Loss: 3.08977. Waist Loss: 7.91410
+Epoch: 046/100, Train Loss: 0.25485, Duration: 0.97634
+Height Loss: 3.96062. Arm Loss: 2.83345. Crotch Loss: 1.13795.
+Chest Loss: 3.13161. Hip Loss: 3.05209. Waist Loss: 7.87657
+Epoch: 047/100, Train Loss: 0.25338, Duration: 0.98011
+Height Loss: 3.95594. Arm Loss: 2.82584. Crotch Loss: 1.12344.
+Chest Loss: 3.12252. Hip Loss: 3.01443. Waist Loss: 7.83909
+Epoch: 048/100, Train Loss: 0.25199, Duration: 0.98168
+Height Loss: 3.95479. Arm Loss: 2.81872. Crotch Loss: 1.11078.
+Chest Loss: 3.11391. Hip Loss: 2.97659. Waist Loss: 7.80205
+Epoch: 049/100, Train Loss: 0.25065, Duration: 0.97767
+Height Loss: 3.95734. Arm Loss: 2.81231. Crotch Loss: 1.10042.
+Chest Loss: 3.10576. Hip Loss: 2.93853. Waist Loss: 7.76582
+Epoch: 050/100, Train Loss: 0.24938, Duration: 0.98923
+Height Loss: 3.96363. Arm Loss: 2.80679. Crotch Loss: 1.09280.
+Chest Loss: 3.09809. Hip Loss: 2.90050. Waist Loss: 7.73085
+Epoch: 051/100, Train Loss: 0.24817, Duration: 0.97727
+Height Loss: 3.97330. Arm Loss: 2.80237. Crotch Loss: 1.08823.
+Chest Loss: 3.09089. Hip Loss: 2.86306. Waist Loss: 7.69760
+Epoch: 052/100, Train Loss: 0.24700, Duration: 0.98309
+Height Loss: 3.98528. Arm Loss: 2.79918. Crotch Loss: 1.08678.
+Chest Loss: 3.08413. Hip Loss: 2.82722. Waist Loss: 7.66655
+Epoch: 053/100, Train Loss: 0.24586, Duration: 0.98252
+Height Loss: 3.99776. Arm Loss: 2.79709. Crotch Loss: 1.08797.
+Chest Loss: 3.07770. Hip Loss: 2.79408. Waist Loss: 7.63789
+Epoch: 054/100, Train Loss: 0.24473, Duration: 0.97983
+Height Loss: 4.00867. Arm Loss: 2.79563. Crotch Loss: 1.09083.
+Chest Loss: 3.07154. Hip Loss: 2.76453. Waist Loss: 7.61149
+Epoch: 055/100, Train Loss: 0.24360, Duration: 0.98468
+Height Loss: 4.01629. Arm Loss: 2.79389. Crotch Loss: 1.09410.
+Chest Loss: 3.06572. Hip Loss: 2.73880. Waist Loss: 7.58688
+Epoch: 056/100, Train Loss: 0.24244, Duration: 0.98123
+Height Loss: 4.02023. Arm Loss: 2.79092. Crotch Loss: 1.09672.
+Chest Loss: 3.06042. Hip Loss: 2.71641. Waist Loss: 7.56361
+Epoch: 057/100, Train Loss: 0.24125, Duration: 0.98102
+Height Loss: 4.02164. Arm Loss: 2.78610. Crotch Loss: 1.09822.
+Chest Loss: 3.05577. Hip Loss: 2.69654. Waist Loss: 7.54107
+Epoch: 058/100, Train Loss: 0.24005, Duration: 0.98173
+Height Loss: 4.02243. Arm Loss: 2.77937. Crotch Loss: 1.09867.
+Chest Loss: 3.05185. Hip Loss: 2.67829. Waist Loss: 7.51891
+Epoch: 059/100, Train Loss: 0.23885, Duration: 0.97778
+Height Loss: 4.02420. Arm Loss: 2.77109. Crotch Loss: 1.09832.
+Chest Loss: 3.04872. Hip Loss: 2.66084. Waist Loss: 7.49681
+Epoch: 060/100, Train Loss: 0.23769, Duration: 0.97634
+Height Loss: 4.02772. Arm Loss: 2.76187. Crotch Loss: 1.09744.
+Chest Loss: 3.04636. Hip Loss: 2.64372. Waist Loss: 7.47450
+Epoch: 061/100, Train Loss: 0.23657, Duration: 0.97826
+Height Loss: 4.03309. Arm Loss: 2.75220. Crotch Loss: 1.09615.
+Chest Loss: 3.04478. Hip Loss: 2.62683. Waist Loss: 7.45158
+Epoch: 062/100, Train Loss: 0.23550, Duration: 0.98244
+Height Loss: 4.04021. Arm Loss: 2.74252. Crotch Loss: 1.09456.
+Chest Loss: 3.04396. Hip Loss: 2.61037. Waist Loss: 7.42783
+Epoch: 063/100, Train Loss: 0.23446, Duration: 0.98472
+Height Loss: 4.04893. Arm Loss: 2.73302. Crotch Loss: 1.09269.
+Chest Loss: 3.04388. Hip Loss: 2.59480. Waist Loss: 7.40308
+Epoch: 064/100, Train Loss: 0.23347, Duration: 0.98972
+Height Loss: 4.05922. Arm Loss: 2.72391. Crotch Loss: 1.09062.
+Chest Loss: 3.04456. Hip Loss: 2.58059. Waist Loss: 7.37735
+Epoch: 065/100, Train Loss: 0.23251, Duration: 0.97725
+Height Loss: 4.07102. Arm Loss: 2.71531. Crotch Loss: 1.08833.
+Chest Loss: 3.04608. Hip Loss: 2.56809. Waist Loss: 7.35081
+Epoch: 066/100, Train Loss: 0.23158, Duration: 0.96982
+Height Loss: 4.08417. Arm Loss: 2.70732. Crotch Loss: 1.08584.
+Chest Loss: 3.04852. Hip Loss: 2.55736. Waist Loss: 7.32397
+Epoch: 067/100, Train Loss: 0.23067, Duration: 0.97321
+Height Loss: 4.09842. Arm Loss: 2.70008. Crotch Loss: 1.08305.
+Chest Loss: 3.05192. Hip Loss: 2.54804. Waist Loss: 7.29744
+Epoch: 068/100, Train Loss: 0.22978, Duration: 0.97889
+Height Loss: 4.11334. Arm Loss: 2.69371. Crotch Loss: 1.07986.
+Chest Loss: 3.05616. Hip Loss: 2.53914. Waist Loss: 7.27195
+Epoch: 069/100, Train Loss: 0.22891, Duration: 0.97822
+Height Loss: 4.12835. Arm Loss: 2.68828. Crotch Loss: 1.07609.
+Chest Loss: 3.06073. Hip Loss: 2.52924. Waist Loss: 7.24816
+Epoch: 070/100, Train Loss: 0.22805, Duration: 0.99244
+Height Loss: 4.14285. Arm Loss: 2.68382. Crotch Loss: 1.07159.
+Chest Loss: 3.06480. Hip Loss: 2.51693. Waist Loss: 7.22655
+Epoch: 071/100, Train Loss: 0.22720, Duration: 1.04294
+Height Loss: 4.15647. Arm Loss: 2.68028. Crotch Loss: 1.06632.
+Chest Loss: 3.06725. Hip Loss: 2.50146. Waist Loss: 7.20708
+Epoch: 072/100, Train Loss: 0.22635, Duration: 0.97895
+Height Loss: 4.16914. Arm Loss: 2.67756. Crotch Loss: 1.06036.
+Chest Loss: 3.06702. Hip Loss: 2.48320. Waist Loss: 7.18933
+Epoch: 073/100, Train Loss: 0.22552, Duration: 0.99147
+Height Loss: 4.18111. Arm Loss: 2.67544. Crotch Loss: 1.05389.
+Chest Loss: 3.06346. Hip Loss: 2.46363. Waist Loss: 7.17255
+Epoch: 074/100, Train Loss: 0.22469, Duration: 1.00369
+Height Loss: 4.19271. Arm Loss: 2.67361. Crotch Loss: 1.04720.
+Chest Loss: 3.05667. Hip Loss: 2.44474. Waist Loss: 7.15602
+Epoch: 075/100, Train Loss: 0.22387, Duration: 0.93839
+Height Loss: 4.20421. Arm Loss: 2.67178. Crotch Loss: 1.04054.
+Chest Loss: 3.04739. Hip Loss: 2.42834. Waist Loss: 7.13929
+Epoch: 076/100, Train Loss: 0.22307, Duration: 0.93397
+Height Loss: 4.21567. Arm Loss: 2.66968. Crotch Loss: 1.03413.
+Chest Loss: 3.03665. Hip Loss: 2.41564. Waist Loss: 7.12222
+Epoch: 077/100, Train Loss: 0.22229, Duration: 0.93846
+Height Loss: 4.22707. Arm Loss: 2.66720. Crotch Loss: 1.02811.
+Chest Loss: 3.02553. Hip Loss: 2.40723. Waist Loss: 7.10486
+Epoch: 078/100, Train Loss: 0.22153, Duration: 0.95754
+Height Loss: 4.23836. Arm Loss: 2.66429. Crotch Loss: 1.02258.
+Chest Loss: 3.01499. Hip Loss: 2.40333. Waist Loss: 7.08746
+Epoch: 079/100, Train Loss: 0.22079, Duration: 0.93833
+Height Loss: 4.24948. Arm Loss: 2.66087. Crotch Loss: 1.01754.
+Chest Loss: 3.00583. Hip Loss: 2.40402. Waist Loss: 7.07028
+Epoch: 080/100, Train Loss: 0.22007, Duration: 0.95278
+Height Loss: 4.26043. Arm Loss: 2.65698. Crotch Loss: 1.01301.
+Chest Loss: 2.99873. Hip Loss: 2.40929. Waist Loss: 7.05361
+Epoch: 081/100, Train Loss: 0.21938, Duration: 0.93476
+Height Loss: 4.27122. Arm Loss: 2.65257. Crotch Loss: 1.00898.
+Chest Loss: 2.99434. Hip Loss: 2.41912. Waist Loss: 7.03780
+Epoch: 082/100, Train Loss: 0.21871, Duration: 0.95097
+Height Loss: 4.28190. Arm Loss: 2.64761. Crotch Loss: 1.00546.
+Chest Loss: 2.99343. Hip Loss: 2.43349. Waist Loss: 7.02331
+Epoch: 083/100, Train Loss: 0.21806, Duration: 0.94776
+Height Loss: 4.29256. Arm Loss: 2.64209. Crotch Loss: 1.00244.
+Chest Loss: 2.99693. Hip Loss: 2.45231. Waist Loss: 7.01065
+Epoch: 084/100, Train Loss: 0.21745, Duration: 0.92531
+Height Loss: 4.30329. Arm Loss: 2.63599. Crotch Loss: 0.99994.
+Chest Loss: 3.00591. Hip Loss: 2.47523. Waist Loss: 7.00042
+Epoch: 085/100, Train Loss: 0.21687, Duration: 0.93887
+Height Loss: 4.31421. Arm Loss: 2.62932. Crotch Loss: 0.99800.
+Chest Loss: 3.02150. Hip Loss: 2.50150. Waist Loss: 6.99346
+Epoch: 086/100, Train Loss: 0.21632, Duration: 0.94280
+Height Loss: 4.32555. Arm Loss: 2.62213. Crotch Loss: 0.99670.
+Chest Loss: 3.04457. Hip Loss: 2.52952. Waist Loss: 6.99061
+Epoch: 087/100, Train Loss: 0.21580, Duration: 0.93749
+Height Loss: 4.33756. Arm Loss: 2.61455. Crotch Loss: 0.99614.
+Chest Loss: 3.07485. Hip Loss: 2.55637. Waist Loss: 6.99250
+Epoch: 088/100, Train Loss: 0.21530, Duration: 0.92802
+Height Loss: 4.35062. Arm Loss: 2.60682. Crotch Loss: 0.99649.
+Chest Loss: 3.10969. Hip Loss: 2.57735. Waist Loss: 6.99881
+Epoch: 089/100, Train Loss: 0.21480, Duration: 0.92949
+Height Loss: 4.36497. Arm Loss: 2.59931. Crotch Loss: 0.99790.
+Chest Loss: 3.14258. Hip Loss: 2.58605. Waist Loss: 7.00715
+Epoch: 090/100, Train Loss: 0.21425, Duration: 0.94740
+Height Loss: 4.38065. Arm Loss: 2.59257. Crotch Loss: 1.00045.
+Chest Loss: 3.16332. Hip Loss: 2.57582. Waist Loss: 7.01187
+Epoch: 091/100, Train Loss: 0.21361, Duration: 0.92995
+Height Loss: 4.39701. Arm Loss: 2.58708. Crotch Loss: 1.00395.
+Chest Loss: 3.16193. Hip Loss: 2.54323. Waist Loss: 7.00482
+Epoch: 092/100, Train Loss: 0.21281, Duration: 0.96158
+Height Loss: 4.41275. Arm Loss: 2.58317. Crotch Loss: 1.00783.
+Chest Loss: 3.13612. Hip Loss: 2.49203. Waist Loss: 6.98048
+Epoch: 093/100, Train Loss: 0.21184, Duration: 0.93072
+Height Loss: 4.42678. Arm Loss: 2.58088. Crotch Loss: 1.01135.
+Chest Loss: 3.09545. Hip Loss: 2.43296. Waist Loss: 6.94189
+Epoch: 094/100, Train Loss: 0.21077, Duration: 0.92782
+Height Loss: 4.43912. Arm Loss: 2.57983. Crotch Loss: 1.01393.
+Chest Loss: 3.05529. Hip Loss: 2.37793. Waist Loss: 6.89977
+Epoch: 095/100, Train Loss: 0.20968, Duration: 0.92704
+Height Loss: 4.45066. Arm Loss: 2.57920. Crotch Loss: 1.01548.
+Chest Loss: 3.02644. Hip Loss: 2.33367. Waist Loss: 6.86396
+Epoch: 096/100, Train Loss: 0.20866, Duration: 0.92853
+Height Loss: 4.46221. Arm Loss: 2.57812. Crotch Loss: 1.01634.
+Chest Loss: 3.01081. Hip Loss: 2.30063. Waist Loss: 6.83736
+Epoch: 097/100, Train Loss: 0.20774, Duration: 0.92906
+Height Loss: 4.47403. Arm Loss: 2.57603. Crotch Loss: 1.01690.
+Chest Loss: 3.00507. Hip Loss: 2.27617. Waist Loss: 6.81786
+Epoch: 098/100, Train Loss: 0.20691, Duration: 0.93114
+Height Loss: 4.48603. Arm Loss: 2.57275. Crotch Loss: 1.01741.
+Chest Loss: 3.00499. Hip Loss: 2.25742. Waist Loss: 6.80230
+Epoch: 099/100, Train Loss: 0.20615, Duration: 0.92610
+Height Loss: 4.49813. Arm Loss: 2.56846. Crotch Loss: 1.01798.
+Chest Loss: 3.00755. Hip Loss: 2.24246. Waist Loss: 6.78852
+Epoch: 100/100, Train Loss: 0.20542, Duration: 0.93640
+Height Loss: 4.51032. Arm Loss: 2.56354. Crotch Loss: 1.01869.
+Chest Loss: 3.01112. Hip Loss: 2.23020. Waist Loss: 6.77558
+Epoch: 001/300, Train Loss: 3.12338, Duration: 1.70870
+Height Loss: 11.49199. Arm Loss: 8.52810. Crotch Loss: 8.96580.
+Chest Loss: 49.62136. Hip Loss: 48.48763. Waist Loss: 57.39664
+Epoch: 002/300, Train Loss: 1.44191, Duration: 0.98863
+Height Loss: 9.99752. Arm Loss: 7.99568. Crotch Loss: 6.56875.
+Chest Loss: 21.50556. Hip Loss: 33.25152. Waist Loss: 25.75312
+Epoch: 003/300, Train Loss: 0.90816, Duration: 0.98528
+Height Loss: 8.08706. Arm Loss: 5.70454. Crotch Loss: 5.55415.
+Chest Loss: 14.27796. Hip Loss: 19.54046. Waist Loss: 19.89572
+Epoch: 004/300, Train Loss: 0.71543, Duration: 0.98423
+Height Loss: 7.10611. Arm Loss: 4.84554. Crotch Loss: 5.29361.
+Chest Loss: 11.16395. Hip Loss: 13.34611. Waist Loss: 16.84242
+Epoch: 005/300, Train Loss: 0.61679, Duration: 0.99790
+Height Loss: 7.51465. Arm Loss: 4.30802. Crotch Loss: 4.51789.
+Chest Loss: 9.76796. Hip Loss: 10.07273. Waist Loss: 15.93835
+Epoch: 006/300, Train Loss: 0.56214, Duration: 1.04002
+Height Loss: 6.87572. Arm Loss: 4.04997. Crotch Loss: 3.96985.
+Chest Loss: 8.62586. Hip Loss: 8.46574. Waist Loss: 15.08971
+Epoch: 007/300, Train Loss: 0.52472, Duration: 0.99155
+Height Loss: 6.55061. Arm Loss: 3.90095. Crotch Loss: 3.50531.
+Chest Loss: 7.80216. Hip Loss: 7.66183. Waist Loss: 14.23038
+Epoch: 008/300, Train Loss: 0.49690, Duration: 0.99098
+Height Loss: 6.25384. Arm Loss: 3.81234. Crotch Loss: 3.24598.
+Chest Loss: 7.16946. Hip Loss: 7.26270. Waist Loss: 13.39295
+Epoch: 009/300, Train Loss: 0.47454, Duration: 0.98978
+Height Loss: 6.12306. Arm Loss: 3.75789. Crotch Loss: 3.08444.
+Chest Loss: 6.74206. Hip Loss: 6.99286. Waist Loss: 12.76554
+Epoch: 010/300, Train Loss: 0.45608, Duration: 1.02205
+Height Loss: 6.04836. Arm Loss: 3.70996. Crotch Loss: 2.95642.
+Chest Loss: 6.41870. Hip Loss: 6.74237. Waist Loss: 12.24371
+Epoch: 011/300, Train Loss: 0.44003, Duration: 1.00159
+Height Loss: 5.99568. Arm Loss: 3.65754. Crotch Loss: 2.82063.
+Chest Loss: 6.15800. Hip Loss: 6.50283. Waist Loss: 11.77436
+Epoch: 012/300, Train Loss: 0.42557, Duration: 0.96481
+Height Loss: 5.94189. Arm Loss: 3.59977. Crotch Loss: 2.67550.
+Chest Loss: 5.93154. Hip Loss: 6.28398. Waist Loss: 11.34074
+Epoch: 013/300, Train Loss: 0.41229, Duration: 0.99433
+Height Loss: 5.88756. Arm Loss: 3.54336. Crotch Loss: 2.52911.
+Chest Loss: 5.73087. Hip Loss: 6.07677. Waist Loss: 10.94481
+Epoch: 014/300, Train Loss: 0.40002, Duration: 1.00825
+Height Loss: 5.83530. Arm Loss: 3.49359. Crotch Loss: 2.39375.
+Chest Loss: 5.55016. Hip Loss: 5.88055. Waist Loss: 10.59442
+Epoch: 015/300, Train Loss: 0.38872, Duration: 0.99317
+Height Loss: 5.78247. Arm Loss: 3.45130. Crotch Loss: 2.27248.
+Chest Loss: 5.38534. Hip Loss: 5.69300. Waist Loss: 10.29406
+Epoch: 016/300, Train Loss: 0.37831, Duration: 1.00549
+Height Loss: 5.72044. Arm Loss: 3.41359. Crotch Loss: 2.16114.
+Chest Loss: 5.23139. Hip Loss: 5.51222. Waist Loss: 10.03960
+Epoch: 017/300, Train Loss: 0.36867, Duration: 0.97949
+Height Loss: 5.64751. Arm Loss: 3.37816. Crotch Loss: 2.05665.
+Chest Loss: 5.08475. Hip Loss: 5.33832. Waist Loss: 9.82343
+Epoch: 018/300, Train Loss: 0.35976, Duration: 0.98812
+Height Loss: 5.57253. Arm Loss: 3.34443. Crotch Loss: 1.96163.
+Chest Loss: 4.94366. Hip Loss: 5.17119. Waist Loss: 9.63913
+Epoch: 019/300, Train Loss: 0.35155, Duration: 1.00468
+Height Loss: 5.50517. Arm Loss: 3.31143. Crotch Loss: 1.87980.
+Chest Loss: 4.80696. Hip Loss: 5.01136. Waist Loss: 9.48132
+Epoch: 020/300, Train Loss: 0.34402, Duration: 1.00401
+Height Loss: 5.44547. Arm Loss: 3.27672. Crotch Loss: 1.81061.
+Chest Loss: 4.67332. Hip Loss: 4.86021. Waist Loss: 9.34415
+Epoch: 021/300, Train Loss: 0.33704, Duration: 0.99656
+Height Loss: 5.38469. Arm Loss: 3.23812. Crotch Loss: 1.74971.
+Chest Loss: 4.54155. Hip Loss: 4.71891. Waist Loss: 9.22282
+Epoch: 022/300, Train Loss: 0.33044, Duration: 0.99749
+Height Loss: 5.31294. Arm Loss: 3.19542. Crotch Loss: 1.69242.
+Chest Loss: 4.41131. Hip Loss: 4.58797. Waist Loss: 9.11383
+Epoch: 023/300, Train Loss: 0.32411, Duration: 0.98618
+Height Loss: 5.22620. Arm Loss: 3.15005. Crotch Loss: 1.63673.
+Chest Loss: 4.28291. Hip Loss: 4.46733. Waist Loss: 9.01459
+Epoch: 024/300, Train Loss: 0.31804, Duration: 0.99245
+Height Loss: 5.12696. Arm Loss: 3.10439. Crotch Loss: 1.58379.
+Chest Loss: 4.15715. Hip Loss: 4.35639. Waist Loss: 8.92303
+Epoch: 025/300, Train Loss: 0.31229, Duration: 0.97983
+Height Loss: 5.02178. Arm Loss: 3.06159. Crotch Loss: 1.53664.
+Chest Loss: 4.03548. Hip Loss: 4.25459. Waist Loss: 8.83806
+Epoch: 026/300, Train Loss: 0.30696, Duration: 0.98105
+Height Loss: 4.91843. Arm Loss: 3.02512. Crotch Loss: 1.49865.
+Chest Loss: 3.92001. Hip Loss: 4.16138. Waist Loss: 8.75943
+Epoch: 027/300, Train Loss: 0.30215, Duration: 0.97803
+Height Loss: 4.82403. Arm Loss: 2.99762. Crotch Loss: 1.47194.
+Chest Loss: 3.81316. Hip Loss: 4.07533. Waist Loss: 8.68703
+Epoch: 028/300, Train Loss: 0.29789, Duration: 1.01512
+Height Loss: 4.74181. Arm Loss: 2.97938. Crotch Loss: 1.45550.
+Chest Loss: 3.71654. Hip Loss: 3.99495. Waist Loss: 8.62062
+Epoch: 029/300, Train Loss: 0.29414, Duration: 0.98306
+Height Loss: 4.66951. Arm Loss: 2.96786. Crotch Loss: 1.44543.
+Chest Loss: 3.63091. Hip Loss: 3.91888. Waist Loss: 8.56007
+Epoch: 030/300, Train Loss: 0.29080, Duration: 0.98233
+Height Loss: 4.60148. Arm Loss: 2.95935. Crotch Loss: 1.43689.
+Chest Loss: 3.55610. Hip Loss: 3.84667. Waist Loss: 8.50456
+Epoch: 031/300, Train Loss: 0.28775, Duration: 0.98467
+Height Loss: 4.53284. Arm Loss: 2.95080. Crotch Loss: 1.42595.
+Chest Loss: 3.49122. Hip Loss: 3.77814. Waist Loss: 8.45314
+Epoch: 032/300, Train Loss: 0.28489, Duration: 0.98802
+Height Loss: 4.46151. Arm Loss: 2.94076. Crotch Loss: 1.41061.
+Chest Loss: 3.43526. Hip Loss: 3.71302. Waist Loss: 8.40504
+Epoch: 033/300, Train Loss: 0.28212, Duration: 0.98275
+Height Loss: 4.38849. Arm Loss: 2.92941. Crotch Loss: 1.39083.
+Chest Loss: 3.38733. Hip Loss: 3.65106. Waist Loss: 8.35983
+Epoch: 034/300, Train Loss: 0.27941, Duration: 1.00294
+Height Loss: 4.31705. Arm Loss: 2.91789. Crotch Loss: 1.36820.
+Chest Loss: 3.34657. Hip Loss: 3.59191. Waist Loss: 8.31746
+Epoch: 035/300, Train Loss: 0.27676, Duration: 0.98880
+Height Loss: 4.25116. Arm Loss: 2.90752. Crotch Loss: 1.34496.
+Chest Loss: 3.31202. Hip Loss: 3.53555. Waist Loss: 8.27763
+Epoch: 036/300, Train Loss: 0.27418, Duration: 0.99020
+Height Loss: 4.19370. Arm Loss: 2.89911. Crotch Loss: 1.32273.
+Chest Loss: 3.28275. Hip Loss: 3.48181. Waist Loss: 8.23989
+Epoch: 037/300, Train Loss: 0.27173, Duration: 0.98765
+Height Loss: 4.14574. Arm Loss: 2.89270. Crotch Loss: 1.30215.
+Chest Loss: 3.25783. Hip Loss: 3.43052. Waist Loss: 8.20349
+Epoch: 038/300, Train Loss: 0.26941, Duration: 0.98003
+Height Loss: 4.10677. Arm Loss: 2.88762. Crotch Loss: 1.28295.
+Chest Loss: 3.23641. Hip Loss: 3.38146. Waist Loss: 8.16783
+Epoch: 039/300, Train Loss: 0.26724, Duration: 0.98564
+Height Loss: 4.07526. Arm Loss: 2.88291. Crotch Loss: 1.26442.
+Chest Loss: 3.21782. Hip Loss: 3.33462. Waist Loss: 8.13240
+Epoch: 040/300, Train Loss: 0.26520, Duration: 0.98385
+Height Loss: 4.04938. Arm Loss: 2.87773. Crotch Loss: 1.24590.
+Chest Loss: 3.20155. Hip Loss: 3.28992. Waist Loss: 8.09690
+Epoch: 041/300, Train Loss: 0.26326, Duration: 0.99207
+Height Loss: 4.02759. Arm Loss: 2.87166. Crotch Loss: 1.22708.
+Chest Loss: 3.18711. Hip Loss: 3.24713. Waist Loss: 8.06118
+Epoch: 042/300, Train Loss: 0.26142, Duration: 1.00057
+Height Loss: 4.00889. Arm Loss: 2.86471. Crotch Loss: 1.20810.
+Chest Loss: 3.17411. Hip Loss: 3.20605. Waist Loss: 8.02505
+Epoch: 043/300, Train Loss: 0.25967, Duration: 0.98756
+Height Loss: 3.99283. Arm Loss: 2.85716. Crotch Loss: 1.18932.
+Chest Loss: 3.16231. Hip Loss: 3.16640. Waist Loss: 7.98845
+Epoch: 044/300, Train Loss: 0.25799, Duration: 0.99047
+Height Loss: 3.97932. Arm Loss: 2.84929. Crotch Loss: 1.17118.
+Chest Loss: 3.15142. Hip Loss: 3.12777. Waist Loss: 7.95142
+Epoch: 045/300, Train Loss: 0.25638, Duration: 1.00707
+Height Loss: 3.96852. Arm Loss: 2.84133. Crotch Loss: 1.15397.
+Chest Loss: 3.14122. Hip Loss: 3.08978. Waist Loss: 7.91410
+Epoch: 046/300, Train Loss: 0.25485, Duration: 0.98639
+Height Loss: 3.96062. Arm Loss: 2.83345. Crotch Loss: 1.13795.
+Chest Loss: 3.13161. Hip Loss: 3.05210. Waist Loss: 7.87657
+Epoch: 047/300, Train Loss: 0.25338, Duration: 1.00409
+Height Loss: 3.95594. Arm Loss: 2.82584. Crotch Loss: 1.12344.
+Chest Loss: 3.12252. Hip Loss: 3.01443. Waist Loss: 7.83909
+Epoch: 048/300, Train Loss: 0.25199, Duration: 0.99159
+Height Loss: 3.95479. Arm Loss: 2.81872. Crotch Loss: 1.11078.
+Chest Loss: 3.11391. Hip Loss: 2.97659. Waist Loss: 7.80205
+Epoch: 049/300, Train Loss: 0.25065, Duration: 0.99347
+Height Loss: 3.95734. Arm Loss: 2.81231. Crotch Loss: 1.10042.
+Chest Loss: 3.10576. Hip Loss: 2.93853. Waist Loss: 7.76582
+Epoch: 050/300, Train Loss: 0.24938, Duration: 0.98560
+Height Loss: 3.96363. Arm Loss: 2.80679. Crotch Loss: 1.09279.
+Chest Loss: 3.09809. Hip Loss: 2.90050. Waist Loss: 7.73084
+Epoch: 051/300, Train Loss: 0.24817, Duration: 0.98982
+Height Loss: 3.97330. Arm Loss: 2.80237. Crotch Loss: 1.08823.
+Chest Loss: 3.09089. Hip Loss: 2.86306. Waist Loss: 7.69760
+Epoch: 052/300, Train Loss: 0.24700, Duration: 0.99455
+Height Loss: 3.98528. Arm Loss: 2.79918. Crotch Loss: 1.08678.
+Chest Loss: 3.08413. Hip Loss: 2.82722. Waist Loss: 7.66655
+Epoch: 053/300, Train Loss: 0.24586, Duration: 0.98982
+Height Loss: 3.99776. Arm Loss: 2.79709. Crotch Loss: 1.08797.
+Chest Loss: 3.07770. Hip Loss: 2.79408. Waist Loss: 7.63790
+Epoch: 054/300, Train Loss: 0.24473, Duration: 0.99680
+Height Loss: 4.00867. Arm Loss: 2.79563. Crotch Loss: 1.09083.
+Chest Loss: 3.07154. Hip Loss: 2.76453. Waist Loss: 7.61149
+Epoch: 055/300, Train Loss: 0.24360, Duration: 0.98961
+Height Loss: 4.01629. Arm Loss: 2.79389. Crotch Loss: 1.09410.
+Chest Loss: 3.06572. Hip Loss: 2.73880. Waist Loss: 7.58688
+Epoch: 056/300, Train Loss: 0.24244, Duration: 0.98912
+Height Loss: 4.02023. Arm Loss: 2.79092. Crotch Loss: 1.09672.
+Chest Loss: 3.06042. Hip Loss: 2.71641. Waist Loss: 7.56361
+Epoch: 057/300, Train Loss: 0.24125, Duration: 0.99308
+Height Loss: 4.02164. Arm Loss: 2.78610. Crotch Loss: 1.09822.
+Chest Loss: 3.05577. Hip Loss: 2.69654. Waist Loss: 7.54107
+Epoch: 058/300, Train Loss: 0.24005, Duration: 0.99774
+Height Loss: 4.02243. Arm Loss: 2.77937. Crotch Loss: 1.09867.
+Chest Loss: 3.05186. Hip Loss: 2.67829. Waist Loss: 7.51891
+Epoch: 059/300, Train Loss: 0.23885, Duration: 0.98929
+Height Loss: 4.02420. Arm Loss: 2.77109. Crotch Loss: 1.09832.
+Chest Loss: 3.04872. Hip Loss: 2.66084. Waist Loss: 7.49681
+Epoch: 060/300, Train Loss: 0.23769, Duration: 0.99423
+Height Loss: 4.02772. Arm Loss: 2.76187. Crotch Loss: 1.09744.
+Chest Loss: 3.04636. Hip Loss: 2.64372. Waist Loss: 7.47449
+Epoch: 061/300, Train Loss: 0.23657, Duration: 0.98793
+Height Loss: 4.03309. Arm Loss: 2.75220. Crotch Loss: 1.09615.
+Chest Loss: 3.04478. Hip Loss: 2.62683. Waist Loss: 7.45158
+Epoch: 062/300, Train Loss: 0.23550, Duration: 0.99051
+Height Loss: 4.04021. Arm Loss: 2.74252. Crotch Loss: 1.09456.
+Chest Loss: 3.04396. Hip Loss: 2.61037. Waist Loss: 7.42783
+Epoch: 063/300, Train Loss: 0.23446, Duration: 0.99294
+Height Loss: 4.04893. Arm Loss: 2.73302. Crotch Loss: 1.09269.
+Chest Loss: 3.04388. Hip Loss: 2.59480. Waist Loss: 7.40308
+Epoch: 064/300, Train Loss: 0.23347, Duration: 0.99092
+Height Loss: 4.05922. Arm Loss: 2.72391. Crotch Loss: 1.09062.
+Chest Loss: 3.04456. Hip Loss: 2.58059. Waist Loss: 7.37735
+Epoch: 065/300, Train Loss: 0.23251, Duration: 0.99860
+Height Loss: 4.07102. Arm Loss: 2.71531. Crotch Loss: 1.08833.
+Chest Loss: 3.04608. Hip Loss: 2.56809. Waist Loss: 7.35081
+Epoch: 066/300, Train Loss: 0.23158, Duration: 0.99472
+Height Loss: 4.08417. Arm Loss: 2.70732. Crotch Loss: 1.08584.
+Chest Loss: 3.04852. Hip Loss: 2.55736. Waist Loss: 7.32397
+Epoch: 067/300, Train Loss: 0.23067, Duration: 1.00040
+Height Loss: 4.09841. Arm Loss: 2.70008. Crotch Loss: 1.08305.
+Chest Loss: 3.05192. Hip Loss: 2.54804. Waist Loss: 7.29744
+Epoch: 068/300, Train Loss: 0.22978, Duration: 1.00467
+Height Loss: 4.11334. Arm Loss: 2.69371. Crotch Loss: 1.07986.
+Chest Loss: 3.05616. Hip Loss: 2.53914. Waist Loss: 7.27195
+Epoch: 069/300, Train Loss: 0.22891, Duration: 1.00184
+Height Loss: 4.12835. Arm Loss: 2.68828. Crotch Loss: 1.07609.
+Chest Loss: 3.06073. Hip Loss: 2.52924. Waist Loss: 7.24816
+Epoch: 070/300, Train Loss: 0.22805, Duration: 1.00189
+Height Loss: 4.14285. Arm Loss: 2.68382. Crotch Loss: 1.07159.
+Chest Loss: 3.06480. Hip Loss: 2.51693. Waist Loss: 7.22655
+Epoch: 071/300, Train Loss: 0.22720, Duration: 1.04928
+Height Loss: 4.15647. Arm Loss: 2.68028. Crotch Loss: 1.06632.
+Chest Loss: 3.06725. Hip Loss: 2.50146. Waist Loss: 7.20708
+Epoch: 072/300, Train Loss: 0.22635, Duration: 1.01460
+Height Loss: 4.16914. Arm Loss: 2.67756. Crotch Loss: 1.06036.
+Chest Loss: 3.06702. Hip Loss: 2.48320. Waist Loss: 7.18933
+Epoch: 073/300, Train Loss: 0.22552, Duration: 1.00317
+Height Loss: 4.18111. Arm Loss: 2.67544. Crotch Loss: 1.05389.
+Chest Loss: 3.06346. Hip Loss: 2.46363. Waist Loss: 7.17255
+Epoch: 074/300, Train Loss: 0.22469, Duration: 0.98668
+Height Loss: 4.19271. Arm Loss: 2.67361. Crotch Loss: 1.04720.
+Chest Loss: 3.05667. Hip Loss: 2.44474. Waist Loss: 7.15602
+Epoch: 075/300, Train Loss: 0.22387, Duration: 0.99666
+Height Loss: 4.20421. Arm Loss: 2.67178. Crotch Loss: 1.04054.
+Chest Loss: 3.04739. Hip Loss: 2.42834. Waist Loss: 7.13929
+Epoch: 076/300, Train Loss: 0.22307, Duration: 0.99360
+Height Loss: 4.21567. Arm Loss: 2.66968. Crotch Loss: 1.03413.
+Chest Loss: 3.03664. Hip Loss: 2.41564. Waist Loss: 7.12222
+Epoch: 077/300, Train Loss: 0.22229, Duration: 0.98686
+Height Loss: 4.22708. Arm Loss: 2.66720. Crotch Loss: 1.02811.
+Chest Loss: 3.02553. Hip Loss: 2.40723. Waist Loss: 7.10487
+Epoch: 078/300, Train Loss: 0.22153, Duration: 0.98899
+Height Loss: 4.23836. Arm Loss: 2.66429. Crotch Loss: 1.02258.
+Chest Loss: 3.01499. Hip Loss: 2.40333. Waist Loss: 7.08746
+Epoch: 079/300, Train Loss: 0.22079, Duration: 0.98901
+Height Loss: 4.24948. Arm Loss: 2.66088. Crotch Loss: 1.01754.
+Chest Loss: 3.00583. Hip Loss: 2.40402. Waist Loss: 7.07028
+Epoch: 080/300, Train Loss: 0.22007, Duration: 0.99025
+Height Loss: 4.26042. Arm Loss: 2.65698. Crotch Loss: 1.01301.
+Chest Loss: 2.99873. Hip Loss: 2.40929. Waist Loss: 7.05361
+Epoch: 081/300, Train Loss: 0.21938, Duration: 0.98534
+Height Loss: 4.27122. Arm Loss: 2.65257. Crotch Loss: 1.00898.
+Chest Loss: 2.99434. Hip Loss: 2.41912. Waist Loss: 7.03780
+Epoch: 082/300, Train Loss: 0.21871, Duration: 0.99164
+Height Loss: 4.28190. Arm Loss: 2.64761. Crotch Loss: 1.00546.
+Chest Loss: 2.99343. Hip Loss: 2.43349. Waist Loss: 7.02331
+Epoch: 083/300, Train Loss: 0.21806, Duration: 0.98664
+Height Loss: 4.29256. Arm Loss: 2.64209. Crotch Loss: 1.00244.
+Chest Loss: 2.99693. Hip Loss: 2.45231. Waist Loss: 7.01065
+Epoch: 084/300, Train Loss: 0.21745, Duration: 0.98973
+Height Loss: 4.30329. Arm Loss: 2.63598. Crotch Loss: 0.99994.
+Chest Loss: 3.00591. Hip Loss: 2.47523. Waist Loss: 7.00042
+Epoch: 085/300, Train Loss: 0.21687, Duration: 0.98213
+Height Loss: 4.31422. Arm Loss: 2.62932. Crotch Loss: 0.99800.
+Chest Loss: 3.02150. Hip Loss: 2.50151. Waist Loss: 6.99346
+Epoch: 086/300, Train Loss: 0.21632, Duration: 0.99536
+Height Loss: 4.32555. Arm Loss: 2.62213. Crotch Loss: 0.99670.
+Chest Loss: 3.04457. Hip Loss: 2.52952. Waist Loss: 6.99061
+Epoch: 087/300, Train Loss: 0.21580, Duration: 0.98773
+Height Loss: 4.33756. Arm Loss: 2.61455. Crotch Loss: 0.99614.
+Chest Loss: 3.07485. Hip Loss: 2.55637. Waist Loss: 6.99250
+Epoch: 088/300, Train Loss: 0.21530, Duration: 0.99448
+Height Loss: 4.35062. Arm Loss: 2.60682. Crotch Loss: 0.99649.
+Chest Loss: 3.10969. Hip Loss: 2.57735. Waist Loss: 6.99882
+Epoch: 089/300, Train Loss: 0.21480, Duration: 0.99382
+Height Loss: 4.36497. Arm Loss: 2.59931. Crotch Loss: 0.99790.
+Chest Loss: 3.14259. Hip Loss: 2.58605. Waist Loss: 7.00716
+Epoch: 090/300, Train Loss: 0.21425, Duration: 0.98705
+Height Loss: 4.38065. Arm Loss: 2.59256. Crotch Loss: 1.00045.
+Chest Loss: 3.16332. Hip Loss: 2.57582. Waist Loss: 7.01187
+Epoch: 091/300, Train Loss: 0.21361, Duration: 0.99068
+Height Loss: 4.39701. Arm Loss: 2.58708. Crotch Loss: 1.00395.
+Chest Loss: 3.16193. Hip Loss: 2.54323. Waist Loss: 7.00482
+Epoch: 092/300, Train Loss: 0.21281, Duration: 0.98873
+Height Loss: 4.41275. Arm Loss: 2.58317. Crotch Loss: 1.00783.
+Chest Loss: 3.13612. Hip Loss: 2.49203. Waist Loss: 6.98048
+Epoch: 093/300, Train Loss: 0.21184, Duration: 1.01787
+Height Loss: 4.42678. Arm Loss: 2.58088. Crotch Loss: 1.01135.
+Chest Loss: 3.09545. Hip Loss: 2.43295. Waist Loss: 6.94189
+Epoch: 094/300, Train Loss: 0.21077, Duration: 0.98754
+Height Loss: 4.43912. Arm Loss: 2.57983. Crotch Loss: 1.01393.
+Chest Loss: 3.05529. Hip Loss: 2.37793. Waist Loss: 6.89977
+Epoch: 095/300, Train Loss: 0.20968, Duration: 0.98787
+Height Loss: 4.45066. Arm Loss: 2.57920. Crotch Loss: 1.01548.
+Chest Loss: 3.02643. Hip Loss: 2.33367. Waist Loss: 6.86396
+Epoch: 096/300, Train Loss: 0.20866, Duration: 0.99985
+Height Loss: 4.46221. Arm Loss: 2.57812. Crotch Loss: 1.01634.
+Chest Loss: 3.01080. Hip Loss: 2.30063. Waist Loss: 6.83736
+Epoch: 097/300, Train Loss: 0.20774, Duration: 0.99833
+Height Loss: 4.47403. Arm Loss: 2.57603. Crotch Loss: 1.01690.
+Chest Loss: 3.00507. Hip Loss: 2.27616. Waist Loss: 6.81786
+Epoch: 098/300, Train Loss: 0.20691, Duration: 0.99330
+Height Loss: 4.48603. Arm Loss: 2.57275. Crotch Loss: 1.01741.
+Chest Loss: 3.00499. Hip Loss: 2.25742. Waist Loss: 6.80230
+Epoch: 099/300, Train Loss: 0.20615, Duration: 0.99800
+Height Loss: 4.49813. Arm Loss: 2.56845. Crotch Loss: 1.01798.
+Chest Loss: 3.00755. Hip Loss: 2.24246. Waist Loss: 6.78853
+Epoch: 100/300, Train Loss: 0.20542, Duration: 1.00059
+Height Loss: 4.51032. Arm Loss: 2.56354. Crotch Loss: 1.01869.
+Chest Loss: 3.01113. Hip Loss: 2.23020. Waist Loss: 6.77559
+Epoch: 101/300, Train Loss: 0.20471, Duration: 0.99598
+Height Loss: 4.52263. Arm Loss: 2.55836. Crotch Loss: 1.01949.
+Chest Loss: 3.01494. Hip Loss: 2.22011. Waist Loss: 6.76308
+Epoch: 102/300, Train Loss: 0.20402, Duration: 0.99678
+Height Loss: 4.53512. Arm Loss: 2.55320. Crotch Loss: 1.02034.
+Chest Loss: 3.01864. Hip Loss: 2.21189. Waist Loss: 6.75091
+Epoch: 103/300, Train Loss: 0.20335, Duration: 0.99615
+Height Loss: 4.54778. Arm Loss: 2.54829. Crotch Loss: 1.02120.
+Chest Loss: 3.02210. Hip Loss: 2.20525. Waist Loss: 6.73911
+Epoch: 104/300, Train Loss: 0.20269, Duration: 1.00501
+Height Loss: 4.56064. Arm Loss: 2.54371. Crotch Loss: 1.02201.
+Chest Loss: 3.02530. Hip Loss: 2.19996. Waist Loss: 6.72774
+Epoch: 105/300, Train Loss: 0.20204, Duration: 0.99409
+Height Loss: 4.57369. Arm Loss: 2.53950. Crotch Loss: 1.02274.
+Chest Loss: 3.02824. Hip Loss: 2.19579. Waist Loss: 6.71685
+Epoch: 106/300, Train Loss: 0.20140, Duration: 1.00322
+Height Loss: 4.58688. Arm Loss: 2.53567. Crotch Loss: 1.02338.
+Chest Loss: 3.03096. Hip Loss: 2.19255. Waist Loss: 6.70656
+Epoch: 107/300, Train Loss: 0.20076, Duration: 0.99573
+Height Loss: 4.60015. Arm Loss: 2.53219. Crotch Loss: 1.02394.
+Chest Loss: 3.03352. Hip Loss: 2.19001. Waist Loss: 6.69693
+Epoch: 108/300, Train Loss: 0.20014, Duration: 1.00080
+Height Loss: 4.61347. Arm Loss: 2.52904. Crotch Loss: 1.02443.
+Chest Loss: 3.03600. Hip Loss: 2.18803. Waist Loss: 6.68794
+Epoch: 109/300, Train Loss: 0.19952, Duration: 1.01016
+Height Loss: 4.62681. Arm Loss: 2.52617. Crotch Loss: 1.02482.
+Chest Loss: 3.03842. Hip Loss: 2.18647. Waist Loss: 6.67966
+Epoch: 110/300, Train Loss: 0.19891, Duration: 1.00109
+Height Loss: 4.64012. Arm Loss: 2.52358. Crotch Loss: 1.02515.
+Chest Loss: 3.04083. Hip Loss: 2.18528. Waist Loss: 6.67210
+Epoch: 111/300, Train Loss: 0.19830, Duration: 1.00054
+Height Loss: 4.65338. Arm Loss: 2.52124. Crotch Loss: 1.02541.
+Chest Loss: 3.04322. Hip Loss: 2.18440. Waist Loss: 6.66529
+Epoch: 112/300, Train Loss: 0.19770, Duration: 0.99998
+Height Loss: 4.66660. Arm Loss: 2.51911. Crotch Loss: 1.02561.
+Chest Loss: 3.04563. Hip Loss: 2.18379. Waist Loss: 6.65924
+Epoch: 113/300, Train Loss: 0.19711, Duration: 0.98960
+Height Loss: 4.67979. Arm Loss: 2.51716. Crotch Loss: 1.02575.
+Chest Loss: 3.04808. Hip Loss: 2.18344. Waist Loss: 6.65392
+Epoch: 114/300, Train Loss: 0.19652, Duration: 0.99000
+Height Loss: 4.69299. Arm Loss: 2.51538. Crotch Loss: 1.02585.
+Chest Loss: 3.05057. Hip Loss: 2.18333. Waist Loss: 6.64932
+Epoch: 115/300, Train Loss: 0.19593, Duration: 0.99262
+Height Loss: 4.70622. Arm Loss: 2.51373. Crotch Loss: 1.02590.
+Chest Loss: 3.05309. Hip Loss: 2.18346. Waist Loss: 6.64540
+Epoch: 116/300, Train Loss: 0.19535, Duration: 0.99694
+Height Loss: 4.71947. Arm Loss: 2.51222. Crotch Loss: 1.02588.
+Chest Loss: 3.05564. Hip Loss: 2.18383. Waist Loss: 6.64212
+Epoch: 117/300, Train Loss: 0.19477, Duration: 0.98931
+Height Loss: 4.73276. Arm Loss: 2.51084. Crotch Loss: 1.02580.
+Chest Loss: 3.05823. Hip Loss: 2.18448. Waist Loss: 6.63950
+Epoch: 118/300, Train Loss: 0.19419, Duration: 0.98703
+Height Loss: 4.74612. Arm Loss: 2.50957. Crotch Loss: 1.02565.
+Chest Loss: 3.06089. Hip Loss: 2.18545. Waist Loss: 6.63748
+Epoch: 119/300, Train Loss: 0.19362, Duration: 0.98812
+Height Loss: 4.75955. Arm Loss: 2.50840. Crotch Loss: 1.02544.
+Chest Loss: 3.06359. Hip Loss: 2.18679. Waist Loss: 6.63608
+Epoch: 120/300, Train Loss: 0.19305, Duration: 0.99139
+Height Loss: 4.77311. Arm Loss: 2.50731. Crotch Loss: 1.02518.
+Chest Loss: 3.06636. Hip Loss: 2.18854. Waist Loss: 6.63524
+Epoch: 121/300, Train Loss: 0.19249, Duration: 0.99308
+Height Loss: 4.78682. Arm Loss: 2.50632. Crotch Loss: 1.02487.
+Chest Loss: 3.06919. Hip Loss: 2.19073. Waist Loss: 6.63492
+Epoch: 122/300, Train Loss: 0.19193, Duration: 0.99261
+Height Loss: 4.80073. Arm Loss: 2.50543. Crotch Loss: 1.02451.
+Chest Loss: 3.07208. Hip Loss: 2.19342. Waist Loss: 6.63506
+Epoch: 123/300, Train Loss: 0.19137, Duration: 0.98909
+Height Loss: 4.81483. Arm Loss: 2.50464. Crotch Loss: 1.02410.
+Chest Loss: 3.07504. Hip Loss: 2.19668. Waist Loss: 6.63565
+Epoch: 124/300, Train Loss: 0.19082, Duration: 1.02953
+Height Loss: 4.82916. Arm Loss: 2.50398. Crotch Loss: 1.02364.
+Chest Loss: 3.07812. Hip Loss: 2.20059. Waist Loss: 6.63668
+Epoch: 125/300, Train Loss: 0.19027, Duration: 0.99283
+Height Loss: 4.84371. Arm Loss: 2.50345. Crotch Loss: 1.02315.
+Chest Loss: 3.08132. Hip Loss: 2.20522. Waist Loss: 6.63809
+Epoch: 126/300, Train Loss: 0.18973, Duration: 1.00235
+Height Loss: 4.85840. Arm Loss: 2.50306. Crotch Loss: 1.02264.
+Chest Loss: 3.08472. Hip Loss: 2.21062. Waist Loss: 6.63981
+Epoch: 127/300, Train Loss: 0.18919, Duration: 0.99412
+Height Loss: 4.87312. Arm Loss: 2.50282. Crotch Loss: 1.02214.
+Chest Loss: 3.08837. Hip Loss: 2.21675. Waist Loss: 6.64181
+Epoch: 128/300, Train Loss: 0.18866, Duration: 0.98522
+Height Loss: 4.88767. Arm Loss: 2.50275. Crotch Loss: 1.02168.
+Chest Loss: 3.09238. Hip Loss: 2.22350. Waist Loss: 6.64407
+Epoch: 129/300, Train Loss: 0.18814, Duration: 0.99077
+Height Loss: 4.90168. Arm Loss: 2.50288. Crotch Loss: 1.02132.
+Chest Loss: 3.09687. Hip Loss: 2.23059. Waist Loss: 6.64655
+Epoch: 130/300, Train Loss: 0.18762, Duration: 0.99122
+Height Loss: 4.91462. Arm Loss: 2.50323. Crotch Loss: 1.02116.
+Chest Loss: 3.10198. Hip Loss: 2.23746. Waist Loss: 6.64920
+Epoch: 131/300, Train Loss: 0.18711, Duration: 1.00081
+Height Loss: 4.92572. Arm Loss: 2.50383. Crotch Loss: 1.02139.
+Chest Loss: 3.10787. Hip Loss: 2.24305. Waist Loss: 6.65198
+Epoch: 132/300, Train Loss: 0.18660, Duration: 0.98900
+Height Loss: 4.93393. Arm Loss: 2.50469. Crotch Loss: 1.02222.
+Chest Loss: 3.11470. Hip Loss: 2.24573. Waist Loss: 6.65492
+Epoch: 133/300, Train Loss: 0.18609, Duration: 0.99750
+Height Loss: 4.93800. Arm Loss: 2.50579. Crotch Loss: 1.02395.
+Chest Loss: 3.12261. Hip Loss: 2.24327. Waist Loss: 6.65827
+Epoch: 134/300, Train Loss: 0.18557, Duration: 1.00320
+Height Loss: 4.93713. Arm Loss: 2.50708. Crotch Loss: 1.02697.
+Chest Loss: 3.13162. Hip Loss: 2.23340. Waist Loss: 6.66291
+Epoch: 135/300, Train Loss: 0.18503, Duration: 1.00199
+Height Loss: 4.93169. Arm Loss: 2.50845. Crotch Loss: 1.03165.
+Chest Loss: 3.14161. Hip Loss: 2.21530. Waist Loss: 6.67077
+Epoch: 136/300, Train Loss: 0.18447, Duration: 1.06432
+Height Loss: 4.92393. Arm Loss: 2.50985. Crotch Loss: 1.03811.
+Chest Loss: 3.15240. Hip Loss: 2.19156. Waist Loss: 6.68517
+Epoch: 137/300, Train Loss: 0.18389, Duration: 1.00437
+Height Loss: 4.91772. Arm Loss: 2.51129. Crotch Loss: 1.04590.
+Chest Loss: 3.16401. Hip Loss: 2.16905. Waist Loss: 6.71016
+Epoch: 138/300, Train Loss: 0.18331, Duration: 1.00197
+Height Loss: 4.91695. Arm Loss: 2.51295. Crotch Loss: 1.05365.
+Chest Loss: 3.17703. Hip Loss: 2.15705. Waist Loss: 6.74893
+Epoch: 139/300, Train Loss: 0.18276, Duration: 0.99826
+Height Loss: 4.92331. Arm Loss: 2.51510. Crotch Loss: 1.05909.
+Chest Loss: 3.19268. Hip Loss: 2.16313. Waist Loss: 6.80197
+Epoch: 140/300, Train Loss: 0.18225, Duration: 1.00693
+Height Loss: 4.93567. Arm Loss: 2.51790. Crotch Loss: 1.05997.
+Chest Loss: 3.21234. Hip Loss: 2.18973. Waist Loss: 6.86656
+Epoch: 141/300, Train Loss: 0.18178, Duration: 0.98999
+Height Loss: 4.95134. Arm Loss: 2.52123. Crotch Loss: 1.05535.
+Chest Loss: 3.23650. Hip Loss: 2.23241. Waist Loss: 6.93739
+Epoch: 142/300, Train Loss: 0.18132, Duration: 0.99108
+Height Loss: 4.96791. Arm Loss: 2.52464. Crotch Loss: 1.04651.
+Chest Loss: 3.26350. Hip Loss: 2.27870. Waist Loss: 7.00744
+Epoch: 143/300, Train Loss: 0.18084, Duration: 1.00104
+Height Loss: 4.98480. Arm Loss: 2.52753. Crotch Loss: 1.03633.
+Chest Loss: 3.28816. Hip Loss: 2.30887. Waist Loss: 7.06889
+Epoch: 144/300, Train Loss: 0.18030, Duration: 0.98516
+Height Loss: 5.00314. Arm Loss: 2.52945. Crotch Loss: 1.02785.
+Chest Loss: 3.30240. Hip Loss: 2.30395. Waist Loss: 7.11525
+Epoch: 145/300, Train Loss: 0.17966, Duration: 0.98437
+Height Loss: 5.02371. Arm Loss: 2.53031. Crotch Loss: 1.02299.
+Chest Loss: 3.29982. Hip Loss: 2.26164. Waist Loss: 7.14487
+Epoch: 146/300, Train Loss: 0.17891, Duration: 0.99306
+Height Loss: 5.04513. Arm Loss: 2.53034. Crotch Loss: 1.02215.
+Chest Loss: 3.28183. Hip Loss: 2.20233. Waist Loss: 7.16286
+Epoch: 147/300, Train Loss: 0.17810, Duration: 0.99187
+Height Loss: 5.06528. Arm Loss: 2.52976. Crotch Loss: 1.02442.
+Chest Loss: 3.25701. Hip Loss: 2.15085. Waist Loss: 7.17745
+Epoch: 148/300, Train Loss: 0.17731, Duration: 0.99463
+Height Loss: 5.08352. Arm Loss: 2.52852. Crotch Loss: 1.02820.
+Chest Loss: 3.23386. Hip Loss: 2.11729. Waist Loss: 7.19423
+Epoch: 149/300, Train Loss: 0.17659, Duration: 0.98684
+Height Loss: 5.10085. Arm Loss: 2.52662. Crotch Loss: 1.03189.
+Chest Loss: 3.21674. Hip Loss: 2.09868. Waist Loss: 7.21445
+Epoch: 150/300, Train Loss: 0.17592, Duration: 0.98481
+Height Loss: 5.11855. Arm Loss: 2.52429. Crotch Loss: 1.03448.
+Chest Loss: 3.20626. Hip Loss: 2.08911. Waist Loss: 7.23720
+Epoch: 151/300, Train Loss: 0.17530, Duration: 0.98464
+Height Loss: 5.13738. Arm Loss: 2.52196. Crotch Loss: 1.03575.
+Chest Loss: 3.20129. Hip Loss: 2.08426. Waist Loss: 7.26149
+Epoch: 152/300, Train Loss: 0.17471, Duration: 1.00897
+Height Loss: 5.15762. Arm Loss: 2.52001. Crotch Loss: 1.03598.
+Chest Loss: 3.20016. Hip Loss: 2.08172. Waist Loss: 7.28680
+Epoch: 153/300, Train Loss: 0.17414, Duration: 1.00003
+Height Loss: 5.17933. Arm Loss: 2.51862. Crotch Loss: 1.03554.
+Chest Loss: 3.20153. Hip Loss: 2.08022. Waist Loss: 7.31283
+Epoch: 154/300, Train Loss: 0.17359, Duration: 0.99992
+Height Loss: 5.20216. Arm Loss: 2.51776. Crotch Loss: 1.03464.
+Chest Loss: 3.20452. Hip Loss: 2.07909. Waist Loss: 7.33905
+Epoch: 155/300, Train Loss: 0.17304, Duration: 1.00713
+Height Loss: 5.22553. Arm Loss: 2.51736. Crotch Loss: 1.03350.
+Chest Loss: 3.20872. Hip Loss: 2.07799. Waist Loss: 7.36463
+Epoch: 156/300, Train Loss: 0.17250, Duration: 0.99203
+Height Loss: 5.24874. Arm Loss: 2.51739. Crotch Loss: 1.03238.
+Chest Loss: 3.21386. Hip Loss: 2.07679. Waist Loss: 7.38851
+Epoch: 157/300, Train Loss: 0.17197, Duration: 0.98981
+Height Loss: 5.27101. Arm Loss: 2.51782. Crotch Loss: 1.03160.
+Chest Loss: 3.21971. Hip Loss: 2.07545. Waist Loss: 7.40935
+Epoch: 158/300, Train Loss: 0.17145, Duration: 0.99230
+Height Loss: 5.29140. Arm Loss: 2.51866. Crotch Loss: 1.03150.
+Chest Loss: 3.22617. Hip Loss: 2.07391. Waist Loss: 7.42558
+Epoch: 159/300, Train Loss: 0.17093, Duration: 0.99306
+Height Loss: 5.30879. Arm Loss: 2.51991. Crotch Loss: 1.03245.
+Chest Loss: 3.23311. Hip Loss: 2.07214. Waist Loss: 7.43542
+Epoch: 160/300, Train Loss: 0.17041, Duration: 0.99353
+Height Loss: 5.32195. Arm Loss: 2.52151. Crotch Loss: 1.03485.
+Chest Loss: 3.24039. Hip Loss: 2.07011. Waist Loss: 7.43721
+Epoch: 161/300, Train Loss: 0.16988, Duration: 0.99076
+Height Loss: 5.32995. Arm Loss: 2.52349. Crotch Loss: 1.03915.
+Chest Loss: 3.24795. Hip Loss: 2.06777. Waist Loss: 7.42977
+Epoch: 162/300, Train Loss: 0.16935, Duration: 1.02351
+Height Loss: 5.33233. Arm Loss: 2.52580. Crotch Loss: 1.04574.
+Chest Loss: 3.25580. Hip Loss: 2.06513. Waist Loss: 7.41289
+Epoch: 163/300, Train Loss: 0.16882, Duration: 0.98804
+Height Loss: 5.32954. Arm Loss: 2.52849. Crotch Loss: 1.05486.
+Chest Loss: 3.26410. Hip Loss: 2.06220. Waist Loss: 7.38776
+Epoch: 164/300, Train Loss: 0.16828, Duration: 0.99722
+Height Loss: 5.32297. Arm Loss: 2.53166. Crotch Loss: 1.06640.
+Chest Loss: 3.27348. Hip Loss: 2.05909. Waist Loss: 7.35689
+Epoch: 165/300, Train Loss: 0.16775, Duration: 1.00571
+Height Loss: 5.31477. Arm Loss: 2.53554. Crotch Loss: 1.07968.
+Chest Loss: 3.28490. Hip Loss: 2.05589. Waist Loss: 7.32372
+Epoch: 166/300, Train Loss: 0.16721, Duration: 0.99269
+Height Loss: 5.30748. Arm Loss: 2.54054. Crotch Loss: 1.09326.
+Chest Loss: 3.29975. Hip Loss: 2.05272. Waist Loss: 7.29213
+Epoch: 167/300, Train Loss: 0.16669, Duration: 0.99261
+Height Loss: 5.30329. Arm Loss: 2.54725. Crotch Loss: 1.10476.
+Chest Loss: 3.31942. Hip Loss: 2.04962. Waist Loss: 7.26556
+Epoch: 168/300, Train Loss: 0.16617, Duration: 0.98841
+Height Loss: 5.30361. Arm Loss: 2.55623. Crotch Loss: 1.11134.
+Chest Loss: 3.34501. Hip Loss: 2.04651. Waist Loss: 7.24633
+Epoch: 169/300, Train Loss: 0.16564, Duration: 1.00954
+Height Loss: 5.30901. Arm Loss: 2.56787. Crotch Loss: 1.11073.
+Chest Loss: 3.37685. Hip Loss: 2.04321. Waist Loss: 7.23516
+Epoch: 170/300, Train Loss: 0.16511, Duration: 0.98905
+Height Loss: 5.31955. Arm Loss: 2.58192. Crotch Loss: 1.10266.
+Chest Loss: 3.41425. Hip Loss: 2.03958. Waist Loss: 7.23118
+Epoch: 171/300, Train Loss: 0.16455, Duration: 0.99003
+Height Loss: 5.33506. Arm Loss: 2.59721. Crotch Loss: 1.08943.
+Chest Loss: 3.45565. Hip Loss: 2.03578. Waist Loss: 7.23237
+Epoch: 172/300, Train Loss: 0.16398, Duration: 0.99127
+Height Loss: 5.35534. Arm Loss: 2.61181. Crotch Loss: 1.07493.
+Chest Loss: 3.49896. Hip Loss: 2.03218. Waist Loss: 7.23662
+Epoch: 173/300, Train Loss: 0.16341, Duration: 0.99024
+Height Loss: 5.38019. Arm Loss: 2.62377. Crotch Loss: 1.06284.
+Chest Loss: 3.54189. Hip Loss: 2.02942. Waist Loss: 7.24273
+Epoch: 174/300, Train Loss: 0.16284, Duration: 0.99329
+Height Loss: 5.40939. Arm Loss: 2.63184. Crotch Loss: 1.05527.
+Chest Loss: 3.58188. Hip Loss: 2.02820. Waist Loss: 7.25051
+Epoch: 175/300, Train Loss: 0.16229, Duration: 1.01265
+Height Loss: 5.44266. Arm Loss: 2.63588. Crotch Loss: 1.05266.
+Chest Loss: 3.61616. Hip Loss: 2.02916. Waist Loss: 7.26071
+Epoch: 176/300, Train Loss: 0.16177, Duration: 1.01418
+Height Loss: 5.47983. Arm Loss: 2.63673. Crotch Loss: 1.05435.
+Chest Loss: 3.64219. Hip Loss: 2.03275. Waist Loss: 7.27474
+Epoch: 177/300, Train Loss: 0.16128, Duration: 1.01287
+Height Loss: 5.52072. Arm Loss: 2.63583. Crotch Loss: 1.05919.
+Chest Loss: 3.65792. Hip Loss: 2.03910. Waist Loss: 7.29454
+Epoch: 178/300, Train Loss: 0.16083, Duration: 1.01285
+Height Loss: 5.56528. Arm Loss: 2.63458. Crotch Loss: 1.06584.
+Chest Loss: 3.66208. Hip Loss: 2.04784. Waist Loss: 7.32235
+Epoch: 179/300, Train Loss: 0.16041, Duration: 0.98374
+Height Loss: 5.61332. Arm Loss: 2.63396. Crotch Loss: 1.07304.
+Chest Loss: 3.65426. Hip Loss: 2.05820. Waist Loss: 7.36039
+Epoch: 180/300, Train Loss: 0.16002, Duration: 0.99564
+Height Loss: 5.66451. Arm Loss: 2.63453. Crotch Loss: 1.07973.
+Chest Loss: 3.63510. Hip Loss: 2.06947. Waist Loss: 7.41067
+Epoch: 181/300, Train Loss: 0.15967, Duration: 0.98357
+Height Loss: 5.71844. Arm Loss: 2.63659. Crotch Loss: 1.08525.
+Chest Loss: 3.60620. Hip Loss: 2.08146. Waist Loss: 7.47463
+Epoch: 182/300, Train Loss: 0.15935, Duration: 0.99321
+Height Loss: 5.77410. Arm Loss: 2.64032. Crotch Loss: 1.08929.
+Chest Loss: 3.56995. Hip Loss: 2.09487. Waist Loss: 7.55274
+Epoch: 183/300, Train Loss: 0.15907, Duration: 0.98744
+Height Loss: 5.82935. Arm Loss: 2.64597. Crotch Loss: 1.09198.
+Chest Loss: 3.52948. Hip Loss: 2.11171. Waist Loss: 7.64362
+Epoch: 184/300, Train Loss: 0.15883, Duration: 0.98669
+Height Loss: 5.87948. Arm Loss: 2.65406. Crotch Loss: 1.09389.
+Chest Loss: 3.48837. Hip Loss: 2.13539. Waist Loss: 7.74206
+Epoch: 185/300, Train Loss: 0.15867, Duration: 0.98394
+Height Loss: 5.91552. Arm Loss: 2.66550. Crotch Loss: 1.09598.
+Chest Loss: 3.45042. Hip Loss: 2.17102. Waist Loss: 7.83614
+Epoch: 186/300, Train Loss: 0.15856, Duration: 0.98859
+Height Loss: 5.92349. Arm Loss: 2.68176. Crotch Loss: 1.09945.
+Chest Loss: 3.41830. Hip Loss: 2.22540. Waist Loss: 7.90466
+Epoch: 187/300, Train Loss: 0.15850, Duration: 0.99186
+Height Loss: 5.88852. Arm Loss: 2.70518. Crotch Loss: 1.10524.
+Chest Loss: 3.39136. Hip Loss: 2.30610. Waist Loss: 7.92025
+Epoch: 188/300, Train Loss: 0.15845, Duration: 0.99820
+Height Loss: 5.80812. Arm Loss: 2.73915. Crotch Loss: 1.11281.
+Chest Loss: 3.36415. Hip Loss: 2.41717. Waist Loss: 7.86521
+Epoch: 189/300, Train Loss: 0.15836, Duration: 0.98976
+Height Loss: 5.70567. Arm Loss: 2.78634. Crotch Loss: 1.11723.
+Chest Loss: 3.33132. Hip Loss: 2.54580. Waist Loss: 7.75606
+Epoch: 190/300, Train Loss: 0.15828, Duration: 0.99230
+Height Loss: 5.62116. Arm Loss: 2.84065. Crotch Loss: 1.10775.
+Chest Loss: 3.30647. Hip Loss: 2.63136. Waist Loss: 7.64601
+Epoch: 191/300, Train Loss: 0.15825, Duration: 0.99523
+Height Loss: 5.58546. Arm Loss: 2.87307. Crotch Loss: 1.07669.
+Chest Loss: 3.33617. Hip Loss: 2.55792. Waist Loss: 7.58592
+Epoch: 192/300, Train Loss: 0.15828, Duration: 1.00072
+Height Loss: 5.61738. Arm Loss: 2.84491. Crotch Loss: 1.03944.
+Chest Loss: 3.42792. Hip Loss: 2.31448. Waist Loss: 7.58105
+Epoch: 193/300, Train Loss: 0.15849, Duration: 0.99138
+Height Loss: 5.69641. Arm Loss: 2.77002. Crotch Loss: 1.02143.
+Chest Loss: 3.44564. Hip Loss: 2.11218. Waist Loss: 7.59323
+Epoch: 194/300, Train Loss: 0.15927, Duration: 0.99753
+Height Loss: 5.74074. Arm Loss: 2.70803. Crotch Loss: 1.01806.
+Chest Loss: 3.29330. Hip Loss: 2.07152. Waist Loss: 7.60046
+Epoch: 195/300, Train Loss: 0.16085, Duration: 1.00333
+Height Loss: 5.69497. Arm Loss: 2.68629. Crotch Loss: 0.99669.
+Chest Loss: 3.23884. Hip Loss: 2.21013. Waist Loss: 7.66776
+Epoch: 196/300, Train Loss: 0.16370, Duration: 0.99267
+Height Loss: 5.61343. Arm Loss: 2.70178. Crotch Loss: 0.94395.
+Chest Loss: 3.88276. Hip Loss: 2.77996. Waist Loss: 8.01217
+Epoch: 197/300, Train Loss: 0.16902, Duration: 1.00330
+Height Loss: 5.58944. Arm Loss: 2.75230. Crotch Loss: 0.89481.
+Chest Loss: 5.08777. Hip Loss: 3.99156. Waist Loss: 8.97952
+Epoch: 198/300, Train Loss: 0.17567, Duration: 0.99160
+Height Loss: 5.58679. Arm Loss: 2.80271. Crotch Loss: 0.88679.
+Chest Loss: 4.66434. Hip Loss: 3.76897. Waist Loss: 9.55133
+Epoch: 199/300, Train Loss: 0.17269, Duration: 0.99797
+Height Loss: 5.96407. Arm Loss: 2.74390. Crotch Loss: 0.94809.
+Chest Loss: 3.39206. Hip Loss: 2.07918. Waist Loss: 8.26608
+Epoch: 200/300, Train Loss: 0.15967, Duration: 0.99959
+Height Loss: 6.57940. Arm Loss: 2.72356. Crotch Loss: 1.06216.
+Chest Loss: 3.21178. Hip Loss: 1.96860. Waist Loss: 7.56409
+Epoch: 201/300, Train Loss: 0.15469, Duration: 1.03926
+Height Loss: 6.42405. Arm Loss: 2.80206. Crotch Loss: 1.10808.
+Chest Loss: 3.24191. Hip Loss: 1.99231. Waist Loss: 7.53650
+Epoch: 202/300, Train Loss: 0.15336, Duration: 0.98591
+Height Loss: 5.91915. Arm Loss: 2.81602. Crotch Loss: 1.07026.
+Chest Loss: 3.29621. Hip Loss: 2.05645. Waist Loss: 7.62488
+Epoch: 203/300, Train Loss: 0.15235, Duration: 0.99808
+Height Loss: 5.68880. Arm Loss: 2.88574. Crotch Loss: 1.04800.
+Chest Loss: 3.32839. Hip Loss: 2.09975. Waist Loss: 7.68387
+Epoch: 204/300, Train Loss: 0.15157, Duration: 0.98999
+Height Loss: 5.70971. Arm Loss: 2.97694. Crotch Loss: 1.03990.
+Chest Loss: 3.28375. Hip Loss: 2.09689. Waist Loss: 7.70132
+Epoch: 205/300, Train Loss: 0.15056, Duration: 0.98110
+Height Loss: 5.81652. Arm Loss: 3.04379. Crotch Loss: 1.04576.
+Chest Loss: 3.23555. Hip Loss: 2.05308. Waist Loss: 7.68861
+Epoch: 206/300, Train Loss: 0.14963, Duration: 0.99277
+Height Loss: 5.93526. Arm Loss: 3.08168. Crotch Loss: 1.08223.
+Chest Loss: 3.21461. Hip Loss: 2.00817. Waist Loss: 7.69966
+Epoch: 207/300, Train Loss: 0.14924, Duration: 0.98551
+Height Loss: 6.01707. Arm Loss: 3.10792. Crotch Loss: 1.13322.
+Chest Loss: 3.21684. Hip Loss: 1.98560. Waist Loss: 7.71925
+Epoch: 208/300, Train Loss: 0.14937, Duration: 0.99687
+Height Loss: 6.06598. Arm Loss: 3.14119. Crotch Loss: 1.18179.
+Chest Loss: 3.23230. Hip Loss: 1.97751. Waist Loss: 7.73448
+Epoch: 209/300, Train Loss: 0.14991, Duration: 0.99407
+Height Loss: 6.10393. Arm Loss: 3.18387. Crotch Loss: 1.22728.
+Chest Loss: 3.25059. Hip Loss: 1.97401. Waist Loss: 7.75012
+Epoch: 210/300, Train Loss: 0.15083, Duration: 0.99828
+Height Loss: 6.14237. Arm Loss: 3.22432. Crotch Loss: 1.26700.
+Chest Loss: 3.26704. Hip Loss: 1.96929. Waist Loss: 7.76738
+Epoch: 211/300, Train Loss: 0.15215, Duration: 0.98709
+Height Loss: 6.18086. Arm Loss: 3.23990. Crotch Loss: 1.28634.
+Chest Loss: 3.27926. Hip Loss: 1.96187. Waist Loss: 7.79160
+Epoch: 212/300, Train Loss: 0.15392, Duration: 0.98480
+Height Loss: 6.18919. Arm Loss: 3.18714. Crotch Loss: 1.25534.
+Chest Loss: 3.29064. Hip Loss: 1.95842. Waist Loss: 7.83414
+Epoch: 213/300, Train Loss: 0.15592, Duration: 0.98471
+Height Loss: 6.09471. Arm Loss: 3.04009. Crotch Loss: 1.14826.
+Chest Loss: 3.31147. Hip Loss: 1.97394. Waist Loss: 7.91309
+Epoch: 214/300, Train Loss: 0.15750, Duration: 0.98604
+Height Loss: 5.86243. Arm Loss: 2.89210. Crotch Loss: 0.99609.
+Chest Loss: 3.34999. Hip Loss: 2.02003. Waist Loss: 8.04036
+Epoch: 215/300, Train Loss: 0.15846, Duration: 0.98750
+Height Loss: 5.70737. Arm Loss: 2.93475. Crotch Loss: 0.95174.
+Chest Loss: 3.38505. Hip Loss: 2.07143. Waist Loss: 8.13318
+Epoch: 216/300, Train Loss: 0.16032, Duration: 0.99032
+Height Loss: 6.12108. Arm Loss: 3.16246. Crotch Loss: 1.16116.
+Chest Loss: 3.35872. Hip Loss: 2.05489. Waist Loss: 7.95981
+Epoch: 217/300, Train Loss: 0.16353, Duration: 0.98931
+Height Loss: 7.05761. Arm Loss: 3.28640. Crotch Loss: 1.36440.
+Chest Loss: 3.36495. Hip Loss: 1.98320. Waist Loss: 7.74060
+Epoch: 218/300, Train Loss: 0.16446, Duration: 0.99247
+Height Loss: 6.96945. Arm Loss: 3.19495. Crotch Loss: 1.23776.
+Chest Loss: 3.54123. Hip Loss: 1.94230. Waist Loss: 7.88511
+Epoch: 219/300, Train Loss: 0.15878, Duration: 1.01054
+Height Loss: 6.32610. Arm Loss: 3.03644. Crotch Loss: 0.95752.
+Chest Loss: 3.61474. Hip Loss: 2.02949. Waist Loss: 7.91981
+Epoch: 220/300, Train Loss: 0.15101, Duration: 0.99845
+Height Loss: 6.14500. Arm Loss: 2.92449. Crotch Loss: 0.83082.
+Chest Loss: 3.44093. Hip Loss: 2.05992. Waist Loss: 7.80293
+Epoch: 221/300, Train Loss: 0.14720, Duration: 0.98490
+Height Loss: 6.17106. Arm Loss: 2.88439. Crotch Loss: 0.82996.
+Chest Loss: 3.30113. Hip Loss: 2.05721. Waist Loss: 7.82664
+Epoch: 222/300, Train Loss: 0.14648, Duration: 0.98483
+Height Loss: 6.27839. Arm Loss: 2.87046. Crotch Loss: 0.85746.
+Chest Loss: 3.28474. Hip Loss: 2.08708. Waist Loss: 7.97897
+Epoch: 223/300, Train Loss: 0.14711, Duration: 0.98860
+Height Loss: 6.40076. Arm Loss: 2.87072. Crotch Loss: 0.89046.
+Chest Loss: 3.33246. Hip Loss: 2.14283. Waist Loss: 8.16893
+Epoch: 224/300, Train Loss: 0.14820, Duration: 0.98474
+Height Loss: 6.51746. Arm Loss: 2.87997. Crotch Loss: 0.91500.
+Chest Loss: 3.39976. Hip Loss: 2.21584. Waist Loss: 8.29459
+Epoch: 225/300, Train Loss: 0.14939, Duration: 0.98277
+Height Loss: 6.63892. Arm Loss: 2.89574. Crotch Loss: 0.93429.
+Chest Loss: 3.47557. Hip Loss: 2.28667. Waist Loss: 8.32469
+Epoch: 226/300, Train Loss: 0.15054, Duration: 0.99041
+Height Loss: 6.74975. Arm Loss: 2.91480. Crotch Loss: 0.95134.
+Chest Loss: 3.53554. Hip Loss: 2.33254. Waist Loss: 8.26496
+Epoch: 227/300, Train Loss: 0.15154, Duration: 0.98958
+Height Loss: 6.82873. Arm Loss: 2.93777. Crotch Loss: 0.96672.
+Chest Loss: 3.55380. Hip Loss: 2.33713. Waist Loss: 8.16906
+Epoch: 228/300, Train Loss: 0.15217, Duration: 0.98377
+Height Loss: 6.87970. Arm Loss: 2.96465. Crotch Loss: 0.98088.
+Chest Loss: 3.51399. Hip Loss: 2.30525. Waist Loss: 8.10237
+Epoch: 229/300, Train Loss: 0.15224, Duration: 0.98126
+Height Loss: 6.91305. Arm Loss: 2.98968. Crotch Loss: 0.98955.
+Chest Loss: 3.44287. Hip Loss: 2.25943. Waist Loss: 8.07837
+Epoch: 230/300, Train Loss: 0.15162, Duration: 0.98491
+Height Loss: 6.90505. Arm Loss: 2.99935. Crotch Loss: 0.97608.
+Chest Loss: 3.40929. Hip Loss: 2.23545. Waist Loss: 8.06420
+Epoch: 231/300, Train Loss: 0.15032, Duration: 0.98200
+Height Loss: 6.83497. Arm Loss: 2.98542. Crotch Loss: 0.93646.
+Chest Loss: 3.43712. Hip Loss: 2.25806. Waist Loss: 8.04305
+Epoch: 232/300, Train Loss: 0.14847, Duration: 0.98364
+Height Loss: 6.73739. Arm Loss: 2.95445. Crotch Loss: 0.88975.
+Chest Loss: 3.47413. Hip Loss: 2.30475. Waist Loss: 8.02185
+Epoch: 233/300, Train Loss: 0.14644, Duration: 0.99974
+Height Loss: 6.65460. Arm Loss: 2.91938. Crotch Loss: 0.85206.
+Chest Loss: 3.47631. Hip Loss: 2.32434. Waist Loss: 8.00552
+Epoch: 234/300, Train Loss: 0.14448, Duration: 0.99599
+Height Loss: 6.59170. Arm Loss: 2.88947. Crotch Loss: 0.82663.
+Chest Loss: 3.44892. Hip Loss: 2.29804. Waist Loss: 7.99619
+Epoch: 235/300, Train Loss: 0.14275, Duration: 0.98558
+Height Loss: 6.54163. Arm Loss: 2.86837. Crotch Loss: 0.81139.
+Chest Loss: 3.41783. Hip Loss: 2.25290. Waist Loss: 7.99586
+Epoch: 236/300, Train Loss: 0.14133, Duration: 0.98338
+Height Loss: 6.50109. Arm Loss: 2.85561. Crotch Loss: 0.80337.
+Chest Loss: 3.40327. Hip Loss: 2.22042. Waist Loss: 8.00506
+Epoch: 237/300, Train Loss: 0.14021, Duration: 0.98431
+Height Loss: 6.46790. Arm Loss: 2.84862. Crotch Loss: 0.79968.
+Chest Loss: 3.41284. Hip Loss: 2.21077. Waist Loss: 8.02351
+Epoch: 238/300, Train Loss: 0.13932, Duration: 0.98812
+Height Loss: 6.44075. Arm Loss: 2.84466. Crotch Loss: 0.79797.
+Chest Loss: 3.44489. Hip Loss: 2.21963. Waist Loss: 8.05146
+Epoch: 239/300, Train Loss: 0.13859, Duration: 1.00453
+Height Loss: 6.41985. Arm Loss: 2.84207. Crotch Loss: 0.79675.
+Chest Loss: 3.49383. Hip Loss: 2.23997. Waist Loss: 8.08977
+Epoch: 240/300, Train Loss: 0.13794, Duration: 0.99610
+Height Loss: 6.40560. Arm Loss: 2.84023. Crotch Loss: 0.79557.
+Chest Loss: 3.55337. Hip Loss: 2.26650. Waist Loss: 8.13943
+Epoch: 241/300, Train Loss: 0.13735, Duration: 0.99509
+Height Loss: 6.39729. Arm Loss: 2.83907. Crotch Loss: 0.79450.
+Chest Loss: 3.61776. Hip Loss: 2.29566. Waist Loss: 8.19947
+Epoch: 242/300, Train Loss: 0.13682, Duration: 0.99737
+Height Loss: 6.39368. Arm Loss: 2.83883. Crotch Loss: 0.79377.
+Chest Loss: 3.68139. Hip Loss: 2.32478. Waist Loss: 8.26513
+Epoch: 243/300, Train Loss: 0.13630, Duration: 0.99128
+Height Loss: 6.39380. Arm Loss: 2.83974. Crotch Loss: 0.79365.
+Chest Loss: 3.73837. Hip Loss: 2.35130. Waist Loss: 8.32771
+Epoch: 244/300, Train Loss: 0.13578, Duration: 1.01011
+Height Loss: 6.39683. Arm Loss: 2.84187. Crotch Loss: 0.79436.
+Chest Loss: 3.78259. Hip Loss: 2.37262. Waist Loss: 8.37659
+Epoch: 245/300, Train Loss: 0.13523, Duration: 0.99491
+Height Loss: 6.40224. Arm Loss: 2.84525. Crotch Loss: 0.79609.
+Chest Loss: 3.80890. Hip Loss: 2.38638. Waist Loss: 8.40259
+Epoch: 246/300, Train Loss: 0.13462, Duration: 0.99962
+Height Loss: 6.40966. Arm Loss: 2.84981. Crotch Loss: 0.79892.
+Chest Loss: 3.81496. Hip Loss: 2.39112. Waist Loss: 8.40198
+Epoch: 247/300, Train Loss: 0.13394, Duration: 0.99038
+Height Loss: 6.41864. Arm Loss: 2.85541. Crotch Loss: 0.80277.
+Chest Loss: 3.80237. Hip Loss: 2.38678. Waist Loss: 8.37870
+Epoch: 248/300, Train Loss: 0.13322, Duration: 0.98353
+Height Loss: 6.42863. Arm Loss: 2.86191. Crotch Loss: 0.80733.
+Chest Loss: 3.77600. Hip Loss: 2.37503. Waist Loss: 8.34295
+Epoch: 249/300, Train Loss: 0.13247, Duration: 0.98587
+Height Loss: 6.43885. Arm Loss: 2.86916. Crotch Loss: 0.81221.
+Chest Loss: 3.74230. Hip Loss: 2.35868. Waist Loss: 8.30658
+Epoch: 250/300, Train Loss: 0.13174, Duration: 0.98490
+Height Loss: 6.44832. Arm Loss: 2.87714. Crotch Loss: 0.81707.
+Chest Loss: 3.70748. Hip Loss: 2.34094. Waist Loss: 8.27864
+Epoch: 251/300, Train Loss: 0.13104, Duration: 0.98574
+Height Loss: 6.45616. Arm Loss: 2.88581. Crotch Loss: 0.82167.
+Chest Loss: 3.67636. Hip Loss: 2.32441. Waist Loss: 8.26315
+Epoch: 252/300, Train Loss: 0.13039, Duration: 0.98115
+Height Loss: 6.46188. Arm Loss: 2.89503. Crotch Loss: 0.82600.
+Chest Loss: 3.65196. Hip Loss: 2.31059. Waist Loss: 8.26027
+Epoch: 253/300, Train Loss: 0.12976, Duration: 0.98223
+Height Loss: 6.46590. Arm Loss: 2.90456. Crotch Loss: 0.83011.
+Chest Loss: 3.63546. Hip Loss: 2.29979. Waist Loss: 8.26817
+Epoch: 254/300, Train Loss: 0.12916, Duration: 0.98183
+Height Loss: 6.46908. Arm Loss: 2.91404. Crotch Loss: 0.83407.
+Chest Loss: 3.62663. Hip Loss: 2.29160. Waist Loss: 8.28479
+Epoch: 255/300, Train Loss: 0.12857, Duration: 0.99025
+Height Loss: 6.47258. Arm Loss: 2.92320. Crotch Loss: 0.83790.
+Chest Loss: 3.62437. Hip Loss: 2.28535. Waist Loss: 8.30843
+Epoch: 256/300, Train Loss: 0.12798, Duration: 0.99748
+Height Loss: 6.47738. Arm Loss: 2.93190. Crotch Loss: 0.84155.
+Chest Loss: 3.62719. Hip Loss: 2.28047. Waist Loss: 8.33759
+Epoch: 257/300, Train Loss: 0.12738, Duration: 0.99288
+Height Loss: 6.48404. Arm Loss: 2.94024. Crotch Loss: 0.84491.
+Chest Loss: 3.63367. Hip Loss: 2.27663. Waist Loss: 8.37101
+Epoch: 258/300, Train Loss: 0.12679, Duration: 0.98450
+Height Loss: 6.49263. Arm Loss: 2.94829. Crotch Loss: 0.84791.
+Chest Loss: 3.64263. Hip Loss: 2.27362. Waist Loss: 8.40758
+Epoch: 259/300, Train Loss: 0.12619, Duration: 0.98037
+Height Loss: 6.50299. Arm Loss: 2.95616. Crotch Loss: 0.85054.
+Chest Loss: 3.65318. Hip Loss: 2.27131. Waist Loss: 8.44630
+Epoch: 260/300, Train Loss: 0.12560, Duration: 0.98455
+Height Loss: 6.51505. Arm Loss: 2.96387. Crotch Loss: 0.85288.
+Chest Loss: 3.66475. Hip Loss: 2.26962. Waist Loss: 8.48630
+Epoch: 261/300, Train Loss: 0.12502, Duration: 1.00699
+Height Loss: 6.52865. Arm Loss: 2.97137. Crotch Loss: 0.85508.
+Chest Loss: 3.67701. Hip Loss: 2.26850. Waist Loss: 8.52678
+Epoch: 262/300, Train Loss: 0.12445, Duration: 0.99311
+Height Loss: 6.54371. Arm Loss: 2.97860. Crotch Loss: 0.85727.
+Chest Loss: 3.68972. Hip Loss: 2.26783. Waist Loss: 8.56716
+Epoch: 263/300, Train Loss: 0.12389, Duration: 0.98377
+Height Loss: 6.56032. Arm Loss: 2.98552. Crotch Loss: 0.85956.
+Chest Loss: 3.70285. Hip Loss: 2.26750. Waist Loss: 8.60702
+Epoch: 264/300, Train Loss: 0.12334, Duration: 0.98343
+Height Loss: 6.57846. Arm Loss: 2.99209. Crotch Loss: 0.86200.
+Chest Loss: 3.71640. Hip Loss: 2.26736. Waist Loss: 8.64592
+Epoch: 265/300, Train Loss: 0.12280, Duration: 0.98275
+Height Loss: 6.59797. Arm Loss: 2.99829. Crotch Loss: 0.86456.
+Chest Loss: 3.73048. Hip Loss: 2.26734. Waist Loss: 8.68364
+Epoch: 266/300, Train Loss: 0.12228, Duration: 1.05306
+Height Loss: 6.61835. Arm Loss: 3.00414. Crotch Loss: 0.86711.
+Chest Loss: 3.74519. Hip Loss: 2.26732. Waist Loss: 8.71976
+Epoch: 267/300, Train Loss: 0.12177, Duration: 1.00430
+Height Loss: 6.63885. Arm Loss: 3.00971. Crotch Loss: 0.86945.
+Chest Loss: 3.76063. Hip Loss: 2.26723. Waist Loss: 8.75393
+Epoch: 268/300, Train Loss: 0.12127, Duration: 0.99905
+Height Loss: 6.65835. Arm Loss: 3.01512. Crotch Loss: 0.87128.
+Chest Loss: 3.77665. Hip Loss: 2.26714. Waist Loss: 8.78571
+Epoch: 269/300, Train Loss: 0.12079, Duration: 0.98517
+Height Loss: 6.67556. Arm Loss: 3.02058. Crotch Loss: 0.87230.
+Chest Loss: 3.79281. Hip Loss: 2.26727. Waist Loss: 8.81495
+Epoch: 270/300, Train Loss: 0.12032, Duration: 0.98674
+Height Loss: 6.68924. Arm Loss: 3.02631. Crotch Loss: 0.87238.
+Chest Loss: 3.80821. Hip Loss: 2.26804. Waist Loss: 8.84191
+Epoch: 271/300, Train Loss: 0.11987, Duration: 0.97984
+Height Loss: 6.69853. Arm Loss: 3.03251. Crotch Loss: 0.87167.
+Chest Loss: 3.82186. Hip Loss: 2.26999. Waist Loss: 8.86732
+Epoch: 272/300, Train Loss: 0.11944, Duration: 0.98304
+Height Loss: 6.70354. Arm Loss: 3.03939. Crotch Loss: 0.87070.
+Chest Loss: 3.83316. Hip Loss: 2.27377. Waist Loss: 8.89269
+Epoch: 273/300, Train Loss: 0.11907, Duration: 0.98336
+Height Loss: 6.70563. Arm Loss: 3.04701. Crotch Loss: 0.87033.
+Chest Loss: 3.84297. Hip Loss: 2.28005. Waist Loss: 8.91990
+Epoch: 274/300, Train Loss: 0.11876, Duration: 0.99090
+Height Loss: 6.70741. Arm Loss: 3.05520. Crotch Loss: 0.87156.
+Chest Loss: 3.85467. Hip Loss: 2.28947. Waist Loss: 8.95088
+Epoch: 275/300, Train Loss: 0.11855, Duration: 0.98561
+Height Loss: 6.71205. Arm Loss: 3.06331. Crotch Loss: 0.87521.
+Chest Loss: 3.87428. Hip Loss: 2.30276. Waist Loss: 8.98690
+Epoch: 276/300, Train Loss: 0.11844, Duration: 0.98235
+Height Loss: 6.72264. Arm Loss: 3.07008. Crotch Loss: 0.88122.
+Chest Loss: 3.90903. Hip Loss: 2.32104. Waist Loss: 9.02826
+Epoch: 277/300, Train Loss: 0.11846, Duration: 0.98471
+Height Loss: 6.74156. Arm Loss: 3.07403. Crotch Loss: 0.88802.
+Chest Loss: 3.96270. Hip Loss: 2.34631. Waist Loss: 9.07463
+Epoch: 278/300, Train Loss: 0.11858, Duration: 0.98782
+Height Loss: 6.76859. Arm Loss: 3.07480. Crotch Loss: 0.89221.
+Chest Loss: 4.02881. Hip Loss: 2.38064. Waist Loss: 9.12567
+Epoch: 279/300, Train Loss: 0.11874, Duration: 0.98592
+Height Loss: 6.79956. Arm Loss: 3.07496. Crotch Loss: 0.89016.
+Chest Loss: 4.08702. Hip Loss: 2.42305. Waist Loss: 9.18085
+Epoch: 280/300, Train Loss: 0.11885, Duration: 0.98169
+Height Loss: 6.82835. Arm Loss: 3.07870. Crotch Loss: 0.88195.
+Chest Loss: 4.11248. Hip Loss: 2.46448. Waist Loss: 9.23453
+Epoch: 281/300, Train Loss: 0.11881, Duration: 0.98599
+Height Loss: 6.85353. Arm Loss: 3.08628. Crotch Loss: 0.87259.
+Chest Loss: 4.09445. Hip Loss: 2.48690. Waist Loss: 9.27083
+Epoch: 282/300, Train Loss: 0.11853, Duration: 0.98247
+Height Loss: 6.88304. Arm Loss: 3.09310. Crotch Loss: 0.86728.
+Chest Loss: 4.04471. Hip Loss: 2.47472. Waist Loss: 9.26938
+Epoch: 283/300, Train Loss: 0.11799, Duration: 0.98630
+Height Loss: 6.92922. Arm Loss: 3.09724. Crotch Loss: 0.86670.
+Chest Loss: 3.98702. Hip Loss: 2.43286. Waist Loss: 9.22686
+Epoch: 284/300, Train Loss: 0.11726, Duration: 0.98500
+Height Loss: 6.99948. Arm Loss: 3.10269. Crotch Loss: 0.86862.
+Chest Loss: 3.93990. Hip Loss: 2.38666. Waist Loss: 9.16791
+Epoch: 285/300, Train Loss: 0.11651, Duration: 1.01812
+Height Loss: 7.09074. Arm Loss: 3.11251. Crotch Loss: 0.87088.
+Chest Loss: 3.90826. Hip Loss: 2.35738. Waist Loss: 9.12325
+Epoch: 286/300, Train Loss: 0.11583, Duration: 0.99265
+Height Loss: 7.19022. Arm Loss: 3.12416. Crotch Loss: 0.87230.
+Chest Loss: 3.88953. Hip Loss: 2.34675. Waist Loss: 9.10651
+Epoch: 287/300, Train Loss: 0.11521, Duration: 0.99592
+Height Loss: 7.28002. Arm Loss: 3.13149. Crotch Loss: 0.87260.
+Chest Loss: 3.88288. Hip Loss: 2.34444. Waist Loss: 9.11602
+Epoch: 288/300, Train Loss: 0.11458, Duration: 1.01218
+Height Loss: 7.34371. Arm Loss: 3.13104. Crotch Loss: 0.87222.
+Chest Loss: 3.88899. Hip Loss: 2.34213. Waist Loss: 9.14374
+Epoch: 289/300, Train Loss: 0.11389, Duration: 1.00130
+Height Loss: 7.37427. Arm Loss: 3.12575. Crotch Loss: 0.87182.
+Chest Loss: 3.90531. Hip Loss: 2.33839. Waist Loss: 9.17957
+Epoch: 290/300, Train Loss: 0.11315, Duration: 0.99236
+Height Loss: 7.37697. Arm Loss: 3.12230. Crotch Loss: 0.87183.
+Chest Loss: 3.92536. Hip Loss: 2.33533. Waist Loss: 9.21476
+Epoch: 291/300, Train Loss: 0.11239, Duration: 1.00029
+Height Loss: 7.36388. Arm Loss: 3.12517. Crotch Loss: 0.87274.
+Chest Loss: 3.94356. Hip Loss: 2.33452. Waist Loss: 9.24496
+Epoch: 292/300, Train Loss: 0.11167, Duration: 0.99546
+Height Loss: 7.34666. Arm Loss: 3.13445. Crotch Loss: 0.87557.
+Chest Loss: 3.95813. Hip Loss: 2.33633. Waist Loss: 9.27031
+Epoch: 293/300, Train Loss: 0.11100, Duration: 0.99170
+Height Loss: 7.33251. Arm Loss: 3.14777. Crotch Loss: 0.88164.
+Chest Loss: 3.97042. Hip Loss: 2.34044. Waist Loss: 9.29330
+Epoch: 294/300, Train Loss: 0.11043, Duration: 0.98617
+Height Loss: 7.32449. Arm Loss: 3.16264. Crotch Loss: 0.89186.
+Chest Loss: 3.98290. Hip Loss: 2.34628. Waist Loss: 9.31635
+Epoch: 295/300, Train Loss: 0.10995, Duration: 1.00168
+Height Loss: 7.32315. Arm Loss: 3.17756. Crotch Loss: 0.90645.
+Chest Loss: 3.99745. Hip Loss: 2.35336. Waist Loss: 9.34057
+Epoch: 296/300, Train Loss: 0.10956, Duration: 0.98077
+Height Loss: 7.32782. Arm Loss: 3.19198. Crotch Loss: 0.92517.
+Chest Loss: 4.01508. Hip Loss: 2.36126. Waist Loss: 9.36551
+Epoch: 297/300, Train Loss: 0.10926, Duration: 0.97792
+Height Loss: 7.33787. Arm Loss: 3.20583. Crotch Loss: 0.94775.
+Chest Loss: 4.03629. Hip Loss: 2.36968. Waist Loss: 9.39045
+Epoch: 298/300, Train Loss: 0.10904, Duration: 0.98973
+Height Loss: 7.35357. Arm Loss: 3.21916. Crotch Loss: 0.97383.
+Chest Loss: 4.06076. Hip Loss: 2.37849. Waist Loss: 9.41495
+Epoch: 299/300, Train Loss: 0.10889, Duration: 0.98359
+Height Loss: 7.37591. Arm Loss: 3.23200. Crotch Loss: 1.00227.
+Chest Loss: 4.08735. Hip Loss: 2.38773. Waist Loss: 9.43930
+Epoch: 300/300, Train Loss: 0.10879, Duration: 0.98963
+Height Loss: 7.40582. Arm Loss: 3.24444. Crotch Loss: 1.03007.
+Chest Loss: 4.11340. Hip Loss: 2.39755. Waist Loss: 9.46432
+Epoch: 001/100, Train Loss: 3.12338, Duration: 1.68675
+Height Loss: 11.49199. Arm Loss: 8.52810. Crotch Loss: 8.96580.
+Chest Loss: 49.62136. Hip Loss: 48.48763. Waist Loss: 57.39664
+Epoch: 002/100, Train Loss: 1.44191, Duration: 0.96185
+Height Loss: 9.99752. Arm Loss: 7.99568. Crotch Loss: 6.56875.
+Chest Loss: 21.50556. Hip Loss: 33.25152. Waist Loss: 25.75312
+Epoch: 003/100, Train Loss: 0.90816, Duration: 0.98940
+Height Loss: 8.08706. Arm Loss: 5.70454. Crotch Loss: 5.55415.
+Chest Loss: 14.27796. Hip Loss: 19.54047. Waist Loss: 19.89572
+Epoch: 004/100, Train Loss: 0.71543, Duration: 0.97374
+Height Loss: 7.10611. Arm Loss: 4.84554. Crotch Loss: 5.29361.
+Chest Loss: 11.16395. Hip Loss: 13.34611. Waist Loss: 16.84242
+Epoch: 005/100, Train Loss: 0.61679, Duration: 0.96852
+Height Loss: 7.51466. Arm Loss: 4.30802. Crotch Loss: 4.51789.
+Chest Loss: 9.76795. Hip Loss: 10.07273. Waist Loss: 15.93835
+Epoch: 006/100, Train Loss: 0.56214, Duration: 1.02437
+Height Loss: 6.87572. Arm Loss: 4.04997. Crotch Loss: 3.96985.
+Chest Loss: 8.62585. Hip Loss: 8.46574. Waist Loss: 15.08972
+Epoch: 007/100, Train Loss: 0.52472, Duration: 0.96712
+Height Loss: 6.55061. Arm Loss: 3.90095. Crotch Loss: 3.50531.
+Chest Loss: 7.80216. Hip Loss: 7.66182. Waist Loss: 14.23038
+Epoch: 008/100, Train Loss: 0.49690, Duration: 0.96557
+Height Loss: 6.25384. Arm Loss: 3.81234. Crotch Loss: 3.24598.
+Chest Loss: 7.16946. Hip Loss: 7.26270. Waist Loss: 13.39295
+Epoch: 009/100, Train Loss: 0.47454, Duration: 0.97406
+Height Loss: 6.12306. Arm Loss: 3.75789. Crotch Loss: 3.08444.
+Chest Loss: 6.74206. Hip Loss: 6.99286. Waist Loss: 12.76554
+Epoch: 010/100, Train Loss: 0.45608, Duration: 0.99973
+Height Loss: 6.04836. Arm Loss: 3.70996. Crotch Loss: 2.95642.
+Chest Loss: 6.41870. Hip Loss: 6.74237. Waist Loss: 12.24371
+Epoch: 011/100, Train Loss: 0.44003, Duration: 0.97056
+Height Loss: 5.99568. Arm Loss: 3.65754. Crotch Loss: 2.82063.
+Chest Loss: 6.15800. Hip Loss: 6.50283. Waist Loss: 11.77436
+Epoch: 012/100, Train Loss: 0.42557, Duration: 0.97340
+Height Loss: 5.94189. Arm Loss: 3.59977. Crotch Loss: 2.67550.
+Chest Loss: 5.93154. Hip Loss: 6.28397. Waist Loss: 11.34074
+Epoch: 013/100, Train Loss: 0.41229, Duration: 0.97328
+Height Loss: 5.88756. Arm Loss: 3.54336. Crotch Loss: 2.52911.
+Chest Loss: 5.73086. Hip Loss: 6.07677. Waist Loss: 10.94481
+Epoch: 014/100, Train Loss: 0.40002, Duration: 0.97549
+Height Loss: 5.83530. Arm Loss: 3.49359. Crotch Loss: 2.39375.
+Chest Loss: 5.55016. Hip Loss: 5.88055. Waist Loss: 10.59442
+Epoch: 015/100, Train Loss: 0.38872, Duration: 0.97572
+Height Loss: 5.78247. Arm Loss: 3.45130. Crotch Loss: 2.27248.
+Chest Loss: 5.38534. Hip Loss: 5.69300. Waist Loss: 10.29406
+Epoch: 016/100, Train Loss: 0.37831, Duration: 0.97594
+Height Loss: 5.72044. Arm Loss: 3.41359. Crotch Loss: 2.16114.
+Chest Loss: 5.23139. Hip Loss: 5.51222. Waist Loss: 10.03960
+Epoch: 017/100, Train Loss: 0.36867, Duration: 0.98352
+Height Loss: 5.64751. Arm Loss: 3.37816. Crotch Loss: 2.05665.
+Chest Loss: 5.08475. Hip Loss: 5.33832. Waist Loss: 9.82343
+Epoch: 018/100, Train Loss: 0.35976, Duration: 0.97804
+Height Loss: 5.57254. Arm Loss: 3.34443. Crotch Loss: 1.96163.
+Chest Loss: 4.94366. Hip Loss: 5.17119. Waist Loss: 9.63913
+Epoch: 019/100, Train Loss: 0.35155, Duration: 0.97193
+Height Loss: 5.50518. Arm Loss: 3.31143. Crotch Loss: 1.87980.
+Chest Loss: 4.80696. Hip Loss: 5.01136. Waist Loss: 9.48132
+Epoch: 020/100, Train Loss: 0.34402, Duration: 0.97964
+Height Loss: 5.44547. Arm Loss: 3.27672. Crotch Loss: 1.81061.
+Chest Loss: 4.67332. Hip Loss: 4.86021. Waist Loss: 9.34415
+Epoch: 021/100, Train Loss: 0.33704, Duration: 0.97600
+Height Loss: 5.38469. Arm Loss: 3.23812. Crotch Loss: 1.74971.
+Chest Loss: 4.54155. Hip Loss: 4.71891. Waist Loss: 9.22282
+Epoch: 022/100, Train Loss: 0.33044, Duration: 0.97863
+Height Loss: 5.31294. Arm Loss: 3.19542. Crotch Loss: 1.69242.
+Chest Loss: 4.41131. Hip Loss: 4.58797. Waist Loss: 9.11383
+Epoch: 023/100, Train Loss: 0.32411, Duration: 0.97760
+Height Loss: 5.22620. Arm Loss: 3.15005. Crotch Loss: 1.63673.
+Chest Loss: 4.28291. Hip Loss: 4.46733. Waist Loss: 9.01459
+Epoch: 024/100, Train Loss: 0.31804, Duration: 0.98309
+Height Loss: 5.12696. Arm Loss: 3.10439. Crotch Loss: 1.58379.
+Chest Loss: 4.15715. Hip Loss: 4.35639. Waist Loss: 8.92303
+Epoch: 025/100, Train Loss: 0.31229, Duration: 0.98370
+Height Loss: 5.02178. Arm Loss: 3.06159. Crotch Loss: 1.53664.
+Chest Loss: 4.03548. Hip Loss: 4.25459. Waist Loss: 8.83806
+Epoch: 026/100, Train Loss: 0.30696, Duration: 0.97879
+Height Loss: 4.91844. Arm Loss: 3.02512. Crotch Loss: 1.49865.
+Chest Loss: 3.92001. Hip Loss: 4.16138. Waist Loss: 8.75943
+Epoch: 027/100, Train Loss: 0.30215, Duration: 0.97989
+Height Loss: 4.82403. Arm Loss: 2.99762. Crotch Loss: 1.47194.
+Chest Loss: 3.81316. Hip Loss: 4.07534. Waist Loss: 8.68703
+Epoch: 028/100, Train Loss: 0.29789, Duration: 0.98941
+Height Loss: 4.74181. Arm Loss: 2.97938. Crotch Loss: 1.45550.
+Chest Loss: 3.71654. Hip Loss: 3.99495. Waist Loss: 8.62063
+Epoch: 029/100, Train Loss: 0.29414, Duration: 0.98245
+Height Loss: 4.66951. Arm Loss: 2.96786. Crotch Loss: 1.44543.
+Chest Loss: 3.63091. Hip Loss: 3.91888. Waist Loss: 8.56007
+Epoch: 030/100, Train Loss: 0.29080, Duration: 0.98351
+Height Loss: 4.60148. Arm Loss: 2.95935. Crotch Loss: 1.43689.
+Chest Loss: 3.55610. Hip Loss: 3.84667. Waist Loss: 8.50457
+Epoch: 031/100, Train Loss: 0.28775, Duration: 0.98436
+Height Loss: 4.53284. Arm Loss: 2.95079. Crotch Loss: 1.42595.
+Chest Loss: 3.49121. Hip Loss: 3.77814. Waist Loss: 8.45314
+Epoch: 032/100, Train Loss: 0.28489, Duration: 0.97998
+Height Loss: 4.46151. Arm Loss: 2.94076. Crotch Loss: 1.41061.
+Chest Loss: 3.43526. Hip Loss: 3.71302. Waist Loss: 8.40504
+Epoch: 033/100, Train Loss: 0.28212, Duration: 0.99224
+Height Loss: 4.38849. Arm Loss: 2.92941. Crotch Loss: 1.39083.
+Chest Loss: 3.38733. Hip Loss: 3.65106. Waist Loss: 8.35983
+Epoch: 034/100, Train Loss: 0.27941, Duration: 0.98572
+Height Loss: 4.31705. Arm Loss: 2.91789. Crotch Loss: 1.36820.
+Chest Loss: 3.34657. Hip Loss: 3.59191. Waist Loss: 8.31746
+Epoch: 035/100, Train Loss: 0.27676, Duration: 0.98281
+Height Loss: 4.25116. Arm Loss: 2.90752. Crotch Loss: 1.34496.
+Chest Loss: 3.31202. Hip Loss: 3.53555. Waist Loss: 8.27763
+Epoch: 036/100, Train Loss: 0.27418, Duration: 0.98007
+Height Loss: 4.19370. Arm Loss: 2.89911. Crotch Loss: 1.32273.
+Chest Loss: 3.28275. Hip Loss: 3.48181. Waist Loss: 8.23989
+Epoch: 037/100, Train Loss: 0.27173, Duration: 0.97463
+Height Loss: 4.14574. Arm Loss: 2.89270. Crotch Loss: 1.30215.
+Chest Loss: 3.25783. Hip Loss: 3.43052. Waist Loss: 8.20349
+Epoch: 038/100, Train Loss: 0.26941, Duration: 0.97556
+Height Loss: 4.10677. Arm Loss: 2.88762. Crotch Loss: 1.28295.
+Chest Loss: 3.23641. Hip Loss: 3.38146. Waist Loss: 8.16783
+Epoch: 039/100, Train Loss: 0.26724, Duration: 0.97809
+Height Loss: 4.07526. Arm Loss: 2.88291. Crotch Loss: 1.26442.
+Chest Loss: 3.21782. Hip Loss: 3.33462. Waist Loss: 8.13240
+Epoch: 040/100, Train Loss: 0.26520, Duration: 0.97956
+Height Loss: 4.04938. Arm Loss: 2.87773. Crotch Loss: 1.24590.
+Chest Loss: 3.20155. Hip Loss: 3.28992. Waist Loss: 8.09690
+Epoch: 041/100, Train Loss: 0.26326, Duration: 0.98489
+Height Loss: 4.02759. Arm Loss: 2.87166. Crotch Loss: 1.22708.
+Chest Loss: 3.18711. Hip Loss: 3.24712. Waist Loss: 8.06118
+Epoch: 042/100, Train Loss: 0.26142, Duration: 0.97894
+Height Loss: 4.00889. Arm Loss: 2.86471. Crotch Loss: 1.20810.
+Chest Loss: 3.17411. Hip Loss: 3.20605. Waist Loss: 8.02505
+Epoch: 043/100, Train Loss: 0.25967, Duration: 0.99331
+Height Loss: 3.99283. Arm Loss: 2.85716. Crotch Loss: 1.18932.
+Chest Loss: 3.16231. Hip Loss: 3.16640. Waist Loss: 7.98845
+Epoch: 044/100, Train Loss: 0.25799, Duration: 0.98257
+Height Loss: 3.97932. Arm Loss: 2.84929. Crotch Loss: 1.17118.
+Chest Loss: 3.15142. Hip Loss: 3.12777. Waist Loss: 7.95142
+Epoch: 045/100, Train Loss: 0.25638, Duration: 0.98990
+Height Loss: 3.96852. Arm Loss: 2.84133. Crotch Loss: 1.15397.
+Chest Loss: 3.14122. Hip Loss: 3.08977. Waist Loss: 7.91410
+Epoch: 046/100, Train Loss: 0.25485, Duration: 0.97438
+Height Loss: 3.96062. Arm Loss: 2.83345. Crotch Loss: 1.13795.
+Chest Loss: 3.13161. Hip Loss: 3.05210. Waist Loss: 7.87657
+Epoch: 047/100, Train Loss: 0.25338, Duration: 0.97749
+Height Loss: 3.95595. Arm Loss: 2.82584. Crotch Loss: 1.12344.
+Chest Loss: 3.12252. Hip Loss: 3.01443. Waist Loss: 7.83909
+Epoch: 048/100, Train Loss: 0.25199, Duration: 0.97306
+Height Loss: 3.95479. Arm Loss: 2.81872. Crotch Loss: 1.11078.
+Chest Loss: 3.11391. Hip Loss: 2.97659. Waist Loss: 7.80205
+Epoch: 049/100, Train Loss: 0.25065, Duration: 0.97651
+Height Loss: 3.95734. Arm Loss: 2.81231. Crotch Loss: 1.10042.
+Chest Loss: 3.10576. Hip Loss: 2.93853. Waist Loss: 7.76582
+Epoch: 050/100, Train Loss: 0.24938, Duration: 0.98751
+Height Loss: 3.96363. Arm Loss: 2.80679. Crotch Loss: 1.09280.
+Chest Loss: 3.09809. Hip Loss: 2.90050. Waist Loss: 7.73084
+Epoch: 051/100, Train Loss: 0.24817, Duration: 0.98184
+Height Loss: 3.97330. Arm Loss: 2.80237. Crotch Loss: 1.08823.
+Chest Loss: 3.09088. Hip Loss: 2.86306. Waist Loss: 7.69760
+Epoch: 052/100, Train Loss: 0.24700, Duration: 0.98987
+Height Loss: 3.98528. Arm Loss: 2.79917. Crotch Loss: 1.08678.
+Chest Loss: 3.08413. Hip Loss: 2.82722. Waist Loss: 7.66655
+Epoch: 053/100, Train Loss: 0.24586, Duration: 0.98774
+Height Loss: 3.99776. Arm Loss: 2.79709. Crotch Loss: 1.08797.
+Chest Loss: 3.07770. Hip Loss: 2.79408. Waist Loss: 7.63789
+Epoch: 054/100, Train Loss: 0.24473, Duration: 0.97982
+Height Loss: 4.00867. Arm Loss: 2.79563. Crotch Loss: 1.09083.
+Chest Loss: 3.07154. Hip Loss: 2.76453. Waist Loss: 7.61149
+Epoch: 055/100, Train Loss: 0.24360, Duration: 0.98466
+Height Loss: 4.01629. Arm Loss: 2.79389. Crotch Loss: 1.09410.
+Chest Loss: 3.06572. Hip Loss: 2.73880. Waist Loss: 7.58688
+Epoch: 056/100, Train Loss: 0.24244, Duration: 0.98063
+Height Loss: 4.02023. Arm Loss: 2.79092. Crotch Loss: 1.09672.
+Chest Loss: 3.06042. Hip Loss: 2.71641. Waist Loss: 7.56361
+Epoch: 057/100, Train Loss: 0.24125, Duration: 0.98124
+Height Loss: 4.02164. Arm Loss: 2.78610. Crotch Loss: 1.09822.
+Chest Loss: 3.05578. Hip Loss: 2.69654. Waist Loss: 7.54107
+Epoch: 058/100, Train Loss: 0.24005, Duration: 0.97987
+Height Loss: 4.02243. Arm Loss: 2.77936. Crotch Loss: 1.09867.
+Chest Loss: 3.05186. Hip Loss: 2.67828. Waist Loss: 7.51891
+Epoch: 059/100, Train Loss: 0.23885, Duration: 0.99525
+Height Loss: 4.02420. Arm Loss: 2.77109. Crotch Loss: 1.09832.
+Chest Loss: 3.04872. Hip Loss: 2.66084. Waist Loss: 7.49681
+Epoch: 060/100, Train Loss: 0.23769, Duration: 0.98573
+Height Loss: 4.02772. Arm Loss: 2.76187. Crotch Loss: 1.09744.
+Chest Loss: 3.04636. Hip Loss: 2.64372. Waist Loss: 7.47450
+Epoch: 061/100, Train Loss: 0.23657, Duration: 0.98975
+Height Loss: 4.03309. Arm Loss: 2.75220. Crotch Loss: 1.09615.
+Chest Loss: 3.04478. Hip Loss: 2.62683. Waist Loss: 7.45159
+Epoch: 062/100, Train Loss: 0.23550, Duration: 0.98700
+Height Loss: 4.04021. Arm Loss: 2.74252. Crotch Loss: 1.09456.
+Chest Loss: 3.04396. Hip Loss: 2.61037. Waist Loss: 7.42783
+Epoch: 063/100, Train Loss: 0.23446, Duration: 0.99520
+Height Loss: 4.04893. Arm Loss: 2.73302. Crotch Loss: 1.09269.
+Chest Loss: 3.04388. Hip Loss: 2.59480. Waist Loss: 7.40308
+Epoch: 064/100, Train Loss: 0.23347, Duration: 1.00341
+Height Loss: 4.05922. Arm Loss: 2.72391. Crotch Loss: 1.09062.
+Chest Loss: 3.04455. Hip Loss: 2.58059. Waist Loss: 7.37735
+Epoch: 065/100, Train Loss: 0.23251, Duration: 0.98733
+Height Loss: 4.07102. Arm Loss: 2.71531. Crotch Loss: 1.08833.
+Chest Loss: 3.04608. Hip Loss: 2.56809. Waist Loss: 7.35081
+Epoch: 066/100, Train Loss: 0.23158, Duration: 0.99228
+Height Loss: 4.08417. Arm Loss: 2.70732. Crotch Loss: 1.08584.
+Chest Loss: 3.04852. Hip Loss: 2.55736. Waist Loss: 7.32397
+Epoch: 067/100, Train Loss: 0.23067, Duration: 0.98437
+Height Loss: 4.09842. Arm Loss: 2.70008. Crotch Loss: 1.08305.
+Chest Loss: 3.05192. Hip Loss: 2.54804. Waist Loss: 7.29744
+Epoch: 068/100, Train Loss: 0.22978, Duration: 0.99869
+Height Loss: 4.11334. Arm Loss: 2.69371. Crotch Loss: 1.07986.
+Chest Loss: 3.05616. Hip Loss: 2.53914. Waist Loss: 7.27195
+Epoch: 069/100, Train Loss: 0.22891, Duration: 0.99134
+Height Loss: 4.12835. Arm Loss: 2.68828. Crotch Loss: 1.07609.
+Chest Loss: 3.06073. Hip Loss: 2.52924. Waist Loss: 7.24816
+Epoch: 070/100, Train Loss: 0.22805, Duration: 1.00464
+Height Loss: 4.14285. Arm Loss: 2.68382. Crotch Loss: 1.07159.
+Chest Loss: 3.06480. Hip Loss: 2.51693. Waist Loss: 7.22655
+Epoch: 071/100, Train Loss: 0.22720, Duration: 1.05402
+Height Loss: 4.15647. Arm Loss: 2.68028. Crotch Loss: 1.06632.
+Chest Loss: 3.06725. Hip Loss: 2.50146. Waist Loss: 7.20708
+Epoch: 072/100, Train Loss: 0.22635, Duration: 0.99539
+Height Loss: 4.16914. Arm Loss: 2.67756. Crotch Loss: 1.06036.
+Chest Loss: 3.06701. Hip Loss: 2.48320. Waist Loss: 7.18933
+Epoch: 073/100, Train Loss: 0.22552, Duration: 1.03562
+Height Loss: 4.18111. Arm Loss: 2.67544. Crotch Loss: 1.05389.
+Chest Loss: 3.06346. Hip Loss: 2.46363. Waist Loss: 7.17255
+Epoch: 074/100, Train Loss: 0.22469, Duration: 0.99512
+Height Loss: 4.19271. Arm Loss: 2.67361. Crotch Loss: 1.04720.
+Chest Loss: 3.05667. Hip Loss: 2.44474. Waist Loss: 7.15602
+Epoch: 075/100, Train Loss: 0.22387, Duration: 1.00702
+Height Loss: 4.20421. Arm Loss: 2.67178. Crotch Loss: 1.04054.
+Chest Loss: 3.04739. Hip Loss: 2.42834. Waist Loss: 7.13929
+Epoch: 076/100, Train Loss: 0.22307, Duration: 0.95551
+Height Loss: 4.21567. Arm Loss: 2.66968. Crotch Loss: 1.03413.
+Chest Loss: 3.03664. Hip Loss: 2.41563. Waist Loss: 7.12222
+Epoch: 077/100, Train Loss: 0.22229, Duration: 0.98992
+Height Loss: 4.22708. Arm Loss: 2.66720. Crotch Loss: 1.02811.
+Chest Loss: 3.02553. Hip Loss: 2.40723. Waist Loss: 7.10487
+Epoch: 078/100, Train Loss: 0.22153, Duration: 0.94552
+Height Loss: 4.23836. Arm Loss: 2.66429. Crotch Loss: 1.02258.
+Chest Loss: 3.01499. Hip Loss: 2.40333. Waist Loss: 7.08746
+Epoch: 079/100, Train Loss: 0.22079, Duration: 0.94152
+Height Loss: 4.24947. Arm Loss: 2.66087. Crotch Loss: 1.01754.
+Chest Loss: 3.00583. Hip Loss: 2.40402. Waist Loss: 7.07027
+Epoch: 080/100, Train Loss: 0.22007, Duration: 0.94435
+Height Loss: 4.26042. Arm Loss: 2.65698. Crotch Loss: 1.01301.
+Chest Loss: 2.99873. Hip Loss: 2.40929. Waist Loss: 7.05361
+Epoch: 081/100, Train Loss: 0.21938, Duration: 0.94327
+Height Loss: 4.27121. Arm Loss: 2.65257. Crotch Loss: 1.00898.
+Chest Loss: 2.99434. Hip Loss: 2.41912. Waist Loss: 7.03780
+Epoch: 082/100, Train Loss: 0.21871, Duration: 0.95312
+Height Loss: 4.28190. Arm Loss: 2.64761. Crotch Loss: 1.00546.
+Chest Loss: 2.99343. Hip Loss: 2.43349. Waist Loss: 7.02331
+Epoch: 083/100, Train Loss: 0.21806, Duration: 0.93741
+Height Loss: 4.29256. Arm Loss: 2.64209. Crotch Loss: 1.00244.
+Chest Loss: 2.99693. Hip Loss: 2.45231. Waist Loss: 7.01065
+Epoch: 084/100, Train Loss: 0.21745, Duration: 0.92736
+Height Loss: 4.30329. Arm Loss: 2.63599. Crotch Loss: 0.99994.
+Chest Loss: 3.00591. Hip Loss: 2.47523. Waist Loss: 7.00042
+Epoch: 085/100, Train Loss: 0.21687, Duration: 0.95909
+Height Loss: 4.31422. Arm Loss: 2.62932. Crotch Loss: 0.99800.
+Chest Loss: 3.02150. Hip Loss: 2.50151. Waist Loss: 6.99346
+Epoch: 086/100, Train Loss: 0.21632, Duration: 0.94782
+Height Loss: 4.32555. Arm Loss: 2.62213. Crotch Loss: 0.99670.
+Chest Loss: 3.04457. Hip Loss: 2.52952. Waist Loss: 6.99061
+Epoch: 087/100, Train Loss: 0.21580, Duration: 0.95382
+Height Loss: 4.33756. Arm Loss: 2.61455. Crotch Loss: 0.99614.
+Chest Loss: 3.07486. Hip Loss: 2.55637. Waist Loss: 6.99250
+Epoch: 088/100, Train Loss: 0.21530, Duration: 0.93970
+Height Loss: 4.35062. Arm Loss: 2.60682. Crotch Loss: 0.99649.
+Chest Loss: 3.10969. Hip Loss: 2.57735. Waist Loss: 6.99882
+Epoch: 089/100, Train Loss: 0.21480, Duration: 0.96567
+Height Loss: 4.36497. Arm Loss: 2.59931. Crotch Loss: 0.99790.
+Chest Loss: 3.14259. Hip Loss: 2.58605. Waist Loss: 7.00716
+Epoch: 090/100, Train Loss: 0.21425, Duration: 0.93149
+Height Loss: 4.38065. Arm Loss: 2.59257. Crotch Loss: 1.00045.
+Chest Loss: 3.16332. Hip Loss: 2.57582. Waist Loss: 7.01187
+Epoch: 091/100, Train Loss: 0.21361, Duration: 0.93202
+Height Loss: 4.39701. Arm Loss: 2.58708. Crotch Loss: 1.00395.
+Chest Loss: 3.16193. Hip Loss: 2.54323. Waist Loss: 7.00482
+Epoch: 092/100, Train Loss: 0.21281, Duration: 0.93321
+Height Loss: 4.41275. Arm Loss: 2.58317. Crotch Loss: 1.00783.
+Chest Loss: 3.13612. Hip Loss: 2.49203. Waist Loss: 6.98048
+Epoch: 093/100, Train Loss: 0.21184, Duration: 0.93992
+Height Loss: 4.42678. Arm Loss: 2.58088. Crotch Loss: 1.01135.
+Chest Loss: 3.09545. Hip Loss: 2.43295. Waist Loss: 6.94189
+Epoch: 094/100, Train Loss: 0.21077, Duration: 0.94054
+Height Loss: 4.43912. Arm Loss: 2.57984. Crotch Loss: 1.01393.
+Chest Loss: 3.05529. Hip Loss: 2.37793. Waist Loss: 6.89977
+Epoch: 095/100, Train Loss: 0.20968, Duration: 0.96786
+Height Loss: 4.45066. Arm Loss: 2.57920. Crotch Loss: 1.01548.
+Chest Loss: 3.02643. Hip Loss: 2.33367. Waist Loss: 6.86396
+Epoch: 096/100, Train Loss: 0.20866, Duration: 0.93192
+Height Loss: 4.46221. Arm Loss: 2.57812. Crotch Loss: 1.01634.
+Chest Loss: 3.01080. Hip Loss: 2.30063. Waist Loss: 6.83736
+Epoch: 097/100, Train Loss: 0.20774, Duration: 0.95237
+Height Loss: 4.47403. Arm Loss: 2.57603. Crotch Loss: 1.01689.
+Chest Loss: 3.00507. Hip Loss: 2.27616. Waist Loss: 6.81786
+Epoch: 098/100, Train Loss: 0.20691, Duration: 0.94715
+Height Loss: 4.48603. Arm Loss: 2.57275. Crotch Loss: 1.01741.
+Chest Loss: 3.00499. Hip Loss: 2.25742. Waist Loss: 6.80230
+Epoch: 099/100, Train Loss: 0.20615, Duration: 0.93836
+Height Loss: 4.49813. Arm Loss: 2.56845. Crotch Loss: 1.01798.
+Chest Loss: 3.00755. Hip Loss: 2.24246. Waist Loss: 6.78853
+Epoch: 100/100, Train Loss: 0.20542, Duration: 0.93354
+Height Loss: 4.51032. Arm Loss: 2.56354. Crotch Loss: 1.01869.
+Chest Loss: 3.01112. Hip Loss: 2.23020. Waist Loss: 6.77558
+Epoch: 001/050, Train Loss: 3.12338, Duration: 1.72365
+Height Loss: 11.49199. Arm Loss: 8.52810. Crotch Loss: 8.96580.
+Chest Loss: 49.62136. Hip Loss: 48.48763. Waist Loss: 57.39664
+Epoch: 002/050, Train Loss: 1.44191, Duration: 0.96886
+Height Loss: 9.99752. Arm Loss: 7.99568. Crotch Loss: 6.56875.
+Chest Loss: 21.50556. Hip Loss: 33.25151. Waist Loss: 25.75312
+Epoch: 003/050, Train Loss: 0.90816, Duration: 0.97856
+Height Loss: 8.08706. Arm Loss: 5.70454. Crotch Loss: 5.55415.
+Chest Loss: 14.27796. Hip Loss: 19.54047. Waist Loss: 19.89572
+Epoch: 004/050, Train Loss: 0.71543, Duration: 0.97727
+Height Loss: 7.10611. Arm Loss: 4.84554. Crotch Loss: 5.29361.
+Chest Loss: 11.16395. Hip Loss: 13.34611. Waist Loss: 16.84242
+Epoch: 005/050, Train Loss: 0.61679, Duration: 0.97881
+Height Loss: 7.51465. Arm Loss: 4.30802. Crotch Loss: 4.51789.
+Chest Loss: 9.76795. Hip Loss: 10.07273. Waist Loss: 15.93835
+Epoch: 006/050, Train Loss: 0.56214, Duration: 1.02666
+Height Loss: 6.87572. Arm Loss: 4.04997. Crotch Loss: 3.96985.
+Chest Loss: 8.62586. Hip Loss: 8.46574. Waist Loss: 15.08972
+Epoch: 007/050, Train Loss: 0.52472, Duration: 0.97164
+Height Loss: 6.55061. Arm Loss: 3.90095. Crotch Loss: 3.50531.
+Chest Loss: 7.80216. Hip Loss: 7.66183. Waist Loss: 14.23038
+Epoch: 008/050, Train Loss: 0.49690, Duration: 0.97225
+Height Loss: 6.25384. Arm Loss: 3.81234. Crotch Loss: 3.24598.
+Chest Loss: 7.16946. Hip Loss: 7.26270. Waist Loss: 13.39295
+Epoch: 009/050, Train Loss: 0.47454, Duration: 0.97079
+Height Loss: 6.12306. Arm Loss: 3.75789. Crotch Loss: 3.08444.
+Chest Loss: 6.74206. Hip Loss: 6.99286. Waist Loss: 12.76554
+Epoch: 010/050, Train Loss: 0.45608, Duration: 0.97102
+Height Loss: 6.04835. Arm Loss: 3.70996. Crotch Loss: 2.95642.
+Chest Loss: 6.41870. Hip Loss: 6.74237. Waist Loss: 12.24371
+Epoch: 011/050, Train Loss: 0.44003, Duration: 0.97569
+Height Loss: 5.99568. Arm Loss: 3.65754. Crotch Loss: 2.82063.
+Chest Loss: 6.15800. Hip Loss: 6.50283. Waist Loss: 11.77436
+Epoch: 012/050, Train Loss: 0.42557, Duration: 0.97662
+Height Loss: 5.94189. Arm Loss: 3.59977. Crotch Loss: 2.67550.
+Chest Loss: 5.93154. Hip Loss: 6.28398. Waist Loss: 11.34074
+Epoch: 013/050, Train Loss: 0.41229, Duration: 0.97846
+Height Loss: 5.88756. Arm Loss: 3.54336. Crotch Loss: 2.52911.
+Chest Loss: 5.73087. Hip Loss: 6.07677. Waist Loss: 10.94481
+Epoch: 014/050, Train Loss: 0.40002, Duration: 0.97636
+Height Loss: 5.83530. Arm Loss: 3.49359. Crotch Loss: 2.39375.
+Chest Loss: 5.55016. Hip Loss: 5.88055. Waist Loss: 10.59442
+Epoch: 015/050, Train Loss: 0.38872, Duration: 0.98436
+Height Loss: 5.78247. Arm Loss: 3.45130. Crotch Loss: 2.27248.
+Chest Loss: 5.38534. Hip Loss: 5.69300. Waist Loss: 10.29406
+Epoch: 016/050, Train Loss: 0.37831, Duration: 0.97757
+Height Loss: 5.72044. Arm Loss: 3.41359. Crotch Loss: 2.16114.
+Chest Loss: 5.23139. Hip Loss: 5.51222. Waist Loss: 10.03960
+Epoch: 017/050, Train Loss: 0.36867, Duration: 0.98407
+Height Loss: 5.64751. Arm Loss: 3.37816. Crotch Loss: 2.05665.
+Chest Loss: 5.08475. Hip Loss: 5.33832. Waist Loss: 9.82343
+Epoch: 018/050, Train Loss: 0.35976, Duration: 0.98117
+Height Loss: 5.57254. Arm Loss: 3.34443. Crotch Loss: 1.96163.
+Chest Loss: 4.94366. Hip Loss: 5.17119. Waist Loss: 9.63913
+Epoch: 019/050, Train Loss: 0.35155, Duration: 0.98112
+Height Loss: 5.50518. Arm Loss: 3.31143. Crotch Loss: 1.87980.
+Chest Loss: 4.80696. Hip Loss: 5.01136. Waist Loss: 9.48132
+Epoch: 020/050, Train Loss: 0.34402, Duration: 0.98858
+Height Loss: 5.44547. Arm Loss: 3.27672. Crotch Loss: 1.81061.
+Chest Loss: 4.67332. Hip Loss: 4.86021. Waist Loss: 9.34415
+Epoch: 021/050, Train Loss: 0.33704, Duration: 0.97989
+Height Loss: 5.38469. Arm Loss: 3.23812. Crotch Loss: 1.74971.
+Chest Loss: 4.54155. Hip Loss: 4.71891. Waist Loss: 9.22282
+Epoch: 022/050, Train Loss: 0.33044, Duration: 0.98060
+Height Loss: 5.31294. Arm Loss: 3.19542. Crotch Loss: 1.69242.
+Chest Loss: 4.41131. Hip Loss: 4.58797. Waist Loss: 9.11383
+Epoch: 023/050, Train Loss: 0.32411, Duration: 0.98207
+Height Loss: 5.22620. Arm Loss: 3.15005. Crotch Loss: 1.63673.
+Chest Loss: 4.28291. Hip Loss: 4.46733. Waist Loss: 9.01459
+Epoch: 024/050, Train Loss: 0.31804, Duration: 0.98242
+Height Loss: 5.12696. Arm Loss: 3.10439. Crotch Loss: 1.58379.
+Chest Loss: 4.15715. Hip Loss: 4.35639. Waist Loss: 8.92303
+Epoch: 025/050, Train Loss: 0.31229, Duration: 0.97891
+Height Loss: 5.02178. Arm Loss: 3.06159. Crotch Loss: 1.53664.
+Chest Loss: 4.03548. Hip Loss: 4.25459. Waist Loss: 8.83806
+Epoch: 026/050, Train Loss: 0.30696, Duration: 0.97927
+Height Loss: 4.91844. Arm Loss: 3.02512. Crotch Loss: 1.49865.
+Chest Loss: 3.92001. Hip Loss: 4.16137. Waist Loss: 8.75943
+Epoch: 027/050, Train Loss: 0.30215, Duration: 0.97950
+Height Loss: 4.82404. Arm Loss: 2.99762. Crotch Loss: 1.47194.
+Chest Loss: 3.81316. Hip Loss: 4.07533. Waist Loss: 8.68703
+Epoch: 028/050, Train Loss: 0.29789, Duration: 0.98615
+Height Loss: 4.74181. Arm Loss: 2.97938. Crotch Loss: 1.45550.
+Chest Loss: 3.71654. Hip Loss: 3.99495. Waist Loss: 8.62063
+Epoch: 029/050, Train Loss: 0.29414, Duration: 0.97837
+Height Loss: 4.66951. Arm Loss: 2.96786. Crotch Loss: 1.44543.
+Chest Loss: 3.63091. Hip Loss: 3.91888. Waist Loss: 8.56007
+Epoch: 030/050, Train Loss: 0.29080, Duration: 0.97755
+Height Loss: 4.60148. Arm Loss: 2.95935. Crotch Loss: 1.43689.
+Chest Loss: 3.55610. Hip Loss: 3.84667. Waist Loss: 8.50457
+Epoch: 031/050, Train Loss: 0.28775, Duration: 0.97866
+Height Loss: 4.53284. Arm Loss: 2.95080. Crotch Loss: 1.42595.
+Chest Loss: 3.49121. Hip Loss: 3.77814. Waist Loss: 8.45314
+Epoch: 032/050, Train Loss: 0.28489, Duration: 0.98239
+Height Loss: 4.46151. Arm Loss: 2.94076. Crotch Loss: 1.41061.
+Chest Loss: 3.43526. Hip Loss: 3.71302. Waist Loss: 8.40504
+Epoch: 033/050, Train Loss: 0.28212, Duration: 0.97956
+Height Loss: 4.38849. Arm Loss: 2.92941. Crotch Loss: 1.39083.
+Chest Loss: 3.38733. Hip Loss: 3.65106. Waist Loss: 8.35983
+Epoch: 034/050, Train Loss: 0.27941, Duration: 0.97864
+Height Loss: 4.31705. Arm Loss: 2.91789. Crotch Loss: 1.36820.
+Chest Loss: 3.34656. Hip Loss: 3.59191. Waist Loss: 8.31746
+Epoch: 035/050, Train Loss: 0.27676, Duration: 0.98405
+Height Loss: 4.25116. Arm Loss: 2.90752. Crotch Loss: 1.34495.
+Chest Loss: 3.31202. Hip Loss: 3.53555. Waist Loss: 8.27763
+Epoch: 036/050, Train Loss: 0.27418, Duration: 0.97846
+Height Loss: 4.19371. Arm Loss: 2.89911. Crotch Loss: 1.32273.
+Chest Loss: 3.28275. Hip Loss: 3.48181. Waist Loss: 8.23989
+Epoch: 037/050, Train Loss: 0.27173, Duration: 0.97243
+Height Loss: 4.14574. Arm Loss: 2.89270. Crotch Loss: 1.30215.
+Chest Loss: 3.25783. Hip Loss: 3.43052. Waist Loss: 8.20349
+Epoch: 038/050, Train Loss: 0.26941, Duration: 0.98237
+Height Loss: 4.10677. Arm Loss: 2.88762. Crotch Loss: 1.28295.
+Chest Loss: 3.23641. Hip Loss: 3.38146. Waist Loss: 8.16783
+Epoch: 039/050, Train Loss: 0.26724, Duration: 0.97481
+Height Loss: 4.07526. Arm Loss: 2.88291. Crotch Loss: 1.26442.
+Chest Loss: 3.21782. Hip Loss: 3.33461. Waist Loss: 8.13240
+Epoch: 040/050, Train Loss: 0.26520, Duration: 0.99590
+Height Loss: 4.04938. Arm Loss: 2.87773. Crotch Loss: 1.24590.
+Chest Loss: 3.20155. Hip Loss: 3.28992. Waist Loss: 8.09690
+Epoch: 041/050, Train Loss: 0.26326, Duration: 0.99601
+Height Loss: 4.02759. Arm Loss: 2.87166. Crotch Loss: 1.22708.
+Chest Loss: 3.18711. Hip Loss: 3.24712. Waist Loss: 8.06118
+Epoch: 042/050, Train Loss: 0.26142, Duration: 0.96959
+Height Loss: 4.00889. Arm Loss: 2.86471. Crotch Loss: 1.20810.
+Chest Loss: 3.17411. Hip Loss: 3.20605. Waist Loss: 8.02505
+Epoch: 043/050, Train Loss: 0.25967, Duration: 0.97189
+Height Loss: 3.99283. Arm Loss: 2.85716. Crotch Loss: 1.18932.
+Chest Loss: 3.16231. Hip Loss: 3.16640. Waist Loss: 7.98845
+Epoch: 044/050, Train Loss: 0.25799, Duration: 0.97805
+Height Loss: 3.97932. Arm Loss: 2.84929. Crotch Loss: 1.17118.
+Chest Loss: 3.15142. Hip Loss: 3.12777. Waist Loss: 7.95142
+Epoch: 045/050, Train Loss: 0.25638, Duration: 0.97240
+Height Loss: 3.96852. Arm Loss: 2.84133. Crotch Loss: 1.15397.
+Chest Loss: 3.14122. Hip Loss: 3.08977. Waist Loss: 7.91410
+Epoch: 046/050, Train Loss: 0.25485, Duration: 0.98380
+Height Loss: 3.96062. Arm Loss: 2.83345. Crotch Loss: 1.13795.
+Chest Loss: 3.13161. Hip Loss: 3.05210. Waist Loss: 7.87657
+Epoch: 047/050, Train Loss: 0.25338, Duration: 0.97889
+Height Loss: 3.95595. Arm Loss: 2.82584. Crotch Loss: 1.12344.
+Chest Loss: 3.12252. Hip Loss: 3.01443. Waist Loss: 7.83909
+Epoch: 048/050, Train Loss: 0.25199, Duration: 0.98269
+Height Loss: 3.95479. Arm Loss: 2.81872. Crotch Loss: 1.11078.
+Chest Loss: 3.11391. Hip Loss: 2.97659. Waist Loss: 7.80205
+Epoch: 049/050, Train Loss: 0.25065, Duration: 0.99927
+Height Loss: 3.95734. Arm Loss: 2.81231. Crotch Loss: 1.10042.
+Chest Loss: 3.10576. Hip Loss: 2.93853. Waist Loss: 7.76582
+Epoch: 050/050, Train Loss: 0.24938, Duration: 0.98495
+Height Loss: 3.96363. Arm Loss: 2.80679. Crotch Loss: 1.09280.
+Chest Loss: 3.09809. Hip Loss: 2.90050. Waist Loss: 7.73084

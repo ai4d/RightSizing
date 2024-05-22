@@ -1,0 +1,4 @@
+The mean loss for our method is 12.322
+The max loss for our method is 856.784
+The median loss for our method is 4.076
+The std loss for our method is 28.134
