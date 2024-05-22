@@ -21,7 +21,27 @@ The video is available here: (in processing...)
 `RightSizing` can be applied to many other VAE Models, or even generative model. It is not limited to CoMA, which is used in the paper. The basic recipe is like following:
 
 ```python
-In processing... 
+# we need the x to denote as the input graph
+x = data.x.to(self.device)
+
+# Feeding a batch of images into the network to obtain the output image, mu, logVar and z
+out, mu, logVar, z = self.model(x)
+z.retain_grad()
+
+# construct the canonical matrix
+# z is of shape (batch_size, latent_dim)
+
+# Now, we need to compute the attributes of the mesh
+# 0: height, 1: arm_length, 2: crotch_height, 
+# 3: chest_circumference, 4: hip_circumference, 5: waist_circumference,
+predicted_result = self.predictor(out)
+height = predicted_result[:, 0]
+
+# Compute the gradient of height w.r.t. z
+height_grad = torch.autograd.grad(height, z, grad_outputs=torch.ones(height.size()).cuda(), retain_graph=True, create_graph=True)[0]
+
+# compute the the grad loss and divide by the batch size
+height_loss = torch.sum(torch.norm(height_grad[:, 1:], dim=1, p=2)) / x.size(0)
 ```
 
 
@@ -51,8 +71,9 @@ pip install git+https://github.com/MPI-IS/mesh.git
 ```
 
 ## Acknowledgement
-In processing... 
+ This work was supported in part by the NRC AI4D program, and by an NSERC Discovery grant to Dinesh K. Pai.
 
+This paper is based on the thesis work by Yuhao Wu during his Master's program at the University of British Columbia, under the guidance and supervision of Professor Dinesh K. Pai and Professor Chang Shu. Yuhao wishes to express his sincere gratitude to both professors for their encouragement, invaluable support, and assistance throughout his research. Without their guidance, this work would not have been possible.
 
 ## Referencing our work
 Here are the Bibtex snippets for citing RightSizing in your work.
