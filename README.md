@@ -2,7 +2,7 @@
 # RightSizing: Disentangling Generative Models of Human Body Shapes with Metric Constraints
 RightSizing is a novel method for latent space disentanglement on 3D meshes that achieves interpretability, control, and strong disentanglement. It comprises two components: a learned feature function for predicting 3D mesh features, and a generative model that predicts not only the desired meshes but also their features and feature gradients. We employ feature gradients as part of the loss function to promote disentanglement.
 
-RightSizing is described in the paper ["RightSizing: Disentangling Generative Models of Human Body Shapes with Metric Constraints"](LinkInProcessing...), by Yuhao Wu, [Chang Shu](https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/chang-shu), [Dinesh K. Pai](https://sensorimotor.cs.ubc.ca/pai/).
+RightSizing is described in the paper ["RightSizing: Disentangling Generative Models of Human Body Shapes with Metric Constraints"](https://openreview.net/pdf?id=H3xJRZn1Av), by Yuhao Wu, [Chang Shu](https://nrc.canada.ca/en/corporate/contact-us/nrc-directory-science-professionals/chang-shu), [Dinesh K. Pai](https://sensorimotor.cs.ubc.ca/pai/).
 
 The video is available here: (in processing...)
 
