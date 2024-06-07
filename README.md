@@ -75,10 +75,19 @@ pip install git+https://github.com/MPI-IS/mesh.git
 
 This paper is based on the thesis work by Yuhao Wu during his Master's program at the University of British Columbia, under the guidance and supervision of Professor Dinesh K. Pai and Professor Chang Shu. Yuhao wishes to express his sincere gratitude to both professors for their encouragement, invaluable support, and assistance throughout his research. Without their guidance, this work would not have been possible.
 
+Our visualizer is based on the Élie Michel's [Python 3D Viewer](https://github.com/eliemichel/Python3dViewer). 
+
 ## Referencing our work
 Here are the Bibtex snippets for citing RightSizing in your work.
 ```
-In processing... 
+@inproceedings{
+wu2024rightsizing,
+title={RightSizing: Disentangling Generative Models of Human Body Shapes with Metric Constraints},
+author={Yuhao Wu and Chang Shu and Dinesh K. Pai},
+booktitle={Graphics Interface 2024 Second Deadline},
+year={2024},
+url={https://openreview.net/forum?id=H3xJRZn1Av}
+}
 ```
 
 
